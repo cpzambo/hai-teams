@@ -37,31 +37,34 @@ def get_model_response(question: str, image_path: str) -> str | None:
         'End your response with: "Final Answer: <your answer here>"'
     )
 
-    try:
-        completion = client.chat.completions.create(
-            model="gpt-4o-mini",
-            messages=[
-                {
-                    "role": "user",
-                    "content": [
-                        {
-                            "type": "image_url",
-                            "image_url": {
-                                "url": f"data:image/png;base64,{b64}",
-                                "detail": "high",
+    for attempt in range(5):
+        try:
+            completion = client.chat.completions.create(
+                model="gpt-4o-mini",
+                messages=[
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "image_url",
+                                "image_url": {
+                                    "url": f"data:image/png;base64,{b64}",
+                                    "detail": "high",
+                                },
                             },
-                        },
-                        {"type": "text", "text": prompt},
-                    ],
-                }
-            ],
-            temperature=0,
-            max_tokens=256,
-        )
-        return completion.choices[0].message.content.strip()
-    except Exception as e:
-        print("API error:", e)
-        return None
+                            {"type": "text", "text": prompt},
+                        ],
+                    }
+                ],
+                temperature=0,
+                max_tokens=256,
+            )
+            return completion.choices[0].message.content.strip()
+        except Exception as e:
+            wait = 2 ** attempt
+            print(f"API error (attempt {attempt+1}/5, retrying in {wait}s): {e}")
+            time.sleep(wait)
+    return None
 
 
 def extract_final_answer(model_output: str) -> str:
