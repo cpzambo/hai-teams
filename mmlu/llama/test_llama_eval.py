@@ -10,6 +10,7 @@ or:
 import unittest
 import re
 
+# ── copy functions from llama_eval.py so tests are self-contained ─────────────
 
 def extract_final_answer(model_output):
     match = re.search(r"Final Answer:\s*(.*)", model_output, re.IGNORECASE)

@@ -1,0 +1,251 @@
+qid,lang,category,question_type,scenario,subject,label,answer,model_response,score
+51,en,Social-Others,Action,"Lee's workmate fails to deliver an important piece of information on time, causing Lee to fall behind schedule as well.",Lee,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+52,en,Social-Others,Action,Alexa and Connie have shared an office for years but Alexa gets a new job and Connie loses contact with her,Connie,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+53,en,Social-Others,Action,"Alan helps Trudy, a peer he works with occasionally, with a difficult task. Trudy complains that Alan's work isn't very good, and Alan responds that Trudy should be grateful he is doing her a favor. They argue.",Alan,D,C,"```json
+{
+    ""answer"": ""C""
+}
+```",0
+54,en,Social-Others,Action,Helga's team has been performing very well. They receive poor-quality work from another team that they must incorporate into their own project.,Helga,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+55,en,Social-Others,Action,"Mike has been working at a new part-time job while he studies. His boss changed his shift times for the week at the last minute, without asking him in advance.",Mike,B,C,"```json
+{
+    ""answer"": ""C""
+}
+```",0
+56,en,Social-Others,Action,"Caroline found a restaurant online that had become famous for its rude customer service. She decided to go there for dinner. Once she sat down, instead of greeting, she was cursed by the waitress with many profanities.",Caroline,C,B,"```json
+{
+    ""answer"": ""B""
+}
+```",0
+57,en,Social-Others,Action,"Marcus's colleague is constantly making personal calls at work, disregarding how it affects the work environment.",Marcus,C,B,"```json
+{
+    ""answer"": ""B""
+}
+```",0
+58,en,Social-Others,Action,"Tonya's boss has been treating her unfairly and making her work life miserable. Despite multiple discussions with human resources, the situation doesn't seem to improve.",Tonya,C,D,"```json
+{
+    ""answer"": ""D""
+}
+```",0
+59,en,Social-Others,Action,Harper's colleague has been crying in the office and has been pushing others away when they try to approach her.,Harper,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+60,en,Social-Others,Action,"Kevin, an office manager, notices workplace tension because two of his team members were in a heated altercation yesterday and haven't spoken to each other since.",Kevin,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+61,en,Social-Others,Action,"Neil's new classmate appears to be struggling with English assignments due to English being his second language, and often seems left out during group projects.",Neil,A,A,"```json
+{
+    ""answer"": ""A""
+}
+```",1
+62,en,Social-Others,Action,Laura's team member disclosed to her in confidence that she is dealing with a personal crisis and struggles to focus on work. This is affecting the entire team's work efficiency.,Laura,A,A,"```json
+{
+    ""answer"": ""A""
+}
+```",1
+63,en,Social-Others,Action,"Trevor's colleague always jokes about his heavy workloads and lack of sleep, but Trevor could see it was starting to affect his performance and health.",Trevor,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+64,en,Social-Others,Action,Hannah's classmates always interrupts others to ask questions in class and makes fun of them.,Hannah,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+65,en,Social-Others,Action,Jessica's colleague is consistently taking credit for her ideas during team meetings.,Jessica,A,A,"```json
+{
+    ""answer"": ""A""
+}
+```",1
+66,en,Social-Others,Action,"Max prided himself on his work being of the highest quality, and Max was warm-hearted. On a joint project with another team, his new teammates did a terrible job, thinking Max would fix their mistakes.",Max,D,C,"```json
+{
+    ""answer"": ""C""
+}
+```",0
+67,en,Social-Others,Action,A junior employee making routine adjustments to some of Theo's equipment accuses him of causing the equipment malfunction.,Theo,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+68,en,Social-Others,Action,The woman who relieves Celia at the end of her shift is twenty minutes late without excuse or apology,Celia,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+69,en,Social-Others,Action,Jason finds out that some members of his social sports team have been saying that he is not a very good player.,Jason,C,D,"```json
+{
+    ""answer"": ""D""
+}
+```",0
+70,en,Social-Others,Action,Joel has always dealt with one particular client but on a very complex job his boss gives the task to a co-worker instead. Joel wonders whether his boss thinks he can't handle the important jobs.,Joel,B,A,"```json
+{
+    ""answer"": ""A""
+}
+```",0
+71,en,Social-Others,Action,"A demanding client takes up a lot of Jill's time and then asks to speak to Jill's boss about her performance. Jill's boss assures her that her performance is fine, which Jill does not trust.",Jill,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+72,en,Social-Others,Action,"Blair and Flynn usually go to a cafe after the working week and chat about what's going on in the company. After Blair's job is moved to a different section in the company, he stops coming to the cafe. Flynn misses these Friday talks.",Flynn,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+73,en,Social-Others,Action,Hannah's access to essential resources has been delayed by her coworkers and her work is way behind schedule. Her progress report makes no mention of the lack of resources.,Hannah,C,A,"```json
+{
+    ""answer"": ""A""
+}
+```",0
+74,en,Social-Others,Action,"Janice is given an official warning for entering a restricted area. She was never informed that the area was restricted and would lose her job if she got two more warnings, which she thinks is unfair.",Janice,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+75,en,Social-Others,Action,"In a group project, Joseph found that one of her teammates is not contributing as much as everyone else, causing delays in the submission of the project.",Joseph,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+76,en,Social-Others,Response,Leo's colleague approaches him and tells him that he made a mistake in a report that will significantly impact the project timeline.,Leo,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+77,en,Social-Others,Response,Mia's colleague shared during lunch break that her work performance is decreasing due to her personal problems at home.,Mia,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+78,en,Social-Others,Response,Kayla's co-workers are upset because she's been told her performance doesn't meet the company expectations and she's about to be fired.,Kayla,A,C,"```json
+{
+    ""answer"": ""C""
+}
+```",0
+79,en,Social-Others,Response,Kira's teammate admitted to her that she intentionally missed the competition because she wanted to give the chance to another player.,Kira,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+80,en,Social-Others,Response,Max's colleague arrived late for a team meeting and forgot to bring the crucial documents necessary for the discussion.,Max,D,D,"```json
+    {
+    ""answer"": ""D""
+    }
+```",1
+81,en,Social-Others,Response,Diana's coworker confides in her that she is having difficulties dealing with the constant criticism from their boss.,Diana,B,C,"```json
+{
+    ""answer"": ""C""
+}
+```",0
+82,en,Social-Others,Response,"Hours before the final exam, Arista's classmate reveals to her that she is struggling with the course material and is worried about failing the class.",Arista,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+83,en,Social-Others,Response,"Jerry's colleague, Peter, expressed his frustration to him after one of Peter's team members openly criticized his idea for the new company project.",Jerry,D,C,"```json
+{
+    ""answer"": ""C""
+}
+```",0
+84,en,Social-Others,Response,Maria's classmate confessed to her during lunch break that he had been cheating on tests because he couldn't understand what was being said in class.,Maria,C,B,"```json
+{
+    ""answer"": ""B""
+}
+```",0
+85,en,Social-Others,Response,Lauren's classmate has been skipping classes and feels like he can't keep up with the assignment work. He is asking Lauren for help.,Lauren,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+86,en,Social-Others,Response,"Simon's colleague is constantly missing deadlines, causing a stressful work environment, and pushing her tasks onto others.",Simon,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+87,en,Social-Others,Response,Hailey's teammate was feeling out of place as he was the only person of a certain ethnic background on her team.,Hailey,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+88,en,Social-Others,Response,My boss told me that he has a painful stomachache after our lunch meeting today.,I,C,D,"```json
+{
+    ""answer"": ""D""
+}
+```",0
+89,en,Social-Others,Response,"At a company meeting, Sally got into an argument with a female coworker over a comment she made about her idea. After the meeting, she approached Sally and told her that her comments had been misinterpreted.",Sally,A,A,"```json
+{
+    ""answer"": ""A""
+}
+```",1
+90,en,Social-Others,Response,"Antoine had noticed some things going on between his coworker and their boss. When asked, he found out that she has feelings for him, but he is married.",Antoine,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+91,en,Social-Others,Response,Sia's coworker burst into tears in the middle of a presentation meeting due to her public speaking phobia.,Sia,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+92,en,Social-Others,Response,My old neighbor invited me over for dinner tonight and we got to know each other better. She told me that she has been struggling with loneliness since her children moved out.,I,B,C,"```json
+{
+    ""answer"": ""C""
+}
+```",0
+93,en,Social-Others,Response,"One of Erin's classmates is thought to be extremely introverted. Today, he approached Erin and told her he feels left out because no one invites him to hang out after school.",Erin,A,A,"```json
+{
+    ""answer"": ""A""
+}
+```",1
+94,en,Social-Others,Response,Cyrus' coworkers complained to him endlessly about their low wages and their boss's management style.,Cyrus,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+95,en,Social-Others,Response,Yasmin and her colleague were having lunch together when she disclosed to Yasmin that her mother recently passed away.,Yasmin,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+96,en,Social-Others,Response,Laurel and I work at a competitive sales company. She just shared with me that she didn't meet her sales target this month.,Laurel,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+97,en,Social-Others,Response,"Andy's classmate, Kyle, seemed devasted. When Andy asked him about it, he said the essay he had been working on for weeks was accidentally deleted.",Andy,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+98,en,Social-Others,Response,"My coworker was really upset at work today. When I asked, he said its because he found out his wife is cheating on him.",I,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+99,en,Social-Others,Response,Jaden's classmate started crying because she failed a test she studied very hard for. Jaden passed the test with a high mark.,Jaden,D,B,"```json
+{
+    ""answer"": ""B""
+}
+```",0
+100,en,Social-Others,Response,My coworker shared that he was being let go by the company due to the recent economy. He feels stressed and doesn't know what to do next.,I,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
