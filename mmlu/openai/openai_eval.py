@@ -4,7 +4,6 @@ import re
 from dotenv import load_dotenv
 import os
 import json
-import time
 
 # load in the api key and set up the client
 load_dotenv()
