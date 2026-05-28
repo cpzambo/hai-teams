@@ -34,7 +34,7 @@ So, the number of grey objects remaining = Total grey objects - Number of grey n
 
 Therefore, after removing all the notebooks, there are 3 grey cat toys remaining on the floor.
 
-Final Answer: (D) three",1
+Final Answer: (D) three",0
 "On the desk, you see a set of things arranged in a row: a grey cup, a purple mug, and a blue teddy bear. What is the color of the thing directly to the right of the cup?
 Options:
 (A) red
@@ -321,7 +321,7 @@ Options:
 
 Therefore, the answer to the question ""Is the mug grey?"" is ""no"" because the mug is magenta.
 
-Final Answer: B",1
+Final Answer: B",0
 "On the floor, you see a bunch of things arranged in a row: a blue envelope, an orange mug, and a grey pen. What is the color of the thing furthest from the grey thing?
 Options:
 (A) red
@@ -566,7 +566,7 @@ The question asks how many mugs remain on the desk. We were initially given that
 
 Therefore, the number of mugs remaining on the desk is 3.
 
-Final Answer: (D) three",1
+Final Answer: (D) three",0
 "On the table, there are two yellow pairs of sunglasses, two red pairs of sunglasses, three red scrunchiephone chargers, three grey scrunchiephone chargers, one yellow keychain, two grey pairs of sunglasses, and one red keychain. If I remove all the keychains from the table, how many yellow things remain on it?
 Options:
 (A) zero
@@ -598,7 +598,7 @@ After removing the keychains, the number of yellow items remaining is the number
 
 Therefore, the number of yellow things remaining on the table is 2.
 
-Final Answer: (C) two",1
+Final Answer: (C) two",0
 "On the table, I see a turquoise cup, a burgundy plate, a red fidget spinner, a silver pen, a yellow pair of sunglasses, and a magenta jug. What color is the pen?
 Options:
 (A) red
@@ -767,7 +767,7 @@ The question asks how many scrunchiephone chargers remain on the table. Since th
 
 The number of scrunchiephone chargers remaining is the number of pink scrunchiephone chargers because the black scrunchiephone chargers were removed. Therefore, there are three pink scrunchiephone chargers remaining.
 
-Final Answer: (D) three",1
+Final Answer: (D) three",0
 "On the nightstand, there are three brown dog leashes, one silver dog leash, two brown puzzles, one silver keychain, and three silver crayons. If I remove all the keychains from the nightstand, how many silver items remain on it?
 Options:
 (A) zero
@@ -808,7 +808,7 @@ Therefore, the number of silver items remaining is 5 - 1 = 4.
 
 Thus, after removing all the keychains, there are 4 silver items remaining on the nightstand.
 
-Final Answer: (E) four",1
+Final Answer: (E) four",0
 "On the nightstand, there is a black necklace, a green fidget spinner, a blue keychain, a yellow sheet of paper, and a red stress ball. How many objects are neither yellow nor green?
 Options:
 (A) zero
@@ -834,7 +834,7 @@ So, we have:
 
 Therefore, the objects that are neither yellow nor green are the black necklace, the blue keychain, and the red stress ball. That makes 3 objects.
 
-Final Answer: (D) three",1
+Final Answer: (D) three",0
 "On the desk, you see the following objects arranged in a row: a burgundy necklace, a turquoise cup, a black mug, a teal textbook, and a purple jug. How many non-purple objects do you see to the left of the textbook?
 Options:
 (A) zero
@@ -1289,7 +1289,7 @@ Options:
 
 Therefore, based on the information provided, the answer to whether the paperclip is fuchsia is ""no"" because it is described as green.
 
-Final Answer: B",1
+Final Answer: B",0
 "On the nightstand, you see the following things arranged in a row: a silver dog leash, a mauve bracelet, a pink textbook, and a fuchsia pencil. What is the color of the right-most thing?
 Options:
 (A) red
@@ -1363,7 +1363,7 @@ Options:
 
 5. **Conclusion**: After removing the teal dog leash, the number of green paperclips remains unchanged because the action of removing the teal item(s) does not affect the green items. Therefore, there are still three green paperclips on the table.
 
-Final Answer: (D) three",1
+Final Answer: (D) three",0
 "On the desk, there is a turquoise pencil, a blue pen, a mauve sheet of paper, a grey paperclip, and a pink textbook. What color is the sheet of paper?
 Options:
 (A) red
@@ -1466,7 +1466,7 @@ Options:
 
 Therefore, after removing all the orange items from the nightstand, there are still 2 teddy bears on it.
 
-Final Answer: (C) two",1
+Final Answer: (C) two",0
 "On the floor, you see the following items arranged in a row: an orange scrunchiephone charger, a pink pencil, a green booklet, a brown mug, and a purple paperclip. What is the color of the item directly to the right of the scrunchiephone charger?
 Options:
 (A) red
@@ -1677,7 +1677,7 @@ Options:
 
 Out of the five items, the following are neither red nor brown: the yellow keychain, the orange fidget spinner, the purple pen, and the blue bracelet. That makes four items.
 
-Final Answer: (E) four",1
+Final Answer: (E) four",0
 "On the floor, you see one yellow plate, three turquoise plates, three turquoise textbooks, two yellow textbooks, one burgundy plate, and three burgundy textbooks. If I remove all the plates from the floor, how many yellow items remain on it?
 Options:
 (A) zero
@@ -1712,7 +1712,7 @@ Removing all these plates means we are removing the one yellow plate. The number
 
 Therefore, after removing all the plates, the number of yellow items remaining is the number of yellow textbooks, which is 2.
 
-Final Answer: (C) two",1
+Final Answer: (C) two",0
 "On the desk, there is a purple pen, a blue bracelet, a red cat toy, a green plate, and a yellow envelope. How many items are neither orange nor brown?
 Options:
 (A) zero
@@ -1733,7 +1733,7 @@ Since none of the items are orange or brown, we count all of them. There are 5 i
 
 Therefore, the number of items that are neither orange nor brown is 5.
 
-Final Answer: F",1
+Final Answer: F",0
 "On the desk, you see the following items arranged in a row: a green plate, a fuchsia teddy bear, a brown scrunchiephone charger, a gold crayon, a burgundy necklace, and a turquoise sheet of paper. What is the color of the item furthest from the turquoise item?
 Options:
 (A) red
@@ -1779,7 +1779,7 @@ Since the teddy bear is described as ""pink,"" we can conclude that it is not or
 
 Therefore, the answer to the question ""Is the teddy bear orange?"" is ""no"" because the teddy bear is pink.
 
-Final Answer: B",1
+Final Answer: B",0
 "On the desk, you see a bunch of items arranged in a row: a purple puzzle, a black envelope, and a blue textbook. What is the color of the item furthest from the puzzle?
 Options:
 (A) red
@@ -1840,7 +1840,7 @@ Given this information, we can directly conclude that the bracelet is indeed tur
 
 Therefore, the answer to the question ""Is the bracelet turquoise?"" is affirmative.
 
-Final Answer: (A) yes",1
+Final Answer: (A) yes",0
 "On the floor, there is a purple pencil, a green cat toy, and a mauve booklet. Is the booklet mauve?
 Options:
 (A) yes
@@ -1851,7 +1851,7 @@ Options:
 
 Since the information directly describes the booklet as ""mauve,"" we can conclude that the booklet is indeed mauve.
 
-Final Answer: (A) yes",1
+Final Answer: (A) yes",0
 "On the table, you see a set of items arranged in a row: a gold mug, a teal paperclip, a blue plate, and an orange notebook. What is the color of the left-most item?
 Options:
 (A) red
@@ -1947,7 +1947,7 @@ The remaining mugs are the 2 brown mugs and 1 fuchsia mug.
 
 Therefore, the number of mugs remaining on the desk is 3.
 
-Final Answer: (D) three",1
+Final Answer: (D) three",0
 "On the floor, you see a bunch of objects arranged in a row: a silver jug, a yellow scrunchiephone charger, a red plate, a purple fidget spinner, a fuchsia cup, and a pink pen. What is the color of the object furthest from the fidget spinner?
 Options:
 (A) red
@@ -2130,7 +2130,7 @@ So, we count the items that are not yellow or black:
 
 There are 4 items that are neither yellow nor black.
 
-Final Answer: (E) four",1
+Final Answer: (E) four",0
 "On the floor, you see a bunch of things arranged in a row: a red keychain, a blue pencil, and a purple plate. What is the color of the right-most thing?
 Options:
 (A) red
@@ -2418,7 +2418,7 @@ Final Answer: (A) or (N) would both be potentially correct based on the direct c
 
 For the sake of providing a ""Final Answer"" as requested and assuming a simple arrangement where the order is as given or similar: gold pencil, red jug, grey bracelet, mauve leash, the color to the left of grey (bracelet) would be red.
 
-Final Answer: (A)",1
+Final Answer: (A)",0
 "On the table, you see a set of items arranged in a row: a red cup, a turquoise scrunchiephone charger, a yellow dog leash, a blue pair of sunglasses, and a green stress ball. How many non-turquoise items do you see to the left of the yellow item?
 Options:
 (A) zero
@@ -2729,7 +2729,7 @@ Therefore, after removing the teddy bear, there are still 4 green items on the n
 
 The correct count of green items is: 3 (green crayons) + 1 (green envelope) = 4.
 
-Final Answer: (E) four",1
+Final Answer: (E) four",0
 "On the nightstand, there are two green sheets of paper, two mauve cat toys, two green cat toys, and three mauve sheets of paper. If I remove all the cat toys from the nightstand, how many mauve things remain on it?
 Options:
 (A) zero
@@ -2763,7 +2763,7 @@ After removal:
 
 Therefore, the number of mauve things remaining is 3.
 
-Final Answer: (D) three",1
+Final Answer: (D) three",0
 "On the desk, you see a bunch of items arranged in a row: a gold textbook, a purple puzzle, a teal necklace, and a silver pencil. How many non-gold items do you see to the right of the pencil?
 Options:
 (A) zero
@@ -2784,7 +2784,7 @@ Options:
 
 Therefore, regardless of the color or type of items, since the pencil is at the far right, there are no items to its right.
 
-Final Answer: (A) zero",1
+Final Answer: (A) zero",0
 "On the desk, you see a set of things arranged in a row: a yellow mug, a turquoise notebook, a black crayon, a brown pair of sunglasses, and a gold paperclip. What is the color of the thing directly to the left of the pair of sunglasses?
 Options:
 (A) red
@@ -2851,7 +2851,7 @@ Given that the cup is described as ""red,"" we can directly infer that the cup i
 
 Therefore, based on the information provided, the cup is red.
 
-Final Answer: (A) yes",1
+Final Answer: (A) yes",0
 "On the floor, I see a blue fidget spinner, a purple teddy bear, a yellow sheet of paper, a green crayon, and a pink notebook. What color is the teddy bear?
 Options:
 (A) red
@@ -2925,7 +2925,7 @@ Now, let's count the items that are neither black nor green:
 
 There are 4 items that are neither black nor green.
 
-Final Answer: (E) four",1
+Final Answer: (E) four",0
 "On the floor, you see three yellow pairs of sunglasses, one silver plate, three yellow cat toys, and two yellow envelopes. If I remove all the envelopes from the floor, how many yellow items remain on it?
 Options:
 (A) zero
@@ -3000,7 +3000,7 @@ Options:
 
 6. **Choose the correct answer based on the number of booklets remaining**: Since there are no booklets left, the number of booklets remaining is zero.
 
-Final Answer: (A) zero",1
+Final Answer: (A) zero",0
 "On the nightstand, you see three burgundy pencils, three magenta pencils, and three magenta jugs. If I remove all the jugs from the nightstand, how many fuchsia things remain on it?
 Options:
 (A) zero
@@ -3294,7 +3294,7 @@ Options:
 
 Since the statement directly describes the pen as ""magenta,"" we can conclude that the pen is indeed magenta.
 
-Final Answer: (A) yes",1
+Final Answer: (A) yes",0
 "On the desk, you see a bunch of things arranged in a row: a pink jug, a turquoise sheet of paper, a magenta pen, and a burgundy stress ball. What is the color of the left-most thing?
 Options:
 (A) red
@@ -3335,7 +3335,7 @@ Upon reviewing the options, we see that (R) corresponds to ""pink.""
 ## Step 7: Conclude the answer
 Since ""pink"" is the color of the left-most item, and ""pink"" is listed as option (R), the correct answer is (R).
 
-Final Answer: R",1
+Final Answer: R",0
 "On the desk, there is one blue jug, two burgundy necklaces, one blue necklace, three blue keychains, three blue teddy bears, and two burgundy jugs. If I remove all the burgundy items from the desk, how many necklaces remain on it?
 Options:
 (A) zero
@@ -3586,7 +3586,7 @@ Options:
 
 Therefore, after removing the two grey dog leashes, there are still three teal bracelets on the table.
 
-Final Answer: (D) three",1
+Final Answer: (D) three",0
 "On the table, you see a bunch of objects arranged in a row: a mauve keychain, a silver puzzle, a brown bracelet, a red booklet, a turquoise scrunchiephone charger, and a burgundy necklace. What is the color of the object directly to the left of the turquoise object?
 Options:
 (A) red
@@ -3740,7 +3740,7 @@ So, we have:
 
 There are three objects that are neither purple nor blue: the yellow notebook, the red keychain, and the orange pencil.
 
-Final Answer: (D) three",1
+Final Answer: (D) three",0
 "On the table, you see a bunch of items arranged in a row: a purple dog leash, a silver pencil, and a black bracelet. What is the color of the item furthest from the dog leash?
 Options:
 (A) red
@@ -3799,7 +3799,7 @@ Since the question does not specify the exact order and both (M) silver and (O) 
 
 The correct color should be either silver or black based on the items given.
 
-Final Answer: (O) black",1
+Final Answer: (O) black",0
 "On the desk, you see three silver pairs of sunglasses, two teal envelopes, three pink pairs of sunglasses, one silver envelope, two pink envelopes, three teal pairs of sunglasses, two teal scrunchiephone chargers, and three pink scrunchiephone chargers. If I remove all the envelopes from the desk, how many pink items remain on it?
 Options:
 (A) zero
@@ -4067,7 +4067,7 @@ Given that the dog leash is purple and at one end, the furthest item could be ei
 
 Turquoise is directly listed as an option.
 
-Final Answer: K",1
+Final Answer: K",0
 "On the table, you see the following things arranged in a row: a silver paperclip, an orange keychain, a magenta envelope, a fuchsia stress ball, and a grey pen. How many non-orange things do you see to the left of the grey thing?
 Options:
 (A) zero
@@ -4327,7 +4327,7 @@ The options are:
 
 The color ""brown"" is directly listed as option (F).
 
-Final Answer: F",1
+Final Answer: F",0
 "On the table, you see several things arranged in a row: a blue pair of sunglasses, a turquoise bracelet, a black teddy bear, a purple mug, a gold scrunchiephone charger, and an orange textbook. How many non-black things do you see to the left of the textbook?
 Options:
 (A) zero
@@ -4362,7 +4362,7 @@ The orange textbook is the last item, so we count the non-black items before it:
 
 There are 4 non-black items to the left of the orange textbook.
 
-Final Answer: (E) four",1
+Final Answer: (E) four",0
 "On the nightstand, you see a blue booklet, a brown necklace, a green cat toy, a burgundy cup, an orange keychain, and a magenta textbook. What color is the cat toy?
 Options:
 (A) red
@@ -4504,7 +4504,7 @@ Options:
 
 Since the textbook is described as ""brown"" and not ""gold,"" we can conclude that the textbook is not gold.
 
-Final Answer: B",1
+Final Answer: B",0
 "On the desk, I see three grey stress balls, two purple stress balls, three fuchsia pencils, one purple sheet of paper, one fuchsia stress ball, two grey pencils, and two purple pencils. If I remove all the fuchsia items from the desk, how many sheets of paper remain on it?
 Options:
 (A) zero
@@ -4590,7 +4590,7 @@ Options:
 
 Since the statement directly describes the jug as ""mauve,"" we can conclude that the jug is indeed mauve based on the given information.
 
-Final Answer: A",1
+Final Answer: A",0
 "On the table, you see the following items arranged in a row: a brown crayon, a blue mug, a black dog leash, a mauve stress ball, and a silver textbook. What is the color of the left-most item?
 Options:
 (A) red
@@ -4640,7 +4640,7 @@ Upon reviewing the options:
 
 Option (F) is ""brown,"" which matches the color of the left-most item.
 
-Final Answer: F",1
+Final Answer: F",0
 "On the table, you see two burgundy mugs, one burgundy keychain, two gold keychains, two burgundy notebooks, one gold pencil, and one gold notebook. If I remove all the gold objects from the table, how many notebooks remain on it?
 Options:
 (A) zero
@@ -4685,7 +4685,7 @@ After removing all the gold objects, the number of notebooks that remain is the 
 
 Therefore, the number of notebooks remaining = 2.
 
-Final Answer: (C) two",1
+Final Answer: (C) two",0
 "On the floor, I see two magenta scrunchiephone chargers, one gold fidget spinner, three gold booklets, three silver scrunchiephone chargers, two silver booklets, and two magenta booklets. If I remove all the magenta items from the floor, how many scrunchiephone chargers remain on it?
 Options:
 (A) zero
@@ -4718,7 +4718,7 @@ Therefore, the number of scrunchiephone chargers remaining on the floor will be 
 
 Thus, after removing all the magenta items, there are 3 scrunchiephone chargers remaining on the floor.
 
-Final Answer: (D) three",1
+Final Answer: (D) three",0
 "On the table, you see the following objects arranged in a row: a brown jug, a blue notebook, and a purple paperclip. What is the color of the object furthest from the purple object?
 Options:
 (A) red
@@ -5344,7 +5344,7 @@ Options:
 
 Therefore, the number of black objects remaining on the nightstand is zero.
 
-Final Answer: (A) zero",1
+Final Answer: (A) zero",0
 "On the desk, I see a black notebook, a pink pen, a burgundy pair of sunglasses, a gold crayon, and a green keychain. Is the crayon turquoise?
 Options:
 (A) yes
@@ -5356,7 +5356,7 @@ Options:
 
 Since ""gold"" and ""turquoise"" are different colors, and the crayon is described as gold, it is not turquoise.
 
-Final Answer: B",1
+Final Answer: B",0
 "On the desk, you see a set of objects arranged in a row: a pink teddy bear, a turquoise textbook, a gold pencil, a grey envelope, and a burgundy sheet of paper. What is the color of the object furthest from the sheet of paper?
 Options:
 (A) red
@@ -5394,7 +5394,7 @@ The color of the pink teddy bear is pink.
 ## Step 6: Match the color to the given options.
 The color ""pink"" is associated with option (R).
 
-The final answer is: Final Answer: R",1
+The final answer is: Final Answer: R",0
 "On the nightstand, you see a yellow mug, a pink pair of sunglasses, a blue pencil, a green crayon, and a purple puzzle. Is the pair of sunglasses silver?
 Options:
 (A) yes
@@ -5407,7 +5407,7 @@ Since the pair of sunglasses is described as pink, it cannot be silver because "
 
 Therefore, the answer to the question ""Is the pair of sunglasses silver?"" is ""no"" because it is described as being pink.
 
-Final Answer: B",1
+Final Answer: B",0
 "On the floor, you see a bunch of objects arranged in a row: a teal plate, a black mug, a brown stress ball, and a pink dog leash. How many non-magenta objects do you see to the right of the brown object?
 Options:
 (A) zero
@@ -5499,7 +5499,7 @@ The key piece of information here is ""a grey envelope."" This directly tells us
 
 Therefore, based on the information given, the envelope is indeed grey.
 
-Final Answer: (A) yes",1
+Final Answer: (A) yes",0
 "On the table, I see a blue pair of sunglasses and a silver keychain. Is the pair of sunglasses green?
 Options:
 (A) yes
@@ -5514,7 +5514,7 @@ Since ""blue"" and ""green"" are different colors, and the sunglasses are specif
 
 Therefore, the answer to the question ""Is the pair of sunglasses green?"" is ""no"" because the sunglasses are described as blue.
 
-Final Answer: B",1
+Final Answer: B",0
 "On the desk, you see the following things arranged in a row: a blue pen, a burgundy notebook, and a pink stress ball. How many non-brown things do you see to the left of the burgundy thing?
 Options:
 (A) zero
@@ -5610,7 +5610,7 @@ Options:
 
 Therefore, after removing all the silver items from the desk, there are 3 mugs remaining on it.
 
-Final Answer: (D) three",1
+Final Answer: (D) three",0
 "On the floor, there is one gold pen, one green pen, and two green pencils. If I remove all the pencils from the floor, how many gold items remain on it?
 Options:
 (A) zero
@@ -5777,7 +5777,7 @@ Total green objects after removal = Total green objects - Number of green fidget
 
 Therefore, after removing all the fidget spinners, there are 6 green objects remaining on the table.
 
-Final Answer: (G) six",1
+Final Answer: (G) six",0
 "On the desk, there are three orange puzzles, three orange dog leashes, one orange envelope, one silver puzzle, three silver fidget spinners, two green fidget spinners, three silver dog leashes, one red envelope, one red dog leash, one green dog leash, two silver envelopes, one green envelope, two green puzzles, and one red puzzle. If I remove all the silver items from the desk, how many dog leashes remain on it?
 Options:
 (A) zero
@@ -5806,7 +5806,7 @@ Options:
 
 Therefore, after removing all the silver items (including the silver dog leashes) from the desk, there are 5 dog leashes remaining on it.
 
-Final Answer: (F) five",1
+Final Answer: (F) five",0
 "On the desk, I see a purple necklace, a gold scrunchiephone charger, and a red stress ball. Is the stress ball red?
 Options:
 (A) yes
@@ -5817,7 +5817,7 @@ Options:
 
 Based on the information provided, the stress ball is indeed described as being red. Therefore, the answer to the question ""Is the stress ball red?"" is affirmative.
 
-Final Answer: (A) yes",1
+Final Answer: (A) yes",0
 "On the floor, you see a set of objects arranged in a row: a teal teddy bear, a brown jug, and a purple pencil. What is the color of the object directly to the left of the jug?
 Options:
 (A) red
@@ -5899,7 +5899,7 @@ Options:
 
 Therefore, after removing all the scrunchiephone chargers, there are still three orange textbooks on the floor.
 
-Final Answer: (D) three",1
+Final Answer: (D) three",0
 "On the table, I see three black stress balls, one orange stress ball, two purple keychains, one black dog leash, one orange keychain, three orange cat toys, one black keychain, and one purple stress ball. If I remove all the cat toys from the table, how many orange items remain on it?
 Options:
 (A) zero
@@ -5976,7 +5976,7 @@ After removing all the plates, the number of silver plates left is 0 (since all 
 
 Therefore, the total number of silver objects remaining on the table is the number of silver necklaces, which is 3.
 
-Final Answer: (D) three",1
+Final Answer: (D) three",0
 "On the nightstand, you see several things arranged in a row: a pink bracelet, a green cup, a silver jug, a mauve pen, and a purple puzzle. What is the color of the thing furthest from the bracelet?
 Options:
 (A) red
@@ -6046,7 +6046,7 @@ The key phrase here is ""a yellow cat toy."" This directly describes the color o
 
 Therefore, based on the information given, the cat toy is indeed yellow.
 
-Final Answer: (A) yes",1
+Final Answer: (A) yes",0
 "On the floor, you see a purple fidget spinner, a red pencil, a green crayon, a pink paperclip, and a teal scrunchiephone charger. Is the scrunchiephone charger grey?
 Options:
 (A) yes
@@ -6097,7 +6097,7 @@ The task is to remove the gold bracelets. Removing the gold bracelets does not a
 
 Therefore, after removing the 2 gold bracelets, the number of brown items remains the same, which is 5.
 
-Final Answer: (F) five",1
+Final Answer: (F) five",0
 "On the floor, you see a set of things arranged in a row: a black jug, a green dog leash, a turquoise sheet of paper, a burgundy puzzle, and a pink necklace. What is the color of the thing directly to the right of the burgundy thing?
 Options:
 (A) red
@@ -6275,7 +6275,7 @@ So, all three items (the brown mug, the green scrunchiephone charger, and the ye
 
 Therefore, the count of items that are neither purple nor black is 3.
 
-Final Answer: (D) three",1
+Final Answer: (D) three",0
 "On the nightstand, I see a brown cat toy and a green bracelet. How many things are neither green nor brown?
 Options:
 (A) zero
@@ -6521,7 +6521,7 @@ After removing the blue puzzles, the number of puzzles remaining = Total number 
 
 Therefore, after removing all the blue items from the desk, there are 4 puzzles remaining on it.
 
-Final Answer: (E) four",1
+Final Answer: (E) four",0
 "On the desk, you see a turquoise teddy bear, a teal notebook, and a silver textbook. What color is the textbook?
 Options:
 (A) red
@@ -6584,7 +6584,7 @@ Given that the dog leash is fuchsia and not described as being teal or turquoise
 
 Therefore, the answer to whether the dog leash is turquoise is ""no"" because it is described as fuchsia, which is a different color from turquoise.
 
-Final Answer: B",1
+Final Answer: B",0
 "On the table, you see several objects arranged in a row: a mauve textbook, a black fidget spinner, and a magenta cat toy. How many non-mauve objects do you see to the left of the magenta object?
 Options:
 (A) zero
@@ -6669,7 +6669,7 @@ Options:
    - Black envelope is not purple (counts as 4).
 5. Therefore, there are 4 non-purple things to the right of the grey pen.
 
-Final Answer: (E) four",1
+Final Answer: (E) four",0
 "On the desk, you see a set of objects arranged in a row: a grey pair of sunglasses, a mauve teddy bear, and an orange notebook. How many non-brown objects do you see to the right of the mauve object?
 Options:
 (A) zero
@@ -7079,7 +7079,7 @@ Turquoise is (K), and burgundy is (L). Turquoise is closest to teal among the gi
 ## Step 12: Choose the most appropriate answer based on the available options and the analysis.
 Given that turquoise is directly listed as an option (K), and it's a possible color to the left of gold, this is a valid answer. Burgundy is also directly listed as (L).
 
-The Final Answer: K",1
+The Final Answer: K",0
 "On the table, you see the following objects arranged in a row: a grey puzzle, a gold pencil, and a yellow teddy bear. What is the color of the object directly to the right of the gold object?
 Options:
 (A) red
@@ -7239,7 +7239,7 @@ Options:
 
 Therefore, based on the information provided, the paperclip is indeed grey.
 
-Final Answer: A",1
+Final Answer: A",0
 "On the desk, there are two turquoise fidget spinners, one red pair of sunglasses, three purple fidget spinners, and three turquoise pairs of sunglasses. If I remove all the turquoise things from the desk, how many pairs of sunglasses remain on it?
 Options:
 (A) zero
@@ -7424,7 +7424,7 @@ Options:
 
 Therefore, the bracelet is not fuchsia.
 
-Final Answer: B",1
+Final Answer: B",0
 "On the nightstand, you see a bunch of objects arranged in a row: a teal puzzle, a yellow cat toy, a blue fidget spinner, an orange notebook, and a pink envelope. What is the color of the right-most object?
 Options:
 (A) red
@@ -7494,7 +7494,7 @@ Options:
 
 Therefore, after removing all the fuchsia objects, there are 4 envelopes remaining on the floor.
 
-Final Answer: (E) four",1
+Final Answer: (E) four",0
 "On the desk, you see several things arranged in a row: a silver plate, a burgundy textbook, a pink puzzle, and a green scrunchiephone charger. What is the color of the thing furthest from the plate?
 Options:
 (A) red
@@ -7660,7 +7660,7 @@ So, the total number of mauve objects remaining is 2 (textbooks) + 3 (paperclips
 
 Thus, the number of mauve objects that remain on the floor is 5.
 
-Final Answer: (F) five",1
+Final Answer: (F) five",0
 "On the nightstand, I see a purple necklace, a black plate, and a blue puzzle. How many objects are neither black nor purple?
 Options:
 (A) zero
@@ -7920,7 +7920,7 @@ Given this information, we can directly conclude that the booklet is indeed fuch
 
 Therefore, the answer to the question ""Is the booklet fuchsia?"" is affirmative.
 
-Final Answer: A",1
+Final Answer: A",0
 "On the table, I see a burgundy dog leash, a red crayon, a yellow sheet of paper, and a green keychain. What color is the keychain?
 Options:
 (A) red
@@ -8052,7 +8052,7 @@ Options:
 
 Therefore, based on the information provided, the booklet is indeed red.
 
-Final Answer: (A) yes",1
+Final Answer: (A) yes",0
 "On the nightstand, I see an orange stress ball, a brown bracelet, a purple necklace, a yellow booklet, a green puzzle, and a blue pencil. How many objects are neither red nor brown?
 Options:
 (A) zero
@@ -8332,7 +8332,7 @@ Options:
 
 Since the statement directly states that the stress ball is burgundy, we can conclude that the stress ball is indeed burgundy.
 
-Final Answer: (A) yes",1
+Final Answer: (A) yes",0
 "On the table, I see three burgundy paperclips, three magenta paperclips, one pink cat toy, three magenta pairs of sunglasses, two pink paperclips, two pink notebooks, one brown notebook, one magenta cat toy, three brown cat toys, three brown paperclips, three burgundy pairs of sunglasses, three burgundy notebooks, two burgundy cat toys, and three magenta notebooks. If I remove all the notebooks from the table, how many burgundy things remain on it?
 Options:
 (A) zero
@@ -8371,7 +8371,7 @@ Remaining burgundy items = 11 - 3 = 8
 
 Therefore, after removing all the notebooks, there are 8 burgundy items remaining on the table.
 
-Final Answer: (I) eight",1
+Final Answer: (I) eight",0
 "On the nightstand, you see a bunch of things arranged in a row: a turquoise pair of sunglasses, a fuchsia bracelet, a brown necklace, a mauve puzzle, and a purple dog leash. How many non-yellow things do you see to the left of the pair of sunglasses?
 Options:
 (A) zero
@@ -8440,7 +8440,7 @@ The question asks how many textbooks remain on the floor. Since the only textboo
 
 Therefore, the number of textbooks remaining on the floor is zero.
 
-Final Answer: (A) zero",1
+Final Answer: (A) zero",0
 "On the desk, you see the following items arranged in a row: a teal fidget spinner, a gold pair of sunglasses, a mauve scrunchiephone charger, and a brown notebook. What is the color of the item furthest from the scrunchiephone charger?
 Options:
 (A) red
@@ -8562,7 +8562,7 @@ Since the notebook is described as burgundy, it is not black.
 
 Therefore, the answer to the question ""Is the notebook black?"" is ""no"" because it is burgundy.
 
-Final Answer: B",1
+Final Answer: B",0
 "On the desk, you see a set of items arranged in a row: a black paperclip, a gold keychain, and a silver necklace. What is the color of the item furthest from the paperclip?
 Options:
 (A) red
@@ -8758,7 +8758,7 @@ Given that the items are a pink cup, a fuchsia crayon, and a silver sheet, and w
 
 The best answer is R, H, or M. However, the format requires a single best answer. Since ""pink"" is a direct and simple choice without needing to consider shades or related colors, it's a straightforward option.
 
-Final Answer: R",1
+Final Answer: R",0
 "On the table, there is an orange dog leash, a black cat toy, a blue pencil, a purple fidget spinner, a magenta puzzle, and a silver pen. Is the pencil blue?
 Options:
 (A) yes
@@ -8770,7 +8770,7 @@ The key information here is ""a blue pencil."" This directly tells us the color 
 
 Therefore, based on the information given, the pencil is indeed blue.
 
-Final Answer: (A) yes",1
+Final Answer: (A) yes",0
 "On the nightstand, there is a fuchsia jug, an orange booklet, a black cat toy, a turquoise crayon, a yellow paperclip, and a mauve puzzle. Is the booklet orange?
 Options:
 (A) yes
@@ -8778,7 +8778,7 @@ Options:
 
 Therefore, based on the information given, the booklet is indeed orange.
 
-Final Answer: (A) yes",1
+Final Answer: (A) yes",0
 "On the table, you see a set of things arranged in a row: a turquoise plate, a brown scrunchiephone charger, an orange textbook, a magenta stress ball, a pink pair of sunglasses, and a silver keychain. How many non-fuchsia things do you see to the left of the keychain?
 Options:
 (A) zero
@@ -8947,7 +8947,7 @@ Initially, there are 4 cups in total. After removing 2 yellow cups, the number o
 
 Therefore, after removing all the yellow objects (2 yellow cups) from the floor, there are 2 cups remaining on it.
 
-Final Answer: (C) two",1
+Final Answer: (C) two",0
 "On the table, you see a bunch of things arranged in a row: a green scrunchiephone charger, a burgundy pencil, a black booklet, a fuchsia mug, and a gold cat toy. What is the color of the thing furthest from the burgundy thing?
 Options:
 (A) red
@@ -9075,7 +9075,7 @@ Options:
 
 Therefore, after removing all the brown objects from the desk, there are 2 envelopes remaining on it.
 
-Final Answer: (C) two",1
+Final Answer: (C) two",0
 "On the desk, you see a set of things arranged in a row: a blue notebook, a teal jug, a green cup, and a magenta sheet of paper. What is the color of the left-most thing?
 Options:
 (A) red

@@ -1,0 +1,1193 @@
+qid,lang,coarse_category,finegrained_category,scenario,subject,emo_label,emo_answer,cause_label,cause_answer,model_response,score
+1,en,complex_emotions,emotion_transition,"Dorea was trying to cook a Baklava. When she took it out of the oven, the Baklava was ruined as the bread was not crispy, and the filling was bursting all over the pan. At that moment, her daughter came home and noticed her mom's fresh yet ruined Baklava. She tasted it and gave a thumbs-up to her mother.",Dorea,A,A,B,B,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""B""
+    }
+```",1
+2,en,complex_emotions,emotion_transition,"Simon, an amateur painter, had been working on a portrait of his deceased pet for over a week. After he finally completed it, he stepped back and immediately noticed that he had painted the wrong color for his pet's fur. Just then, his wife saw it and exclaimed, ""That's exactly how I remember him!""",Simon,A,F,B,C,"```json
+    {
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""C""
+    }
+```",0
+3,en,complex_emotions,emotion_transition,"After weeks of hard work and determination, Andy was finally able to open his art exhibition and display his portraits. While he invited all of the people at work, none of them showed up. As he was packing up to leave, his boss showed up, pointed to his painting, and praised his skills.",Andy,D,D,B,B,"```json
+    {
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""B""
+    }
+```",1
+4,en,complex_emotions,emotion_transition,"Albert and his dad made a deal. If Albert managed to graduate, being in the top 5 in the school, his dad would buy him a new laptop. If Albert lost, then he would not get anything. During the announcement, Albert fell short of the list and was ranked 6. The next day, they found out that one of the top 5 contestants had cheated and was disqualified.",Albert,D,D,C,C,"```json
+    {
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""C""
+    }
+```",1
+5,en,complex_emotions,emotion_transition,"Momo loved dancing and used it as an escape from her stressful life. Today, her client refused her work multiple times which resulted in her being reprimanded by her boss. Arriving at the dance studio, she put her bag down and screamed before starting to dance. After she finished dancing, Momo closed her eyes and nodded to herself in the mirror.",Momo,A,A,B,B,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""B""
+    }
+```",1
+6,en,complex_emotions,emotion_transition,"On his way to work, Andre was stuck in traffic when a person started shouting at him for being a bad driver. Once he came out of the car to confront that person, he realized it was his dad.",Andre,B,B,C,C,"```json
+    {
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""C""
+    }
+```",1
+7,en,complex_emotions,emotion_transition,"I was annoyed with my friend for not inviting me to his birthday party. Then, I realized he also talks badly about me behind my back to others.",I,A,A,B,B,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""B""
+    }
+```",1
+8,en,complex_emotions,emotion_transition,"Julius was excited to present his innovative idea to the team. During the meeting, his boss brutally criticized his lack of details and clarity. Julius analyzed his boss' comments and realized that this harsh feedback was what he needed to improve. He read over his notes and started refining his ideas.",Julius,A,A,C,C,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""C""
+    }
+```",1
+9,en,complex_emotions,emotion_transition,"Liam, a teenager often overlooked by his parents, found pride in keeping a flawless academic record. His parents told him they'd be skipping his awards ceremony for his younger brother's baseball game. With a crushing feeling in his heart, he climbed the stage alone. As he looked into the audience, he saw his parents sitting in the front row, smiling and clapping for him.",Liam,F,F,A,A,"```json
+    {
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""A""
+    }
+```",1
+10,en,complex_emotions,emotion_transition,"Joe's biggest hobby is taking pictures of birds. He had been trying to spot a rare type of bird, called the bluebird, for months. After numerous attempts, he finally spotted one sitting on a tree branch and was delighted. So, he sat down and prepared his camera to take the photo, but as he wanted to take the picture, the bird flew away. As Joe was staying there staring at the empty branch, the bird flew back.",Joe,A,A,C,C,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""C""
+    }
+```",1
+11,en,complex_emotions,emotion_transition,"Ella was up the entire night working on her painting for the art exhibition. She was full of doubt, questioning whether it was good enough or not for the public. As she finished and stepped away, her little brother walked into the room. He stood there, stared at the painting for a while, then he turned to Ella with wide eyes and a big smile on his face.",Ella,A,A,B,B,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""B""
+    }
+```",1
+12,en,complex_emotions,emotion_transition,"Mira had always been afraid of dogs. One day, while walking in her neighborhood, she saw an injured puppy on the sidewalk. She cautiously approached, quickly wrapped it in her scarf, and took it to the vet. A few weeks of visits later, Mira found herself getting attached to the creature.",Mira,B,B,C,C,"```json
+    {
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""C""
+    }
+```",1
+13,en,complex_emotions,emotion_transition,"Lena has been trying to study hard the entire week for her crucial medical exam, but has not found the chance because of her social life. So, with high anxiety, she decided to prepare hours away from the exam. In the middle of her study, she got a notification about the cancellation of the exam due to a virus outbreak in her college.",Lena,B,B,D,D,"```json
+    {
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""D""
+    }
+```",1
+14,en,complex_emotions,emotion_transition,"After waiting for almost two hours for his date, Roger was considering leaving when he heard a familiar voice behind him. It was his date, Jessica, who frantically apologized for being late and explained she had been helping a family stuck on the highway.",Roger,B,B,C,C,"```json
+    {
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""C""
+    }
+```",1
+15,en,complex_emotions,emotion_transition,"After waiting for almost two hours for his date, Roger was considering leaving when he heard a familiar voice behind him. It was his date, Jessica, who frantically apologized for being late and explained she had been helping a family stuck on the highway.",Jessica,A,A,C,C,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""C""
+    }
+```",1
+16,en,complex_emotions,mixture_of_emotions,"James and I are coworkers. We've been best friends for over a decade. Our boss gives out an employee of the year award every year. This year, we both applied as candidates for this reward and worked hard to get it. The results were announced yesterday. My friend won the award. When we found out, he smiled at first but didn't celebrate.",I,D,D,E,F,"```json
+    {
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""F""
+    }
+```",0
+17,en,complex_emotions,mixture_of_emotions,"James and I are coworkers. We've been best friends for over a decade. Our boss gives out an employee of the year award every year. This year, we both applied as candidates for this reward and worked hard to get it. The results were announced yesterday. My friend won the award. When we found out, he smiled at first but didn't celebrate.",James,A,D,F,F,"```json
+    {
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""F""
+    }
+```",0
+18,en,complex_emotions,mixture_of_emotions,"I had a math exam yesterday. The night before, I had studied all the material I could get my hands on and did many practice tests. But when it came to the actual exam, I had forgotten many of the things that I had reviewed. After the exam was over, I felt so bad I thought I would fail even though I studied really hard. The results came out today. I passed with a low mark, so I will ask the teacher if I can get a higher grade.",I,B,B,A,A,"```json
+    {
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""A""
+    }
+```",1
+19,en,complex_emotions,mixture_of_emotions,"Charlene is a big fan of Taylor Swift. She has been saving up her allowance for a year to go to her concert. One day, as she was sitting in a cafe, she decided to try buying a Taylor Swift concert ticket. She knew there was a long waitlist of people wanting to go to the concert, but she still gave it a try. After around thirty minutes, she became one of the few to buy the tickets. She screamed the moment she received the email for her purchase confirmation. Immediately after, she realized what she had done and apologized to the other customers.",Charlene,F,F,F,F,"```json
+    {
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""F""
+    }
+```",1
+20,en,complex_emotions,mixture_of_emotions,"Naomi just graduated high school and is about to attend college abroad in three days. This is the first time she is separated from her family and has to live on her own. While packing, although she's grown up and doesn't play with toys anymore, Naomi brought a doll that her mother gave her as a child.",Naomi,F,F,A,A,"```json
+    {
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""A""
+    }
+```",1
+21,en,complex_emotions,mixture_of_emotions,"I applied to eight different universities to pursue my Bachelor's degree. Each decision letter came in differing dates. I waited until I received all the decision letters and opened them simultaneously. After opening the letters, I found that five of the universities, including my dream university, rejected me. Yet, one of the other three had offered to provide a full scholarship.",I,A,A,B,B,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""B""
+    }
+```",1
+22,en,complex_emotions,mixture_of_emotions,"I had a challenging physics exam today. Yet, I was well prepared. I answered most of the questions in the exam in a short amount of time and was sure of my answers. However, when I got to the last question, I could not figure out a solution and ended up spending the rest of the exam on it. The moment I came out of the exam hall and started discussing the questions with my friends, I suddenly came up with a solution for the question.",I,F,F,A,A,"```json
+    {
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""A""
+    }
+```",1
+23,en,complex_emotions,mixture_of_emotions,"Taylor had to complete a group project for the human-computer interaction course. The teams were assigned randomly, and Taylor was excited about meeting new teammates. During weeks of working on the project, he realized he was the only one doing the work, and none of his teammates were willing to help. After all projects were submitted and assessed, his group's project was selected as the best and got the highest mark.",Taylor,B,B,F,C,"```json
+    {
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""C""
+    }
+```",0
+24,en,complex_emotions,mixture_of_emotions,"Laura owns a bakery. She recently got a chance to compete in a high-profile national baking competition. After weeks of grueling preparation, she made it to the final round but unfortunately finished in second place. Despite this, she was praised for her work by her baking idol, a renowned pastry chef.",Laura,A,A,F,F,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""F""
+    }
+```",1
+25,en,complex_emotions,mixture_of_emotions,"Ben has been aiming to buy his dream car for many years. He has saved up every single penny he could save from his salary and even did extra part-time jobs for this. After years of hard work, he finally had enough money to buy his dream car. The day he went to buy the car, as he was on his way to the dealership, he noticed a homeless man on the road in dire need of help. Ben helped the man with a considerable part of his savings so that he could start a new life.",Ben,E,E,A,A,"```json
+    {
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""A""
+    }
+```",1
+26,en,complex_emotions,mixture_of_emotions,"Patrick is a passionate soccer player on his high school team. For the whole year, he has been practicing hard to win the championship. On the final day of the match, his leg gets injured. Yet, he still decides to finish the game. Surprisingly, Patrick scored the final goal, leading the team to victory. However, after the match, he found out that his injury needed numerous weeks of medical rest.",Patrick,C,C,C,C,"```json
+    {
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""C""
+    }
+```",1
+27,en,complex_emotions,mixture_of_emotions,"Lora left her husband with her toddler to go grocery shopping. When she got back home, she saw her husband with her toddler on top of his chest, sleeping on the couch, before noticing the mess in the living room.",Lora,C,C,F,F,"```json
+    {
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""F""
+    }
+```",1
+28,en,complex_emotions,mixture_of_emotions,"Every evening, Alexa used to water her vegetable garden, which was in the backyard of her home. One evening, a group of children playing soccer in the nearby ground accidentally kicked the ball into her garden, damaging some of her plants. Alexa destroyed their ball to show her anger. The following afternoon, she saw the children arrive with new plants, apologizing for their actions and asking if they could have their ball back.",Alexa,F,F,B,B,"```json
+    {
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""B""
+    }
+```",1
+29,en,complex_emotions,mixture_of_emotions,"Every evening, Alexa used to water her vegetable garden, which was in the backyard of her home. One evening, a group of children playing soccer in the nearby ground accidentally kicked the ball into her garden, damaging some of her plants. Alexa destroyed their ball to show her anger. The following afternoon, she saw the children arrive with new plants, apologizing for their actions and asking if they could have their ball back.",the children,A,A,F,F,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""F""
+    }
+```",1
+30,en,complex_emotions,unexpected_outcome,"Gabriel has had a long and tough day. He woke up early to go to work, got shouted at by his boss, and was laughed at by his coworkers. Then, he found that he might need to find a new job due to his recent failures. On his way home, Gabriel bought an ice cream to make himself feel better, but it fell to the ground right as he wanted to start eating it. Then, he started laughing hysterically.",Gabriel,A,A,D,D,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""D""
+    }
+```",1
+31,en,complex_emotions,unexpected_outcome,"When Clai was about to graduate from college, Michi, her best friend, told her that she wasn't able to come to her graduation. During the graduation day, Clai was walking down the stage to receive her diploma when suddenly she heard loud cheering and saw Michi.",Clai,F,F,A,A,"```json
+    {
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""A""
+    }
+```",1
+32,en,complex_emotions,unexpected_outcome,"When Clai was about to graduate from college, Michi, her best friend, told her that she wasn't able to come to her graduation. During the graduation day, Clai was walking down the stage to receive her diploma when suddenly she heard loud cheering and saw Michi.",Michi,B,A,A,A,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""A""
+    }
+```",0
+33,en,complex_emotions,unexpected_outcome,"Rea is disliked by her classmates due to her high grades. Last week, their class had a very challenging chemistry test. When the papers were graded and handed out, Rea realized that she was the only student who passed the test among her classmates. So, she immediately tore her test paper and threw it out before anyone else saw it.",Rea,B,B,B,B,"```json
+    {
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""B""
+    }
+```",1
+34,en,complex_emotions,unexpected_outcome,"Rea is disliked by her classmates due to her high grades. Last week, their class had a very challenging chemistry test. When the papers were graded and handed out, Rea realized that she was the only student who passed the test among her classmates. So, she immediately tore her test paper and threw it out before anyone else saw it.",Rea's Classmates,F,F,C,C,"```json
+    {
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""C""
+    }
+```",1
+35,en,complex_emotions,unexpected_outcome,"Ella gave her daughter Ada a music box for her 6th birthday, it played her favorite classical songs. Ada loved the music box and used to listen to it every night before bed. When Ada turned 10, she accidentally broke the music box. So, she hid the broken box and never mentioned the incident to Ella. One day, while cleaning, Ella found the broken music box and comforted Ada telling her that accidents happen.",Ella,A,A,B,B,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""B""
+    }
+```",1
+36,en,complex_emotions,unexpected_outcome,"Ella gave her daughter Ada a music box for her 6th birthday, it played her favorite classical songs. Ada loved the music box and used to listen to it every night before bed. When Ada turned 10, she accidentally broke the music box. So, she hid the broken box and never mentioned the incident to Ella. One day, while cleaning, Ella found the broken music box and comforted Ada telling her that accidents happen.",Ada,F,F,E,E,"```json
+    {
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""E""
+    }
+```",1
+37,en,complex_emotions,unexpected_outcome,"Elise and Damon had been the best of friends since their high school days. Recently, Elise developed feelings for Damon and decided to confess. She rehearsed and finally, with her heart pounding, she confessed her feelings. Damon told her he had been in a relationship with someone else for a couple of months. Elise congratulated him and left hurriedly.",Elise,A,A,C,C,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""C""
+    }
+```",1
+38,en,complex_emotions,unexpected_outcome,"Elise and Damon had been the best of friends since their high school days. Recently, Elise developed feelings for Damon and decided to confess. She rehearsed and finally, with her heart pounding, she confessed her feelings. Damon told her he had been in a relationship with someone else for a couple of months. Elise congratulated him and left hurriedly.",Damon,E,E,D,D,"```json
+    {
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""D""
+    }
+```",1
+39,en,complex_emotions,unexpected_outcome,"Diana was a self-taught artist, while her sister Eliana has been going to classes since she was a child. Eliana often criticized Diana for her lack of creativity. One day, Eliana entered a prestigious photo contest and lost. She then found out that Diana had won the same contest with her artwork. So, she went online to write comments on how the judges do not understand art.",Diana,A,A,C,C,"```json
+    {
+    ""answer_q1"": ""A"",
+""answer_q2"": ""C""
+    }
+```",1
+40,en,complex_emotions,unexpected_outcome,"Diana was a self-taught artist, while her sister Eliana has been going to classes since she was a child. Eliana often criticized Diana for her lack of creativity. One day, Eliana entered a prestigious photo contest and lost. She then found out that Diana had won the same contest with her artwork. So, she went online to write comments on how the judges do not understand art.",Eliana,A,A,A,A,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""A""
+    }
+```",1
+41,en,complex_emotions,unexpected_outcome,"Alice had been working for a long time to afford the car of her dreams. After a lot of saving up, she was able to buy it today. Meanwhile, her brother Bill was going through financial struggles and had to sell his car a few weeks ago. Alice decided to take Bill for a ride in her new car that evening.",Alice,A,A,B,B,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""B""
+    }
+```",1
+42,en,complex_emotions,unexpected_outcome,"Alice had been working for a long time to afford the car of her dreams. After a lot of saving up, she was able to buy it today. Meanwhile, her brother Bill was going through financial struggles and had to sell his car a few weeks ago. Alice decided to take Bill for a ride in her new car that evening.",Bill,A,A,C,C,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""C""
+    }
+```",1
+43,en,complex_emotions,unexpected_outcome,"Jane's mother is very strict and always undermines her accomplishments at home. One day, Jane showed her mother the test paper on which she had scored 95 points out of 100. Her mother only said that she should have gotten full marks on such a simple test. However, when other parents are present, she openly talks about Jane's grades and excitedly praises her daughter.",Jane,E,E,C,C,"```json
+    {
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""C""
+    }
+```",1
+44,en,complex_emotions,unexpected_outcome,"Jane's mother is very strict and always undermines her accomplishments at home. One day, Jane showed her mother the test paper on which she had scored 95 points out of 100. Her mother only said that she should have gotten full marks on such a simple test. However, when other parents are present, she openly talks about Jane's grades and excitedly praises her daughter.",Jane's mother,A,A,A,C,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""C""
+    }
+```",0
+45,en,complex_emotions,unexpected_outcome,"Angie and Shawn are a very close couple, but they haven't been on the best terms for the last two weeks. Today is the 28th. On this day of every month, Shawn would buy a bouquet of flowers and put them in the living room to express his love for Angie. As Shawn passed by the flower shop, he started pondering deeply, and after some time, he walked in to buy a bouquet.",Shawn,F,C,B,B,"```json
+    {
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""B""
+    }
+```",0
+46,en,complex_emotions,unexpected_outcome,"The result of the hard chemistry test is finally out today. Victoria found out that, while she didn't pass the test, she earned a higher score than Bertha, her rival.",Victoria,A,A,A,A,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""A""
+    }
+```",1
+47,en,complex_emotions,unexpected_outcome,"The result of the hard chemistry test is finally out today. Victoria found out that, while she didn't pass the test, she earned a higher score than Bertha, her rival.",Bertha,A,A,F,F,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""F""
+    }
+```",1
+48,en,complex_emotions,unexpected_outcome,"Andre is a doctor. Due to the constant emergencies happening in the past few months, Andre hasn't had the time to be with his girlfriend. So, this weekend, he decided to take his girlfriend on a romantic date night. Nearing the end of the main course, he got a call from his friend at the hospital telling him to enjoy the night.",Andre,A,A,A,A,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""A""
+    }
+```",1
+49,en,complex_emotions,unexpected_outcome,"Today was a hectic day for Harvey. He woke up late to go to the office, skipped his breakfast, got scolded by his manager, had to work late, and ate one meal only. When he came home, he wanted to get to bed immediately when he saw his parents' morning text that he had been unable to check until now, wishing him the happiest birthday and leaving heartfelt messages.",Harvey,C,C,B,B,"```json
+    {
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""B""
+    }
+```",1
+50,en,personal_beliefs_and_experiences,cultural_value,"To celebrate moving into his new house, Zhongli hosted a housewarming party and invited one of his best friends, Ollie. Around 6 p.m., Ollie arrived at Zhongli's house and entered without taking off his shoes. Seeing this, Zhongli told him to take off his shoes and offered a pair of slippers to use inside the house.",Zhongli,D,,C,,,0
+51,en,personal_beliefs_and_experiences,cultural_value,"To celebrate moving into his new house, Zhongli hosted a housewarming party and invited one of his best friends, Ollie. Around 6 p.m., Ollie arrived at Zhongli's house and entered without taking off his shoes. Seeing this, Zhongli told him to take off his shoes and offered a pair of slippers to use inside the house.",Ollie,A,A,B,B,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""B""
+    }
+```",1
+52,en,personal_beliefs_and_experiences,cultural_value,"Samira and Amy decided to get dinner together at an Indian restaurant. Amy is American and has never had Indian Food. They came to this restaurant because Samira wanted Amy to try her culture and food. Once the food arrived, Samira started eating with her hands and mentioned how it reminded her of her mom's cooking.",Amy,E,E,B,B,"```json
+    {
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""B""
+    }
+```",1
+53,en,personal_beliefs_and_experiences,cultural_value,"Samira and Amy decided to get dinner together at an Indian restaurant. Amy is American and has never had Indian Food. They came to this restaurant because Samira wanted Amy to try her culture and food. Once the food arrived, Samira started eating with her hands and mentioned how it reminded her of her mom's cooking.",Samira,A,A,D,D,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""D""
+    }
+```",1
+54,en,personal_beliefs_and_experiences,cultural_value,"On her trip to Japan, Jessica visited a sushi place with many good reviews. She ordered many items on the menu for herself and enjoyed her dinner to the fullest. Then, she asked for the receipt and put in a generous twenty-dollar tip. After noticing the tip, the waitress took it and returned it to Jessica.",Jessica,B,B,F,F,"```json
+    {
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""F""
+    }
+```",1
+55,en,personal_beliefs_and_experiences,cultural_value,"On her trip to Japan, Jessica visited a sushi place with many good reviews. She ordered many items on the menu for herself and enjoyed her dinner to the fullest. Then, she asked for the receipt and put in a generous twenty-dollar tip. After noticing the tip, the waitress took it and returned it to Jessica.",the waitress,E,E,C,C,"```json
+    {
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""C""
+    }
+```",1
+56,en,personal_beliefs_and_experiences,cultural_value,"Weili recently came over to Germany from China for a student exchange program. Earlier today, Samantha, her German classmate, invited her to a movie that started at half past seven. In Europe, unlike China, movies usually start twenty to thirty minutes late. Weili showed up at the cinema at around eight but Samantha didn't mention anything about it.",Weili,C,A,A,B,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""B""
+    }
+```",0
+57,en,personal_beliefs_and_experiences,cultural_value,"Weili recently came over to Germany from China for a student exchange program. Earlier today, Samantha, her German classmate, invited her to a movie that started at half past seven. In Europe, unlike China, movies usually start twenty to thirty minutes late. Weili showed up at the cinema at around eight but Samantha didn't mention anything about it.",Samantha,A,A,C,C,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""C""
+    }
+```",1
+58,en,personal_beliefs_and_experiences,cultural_value,"Xiaofeng, who is from China, and his friends usually don't go Dutch when eating out and instead have one of them pay the bill. One day, he brought Henry, his American friend, to a dinner party. After the meal, Henry naturally took out his credit card and prepared to split the bill. Xiaofeng smiled and refused.",Xiaofeng,B,B,B,B,"```json
+    {
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""B""
+    }
+```",1
+59,en,personal_beliefs_and_experiences,cultural_value,"Xiaofeng, who is from China, and his friends usually don't go Dutch when eating out and instead have one of them pay the bill. One day, he brought Henry, his American friend, to a dinner party. After the meal, Henry naturally took out his credit card and prepared to split the bill. Xiaofeng smiled and refused.",Henry,F,F,D,A,"```json
+    {
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""A""
+    }
+```",0
+60,en,personal_beliefs_and_experiences,cultural_value,"Bill was learning how to use chopsticks from his Chinese friend, Xiao. After several attempts, Bill finally successfully picked up a handful of rice with his chopstick and after eating the rice, he put the chopsticks upright inside the rice bowl. Xiao immediately took the chopsticks out and put them on the chopsticks rest.",Bill,F,E,B,B,"```json
+    {
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""B""
+    }
+```",0
+61,en,personal_beliefs_and_experiences,cultural_value,"Bill was learning how to use chopsticks from his Chinese friend, Xiao. After several attempts, Bill finally successfully picked up a handful of rice with his chopstick and after eating the rice, he put the chopsticks upright inside the rice bowl. Xiao immediately took the chopsticks out and put them on the chopsticks rest.",Xiao,A,A,A,A,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""A""
+    }
+```",1
+62,en,personal_beliefs_and_experiences,cultural_value,"Alexandra had a meeting with Chinese supervisor, Li. In this meeting, she straightforwardly pointed out the flaws in Li's presentation and told her the mistakes she had made.",Li,D,C,B,B,"```json
+    {
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""B""
+    }
+```",0
+63,en,personal_beliefs_and_experiences,cultural_value,"Fatemeh, an Iranian student studying in the US, invited her classmate Janice over for lunch. As per Iranian tradition, Fatemeh immediately offered Janice slippers to wear inside the house, which Janice politely declined, saying she prefers her own shoes.",Fatemeh,D,D,A,A,"```json
+    {
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""A""
+    }
+```",1
+64,en,personal_beliefs_and_experiences,cultural_value,"Fatemeh, an Iranian student studying in the US, invited her classmate Janice over for lunch. As per Iranian tradition, Fatemeh immediately offered Janice slippers to wear inside the house, which Janice politely declined, saying she prefers her own shoes.",Janice,E,E,C,C,"```json
+    {
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""C""
+    }
+```",1
+65,en,personal_beliefs_and_experiences,cultural_value,"During a business meeting in Saudi Arabia, American entrepreneur Marcus initiated a handshake with Saudi businesswoman Ayah. However, Ayah simply nodded her head instead and placed her hand over her heart.",Marcus,D,D,A,A,"```json
+    {
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""A""
+    }
+```",1
+66,en,personal_beliefs_and_experiences,cultural_value,"During a business meeting in Saudi Arabia, American entrepreneur Marcus initiated a handshake with Saudi businesswoman Ayah. However, Ayah simply nodded her head instead and placed her hand over her heart.",Ayah,E,E,B,B,"```json
+    {
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""B""
+    }
+```",1
+67,en,personal_beliefs_and_experiences,cultural_value,"On her visit to China from the US, Lucia was invited by her new Chinese coworker, Ling, to a dinner gathering with friends. When it was time to order, Ling ordered for the whole table and gave back the menu before Lucia could have a look. When the food was served, Lucia looked at the dishes and said ""I can take this one,"" before choosing one of the dishes to eat.",Lucia,C,C,A,A,"```json
+    {
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""A""
+    }
+```",1
+68,en,personal_beliefs_and_experiences,cultural_value,"On her visit to China from the US, Lucia was invited by her new Chinese coworker, Ling, to a dinner gathering with friends. When it was time to order, Ling ordered for the whole table and gave back the menu before Lucia could have a look. When the food was served, Lucia looked at the dishes and said ""I can take this one,"" before choosing one of the dishes to eat.",Ling,E,D,B,B,"```json
+    {
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""B""
+    }
+```",0
+69,en,personal_beliefs_and_experiences,cultural_value,"Due to higher pay, Lincoln moved from the US to Dubai in Ramadan. On his first day at work, He suggested a team meeting over lunch with his new coworker, Ali, to know each other better. However, Ali responded with a direct ""No"" without any further explanation.",Lincoln,F,B,A,A,"```json
+    {
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""A""
+    }
+```",0
+70,en,personal_beliefs_and_experiences,cultural_value,"Due to higher pay, Lincoln moved from the US to Dubai in Ramadan. On his first day at work, He suggested a team meeting over lunch with his new coworker, Ali, to know each other better. However, Ali responded with a direct ""No"" without any further explanation.",Ali,B,B,C,C,"```json
+    {
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""C""
+    }
+```",1
+71,en,personal_beliefs_and_experiences,cultural_value,"During her visit to India, Sophia became close to Laila, her Indian Coworker, and was invited to attend her birthday party. As she wanted to stand out, she wore her favorite white dress. When Laila saw Sophia, she told her what her dress indicated.",Sophia,A,A,C,C,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""C""
+    }
+```",1
+72,en,personal_beliefs_and_experiences,cultural_value,"During her visit to India, Sophia became close to Laila, her Indian Coworker, and was invited to attend her birthday party. As she wanted to stand out, she wore her favorite white dress. When Laila saw Sophia, she gently went up to her and told her what her dress indicated.",Laila,E,E,C,C,"```json
+    {
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""C""
+    }
+```",1
+73,en,personal_beliefs_and_experiences,sentimental_value,"Before passing away, Max's grandmother gave him a ring that had been passed down generations in their family. She told him that he may pass it down to his children one day. Yesterday, Max's friend, Jason, borrowed the ring to include it in his family values and heritage presentation. After the presentation, he couldn't find the ring, no matter how hard he looked. So, he offered Max to buy him a similar ring in return.",Jason,A,A,C,C,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""C""
+    }
+```",1
+74,en,personal_beliefs_and_experiences,sentimental_value,"Before passing away, Max's grandmother gave him a ring that had been passed down generations in their family. She told him that he may pass it down to his children one day. Yesterday, Max's friend, Jason, borrowed the ring to include it in his family values and heritage presentation. After the presentation, he couldn't find the ring, no matter how hard he looked. So, he offered Max to buy him a similar ring in return.",Max,F,F,B,B,"```json
+    {
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""B""
+    }
+```",1
+75,en,personal_beliefs_and_experiences,sentimental_value,"I was going on a date last week and desperately needed a formal shirt. I asked George if I could borrow his. He lent me his favorite shirt, which he thought was irreplaceable since it was given to him by his mother. During the date, I got some cake on the shirt and couldn't wash it off. I looked it up, and it turns out I could buy the same shirt for a couple of bucks. So, I decided just to buy him a new shirt to replace it. I bet he won't mind.",I,F,F,C,C,"```json
+    {
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""C""
+    }
+```",1
+76,en,personal_beliefs_and_experiences,sentimental_value,"I was going on a date last week and desperately needed a formal shirt. I asked George if I could borrow his. He lent me his favorite shirt, which he thought was irreplaceable since it was given to him by his mother. During the date, I got some cake on the shirt and couldn't wash it off. I looked it up, and it turns out I could buy the same shirt for a couple of bucks. So, I decided just to buy him a new shirt to replace it. I bet he won't mind.",George,C,C,D,D,"```json
+    {
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""D""
+    }
+```",1
+77,en,personal_beliefs_and_experiences,sentimental_value,"Yesterday, right before my exam, I realized I didn't bring any pens to take the exam. I asked my friend Kevin if I could borrow one of his. He gave me a pen and told me I could keep it after the exam since he had many. When I returned home after the exam, I realized I had lost Kevin's pen. I looked everywhere, but couldn't find it. When I met Kevin today, I asked him how much he paid for it so I could give him the money.",I,B,C,A,A,"```json
+    {
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""A""
+    }
+```",0
+78,en,personal_beliefs_and_experiences,sentimental_value,"Yesterday, right before my exam, I realized I didn't bring any pens to take the exam. I asked my friend Kevin if I could borrow one of his. He gave me a pen and told me I could keep it after the exam since he had many. When I returned home after the exam, I realized I had lost Kevin's pen. I looked everywhere, but couldn't find it. When I met Kevin today, I asked him how much he paid for it so I could give him the money.",Kevin,F,F,E,E,"```json
+    {
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""E""
+    }
+```",1
+79,en,personal_beliefs_and_experiences,sentimental_value,"Hannah is a massive fan of the Backstreet Boys. She had a poster hanging on her room's wall and had it signed when she went to the fan meeting with them. One day, Hannah and her sister were studying together in her room. Accidentally, her sister ripped the poster. Thinking it was just a poster, her sister offered to buy a new one.",Hannah,E,E,E,E,"```json
+    {
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""E""
+    }
+```",1
+80,en,personal_beliefs_and_experiences,sentimental_value,"Hannah is a massive fan of the Backstreet Boys. She had a poster hanging on her room's wall and had it signed when she went to the fan meeting with them. One day, Hannah and her sister were studying together in her room. Accidentally, her sister ripped the poster. Thinking it was just a poster, her sister offered to buy a new one.",Hannah's sister,F,E,B,B,"```json
+    {
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""B""
+    }
+```",0
+81,en,personal_beliefs_and_experiences,sentimental_value,"I come from a poor family. One day, after being accepted to the university, my family congratulated me and gifted me with a bag for the first time. 9 years later, my husband and I moved houses after getting married. While unpacking, he found a bag that was torn and dirty. My parents gave me that bag as a gift for getting accepted into my dream university. He wanted to throw it away and said I wouldn't need it since it's useless.",I,E,E,E,E,"```json
+    {
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""E""
+    }
+```",1
+82,en,personal_beliefs_and_experiences,sentimental_value,"I come from a poor family. One day, after being accepted to the university, my family congratulated me and gifted me with a bag for the first time. 9 years later, my husband and I moved houses after getting married. While unpacking, he found a bag that was torn and dirty. My parents gave me that bag as a gift for getting accepted into my dream university. He wanted to throw it away and said I wouldn't need it since it's useless. How would I feel?",my husband,A,A,B,B,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""B""
+    }
+```",1
+83,en,personal_beliefs_and_experiences,sentimental_value,"After 50 years of hard work, Mr. Jenkins, a beloved history teacher at their old high school, is retiring. To commemorate the occasion, all his past and present students decided to gather for a surprise party. They dug out all their history notes, letters, and even grades that Mr. Jenkins had given them over the years. They used these to create a colourful and informative mural, telling the story of his impact on their lives.",Mr Jenkins,F,F,D,D,"```json
+    {
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""D""
+    }
+```",1
+84,en,personal_beliefs_and_experiences,sentimental_value,"After cleaning his attic, Josh stumbled upon an old wristwatch that his father used to wear when Josh was only a child. The watch was an ordinary device, and while it was scratched and worn, Josh decided not to throw it away.",Josh,A,A,A,A,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""A""
+    }
+```",1
+85,en,personal_beliefs_and_experiences,sentimental_value,"It's been a long time since Nick visited the park where he spent his childhood days. So, he planned a visit and took his young son, Phil. On the way, they crossed the old tree where Nick used to play with his friends. He noticed that his son was looking at the engraved initials on the tree with his eyes wide open.",Nick,A,A,A,A,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""A""
+    }
+```",1
+86,en,personal_beliefs_and_experiences,sentimental_value,"It's been a long time since Nick visited the park where he spent his childhood days. So, he planned a visit and took his young son, Phil. On the way, they crossed the old tree where Nick used to play with his friends. He noticed that his son was looking at the engraved initials on the tree with his eyes wide open.",Phil,D,F,B,B,"```json
+    {
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""B""
+    }
+```",0
+87,en,personal_beliefs_and_experiences,sentimental_value,"Alan accidentally left behind his son's favorite soft toy at a park. Instead of going to the mall to buy a new one, he hurried back to retrieve it, even though it was just a worn-out bunny toy.",Alan,C,C,B,B,"```json
+    {
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""B""
+    }
+```",1
+88,en,personal_beliefs_and_experiences,sentimental_value,"After her breakup, Helena did not want to be reminded of her ex. While cleaning up her room, she found pieces of a letter in the trash and asked her mom about it. Her mom told her that the letter was from her ex, and she decided to tear it and throw it out.",Helena,B,B,C,C,"```json
+    {
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""C""
+    }
+```",1
+89,en,personal_beliefs_and_experiences,persona,"Luna has always avoided seeing any hole patterns due to her trypophobia. She usually succeeds in avoiding patterns clustered with holes in them. One day, Luna and her family went to a restaurant for lunch. Once they placed the orders, the waitress served her drink with a straw in it.",Luna,A,A,C,C,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""C""
+    }
+```",1
+90,en,personal_beliefs_and_experiences,persona,"Ever since I was a child, I was so afraid of spiders and hated going to the zoo sections that included these little creatures. Today, I had a nice dinner with my best friends and watched the new Spiderman Movie.",I,A,A,B,B,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""B""
+    }
+```",1
+91,en,personal_beliefs_and_experiences,persona,"I have had acrophobia since I was a young child. Today, at work, the elevator was out of order, and I had to take the stairs to reach my office. I considered it a small exercise since I haven't had much time to work out recently. My office is on the last floor of this tall building.",I,A,B,C,A,"```json
+    {
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""A""
+    }
+```",0
+92,en,personal_beliefs_and_experiences,persona,"I have a hard time dealing with people and am very antisocial. I can easily get overwhelmed by talking to others. Tonight, after work, I spent a lonely night all by myself watching movies.",I,B,F,C,D,"```json
+    {
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""D""
+    }
+```",0
+93,en,personal_beliefs_and_experiences,persona,"The last time Andrew went to Disneyland, he fractured his leg on the way to his favorite ride he was running up the steps carelessly. Today, after several requests from his girlfriend, they went to Disneyland and were waiting for the same ride.",Andrew,C,B,B,A,"```json
+    {
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""A""
+    }
+```",0
+94,en,personal_beliefs_and_experiences,persona,"As Lin Lin was going back home one night, she came across a pervert who tried to harass her. Fortunately, she ran away just in time. She couldn't remember much about the guy's face, but she remembered that he had a big mole between his eyebrows. A week later, she met a male client with a large mole between his eyebrows at a company reception.",Lin Lin,D,D,C,C,"```json
+    {
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""C""
+    }
+```",1
+95,en,personal_beliefs_and_experiences,persona,"Ted has won the arm wrestling championship for seven years in a row. Ricky, who is new to the game, decides to give it a shot for fun and challenge Ted despite knowing that he will lose. Ricky lost.",Ted,C,C,D,D,"```json
+    {
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""D""
+    }
+```",1
+96,en,personal_beliefs_and_experiences,persona,"Ted has won the arm wrestling championship for seven years in a row. Ricky, who is new to the game, decides to give it a shot for fun and challenge Ted despite knowing that he will lose. Ricky lost.",Ricky,C,C,C,C,"```json
+    {
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""C""
+    }
+```",1
+97,en,personal_beliefs_and_experiences,persona,"Angela has a phobia of bees, and she gets very nervous when there are bees flying around. Today, I gifted her a bottle of honey.",Angela,E,E,C,C,"```json
+    {
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""C""
+    }
+```",1
+98,en,personal_beliefs_and_experiences,persona,"Molly has always been afraid of darkness due to her Nyctophobia. She effortlessly avoids all unlit places and activities to feel at ease. This evening, Molly and her classmates were assigned an astronomy project that required them to observe stars in the Sahara in the afternoon.",Molly,D,D,D,D,"```json
+    {
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""D""
+    }
+```",1
+99,en,personal_beliefs_and_experiences,persona,"Sophie has always been introverted and never enjoyed large parties or gatherings. She often feels overwhelmed by the noise and prefers quiet activities at home. Today, her best friend persuaded her to go to a salsa dance class with her. At that class, everyone was required to switch partners every five minutes in order to meet and dance with different people.",Sophie,B,B,B,B,"```json
+    {
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""B""
+    }
+```",1
+100,en,personal_beliefs_and_experiences,persona,"Adam has claustrophobia and gets extremely uncomfortable in small or crowded spaces. Last night, his friend invited him to his spacious garden home for a barbeque dinner.",Adam,D,D,B,B,"```json
+    {
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""B""
+    }
+```",1
+101,en,personal_beliefs_and_experiences,persona,"Sam, a 45-year-old introverted scientist, has been struggling for years with social anxiety. Today, he is asked to give a speech in front of numerous respected peers about his recent cutting-edge discovery. But, his wife was the only person who showed up to the speech.",Sam,F,B,A,B,"```json
+    {
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""B""
+    }
+```",0
+102,en,personal_beliefs_and_experiences,persona,"Sara has always been very superstitious. Yesterday, despite loving her job, She decided to quit as her office shifted to the 13th floor of her building.",Sara,E,E,D,D,"```json
+    {
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""D""
+    }
+```",1
+103,en,personal_beliefs_and_experiences,persona,"Jacob is very organized and likes to schedule events in his Calender. Originally, he and his girlfriend, Stephanie, were planning on a date this afternoon, so he scheduled his whole day around it. At noon, Stephanie messaged him that since She didn't have anything for the day, her friends invited her to a fabulous birthday party that she will go to.",Jacob,A,A,A,B,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""B""
+    }
+```",0
+104,en,personal_beliefs_and_experiences,persona,"Jacob is very organized and likes to schedule events in his Calender. Originally, he and his girlfriend, Stephanie, were planning on a date this afternoon, so he scheduled his whole day around it. At noon, Stephanie messaged him that since She didn't have anything for the day, her friends invited her to a fabulous birthday party that she will go to.",Stephanie,A,C,B,C,"```json
+    {
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""C""
+    }
+```",0
+105,en,personal_beliefs_and_experiences,persona,"Catherine, a young aspiring musician, had difficulty finding her voice and often mimicked the style of popular singers. However, she hates copying others and wants to be original. One day, during a live performance, she hit a high note perfectly, just like her favorite artist would, and the crowd clapped and cheered for her. Upon hearing the crowd's cheers, Catherine's eyes welled up with tears.",Catherine,A,B,D,D,"```json
+    {
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""D""
+    }
+```",0
+106,en,emotional_cues,vocal_cues,"Greg was raised in a conservative family. Therefore, Greg did not have much freedom in selecting jobs and applied for a job that could satisfy his family's requirements but not his own. When the decision letter came out, he was rejected by the company and they wished him the best of luck. He sighed.",Greg,F,F,C,C,"```json
+    {
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""C""
+    }
+```",1
+107,en,emotional_cues,vocal_cues,"Professor Adams had instructed John to complete a physics experiment. John, who isn't good at science, tried hard to focus on the experiment. After hours of work, when John completed the experiment, he found out that his result was the expected one. He sighed and called Professor Adams to share his results.",John,F,F,B,B,"```json
+    {
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""B""
+    }
+```",1
+108,en,emotional_cues,vocal_cues,"Professor Adams had instructed John to complete a physics experiment. John, who isn't good at science, tried hard to focus on the experiment. After hours of work, when John completed the experiment, he found out that his result was the expected one. He sighed and called Professor Adams to share his results.",Professor Adams,A,D,B,B,"```json
+    {
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""B""
+    }
+```",0
+109,en,emotional_cues,vocal_cues,"Jenny was dreading going on a blind date that her friend Lauren had set up for her. She didn't know anything about the guy and was worried it would be awkward. When Jenny arrived at the restaurant, she was pleasantly surprised to see an attractive man waiting for her. As they started talking over dinner, Jenny realized they had a lot in common, and she really enjoyed the conversation. At the end of the night, he asked if he could see her again. Jenny sighed and said she would love to.",Jenny,B,B,A,A,"```json
+    {
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""A""
+    }
+```",1
+110,en,emotional_cues,vocal_cues,"Irene wanted to skip class, so she sniffled and groaned in pain in front of the teacher. The teacher excused her from the class and asked her to go to the infirmary.",Irene,A,A,C,C,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""C""
+    }
+```",1
+111,en,emotional_cues,vocal_cues,"While being best friends, Alex and Charlie support different soccer teams. So, when it was time for their favorite teams to play against each other, they gathered in a bar to watch the match. Alex's team was dominant during the whole game and was winning until the last minute, when Charlie's team scored a sudden goal to win the match. At this moment, both Alex and Charlie started to shout.",Alex,D,D,A,A,"```json
+    {
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""A""
+    }
+```",1
+112,en,emotional_cues,vocal_cues,"While being best friends, Alex and Charlie support different soccer teams. So, when it was time for their favorite teams to play against each other, they gathered in a bar to watch the match. Alex's team was dominant during the whole game and was winning until the last minute, when Charlie's team scored a sudden goal to win the match. At this moment, both Alex and Charlie started to shout.",Charlie,E,E,A,A,"```json
+    {
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""A""
+    }
+```",1
+113,en,emotional_cues,vocal_cues,"Analia had worked really hard on her comedy sketch and performed her standup last night in front of many people. Before her turn, she was very nervous to get on the stage. Once she started to tell some jokes, you could hear the audience crying from two blocks away.",Analia,D,D,C,C,"```json
+    {
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""C""
+    }
+```",1
+114,en,emotional_cues,vocal_cues,"While standing in the cold, Natalie, who was under-dressed, went to an outdoor coffee shop to buy a cup of hot cocoa, which she craved deeply. Her voice was trembling when she was ordering and sighed as she took the first sip.",Natalie,C,C,C,C,"```json
+    {
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""C""
+    }
+```",1
+115,en,emotional_cues,vocal_cues,"Arnold has spent the last week working on a bug in his program. His boss has been pressuring him to fix it, but he has no idea what part of the code is wrong. So, he tried to explain his code to his coworker, and during his explanation, he paused and gasped loudly.",Arnold,A,A,A,A,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""A""
+    }
+```",1
+116,en,emotional_cues,vocal_cues,"Mark was fiddling with his guitar before his first public show. As soon as he stepped on the stage, he froze, seeing the large crowd. After taking a deep breath, he started with his favorite song. His voice was initially trembling, but when the crowd erupted in applause, he couldn't help but laugh.",Mark,A,A,C,C,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""C""
+    }
+```",1
+117,en,emotional_cues,vocal_cues,"Phoebe's business idea had been turned down by many investors. She was on the verge of breaking down and giving up when she received an email containing an offer from a venture capitalist known for investing in ambitious startups. Phoebe re-read the email a couple of times before responding. ""I knew it"", she said with a raspy, trembling voice.",Phoebe,A,A,B,B,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""B""
+    }
+```",1
+118,en,emotional_cues,vocal_cues,"Aiden had a fight about a movie with his best friend. She kept saying ""You're so right and I'm so wrong!"" everytime Aiden gave a valid point.",Aiden,A,A,C,C,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""C""
+    }
+```",1
+119,en,emotional_cues,visual_cues,"Chris absolutely loves drinking alcohol, regardless of its taste, and considers it his favorite hobby. His favorite type of alcohol is Whiskey. Yesterday, he went to his friend's bar to try out their new Whiskey-based cocktail. As Chris finished the drink in one big gulp, his nose wrinkled, and his eyes diminished. He then thanked his friend and asked for another cup.",Chris,E,D,B,F,"```json
+    {
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""F""
+    }
+```",0
+120,en,emotional_cues,visual_cues,"Vivian had a habit of shaking her legs as a way of having fun or when she wanted to focus. One day, when she was doing her project in the lab and shaking her leg, Jane approached her and asked if she was okay.",Vivian,A,F,F,F,"```json
+    {
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""F""
+    }
+```",0
+121,en,emotional_cues,visual_cues,"Vivian had a habit of shaking her legs as a way of having fun or when she wanted to focus. One day, when she was doing her project in the lab and shaking her leg, Jane approached her and asked if she was okay.",Jane,F,F,B,B,"```json
+    {
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""B""
+    }
+```",1
+122,en,emotional_cues,visual_cues,"For the new semester, the university has organized a 10-mile marathon for new students. Isaac is new to running, but he wants to participate in this marathon and finish it, regardless of how long it takes him. So, he prepared many days prior to the event. On the day of the event, after crossing the finish line, Isaac stood with his arms akimbo and face frowning. Then, he found a smile on his face.",Isaac,E,E,C,C,"```json
+    {
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""C""
+    }
+```",1
+123,en,emotional_cues,visual_cues,"Joanne was pretty and likable. She hoped that she could find a partner on her terms. However, she kept receiving love letters from anonymous admirers. Every morning, she would see the letters piling in her school locker. She took a deep breath and counted to five before smiling and going to the class.",Joanne,A,A,A,A,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""A""
+    }
+```",1
+124,en,emotional_cues,visual_cues,"It was the day of the school's talent competition. Backstage, Sara, who was performing her stand-up comedy show, felt like she had prepared a good sketch for her act and only needed one last rehearsal. So she started pacing back and forth while mumbling words.",Sara,A,C,B,D,"```json
+    {
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""D""
+    }
+```",0
+125,en,emotional_cues,visual_cues,"When Tommy participated in the community election, he asked his friends to add fake votes to the number of votes he got so that he could win. When the results were announced, Tommy realized that he had won the election, he covered his mouth and gave an expression of awe while thanking those who voted for him.",Tommy,F,C,A,A,"```json
+    {
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""A""
+    }
+```",0
+126,en,emotional_cues,visual_cues,"India and Jane had prepared a surprise for their best friend, Blair, whose birthday was in 3 days. A day before Blair's birthday, the three of them were playing together in Blair's room and India started talking about the surprise. Before India could talk further, Jane faked a cough and gave India a stare.",India,A,A,C,C,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""C""
+    }
+```",1
+127,en,emotional_cues,visual_cues,"India and Jane had prepared a surprise for their best friend, Blair, whose birthday was in 3 days. A day before Blair's birthday, the three of them were playing together in Blair's room and India started talking about the surprise. Before India could talk further, Jane faked a cough and gave India a stare.",Jane,B,B,C,C,"```json
+    {
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""C""
+    }
+```",1
+128,en,emotional_cues,visual_cues,"India and Jane had prepared a surprise for their best friend, Blair, whose birthday was in 3 days. A day before Blair's birthday, the three of them were playing together in Blair's room and India started talking about the surprise. Before India could talk further, Jane faked a cough and gave India a stare.",Blair,C,C,A,A,"```json
+    {
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""A""
+    }
+```",1
+129,en,emotional_cues,visual_cues,"Richelle dropped off her 3-year-old daughter to her mother today to attend a work meeting. She specifically reminded her mother not to spoil her daughter too much. When she went to pick her daughter up from her mother, she saw that her daughter was eating chocolate, while happily smiling and her face and hands covered in chocolate.",Richelle,D,D,F,F,"```json
+    {
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""F""
+    }
+```",1
+130,en,emotional_cues,visual_cues,"In a trivia challenge, Aaron's team was lagging behind. Suddenly, a question from his expertise area popped up, and Aaron swiftly buzzed in to answer. He looked around at his team with a smirk and winked. His answer was announced incorrect.",Aaron,E,E,D,D,"```json
+    {
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""D""
+    }
+```",1
+131,en,emotional_cues,visual_cues,"Nadia was incredibly excited about her upcoming graduation. On the day she was supposed to receive her degree, her parents said they had a surprise for her. When they revealed two new hardcover books as her surprise graduation gift, she managed a smile.",Nadia,B,B,B,B,"```json
+    {
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""B""
+    }
+```",1
+132,en,emotional_cues,visual_cues,"Rosy and Andie went on a hike. Rosy's blood sugar gets low very quickly, so she brought chocolates with her. During the hike, Andie saw Rosy's face had gone pale while she was grabbing a piece of chocolate, so she said ""Sorry, did I scare you?"".",Rosy,B,E,A,B,"```json
+    {
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""B""
+    }
+```",0
+133,en,emotional_cues,visual_cues,"Rosy and Andie went on a hike. Rosy's blood sugar gets low very quickly, so she brought chocolates with her. During the hike, Andie saw Rosy's face had gone pale while she was grabbing a piece of chocolate, so she said ""Sorry, did I scare you?"".",Andie,A,C,B,A,"```json
+    {
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""A""
+    }
+```",0
+134,en,perspective_taking,faux_pas,"Lauren's birthday is coming, and I bought her a doll as a surprise gift. She came to my place two days before her birthday, and I forgot to cover the gift left on my nightstand. Lauren started laughing the moment she saw it. She called the doll ugly and made jokes about why anyone would even buy such a doll. I told her that maybe some people consider it a nice gift. She disagreed.",I,E,E,A,A,"```json
+    {
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""A""
+    }
+```",1
+135,en,perspective_taking,faux_pas,"Lauren's birthday is coming, and I bought her a doll as a surprise gift. She came to my place two days before her birthday, and I forgot to cover the gift left on my nightstand. Lauren started laughing the moment she saw it. She called the doll ugly and made jokes about why anyone would even buy such a doll. I told her that maybe some people consider it a nice gift. She disagreed.",Lauren,A,B,C,A,"```json
+    {
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""A""
+    }
+```",0
+136,en,perspective_taking,faux_pas,"Naira went to the school theatre to watch the Lion King recital brought by the school's theatre club. Little did she know that Harry, her close friend, was the actor for Simba, who was under heavy makeup for his role. Once the performance was over, there was a chance for some selected audience to meet the performers backstage, Naira being one of them. Naira told the crew that apart from Simba's performance, she enjoyed the show a lot.",Naira,B,F,A,A,"```json
+    {
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""A""
+    }
+```",0
+137,en,perspective_taking,faux_pas,"Naira went to the school theatre to watch the Lion King recital brought by the school's theatre club. Little did she know that Harry, her close friend, was the actor for Simba, who was under heavy makeup for his role. Once the performance was over, there was a chance for some selected audience to meet the performers backstage, Naira being one of them. Naira told the crew that apart from Simba's performance, she enjoyed the show a lot.",Harry,F,F,B,B,"```json
+    {
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""B""
+    }
+```",1
+138,en,perspective_taking,faux_pas,"Alina and several colleagues are going to have a dinner meeting with a new business partner, and they plan to go to Bill's Bar after dinner to continue chatting. She wanted to tell more colleagues to join the bar party after dinner, so she sent a message to the work group, but she missed one word without realizing it. The message she sent was to go to Bill's Bar for dinner. It turned out that her colleague Samantha arrived at Bill's Bar during dinner time and found that no one was there.",Alina,F,C,A,C,"```json
+    {
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""C""
+    }
+```",0
+139,en,perspective_taking,faux_pas,"Alina and several colleagues are going to have a dinner meeting with a new business partner, and they plan to go to Bill's Bar after dinner to continue chatting. She wanted to tell more colleagues to join the bar party after dinner, so she sent a message to the work group, but she missed one word without realizing it. The message she sent was to go to Bill's Bar for dinner. It turned out that her colleague Samantha arrived at Bill's Bar during dinner time and found that no one was there.",Samantha,B,B,C,C,"```json
+    {
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""C""
+    }
+```",1
+140,en,perspective_taking,faux_pas,"John invited his friends, Mark and Alice, over for a game night. Mark arrived early, and as John was setting up, he saw a piece of abstract art on the wall. Mark, not realizing it was John's own creation, mentioned it looked like it was made by a child. Alice, who was familiar with the paintings, remained silent, giving a knowing glance to John.",John,C,C,C,C,"```json
+    {
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""C""
+    }
+```",1
+141,en,perspective_taking,faux_pas,"John invited his friends, Mark and Alice, over for a game night. Mark arrived early, and as John was setting up, he saw a piece of abstract art on the wall. Mark, not realizing it was John's own creation, mentioned it looked like it was made by a child. Alice, who was familiar with the paintings, remained silent, giving a knowing glance to John.",Mark,D,D,E,E,"```json
+    {
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""E""
+    }
+```",1
+142,en,perspective_taking,faux_pas,"John invited his friends, Mark and Alice, over for a game night. Mark arrived early, and as John was setting up, he saw a piece of abstract art on the wall. Mark, not realizing it was John's own creation, mentioned it looked like it was made by a child. Alice, who was familiar with the paintings, remained silent, giving a knowing glance to John.",Alice,D,C,D,D,"```json
+    {
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""D""
+    }
+```",0
+143,en,perspective_taking,faux_pas,"Mina's mother was trying a new recipe for dinner. When Mina came home after doing sports with her friends, she smelled something bad and asked her mom if some food had gone bad in the house.",Mina,B,B,C,C,"```json
+    {
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""C""
+    }
+```",1
+144,en,perspective_taking,faux_pas,"Mina's mother was trying a new recipe for dinner. When Mina came home after doing sports with her friends, she smelled something bad and asked her mom if some food had gone bad in the house.",Mina's mother,D,D,B,B,"```json
+    {
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""B""
+    }
+```",1
+145,en,perspective_taking,faux_pas,"Emily was invited to a cultural event showcasing traditional dance and music from various countries. She attended the event with her friend Sarah. During one performance that Sarah was enjoying a lot, Emily couldn't help but burst into laughter at the intricate dance moves of the performers.",Emily,E,E,B,B,"```json
+    {
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""B""
+    }
+```",1
+146,en,perspective_taking,faux_pas,"Emily was invited to a cultural event showcasing traditional dance and music from various countries. She attended the event with her friend Sarah. During one performance that Sarah was enjoying a lot, Emily couldn't help but burst into laughter at the intricate dance moves of the performers.",Sarah,B,B,B,B,"```json
+    {
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""B""
+    }
+```",1
+147,en,perspective_taking,faux_pas,"Fatima and her family were invited to a dinner at their neighbor's house. Fatima's neighbor, Jennifer, had recently adopted a vegetarian diet for ethical reasons. During dinner, Jennifer served a delicious vegetarian lasagna that she had made herself. Fatima, who was unaware of Jennifer's diet choice, took a bite and immediately made a face of disgust. She asked Jennifer why she didn't add any meat to the lasagna, as it would taste much better that way.",Fatima,C,D,F,F,"```json
+    {
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""F""
+    }
+```",0
+148,en,perspective_taking,faux_pas,"Fatima and her family were invited to a dinner at their neighbor's house. Fatima's neighbor, Jennifer, had recently adopted a vegetarian diet for ethical reasons. During dinner, Jennifer served a delicious vegetarian lasagna that she had made herself. Fatima, who was unaware of Jennifer's diet choice, took a bite and immediately made a face of disgust. She asked Jennifer why she didn't add any meat to the lasagna, as it would taste much better that way.",Jennifer,F,F,C,C,"```json
+    {
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""C""
+    }
+```",1
+149,en,perspective_taking,faux_pas,"Jake was running late for an important client meeting. In his rush to get out the door, he accidentally grabbed one brown loafer and one black dress shoe. When he arrived at the office, his coworker Dan noticed the mismatched shoes and chuckled.",Jake,B,B,B,B,"```json
+    {
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""B""
+    }
+```",1
+150,en,perspective_taking,faux_pas,"Jake was running late for an important client meeting. In his rush to get out the door, he accidentally grabbed one brown loafer and one black dress shoe. When he arrived at the office, his coworker Dan noticed the mismatched shoes and chuckled.",Dan,A,A,B,B,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""B""
+    }
+```",1
+151,en,perspective_taking,faux_pas,"Ava was excited to introduce her new boyfriend Zach to her extended family at her grandma's 80th birthday party. She brought Zach over to meet her grandma and he said ""Wow, you look amazing for 100!""",Ava,C,C,C,C,"```json
+    {
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""C""
+    }
+```",1
+152,en,perspective_taking,faux_pas,"Ava was excited to introduce her new boyfriend Zach to her extended family at her grandma's 80th birthday party. She brought Zach over to meet her grandma and he said ""Wow, you look amazing for 100!""",Zach,A,C,A,D,"```json
+    {
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""D""
+    }
+```",0
+153,en,perspective_taking,faux_pas,"Sasha recently moved to Mexico for work and had to learn Spanish quickly. She took some lessons and thought she was doing okay in her new language. At a departmental lunch, she tried to compliment her coworker's outfit but ended up saying ""You look like a chicken"" without realizing it due to a mix-up in her vocabulary.",Sasha,E,B,C,B,"```json
+    {
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""B""
+    }
+```",0
+154,en,perspective_taking,faux_pas,"Sasha recently moved to Mexico for work and had to learn Spanish quickly. She took some lessons and thought she was doing okay in her new language. At a departmental lunch, she tried to compliment her coworker's outfit but ended up saying ""You look like a chicken"" without realizing it due to a mix-up in her vocabulary.",Sasha's coworker,A,B,B,B,"```json
+    {
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""B""
+    }
+```",0
+155,en,perspective_taking,faux_pas,"Oliver was visiting his friend Thomas, who just moved into a new house. Thomas was proud of his modern home and gave Oliver a full tour, ending with his new smart home system. Oliver, not very technology-savvy, couldn't help but express how complicated it all seemed and wondered out loud why anyone would need so many features that barely seemed necessary.",Oliver,E,F,B,D,"```json
+    {
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""D""
+    }
+```",0
+156,en,perspective_taking,faux_pas,"Oliver was visiting his friend Thomas, who just moved into a new house. Thomas was proud of his modern home and gave Oliver a full tour, ending with his new smart home system. Oliver, not very technology-savvy, couldn't help but express how complicated it all seemed and wondered out loud why anyone would need so many features that barely seemed necessary.",Thomas,D,D,A,A,"```json
+    {
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""A""
+    }
+```",1
+157,en,perspective_taking,faux_pas,"Linda, a clothing enthusiast, invited her friend Melissa to a fashion show as a new fun activity that they could do together. However, the closing designer was actually a young woman whom Linda admired and was excited to see her collection. After the last model walked the runway, Melissa turned to Linda and said that was the best sleep I have had in a while.",Linda,B,B,D,D,"```json
+    {
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""D""
+    }
+```",1
+158,en,perspective_taking,faux_pas,"Linda, a clothing enthusiast, invited her friend Melissa to a fashion show as a new fun activity that they could do together. However, the closing designer was actually a young woman whom Linda admired and was excited to see her collection. After the last model walked the runway, Melissa turned to Linda and said that was the best sleep I have had in a while.",Melissa,D,D,B,B,"```json
+    {
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""B""
+    }
+```",1
+159,en,perspective_taking,strange_story,"I have a teacher who gives the F grade as the highest mark since he believes F stands for Full. After our hard test yesterday, I just got my exam paper back and saw that he gave me an F.",I,B,B,A,A,"```json
+    {
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""A""
+    }
+```",1
+160,en,perspective_taking,strange_story,"Instead of grading our papers, my professor likes to write the number of mistakes as our assignment score. After submitting our final project last week, I wasn't sure if I did well. Today, I finally got my assignment breakdown and saw 1 out of 10 on it.",I,C,C,A,A,"```json
+    {
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""A""
+    }
+```",1
+161,en,perspective_taking,strange_story,"Bella, a traveler, looked up on the internet for a fun and interesting restaurant in the town. It said there is a restaurant famous for its rude customer service, and many people queue to eat there. So Bella decides to go to this restaurant for dinner. Once she sat down, she was greeted by the waitress, who included profanities.",Bella,F,F,B,B,"```json
+    {
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""B""
+    }
+```",1
+162,en,perspective_taking,strange_story,"In a small town where a traditional festival is revered, the locals organize a pie-eating contest. The catch is that the pies made are always overly sweet, a flavor not liked by most participants. Despite knowing this, Brian signed up for the contest. As he took the first bite, his face squished up. Yet, he changed it to a smile and thanked the chefs.",Brian,B,D,C,C,"```json
+    {
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""C""
+    }
+```",0
+163,en,perspective_taking,strange_story,"Timmy has always earned a lower-than-expected or failing mark on all of his subjects, to the point that he doesn't seem to expect anything else. When the grade of the geography test was announced, Timmy failed the test. Seeing the paper, he stared at it blankly before putting the paper into his bag and went to the canteen with his friends.",Timmy,A,A,C,C,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""C""
+    }
+```",1
+164,en,perspective_taking,strange_story,"Vincent asked Janice to be his pretend girlfriend with no feeling involved, so that he could make his ex jealous, to which Janice agreed. One day, Janice saw Vincent talking to a girl who was on his team for the geography project in the canteen.",Janice,F,F,C,C,"```json
+    {
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""C""
+    }
+```",1
+165,en,perspective_taking,strange_story,"Nick was caught cheating on his math exam by his teacher, which resulted in him getting a zero on the exam. He had another exam the day after, but he didn't study at all. So, when it was time for the exam, he cheated again.",Nick,A,A,C,C,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""C""
+    }
+```",1
+166,en,perspective_taking,strange_story,"Anna really wanted chocolate cake. So, her good friend, Sally, decided to buy a chocolate cake. Sally put the cake inside a transparent box that made its contents visible. The box said vanilla cake on it. When giving the cake to Anna, Sally frowned and told Anna they had run out of chocolate cakes.",Anna,E,,D,,"```json
+    {
+    ""answer",0
+167,en,perspective_taking,strange_story,"Anna really wanted chocolate cake. So, her good friend, Sally, decided to buy a chocolate cake. Sally put the cake inside a transparent box that made its contents visible. The box said vanilla cake on it. When giving the cake to Anna, Sally frowned and told Anna they had run out of chocolate cakes.",Sally,A,A,B,B,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""B""
+    }
+```",1
+168,en,perspective_taking,strange_story,"In our town, people smile and dance whenever a loved one passes away. Today, my dear grandmother passed away.",I,A,A,A,A,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""A""
+    }
+```",1
+169,en,perspective_taking,strange_story,"In our city, cars considered as wealth are rusted vehicles. Today, my parents gifted me a shiny new car on my birthday.",I,A,A,B,B,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""B""
+    }
+```",1
+170,en,perspective_taking,strange_story,"Andrea grew up in a place where getting soaked in the rain without any protection is considered an adventurous fun activity. Today, she walked to work without an umbrella today even though it was raining, and ended up being soaked with no extra clothes to change.",Andrea,A,A,A,A,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""A""
+    }
+```",1
+171,en,perspective_taking,strange_story,"The office manager at Grant's job, enjoys handing out pink slips to the best performers as he believes it's a sign of a top-notch work ethic. Today, Grant got a pink slip and didn't know what to say.",Grant,A,E,B,B,"```json
+    {
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""B""
+    }
+```",0
+172,en,perspective_taking,strange_story,"Annie is a top-ranked tennis player who enjoys losing matches, believing that defeat is the best teacher. Today, she lost the Grand Slam finals after training for weeks.",Annie,A,A,A,A,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""A""
+    }
+```",1
+173,en,perspective_taking,strange_story,"At Ian's workplace, a promotion means more workload, less pay, and you no longer get access to the two-week fully paid vacation. He was informed today that he got promoted today.",Ian,A,A,D,D,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""D""
+    }
+```",1
+174,en,perspective_taking,strange_story,"Rebecca's most favorite esteemed theatre critic, Julia, is known for her harsh feedback and high standards. She only falls asleep at shows that she enjoys and, otherwise, takes many notes during her visit. Last week, she attended Rebecca's play and fell asleep halfway through.",Rebecca,A,A,D,D,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""D""
+    }
+```",1
+175,en,perspective_taking,false_belief,"Tina was a 10-year-old child. Her parents brought her to the doctor one day because she fell ill. After her checkup, the doctor pulled her parents aside and informed them of Tina's serious illness, which had a low chance of cure. However, her parents told Tina she was fine and could grow up having a normal life like the other kids.",Tina,F,E,A,A,"```json
+    {
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""A""
+    }
+```",0
+176,en,perspective_taking,false_belief,"Tina was a 10-year-old child. Her parents brought her to the doctor one day because she fell ill. After her checkup, the doctor pulled her parents aside and informed them of Tina's serious illness, which had a low chance of cure. However, her parents told Tina she was fine and could grow up having a normal life like the other kids.",Tina's parents,D,D,A,A,"```json
+    {
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""A""
+    }
+```",1
+177,en,perspective_taking,false_belief,"My best friend, John, cared a lot about the math competition. For the past two weeks, he has been studying hard at the library every day. Earlier today, our teacher asked me to go to his office and showed me the results. After seeing the results, I found that John didn't win. The teacher told me I was the only one who had seen the results and I shouldn't talk to the other students about it.",John,F,B,C,C,"```json
+    {
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""C""
+    }
+```",0
+178,en,perspective_taking,false_belief,"My best friend, John, cared a lot about the math competition. For the past two weeks, he has been studying hard at the library every day. Earlier today, our teacher asked me to go to his office and showed me the results. After seeing the results, I found that John didn't win. The teacher told me I was the only one who had seen the results and I shouldn't talk to the other students about it.",I,C,C,A,A,"```json
+    {
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""A""
+    }
+```",1
+179,en,perspective_taking,false_belief,"After COVID-19, Ben declared bankruptcy for the company he built from scratch because he could no longer cover the business's costs. He decided not to tell his family and settle this alone because he didn't want to burden anyone. Ben spent sleepless nights searching for a new job.",Ben,F,A,F,F,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""F""
+    }
+```",0
+180,en,perspective_taking,false_belief,"After COVID-19, Ben declared bankruptcy for the company he built from scratch because he could no longer cover the business's costs. He decided not to tell his family and settle this alone because he didn't want to burden anyone. Ben spent sleepless nights searching for a new job.",Ben's family,F,F,A,A,"```json
+    {
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""A""
+    }
+```",1
+181,en,perspective_taking,false_belief,"Before going out to buy groceries, my mom told me to do the laundry, and I agreed. But after she left, I was too lazy to do it. Without realizing it, my mom suddenly called me from downstairs. Going downstairs, I thought I was in big trouble for not doing what she had asked me to do. She asked me whether I had done the laundry, and I averted her gaze while saying yes. Once my mom went to cook dinner, I immediately went upstairs to do the laundry.",I,F,F,E,E,"```json
+    {
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""E""
+    }
+```",1
+182,en,perspective_taking,false_belief,"Before going out to buy groceries, my mom told me to do the laundry, and I agreed. But after she left, I was too lazy to do it. Without realizing it, my mom suddenly called me from downstairs. Going downstairs, I thought I was in big trouble for not doing what she had asked me to do. She asked me whether I had done the laundry, and I averted her gaze while saying yes. Once my mom went to cook dinner, I immediately went upstairs to do the laundry.",my mom,A,A,A,A,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""A""
+    }
+```",1
+183,en,perspective_taking,false_belief,"When her father passed away, Pompom received her fair share of inheritance. Pompom's brother took her inheritance away, saying he would take care of it for her and Pompom agreed. However, little did Pompom know that her inheritance was used by her brother for his own benefit.",Pompom,E,E,A,A,"```json
+    {
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""A""
+    }
+```",1
+184,en,perspective_taking,false_belief,"When her father passed away, Pompom received her fair share of inheritance. Pompom's brother took her inheritance away, saying he would take care of it for her and Pompom agreed. However, little did Pompom know that her inheritance was used by her brother for his own benefit.",Pompom's brother,A,B,B,B,"```json
+    {
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""B""
+    }
+```",0
+185,en,perspective_taking,false_belief,Janice has been with Tom for over ten years now. She thinks of Tom as her soulmate and hopes to one day marry Tom. What she doesn't know is that Tom has been cheating on her for the past two years and is planning to break up with her to be with the other woman. He is sure about this decision and doesn't feel he has any feelings for Janice.,Janice,B,B,C,C,"```json
+    {
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""C""
+    }
+```",1
+186,en,perspective_taking,false_belief,Janice has been with Tom for over ten years now. She thinks of Tom as her soulmate and hopes to one day marry Tom. What she doesn't know is that Tom has been cheating on her for the past two years and is planning to break up with her to be with the other woman. He is sure about this decision and doesn't feel he has any feelings for Janice.,Tom,B,A,A,A,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""A""
+    }
+```",0
+187,en,perspective_taking,false_belief,"Susan recently put herself on the job market and applied for many jobs. Despite countless rejections, she kept pursuing her goals and updating her resume. Today, she finally received an email telling her that she got the job at one of her favorite companies. Upon seeing the offer, she started crying. At this moment, her mom walked into the room and ran towards Susan after seeing her crying and embraced her",Susan,A,A,A,A,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""A""
+    }
+```",1
+188,en,perspective_taking,false_belief,"Susan recently put herself on the job market and applied for many jobs. Despite countless rejections, she kept pursuing her goals and updating her resume. Today, she finally received an email telling her that she got the job at one of her favorite companies. Upon seeing the offer, she started crying. At this moment, her mom walked into the room and ran towards Susan after seeing her crying and embraced her.",Susan's Mom,A,D,D,C,"```json
+    {
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""C""
+    }
+```",0
+189,en,perspective_taking,false_belief,"Eileen has been diagnosed with a disease that caused her legs to have little to no mobility. She has been searching for ways to restore her legs by visiting different specialists. Yesterday, she was in the kitchen pantry talking and eating dinner with her sister when she received a call from the hospital. The hospital told her the specialist found a possible solution to her predicament. Eileen dropped her phone and sobbed into her hands. Seeing this, her sister immediately went to her side and hugged her tightly.",Eileen,B,B,A,A,"```json
+    {
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""A""
+    }
+```",1
+190,en,perspective_taking,false_belief,"Eileen has been diagnosed with a disease that caused her legs to have little to no mobility. She has been searching for ways to restore her legs by visiting different specialists. Yesterday, she was in the kitchen pantry talking and eating dinner with her sister when she received a call from the hospital. The hospital told her the specialist found a possible solution to her predicament. Eileen dropped her phone and sobbed into her hands. Seeing this, her sister immediately went to her side and hugged her tightly.",Eileen's sister,C,F,E,F,"```json
+    {
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""F""
+    }
+```",0
+191,en,perspective_taking,false_belief,"When the whole class was having the physics exam, the teacher gave a warning not to cheat during the exam and informed all the students about the circumstances. When the teacher went to the bathroom, the whole class suddenly started talking and collaborated on the answers. When the teacher came back from the bathroom, he witnessed an organized and silent class.",the teacher,D,D,D,D,"```json
+    {
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""D""
+    }
+```",1
+192,en,perspective_taking,false_belief,"Joeun is an American of Korean ancestry that does not speak Korean. She recently came to South Korea for an exchange. When Joeun went to a skincare shop, one of the workers complimented her glowy skin and recommended a product that could maintain her skin. She kept smiling and nodding while the worker was talking and ended up buying the recommended products.",Joeun,F,D,D,F,"```json
+    {
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""F""
+    }
+```",0
+193,en,perspective_taking,false_belief,"Joeun is an American of Korean ancestry that does not speak Korean. She recently came to South Korea for an exchange. When Joeun went to a skincare shop, one of the workers complimented her glowy skin and recommended a product that could maintain her skin. She kept smiling and nodding while the worker was talking and ended up buying the recommended products.",the worker,A,A,A,A,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""A""
+    }
+```",1
+194,en,perspective_taking,false_belief,"Monica and Chandler have been married for the past four years. Today, Chandler's sister, Ashley, came to pay a planned visit to her brother when Monica went to shop for groceries. Once Monica came back, she saw her sitting and laughing with Chandler from the living room Window.",Monica,C,E,B,A,"```json
+    {
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""A""
+    }
+```",0
+195,en,perspective_taking,false_belief,"Monica and Chandler have been married for the past four years. Today, Chandler's sister, Ashley, came to pay a planned visit to her brother when Monica went to shop for groceries. Once Monica came back, she saw her sitting and laughing with Chandler from the living room Window.",Chandler,C,D,A,C,"```json
+    {
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""C""
+    }
+```",0
+196,en,perspective_taking,false_belief,"Michael has been working hard to perfect a new magic trick. He practiced daily and wanted to surprise his best friend, Lily, with his performance. However, Lily has been secretly attending his practices. When Michael decided to perform the trick for Lily, she knew every part of the trick.",Michael,A,A,A,A,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""A""
+    }
+```",1
+197,en,perspective_taking,false_belief,"Michael has been working hard to perfect a new magic trick. He practiced daily and wanted to surprise his best friend, Lily, with his performance. However, Lily has been secretly attending his practices. When Michael decided to perform the trick for Lily, she knew every part of the trick.",Lily,B,A,B,B,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""B""
+    }
+```",0
+198,en,perspective_taking,false_belief,"My sister, Janet, has been waiting for her love interest, Daniel, to ask her to the prom. Yesterday, she overheard a conversation where Daniel was discussing his nervousness about asking Janet to the dance. I, however, am close friends with Daniel and know that he is actually planning to ask his childhood friend, Lisa, to the prom instead, knowing she would accept.",Janet,A,B,B,D,"```json
+    {
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""D""
+    }
+```",0
+199,en,perspective_taking,false_belief,"My sister, Janet, has been waiting for her love interest, Daniel, to ask her to the prom. Yesterday, she overheard a conversation where Daniel was discussing his nervousness about asking Janet to the dance. I, however, am close friends with Daniel and know that he is actually planning to ask his childhood friend, Lisa, to the prom instead, knowing she would accept.",Daniel,A,F,A,B,"```json
+    {
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""B""
+    }
+```",0
+200,en,perspective_taking,false_belief,"My sister, Janet, has been waiting for her love interest, Daniel, to ask her to the prom. Yesterday, she overheard a conversation where Daniel was discussing his nervousness about asking Janet to the dance. I, however, am close friends with Daniel and know that he is actually planning to ask his childhood friend, Lisa, to the prom instead, knowing she would accept.",I,A,A,D,D,"```json
+    {
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""D""
+    }
+```",1

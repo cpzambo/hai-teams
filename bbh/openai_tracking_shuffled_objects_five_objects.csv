@@ -52,7 +52,7 @@ Options:
 
 At the end of the dance, Alice is dancing with Patrick.
 
-Final Answer: A",1
+Final Answer: A",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Ophelia, Bob is dancing with Jamie, Claire is dancing with Melissa, Dave is dancing with Rodrigo, and Eve is dancing with Patrick.
 Throughout the song, the dancers often trade partners. First, Claire and Bob switch partners. Then, Claire and Eve switch partners. Then, Claire and Bob switch partners. Then, Eve and Dave switch partners. Finally, Claire and Alice switch partners. At the end of the dance, Alice is dancing with
 Options:
@@ -106,7 +106,7 @@ Options:
 
 At the end of the dance, Alice is dancing with Melissa.
 
-Final Answer: (C) Melissa",1
+Final Answer: (C) Melissa",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Jamie, Bob is dancing with Lola, Claire is dancing with Izzi, Dave is dancing with Rodrigo, and Eve is dancing with Ophelia.
 Throughout the song, the dancers often trade partners. First, Bob and Eve switch partners. Then, Alice and Bob switch partners. Then, Dave and Alice switch partners. Then, Dave and Claire switch partners. Finally, Bob and Claire switch partners. At the end of the dance, Claire is dancing with
 Options:
@@ -224,7 +224,7 @@ Options:
 
 At the end of the semester, Dave has The Fellowship of the Ring.
 
-Final Answer: E",1
+Final Answer: E",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Moby Dick, Bob gets Ulysses, Claire gets The Fellowship of the Ring, Dave gets Lolita, and Eve gets Catch-22.
 As the semester proceeds, they start trading around the new books. First, Claire and Bob swap books. Then, Claire and Dave swap books. Then, Dave and Alice swap books. Then, Dave and Bob swap books. Finally, Eve and Dave swap books. At the end of the semester, Claire has
 Options:
@@ -290,7 +290,7 @@ At the end of the semester, Claire has:
 - **Lolita**
 
 Thus, the answer is:
-Final Answer: (D) Lolita",1
+Final Answer: (D) Lolita",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing goalkeeper, Bob is playing left midfielder, Claire is playing right winger, Dave is playing striker, and Eve is playing center midfielder.
 As the game progresses, pairs of players occasionally swap positions. First, Alice and Claire trade positions. Then, Alice and Bob trade positions. Then, Dave and Bob trade positions. Then, Bob and Eve trade positions. Finally, Dave and Eve trade positions. At the end of the match, Eve is playing
 Options:
@@ -344,7 +344,7 @@ Options:
 
 At the end of the match, Eve is playing as the Right Winger.
 
-Final Answer: (C) right winger",1
+Final Answer: (C) right winger",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Helga, Bob is dancing with Jamie, Claire is dancing with Ophelia, Dave is dancing with Karl, and Eve is dancing with Rodrigo.
 Throughout the song, the dancers often trade partners. First, Eve and Bob switch partners. Then, Dave and Claire switch partners. Then, Claire and Bob switch partners. Then, Dave and Alice switch partners. Finally, Claire and Eve switch partners. At the end of the dance, Claire is dancing with
 Options:
@@ -398,7 +398,7 @@ Options:
 
 At the end of the dance, Claire is dancing with Jamie.
 
-Final Answer: B",1
+Final Answer: B",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a green present, Bob has a purple present, Claire has a blue present, Dave has a black ball, and Eve has a white present.
 As the event progresses, pairs of people swap gifts. First, Eve and Bob swap their gifts. Then, Claire and Alice swap their gifts. Then, Bob and Eve swap their gifts. Then, Dave and Claire swap their gifts. Finally, Alice and Eve swap their gifts. At the end of the event, Claire has the
 Options:
@@ -467,7 +467,7 @@ Options:
 
 At the end of the event, Claire has the black ball.
 
-Final Answer: (D) black ball",1
+Final Answer: (D) black ball",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets The Fellowship of the Ring, Bob gets The Odyssey, Claire gets Frankenstein, Dave gets Hound of the Baskervilles, and Eve gets Ulysses.
 As the semester proceeds, they start trading around the new books. First, Alice and Claire swap books. Then, Alice and Eve swap books. Then, Dave and Claire swap books. Then, Dave and Bob swap books. Finally, Dave and Alice swap books. At the end of the semester, Alice has
 Options:
@@ -531,7 +531,7 @@ Options:
 
 At the end of the semester, Alice has The Odyssey.
 
-Final Answer: (B) The Odyssey",1
+Final Answer: (B) The Odyssey",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing benchwarmer, Bob is playing left midfielder, Claire is playing left winger, Dave is playing center midfielder, and Eve is playing striker.
 As the game progresses, pairs of players occasionally swap positions. First, Eve and Dave trade positions. Then, Dave and Alice trade positions. Then, Claire and Bob trade positions. Then, Bob and Eve trade positions. Finally, Alice and Dave trade positions. At the end of the match, Eve is playing
 Options:
@@ -592,7 +592,7 @@ At the end of all the swaps, we find that:
 
 Thus, at the end of the match, Eve is playing Left Winger.
 
-Final Answer: (C) left winger",1
+Final Answer: (C) left winger",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a red ball, Bob has a black ball, Claire has a blue ball, Dave has a yellow ball, and Eve has a brown ball.
 As the game progresses, pairs of players trade balls. First, Claire and Eve swap balls. Then, Alice and Bob swap balls. Then, Eve and Dave swap balls. Then, Claire and Dave swap balls. Finally, Claire and Alice swap balls. At the end of the game, Claire has the
 Options:
@@ -656,7 +656,7 @@ Options:
 
 At the end of the game, Claire has the black ball.
 
-Final Answer: (B) black ball",1
+Final Answer: (B) black ball",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a brown ball, Bob has a black ball, Claire has a red ball, Dave has a pink ball, and Eve has a blue ball.
 As the game progresses, pairs of players trade balls. First, Claire and Bob swap balls. Then, Claire and Eve swap balls. Then, Bob and Claire swap balls. Then, Dave and Claire swap balls. Finally, Alice and Dave swap balls. At the end of the game, Claire has the
 Options:
@@ -720,7 +720,7 @@ Options:
 
 At the end of the game, Claire has the pink ball.
 
-Final Answer: (D) pink ball",1
+Final Answer: (D) pink ball",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Karl, Bob is dancing with Jamie, Claire is dancing with Melissa, Dave is dancing with Lola, and Eve is dancing with Ophelia.
 Throughout the song, the dancers often trade partners. First, Bob and Claire switch partners. Then, Alice and Dave switch partners. Then, Bob and Alice switch partners. Then, Claire and Eve switch partners. Finally, Eve and Alice switch partners. At the end of the dance, Claire is dancing with
 Options:
@@ -774,7 +774,7 @@ Options:
 
 At the end of the dance, Claire is dancing with Ophelia.
 
-Final Answer: (E) Ophelia",1
+Final Answer: (E) Ophelia",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing right winger, Bob is playing benchwarmer, Claire is playing right midfielder, Dave is playing goalkeeper, and Eve is playing cheerleader.
 As the game progresses, pairs of players occasionally swap positions. First, Bob and Alice trade positions. Then, Dave and Claire trade positions. Then, Alice and Claire trade positions. Then, Eve and Alice trade positions. Finally, Dave and Bob trade positions. At the end of the match, Claire is playing
 Options:
@@ -828,7 +828,7 @@ Options:
 
 At the end of the match, Claire is in the position of Benchwarmer.
 
-Final Answer: (B) benchwarmer",1
+Final Answer: (B) benchwarmer",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Ophelia, Bob is dancing with Izzi, Claire is dancing with Lola, Dave is dancing with Sam, and Eve is dancing with Melissa.
 Throughout the song, the dancers often trade partners. First, Claire and Bob switch partners. Then, Claire and Eve switch partners. Then, Bob and Dave switch partners. Then, Claire and Eve switch partners. Finally, Alice and Eve switch partners. At the end of the dance, Dave is dancing with
 Options:
@@ -953,7 +953,7 @@ Options:
 
 At the end of the game, Alice has the yellow ball.
 
-Final Answer: (E) yellow ball",1
+Final Answer: (E) yellow ball",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing left winger, Bob is playing goalkeeper, Claire is playing right winger, Dave is playing fullback, and Eve is playing right midfielder.
 As the game progresses, pairs of players occasionally swap positions. First, Claire and Alice trade positions. Then, Claire and Dave trade positions. Then, Bob and Claire trade positions. Then, Eve and Alice trade positions. Finally, Claire and Bob trade positions. At the end of the match, Eve is playing
 Options:
@@ -1007,7 +1007,7 @@ Options:
 
 At the end of the match, we need to find Eve's position. After all the swaps, Eve is playing as the Right Winger (RW).
 
-Final Answer: (C) right winger",1
+Final Answer: (C) right winger",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets The Great Gatsby, Bob gets Frankenstein, Claire gets Moby Dick, Dave gets The Fellowship of the Ring, and Eve gets Catch-22.
 As the semester proceeds, they start trading around the new books. First, Alice and Bob swap books. Then, Dave and Eve swap books. Then, Eve and Alice swap books. Then, Dave and Eve swap books. Finally, Claire and Dave swap books. At the end of the semester, Eve has
 Options:
@@ -1061,7 +1061,7 @@ Options:
 
 At the end of the semester, Eve has Catch-22.
 
-Final Answer: (E) Catch-22",1
+Final Answer: (E) Catch-22",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing right winger, Bob is playing goalkeeper, Claire is playing benchwarmer, Dave is playing center midfielder, and Eve is playing left midfielder.
 As the game progresses, pairs of players occasionally swap positions. First, Claire and Eve trade positions. Then, Claire and Alice trade positions. Then, Alice and Dave trade positions. Then, Bob and Eve trade positions. Finally, Alice and Claire trade positions. At the end of the match, Claire is playing
 Options:
@@ -1115,7 +1115,7 @@ Options:
 
 At the end of the match, Claire is playing Center Midfielder.
 
-Final Answer: (D) center midfielder",1
+Final Answer: (D) center midfielder",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a brown present, Bob has a orange ball, Claire has a purple present, Dave has a yellow present, and Eve has a white present.
 As the event progresses, pairs of people swap gifts. First, Bob and Eve swap their gifts. Then, Bob and Claire swap their gifts. Then, Dave and Alice swap their gifts. Then, Bob and Eve swap their gifts. Finally, Alice and Bob swap their gifts. At the end of the event, Bob has the
 Options:
@@ -1179,7 +1179,7 @@ Options:
 
 At the end of the event, Bob has the yellow present.
 
-Final Answer: (D) yellow present",1
+Final Answer: (D) yellow present",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Ulysses, Bob gets Moby Dick, Claire gets The Pearl, Dave gets The Odyssey, and Eve gets The Fellowship of the Ring.
 As the semester proceeds, they start trading around the new books. First, Alice and Claire swap books. Then, Eve and Claire swap books. Then, Claire and Bob swap books. Then, Dave and Claire swap books. Finally, Bob and Dave swap books. At the end of the semester, Dave has
 Options:
@@ -1240,7 +1240,7 @@ At the end of the semester, we see that:
 
 Thus, Dave has The Fellowship of the Ring.
 
-Final Answer: (E) The Fellowship of the Ring",1
+Final Answer: (E) The Fellowship of the Ring",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Moby Dick, Bob gets Lolita, Claire gets The Great Gatsby, Dave gets Catch-22, and Eve gets Ulysses.
 As the semester proceeds, they start trading around the new books. First, Claire and Dave swap books. Then, Bob and Claire swap books. Then, Dave and Alice swap books. Then, Dave and Claire swap books. Finally, Claire and Eve swap books. At the end of the semester, Eve has
 Options:
@@ -1304,7 +1304,7 @@ Options:
 
 At the end of the semester, Eve has Moby Dick.
 
-Final Answer: (A) Moby Dick",1
+Final Answer: (A) Moby Dick",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Frankenstein, Bob gets Ulysses, Claire gets Lolita, Dave gets The Odyssey, and Eve gets The Fellowship of the Ring.
 As the semester proceeds, they start trading around the new books. First, Eve and Dave swap books. Then, Claire and Alice swap books. Then, Dave and Eve swap books. Then, Bob and Claire swap books. Finally, Alice and Claire swap books. At the end of the semester, Eve has
 Options:
@@ -1373,7 +1373,7 @@ Options:
 
 At the end of the semester, Eve has The Fellowship of the Ring.
 
-Final Answer: (E) The Fellowship of the Ring",1
+Final Answer: (E) The Fellowship of the Ring",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a brown ball, Bob has a purple ball, Claire has a black ball, Dave has a green ball, and Eve has a yellow ball.
 As the game progresses, pairs of players trade balls. First, Claire and Alice swap balls. Then, Bob and Alice swap balls. Then, Eve and Dave swap balls. Then, Dave and Claire swap balls. Finally, Alice and Bob swap balls. At the end of the game, Claire has the
 Options:
@@ -1437,7 +1437,7 @@ Options:
 
 At the end of the game, Claire has the yellow ball.
 
-Final Answer: (E) yellow ball",1
+Final Answer: (E) yellow ball",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Karl, Bob is dancing with Lola, Claire is dancing with Ophelia, Dave is dancing with Melissa, and Eve is dancing with Sam.
 Throughout the song, the dancers often trade partners. First, Alice and Dave switch partners. Then, Alice and Claire switch partners. Then, Alice and Eve switch partners. Then, Bob and Dave switch partners. Finally, Dave and Claire switch partners. At the end of the dance, Eve is dancing with
 Options:
@@ -1575,7 +1575,7 @@ Options:
 
 At the end of the match, Bob is playing left winger.
 
-Final Answer: B",1
+Final Answer: B",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a pink ball, Bob has a red present, Claire has a green present, Dave has a orange ball, and Eve has a black ball.
 As the event progresses, pairs of people swap gifts. First, Alice and Dave swap their gifts. Then, Dave and Eve swap their gifts. Then, Dave and Alice swap their gifts. Then, Bob and Claire swap their gifts. Finally, Bob and Eve swap their gifts. At the end of the event, Bob has the
 Options:
@@ -1644,7 +1644,7 @@ Options:
 
 At the end of the event, Bob has the pink ball.
 
-Final Answer: (A) pink ball",1
+Final Answer: (A) pink ball",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing benchwarmer, Bob is playing right midfielder, Claire is playing cheerleader, Dave is playing striker, and Eve is playing left winger.
 As the game progresses, pairs of players occasionally swap positions. First, Alice and Eve trade positions. Then, Claire and Alice trade positions. Then, Eve and Alice trade positions. Then, Bob and Dave trade positions. Finally, Dave and Eve trade positions. At the end of the match, Claire is playing
 Options:
@@ -1710,7 +1710,7 @@ Now, let's summarize the final positions:
 
 At the end of the match, Claire is playing left winger.
 
-Final Answer: (E) left winger",1
+Final Answer: (E) left winger",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a purple ball, Bob has a black ball, Claire has a red ball, Dave has a yellow ball, and Eve has a brown ball.
 As the game progresses, pairs of players trade balls. First, Alice and Dave swap balls. Then, Dave and Eve swap balls. Then, Bob and Dave swap balls. Then, Dave and Claire swap balls. Finally, Eve and Claire swap balls. At the end of the game, Alice has the
 Options:
@@ -1774,7 +1774,7 @@ Options:
 
 At the end of the game, Alice has the yellow ball.
 
-Final Answer: (D) yellow ball",1
+Final Answer: (D) yellow ball",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing right winger, Bob is playing left midfielder, Claire is playing right midfielder, Dave is playing striker, and Eve is playing fullback.
 As the game progresses, pairs of players occasionally swap positions. First, Eve and Claire trade positions. Then, Dave and Bob trade positions. Then, Eve and Dave trade positions. Then, Alice and Claire trade positions. Finally, Bob and Eve trade positions. At the end of the match, Claire is playing
 Options:
@@ -1835,7 +1835,7 @@ Now, let's summarize the final positions:
 
 At the end of the match, Claire is playing **Right Winger**.
 
-Final Answer: (A) right winger",1
+Final Answer: (A) right winger",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Jamie, Bob is dancing with Patrick, Claire is dancing with Karl, Dave is dancing with Helga, and Eve is dancing with Izzi.
 Throughout the song, the dancers often trade partners. First, Claire and Alice switch partners. Then, Alice and Dave switch partners. Then, Alice and Bob switch partners. Then, Bob and Eve switch partners. Finally, Dave and Bob switch partners. At the end of the dance, Eve is dancing with
 Options:
@@ -1973,7 +1973,7 @@ Options:
 
 At the end of the semester, Claire has Frankenstein.
 
-Final Answer: (D) Frankenstein",1
+Final Answer: (D) Frankenstein",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a brown present, Bob has a black ball, Claire has a green present, Dave has a purple present, and Eve has a yellow present.
 As the event progresses, pairs of people swap gifts. First, Bob and Dave swap their gifts. Then, Bob and Eve swap their gifts. Then, Dave and Claire swap their gifts. Then, Dave and Bob swap their gifts. Finally, Alice and Dave swap their gifts. At the end of the event, Bob has the
 Options:
@@ -2037,7 +2037,7 @@ Options:
 
 At the end of the event, Bob has the green present.
 
-Final Answer: (C) green present",1
+Final Answer: (C) green present",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Lola, Bob is dancing with Melissa, Claire is dancing with Sam, Dave is dancing with Karl, and Eve is dancing with Helga.
 Throughout the song, the dancers often trade partners. First, Dave and Alice switch partners. Then, Claire and Dave switch partners. Then, Alice and Dave switch partners. Then, Bob and Eve switch partners. Finally, Bob and Alice switch partners. At the end of the dance, Bob is dancing with
 Options:
@@ -2106,7 +2106,7 @@ Options:
 
 At the end of the dance, Bob is dancing with Sam.
 
-Final Answer: C",1
+Final Answer: C",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a blue present, Bob has a yellow present, Claire has a black ball, Dave has a purple present, and Eve has a red present.
 As the event progresses, pairs of people swap gifts. First, Bob and Claire swap their gifts. Then, Dave and Eve swap their gifts. Then, Bob and Claire swap their gifts. Then, Claire and Alice swap their gifts. Finally, Eve and Dave swap their gifts. At the end of the event, Bob has the
 Options:
@@ -2175,7 +2175,7 @@ Options:
 
 At the end of the event, Bob has the yellow present.
 
-Final Answer: (B) yellow present",1
+Final Answer: (B) yellow present",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Ulysses, Bob gets Moby Dick, Claire gets The Pearl, Dave gets The Odyssey, and Eve gets The Fellowship of the Ring.
 As the semester proceeds, they start trading around the new books. First, Alice and Claire swap books. Then, Eve and Claire swap books. Then, Claire and Bob swap books. Then, Dave and Claire swap books. Finally, Bob and Dave swap books. At the end of the semester, Eve has
 Options:
@@ -2236,7 +2236,7 @@ Now, let's summarize the final books each person has:
 
 Since the question asks for the book that Eve has at the end of the semester, we see that Eve has Ulysses.
 
-Final Answer: A",1
+Final Answer: A",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a black ball, Bob has a blue ball, Claire has a orange ball, Dave has a pink ball, and Eve has a white ball.
 As the game progresses, pairs of players trade balls. First, Eve and Bob swap balls. Then, Dave and Bob swap balls. Then, Dave and Alice swap balls. Then, Eve and Claire swap balls. Finally, Claire and Alice swap balls. At the end of the game, Eve has the
 Options:
@@ -2300,7 +2300,7 @@ Options:
 
 At the end of the game, Eve has the orange ball.
 
-Final Answer: (C) orange ball",1
+Final Answer: (C) orange ball",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Frankenstein, Bob gets The Pearl, Claire gets Hound of the Baskervilles, Dave gets Ulysses, and Eve gets The Great Gatsby.
 As the semester proceeds, they start trading around the new books. First, Dave and Claire swap books. Then, Bob and Claire swap books. Then, Claire and Eve swap books. Then, Bob and Claire swap books. Finally, Alice and Claire swap books. At the end of the semester, Dave has
 Options:
@@ -2372,7 +2372,7 @@ At the end of the semester, we need to find out what book Dave has. From the fin
 
 Thus, Dave has Hound of the Baskervilles.
 
-Final Answer: C",1
+Final Answer: C",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a green present, Bob has a yellow present, Claire has a orange ball, Dave has a white present, and Eve has a brown present.
 As the event progresses, pairs of people swap gifts. First, Eve and Dave swap their gifts. Then, Dave and Alice swap their gifts. Then, Bob and Dave swap their gifts. Then, Eve and Claire swap their gifts. Finally, Eve and Alice swap their gifts. At the end of the event, Dave has the
 Options:
@@ -2441,7 +2441,7 @@ Options:
 
 At the end of the event, Dave has the yellow present.
 
-Final Answer: (B) yellow present",1
+Final Answer: (B) yellow present",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets The Great Gatsby, Bob gets The Pearl, Claire gets Ulysses, Dave gets Hound of the Baskervilles, and Eve gets Moby Dick.
 As the semester proceeds, they start trading around the new books. First, Dave and Claire swap books. Then, Claire and Eve swap books. Then, Alice and Claire swap books. Then, Claire and Bob swap books. Finally, Dave and Eve swap books. At the end of the semester, Claire has
 Options:
@@ -2510,7 +2510,7 @@ Options:
 
 At the end of the semester, Claire has The Pearl.
 
-Final Answer: (B) The Pearl",1
+Final Answer: (B) The Pearl",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a orange ball, Bob has a black ball, Claire has a pink ball, Dave has a white ball, and Eve has a red ball.
 As the game progresses, pairs of players trade balls. First, Alice and Dave swap balls. Then, Bob and Claire swap balls. Then, Claire and Dave swap balls. Then, Dave and Bob swap balls. Finally, Alice and Eve swap balls. At the end of the game, Eve has the
 Options:
@@ -2574,7 +2574,7 @@ Options:
 
 At the end of the game, Eve has the white ball.
 
-Final Answer: (D) white ball",1
+Final Answer: (D) white ball",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Moby Dick, Bob gets Ulysses, Claire gets The Fellowship of the Ring, Dave gets Lolita, and Eve gets Catch-22.
 As the semester proceeds, they start trading around the new books. First, Claire and Bob swap books. Then, Claire and Dave swap books. Then, Dave and Alice swap books. Then, Dave and Bob swap books. Finally, Eve and Dave swap books. At the end of the semester, Dave has
 Options:
@@ -2638,7 +2638,7 @@ Options:
 
 At the end of the semester, Dave has Catch-22.
 
-Final Answer: E",1
+Final Answer: E",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing center midfielder, Bob is playing fullback, Claire is playing goalkeeper, Dave is playing left winger, and Eve is playing right winger.
 As the game progresses, pairs of players occasionally swap positions. First, Eve and Claire trade positions. Then, Alice and Dave trade positions. Then, Claire and Bob trade positions. Then, Eve and Alice trade positions. Finally, Claire and Eve trade positions. At the end of the match, Claire is playing
 Options:
@@ -2692,7 +2692,7 @@ Options:
 
 Now, we need to determine Claire's final position after all the swaps. After the last swap, Claire is playing as the left winger (LW).
 
-Final Answer: (D) left winger",1
+Final Answer: (D) left winger",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets The Fellowship of the Ring, Bob gets The Odyssey, Claire gets Catch-22, Dave gets The Great Gatsby, and Eve gets Lolita.
 As the semester proceeds, they start trading around the new books. First, Alice and Eve swap books. Then, Claire and Eve swap books. Then, Alice and Eve swap books. Then, Eve and Dave swap books. Finally, Alice and Bob swap books. At the end of the semester, Bob has
 Options:
@@ -2751,7 +2751,7 @@ Options:
 
 At the end of the semester, Bob has Catch-22.
 
-Final Answer: C",1
+Final Answer: C",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Helga, Bob is dancing with Rodrigo, Claire is dancing with Melissa, Dave is dancing with Patrick, and Eve is dancing with Jamie.
 Throughout the song, the dancers often trade partners. First, Eve and Bob switch partners. Then, Alice and Bob switch partners. Then, Dave and Eve switch partners. Then, Eve and Claire switch partners. Finally, Alice and Claire switch partners. At the end of the dance, Eve is dancing with
 Options:
@@ -2805,7 +2805,7 @@ Options:
 
 At the end of the dance, Eve is dancing with Melissa.
 
-Final Answer: C",1
+Final Answer: C",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a blue ball, Bob has a purple ball, Claire has a green ball, Dave has a brown ball, and Eve has a orange ball.
 As the game progresses, pairs of players trade balls. First, Bob and Claire swap balls. Then, Dave and Bob swap balls. Then, Claire and Bob swap balls. Then, Bob and Alice swap balls. Finally, Eve and Bob swap balls. At the end of the game, Bob has the
 Options:
@@ -2869,7 +2869,7 @@ Options:
 
 At the end of the game, Bob has the orange ball.
 
-Final Answer: (E) orange ball",1
+Final Answer: (E) orange ball",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Ophelia, Bob is dancing with Jamie, Claire is dancing with Sam, Dave is dancing with Melissa, and Eve is dancing with Rodrigo.
 Throughout the song, the dancers often trade partners. First, Eve and Dave switch partners. Then, Alice and Bob switch partners. Then, Dave and Bob switch partners. Then, Bob and Alice switch partners. Finally, Alice and Claire switch partners. At the end of the dance, Bob is dancing with
 Options:
@@ -2923,7 +2923,7 @@ Options:
 
 Now, we need to find out who Bob is dancing with at the end of the dance. From the final step, we see that Bob is still dancing with Jamie.
 
-Final Answer: B",1
+Final Answer: B",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a brown present, Bob has a purple present, Claire has a orange ball, Dave has a pink ball, and Eve has a blue present.
 As the event progresses, pairs of people swap gifts. First, Claire and Eve swap their gifts. Then, Claire and Bob swap their gifts. Then, Alice and Dave swap their gifts. Then, Bob and Claire swap their gifts. Finally, Bob and Alice swap their gifts. At the end of the event, Eve has the
 Options:
@@ -2992,7 +2992,7 @@ Options:
 
 At the end of the event, Eve still has the orange ball.
 
-Final Answer: (C) orange ball",1
+Final Answer: (C) orange ball",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Jamie, Bob is dancing with Rodrigo, Claire is dancing with Patrick, Dave is dancing with Izzi, and Eve is dancing with Melissa.
 Throughout the song, the dancers often trade partners. First, Dave and Eve switch partners. Then, Bob and Claire switch partners. Then, Bob and Eve switch partners. Then, Claire and Alice switch partners. Finally, Claire and Bob switch partners. At the end of the dance, Dave is dancing with
 Options:
@@ -3050,7 +3050,7 @@ Now, we need to find out who Dave is dancing with at the end of the dance. From 
 
 Thus, the answer is:
 
-Final Answer: (E) Melissa",1
+Final Answer: (E) Melissa",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a green present, Bob has a purple present, Claire has a blue present, Dave has a black ball, and Eve has a white present.
 As the event progresses, pairs of people swap gifts. First, Eve and Bob swap their gifts. Then, Claire and Alice swap their gifts. Then, Bob and Eve swap their gifts. Then, Dave and Claire swap their gifts. Finally, Alice and Eve swap their gifts. At the end of the event, Dave has the
 Options:
@@ -3126,7 +3126,7 @@ Now, let's go through the swaps step by step:
 
 At the end of the event, Dave has the green present.
 
-Final Answer: (A) green present",1
+Final Answer: (A) green present",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Catch-22, Bob gets The Odyssey, Claire gets Moby Dick, Dave gets Lolita, and Eve gets Frankenstein.
 As the semester proceeds, they start trading around the new books. First, Claire and Eve swap books. Then, Alice and Bob swap books. Then, Bob and Eve swap books. Then, Eve and Alice swap books. Finally, Bob and Dave swap books. At the end of the semester, Claire has
 Options:
@@ -3190,7 +3190,7 @@ Options:
 
 At the end of the semester, Claire has Frankenstein.
 
-Final Answer: (E) Frankenstein",1
+Final Answer: (E) Frankenstein",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing left winger, Bob is playing fullback, Claire is playing benchwarmer, Dave is playing goalkeeper, and Eve is playing left midfielder.
 As the game progresses, pairs of players occasionally swap positions. First, Bob and Claire trade positions. Then, Bob and Dave trade positions. Then, Eve and Dave trade positions. Then, Dave and Claire trade positions. Finally, Alice and Dave trade positions. At the end of the match, Claire is playing
 Options:
@@ -3244,7 +3244,7 @@ Options:
 
 At the end of the match, Claire is playing Left Midfielder.
 
-Final Answer: (E) left midfielder",1
+Final Answer: (E) left midfielder",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing right midfielder, Bob is playing benchwarmer, Claire is playing left midfielder, Dave is playing right winger, and Eve is playing striker.
 As the game progresses, pairs of players occasionally swap positions. First, Alice and Bob trade positions. Then, Eve and Claire trade positions. Then, Eve and Bob trade positions. Then, Dave and Bob trade positions. Finally, Claire and Alice trade positions. At the end of the match, Eve is playing
 Options:
@@ -3298,7 +3298,7 @@ Options:
 
 At the end of the match, Eve is playing **Right Midfielder**.
 
-Final Answer: (A) right midfielder",1
+Final Answer: (A) right midfielder",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing center midfielder, Bob is playing fullback, Claire is playing goalkeeper, Dave is playing left winger, and Eve is playing right winger.
 As the game progresses, pairs of players occasionally swap positions. First, Eve and Claire trade positions. Then, Alice and Dave trade positions. Then, Claire and Bob trade positions. Then, Eve and Alice trade positions. Finally, Claire and Eve trade positions. At the end of the match, Eve is playing
 Options:
@@ -3352,7 +3352,7 @@ Options:
 
 At the end of the match, Eve is playing Fullback (FB).
 
-Final Answer: (B) fullback",1
+Final Answer: (B) fullback",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a purple present, Bob has a blue present, Claire has a brown present, Dave has a yellow present, and Eve has a black ball.
 As the event progresses, pairs of people swap gifts. First, Alice and Bob swap their gifts. Then, Bob and Dave swap their gifts. Then, Claire and Bob swap their gifts. Then, Dave and Alice swap their gifts. Finally, Dave and Eve swap their gifts. At the end of the event, Dave has the
 Options:
@@ -3421,7 +3421,7 @@ Options:
 
 At the end of the event, Dave has the black ball.
 
-Final Answer: (E) black ball",1
+Final Answer: (E) black ball",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing right winger, Bob is playing left midfielder, Claire is playing right midfielder, Dave is playing striker, and Eve is playing fullback.
 As the game progresses, pairs of players occasionally swap positions. First, Eve and Claire trade positions. Then, Dave and Bob trade positions. Then, Eve and Dave trade positions. Then, Alice and Claire trade positions. Finally, Bob and Eve trade positions. At the end of the match, Eve is playing
 Options:
@@ -3475,7 +3475,7 @@ Options:
 
 At the end of the match, Eve is playing Striker.
 
-Final Answer: (D) striker",1
+Final Answer: (D) striker",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing benchwarmer, Bob is playing left midfielder, Claire is playing right midfielder, Dave is playing goalkeeper, and Eve is playing center midfielder.
 As the game progresses, pairs of players occasionally swap positions. First, Dave and Bob trade positions. Then, Dave and Claire trade positions. Then, Eve and Bob trade positions. Then, Alice and Dave trade positions. Finally, Eve and Claire trade positions. At the end of the match, Bob is playing
 Options:
@@ -3529,7 +3529,7 @@ Options:
 
 At the end of the match, Bob is playing as the Center Midfielder.
 
-Final Answer: (E) center midfielder",1
+Final Answer: (E) center midfielder",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a green present, Bob has a brown present, Claire has a white present, Dave has a black ball, and Eve has a orange ball.
 As the event progresses, pairs of people swap gifts. First, Dave and Claire swap their gifts. Then, Dave and Eve swap their gifts. Then, Alice and Claire swap their gifts. Then, Eve and Alice swap their gifts. Finally, Bob and Dave swap their gifts. At the end of the event, Eve has the
 Options:
@@ -3598,7 +3598,7 @@ Options:
 
 At the end of the event, Eve has the black ball.
 
-Final Answer: (D) black ball",1
+Final Answer: (D) black ball",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Rodrigo, Bob is dancing with Sam, Claire is dancing with Karl, Dave is dancing with Izzi, and Eve is dancing with Jamie.
 Throughout the song, the dancers often trade partners. First, Eve and Bob switch partners. Then, Dave and Alice switch partners. Then, Alice and Claire switch partners. Then, Eve and Claire switch partners. Finally, Alice and Bob switch partners. At the end of the dance, Eve is dancing with
 Options:
@@ -3652,7 +3652,7 @@ Options:
 
 At the end of the dance, Eve is dancing with Izzi.
 
-Final Answer: (D) Izzi",1
+Final Answer: (D) Izzi",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a brown present, Bob has a black ball, Claire has a green present, Dave has a purple present, and Eve has a yellow present.
 As the event progresses, pairs of people swap gifts. First, Bob and Dave swap their gifts. Then, Bob and Eve swap their gifts. Then, Dave and Claire swap their gifts. Then, Dave and Bob swap their gifts. Finally, Alice and Dave swap their gifts. At the end of the event, Dave has the
 Options:
@@ -3721,7 +3721,7 @@ Options:
 
 At the end of the event, Dave has the brown present.
 
-Final Answer: (A) brown present",1
+Final Answer: (A) brown present",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Ophelia, Bob is dancing with Karl, Claire is dancing with Lola, Dave is dancing with Jamie, and Eve is dancing with Izzi.
 Throughout the song, the dancers often trade partners. First, Claire and Alice switch partners. Then, Eve and Alice switch partners. Then, Claire and Dave switch partners. Then, Dave and Bob switch partners. Finally, Claire and Alice switch partners. At the end of the dance, Eve is dancing with
 Options:
@@ -3790,7 +3790,7 @@ Options:
 
 At the end of the dance, we see that Eve is still dancing with Lola.
 
-Final Answer: (C) Lola",1
+Final Answer: (C) Lola",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Karl, Bob is dancing with Patrick, Claire is dancing with Jamie, Dave is dancing with Rodrigo, and Eve is dancing with Lola.
 Throughout the song, the dancers often trade partners. First, Eve and Claire switch partners. Then, Bob and Alice switch partners. Then, Dave and Bob switch partners. Then, Dave and Eve switch partners. Finally, Claire and Eve switch partners. At the end of the dance, Dave is dancing with
 Options:
@@ -3848,7 +3848,7 @@ Now, we need to find out who Dave is dancing with at the end of the dance. From 
 
 Thus, the answer is:
 
-Final Answer: C",1
+Final Answer: C",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a orange ball, Bob has a black ball, Claire has a green ball, Dave has a brown ball, and Eve has a yellow ball.
 As the game progresses, pairs of players trade balls. First, Eve and Alice swap balls. Then, Claire and Bob swap balls. Then, Dave and Bob swap balls. Then, Alice and Eve swap balls. Finally, Dave and Claire swap balls. At the end of the game, Alice has the
 Options:
@@ -3912,7 +3912,7 @@ Options:
 
 At the end of the game, Alice has the orange ball.
 
-Final Answer: (A) orange ball",1
+Final Answer: (A) orange ball",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Sam, Bob is dancing with Karl, Claire is dancing with Izzi, Dave is dancing with Patrick, and Eve is dancing with Helga.
 Throughout the song, the dancers often trade partners. First, Bob and Claire switch partners. Then, Eve and Dave switch partners. Then, Bob and Dave switch partners. Then, Alice and Bob switch partners. Finally, Bob and Eve switch partners. At the end of the dance, Bob is dancing with
 Options:
@@ -3966,7 +3966,7 @@ Options:
 
 Now, at the end of the dance, we see that Bob is dancing with Patrick.
 
-Final Answer: D",1
+Final Answer: D",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a green present, Bob has a brown present, Claire has a purple present, Dave has a white present, and Eve has a blue present.
 As the event progresses, pairs of people swap gifts. First, Alice and Bob swap their gifts. Then, Bob and Eve swap their gifts. Then, Dave and Eve swap their gifts. Then, Alice and Claire swap their gifts. Finally, Bob and Eve swap their gifts. At the end of the event, Dave has the
 Options:
@@ -4014,7 +4014,7 @@ At the end of all the swaps, we summarize the final gifts:
 
 Now, we need to determine what gift Dave has. From the final summary, we see that Dave has the Green present.
 
-Final Answer: (A) green present",1
+Final Answer: (A) green present",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets The Great Gatsby, Bob gets Moby Dick, Claire gets The Pearl, Dave gets Lolita, and Eve gets The Odyssey.
 As the semester proceeds, they start trading around the new books. First, Eve and Claire swap books. Then, Dave and Alice swap books. Then, Dave and Eve swap books. Then, Alice and Dave swap books. Finally, Bob and Eve swap books. At the end of the semester, Bob has
 Options:
@@ -4068,7 +4068,7 @@ Options:
 
 At the end of the semester, Bob has The Great Gatsby.
 
-Final Answer: (A) The Great Gatsby",1
+Final Answer: (A) The Great Gatsby",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing fullback, Bob is playing center midfielder, Claire is playing right midfielder, Dave is playing left winger, and Eve is playing goalkeeper.
 As the game progresses, pairs of players occasionally swap positions. First, Dave and Eve trade positions. Then, Claire and Bob trade positions. Then, Alice and Bob trade positions. Then, Eve and Dave trade positions. Finally, Bob and Alice trade positions. At the end of the match, Eve is playing
 Options:
@@ -4122,7 +4122,7 @@ Options:
 
 At the end of the match, Eve is still in the position of Goalkeeper.
 
-Final Answer: (E) goalkeeper",1
+Final Answer: (E) goalkeeper",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Karl, Bob is dancing with Patrick, Claire is dancing with Jamie, Dave is dancing with Rodrigo, and Eve is dancing with Lola.
 Throughout the song, the dancers often trade partners. First, Eve and Claire switch partners. Then, Bob and Alice switch partners. Then, Dave and Bob switch partners. Then, Dave and Eve switch partners. Finally, Claire and Eve switch partners. At the end of the dance, Eve is dancing with
 Options:
@@ -4176,7 +4176,7 @@ Options:
 
 At the end of the dance, Eve is dancing with Lola.
 
-Final Answer: E",1
+Final Answer: E",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a orange ball, Bob has a green ball, Claire has a blue ball, Dave has a pink ball, and Eve has a purple ball.
 As the game progresses, pairs of players trade balls. First, Dave and Alice swap balls. Then, Bob and Claire swap balls. Then, Bob and Alice swap balls. Then, Alice and Claire swap balls. Finally, Eve and Bob swap balls. At the end of the game, Bob has the
 Options:
@@ -4240,7 +4240,7 @@ Options:
 
 At the end of the game, Bob has the purple ball.
 
-Final Answer: (E) purple ball",1
+Final Answer: (E) purple ball",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Karl, Bob is dancing with Melissa, Claire is dancing with Lola, Dave is dancing with Sam, and Eve is dancing with Izzi.
 Throughout the song, the dancers often trade partners. First, Claire and Dave switch partners. Then, Eve and Bob switch partners. Then, Claire and Alice switch partners. Then, Eve and Alice switch partners. Finally, Claire and Dave switch partners. At the end of the dance, Alice is dancing with
 Options:
@@ -4294,7 +4294,7 @@ Options:
 
 At the end of the dance, Alice is dancing with Melissa.
 
-Final Answer: B",1
+Final Answer: B",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing cheerleader, Bob is playing goalkeeper, Claire is playing striker, Dave is playing left midfielder, and Eve is playing right winger.
 As the game progresses, pairs of players occasionally swap positions. First, Claire and Eve trade positions. Then, Claire and Dave trade positions. Then, Eve and Claire trade positions. Then, Claire and Alice trade positions. Finally, Bob and Dave trade positions. At the end of the match, Dave is playing
 Options:
@@ -4350,7 +4350,7 @@ At the end of the match, we need to find out what position Dave is playing. Afte
 
 - Dave is now playing as the **Goalkeeper**.
 
-Final Answer: (B) goalkeeper",1
+Final Answer: (B) goalkeeper",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing fullback, Bob is playing right winger, Claire is playing center midfielder, Dave is playing striker, and Eve is playing benchwarmer.
 As the game progresses, pairs of players occasionally swap positions. First, Alice and Bob trade positions. Then, Dave and Bob trade positions. Then, Alice and Claire trade positions. Then, Bob and Claire trade positions. Finally, Alice and Eve trade positions. At the end of the match, Bob is playing
 Options:
@@ -4404,7 +4404,7 @@ Options:
 
 At the end of the match, Bob is playing Right Winger.
 
-Final Answer: (B) right winger",1
+Final Answer: (B) right winger",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a black ball, Bob has a brown ball, Claire has a blue ball, Dave has a green ball, and Eve has a yellow ball.
 As the game progresses, pairs of players trade balls. First, Eve and Claire swap balls. Then, Bob and Dave swap balls. Then, Eve and Alice swap balls. Then, Claire and Bob swap balls. Finally, Alice and Eve swap balls. At the end of the game, Bob has the
 Options:
@@ -4468,7 +4468,7 @@ Options:
 
 Now, we can see that Bob has the yellow ball at the end of the game.
 
-Final Answer: (E) yellow ball",1
+Final Answer: (E) yellow ball",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing striker, Bob is playing right winger, Claire is playing goalkeeper, Dave is playing left winger, and Eve is playing left midfielder.
 As the game progresses, pairs of players occasionally swap positions. First, Dave and Bob trade positions. Then, Alice and Bob trade positions. Then, Eve and Dave trade positions. Then, Bob and Dave trade positions. Finally, Claire and Alice trade positions. At the end of the match, Claire is playing
 Options:
@@ -4522,7 +4522,7 @@ Options:
 
 At the end of the match, Claire is playing Left Winger.
 
-Final Answer: (D) left winger",1
+Final Answer: (D) left winger",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Sam, Bob is dancing with Izzi, Claire is dancing with Karl, Dave is dancing with Helga, and Eve is dancing with Ophelia.
 Throughout the song, the dancers often trade partners. First, Bob and Alice switch partners. Then, Alice and Claire switch partners. Then, Alice and Dave switch partners. Then, Alice and Eve switch partners. Finally, Dave and Claire switch partners. At the end of the dance, Claire is dancing with
 Options:
@@ -4576,7 +4576,7 @@ Options:
 
 Now, we need to find out who Claire is dancing with at the end of the dance. After all the switches, Claire is still dancing with Karl.
 
-Final Answer: (C) Karl",1
+Final Answer: (C) Karl",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing right winger, Bob is playing striker, Claire is playing benchwarmer, Dave is playing fullback, and Eve is playing left midfielder.
 As the game progresses, pairs of players occasionally swap positions. First, Dave and Bob trade positions. Then, Claire and Eve trade positions. Then, Eve and Bob trade positions. Then, Alice and Claire trade positions. Finally, Alice and Dave trade positions. At the end of the match, Claire is playing
 Options:
@@ -4630,7 +4630,7 @@ Options:
 
 At the end of the match, Claire is playing Right Winger.
 
-Final Answer: (A) right winger",1
+Final Answer: (A) right winger",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a orange ball, Bob has a black ball, Claire has a red ball, Dave has a pink ball, and Eve has a blue ball.
 As the game progresses, pairs of players trade balls. First, Eve and Bob swap balls. Then, Claire and Eve swap balls. Then, Bob and Dave swap balls. Then, Eve and Alice swap balls. Finally, Dave and Bob swap balls. At the end of the game, Alice has the
 Options:
@@ -4699,7 +4699,7 @@ Options:
 
 At the end of the game, Alice has the red ball.
 
-Final Answer: (C) red ball",1
+Final Answer: (C) red ball",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a black ball, Bob has a brown ball, Claire has a blue ball, Dave has a white ball, and Eve has a green ball.
 As the game progresses, pairs of players trade balls. First, Dave and Eve swap balls. Then, Bob and Claire swap balls. Then, Claire and Alice swap balls. Then, Dave and Eve swap balls. Finally, Eve and Claire swap balls. At the end of the game, Alice has the
 Options:
@@ -4763,7 +4763,7 @@ Options:
 
 At the end of the game, Alice has the brown ball.
 
-Final Answer: (B) brown ball",1
+Final Answer: (B) brown ball",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Ophelia, Bob is dancing with Lola, Claire is dancing with Izzi, Dave is dancing with Karl, and Eve is dancing with Jamie.
 Throughout the song, the dancers often trade partners. First, Bob and Claire switch partners. Then, Eve and Dave switch partners. Then, Eve and Claire switch partners. Then, Alice and Eve switch partners. Finally, Alice and Bob switch partners. At the end of the dance, Alice is dancing with
 Options:
@@ -4817,7 +4817,7 @@ Options:
 
 At the end of the dance, Alice is dancing with Izzi.
 
-Final Answer: C",1
+Final Answer: C",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Hound of the Baskervilles, Bob gets Moby Dick, Claire gets The Fellowship of the Ring, Dave gets Catch-22, and Eve gets Frankenstein.
 As the semester proceeds, they start trading around the new books. First, Claire and Dave swap books. Then, Alice and Eve swap books. Then, Bob and Eve swap books. Then, Dave and Bob swap books. Finally, Alice and Dave swap books. At the end of the semester, Dave has
 Options:
@@ -4881,7 +4881,7 @@ Options:
 
 At the end of the semester, Dave has Frankenstein.
 
-Final Answer: E",1
+Final Answer: E",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing right midfielder, Bob is playing benchwarmer, Claire is playing left midfielder, Dave is playing right winger, and Eve is playing striker.
 As the game progresses, pairs of players occasionally swap positions. First, Alice and Bob trade positions. Then, Eve and Claire trade positions. Then, Eve and Bob trade positions. Then, Dave and Bob trade positions. Finally, Claire and Alice trade positions. At the end of the match, Bob is playing
 Options:
@@ -4950,7 +4950,7 @@ Options:
 
 At the end of the match, Bob is playing Right Winger.
 
-Final Answer: (D) right winger",1
+Final Answer: (D) right winger",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets The Great Gatsby, Bob gets The Odyssey, Claire gets The Fellowship of the Ring, Dave gets Moby Dick, and Eve gets Lolita.
 As the semester proceeds, they start trading around the new books. First, Alice and Bob swap books. Then, Eve and Bob swap books. Then, Bob and Claire swap books. Then, Alice and Claire swap books. Finally, Dave and Claire swap books. At the end of the semester, Dave has
 Options:
@@ -5006,7 +5006,7 @@ At the end of the semester, we see that:
 - Dave has The Odyssey.
 
 Thus, the answer is:
-Final Answer: (B) The Odyssey",1
+Final Answer: (B) The Odyssey",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Ophelia, Bob is dancing with Izzi, Claire is dancing with Helga, Dave is dancing with Patrick, and Eve is dancing with Lola.
 Throughout the song, the dancers often trade partners. First, Eve and Claire switch partners. Then, Claire and Dave switch partners. Then, Claire and Alice switch partners. Then, Bob and Alice switch partners. Finally, Dave and Claire switch partners. At the end of the dance, Dave is dancing with
 Options:
@@ -5060,7 +5060,7 @@ Options:
 
 Now, we need to find out who Dave is dancing with at the end of the dance. After all the switches, Dave is dancing with Ophelia.
 
-Final Answer: (A) Ophelia",1
+Final Answer: (A) Ophelia",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a green present, Bob has a yellow present, Claire has a orange ball, Dave has a white present, and Eve has a brown present.
 As the event progresses, pairs of people swap gifts. First, Eve and Dave swap their gifts. Then, Dave and Alice swap their gifts. Then, Bob and Dave swap their gifts. Then, Eve and Claire swap their gifts. Finally, Eve and Alice swap their gifts. At the end of the event, Bob has the
 Options:
@@ -5136,7 +5136,7 @@ Now, let's go through the swaps step by step:
 
 At the end of the event, Bob has the green present.
 
-Final Answer: (A) green present",1
+Final Answer: (A) green present",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Hound of the Baskervilles, Bob gets Moby Dick, Claire gets The Fellowship of the Ring, Dave gets The Odyssey, and Eve gets Frankenstein.
 As the semester proceeds, they start trading around the new books. First, Eve and Alice swap books. Then, Bob and Eve swap books. Then, Claire and Dave swap books. Then, Alice and Eve swap books. Finally, Claire and Bob swap books. At the end of the semester, Claire has
 Options:
@@ -5200,7 +5200,7 @@ Options:
 
 At the end of all the trades, Claire has Hound of the Baskervilles.
 
-Final Answer: (A) Hound of the Baskervilles",1
+Final Answer: (A) Hound of the Baskervilles",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing left midfielder, Bob is playing goalkeeper, Claire is playing fullback, Dave is playing striker, and Eve is playing left winger.
 As the game progresses, pairs of players occasionally swap positions. First, Eve and Dave trade positions. Then, Dave and Alice trade positions. Then, Bob and Dave trade positions. Then, Claire and Bob trade positions. Finally, Claire and Alice trade positions. At the end of the match, Bob is playing
 Options:
@@ -5261,7 +5261,7 @@ Now, let's summarize the final positions:
 
 At the end of the match, Bob is playing Fullback.
 
-Final Answer: (C) fullback",1
+Final Answer: (C) fullback",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets The Great Gatsby, Bob gets The Pearl, Claire gets Hound of the Baskervilles, Dave gets The Fellowship of the Ring, and Eve gets The Odyssey.
 As the semester proceeds, they start trading around the new books. First, Claire and Eve swap books. Then, Alice and Dave swap books. Then, Eve and Alice swap books. Then, Dave and Bob swap books. Finally, Dave and Alice swap books. At the end of the semester, Eve has
 Options:
@@ -5325,7 +5325,7 @@ Options:
 
 At the end of the semester, Eve has The Fellowship of the Ring.
 
-Final Answer: (D) The Fellowship of the Ring",1
+Final Answer: (D) The Fellowship of the Ring",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a blue present, Bob has a green present, Claire has a pink ball, Dave has a yellow present, and Eve has a black ball.
 As the event progresses, pairs of people swap gifts. First, Bob and Dave swap their gifts. Then, Bob and Alice swap their gifts. Then, Eve and Dave swap their gifts. Then, Bob and Eve swap their gifts. Finally, Eve and Claire swap their gifts. At the end of the event, Eve has the
 Options:
@@ -5391,7 +5391,7 @@ Now, let's go through the swaps step by step:
 
 At the end of the event, Eve has the pink ball.
 
-Final Answer: (C) pink ball",1
+Final Answer: (C) pink ball",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Helga, Bob is dancing with Jamie, Claire is dancing with Ophelia, Dave is dancing with Karl, and Eve is dancing with Rodrigo.
 Throughout the song, the dancers often trade partners. First, Eve and Bob switch partners. Then, Dave and Claire switch partners. Then, Claire and Bob switch partners. Then, Dave and Alice switch partners. Finally, Claire and Eve switch partners. At the end of the dance, Bob is dancing with
 Options:
@@ -5449,7 +5449,7 @@ From the final configuration:
 - Bob is dancing with Karl.
 
 Thus, the answer is:
-Final Answer: D",1
+Final Answer: D",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing striker, Bob is playing fullback, Claire is playing cheerleader, Dave is playing benchwarmer, and Eve is playing goalkeeper.
 As the game progresses, pairs of players occasionally swap positions. First, Alice and Eve trade positions. Then, Alice and Claire trade positions. Then, Dave and Bob trade positions. Then, Alice and Dave trade positions. Finally, Dave and Eve trade positions. At the end of the match, Bob is playing
 Options:
@@ -5513,7 +5513,7 @@ Options:
 
 Now, we need to determine Bob's final position. After all the swaps, Bob is in the position of Benchwarmer.
 
-Final Answer: (D) benchwarmer",1
+Final Answer: (D) benchwarmer",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Sam, Bob is dancing with Izzi, Claire is dancing with Jamie, Dave is dancing with Ophelia, and Eve is dancing with Patrick.
 Throughout the song, the dancers often trade partners. First, Bob and Dave switch partners. Then, Alice and Eve switch partners. Then, Claire and Dave switch partners. Then, Bob and Eve switch partners. Finally, Alice and Bob switch partners. At the end of the dance, Bob is dancing with
 Options:
@@ -5577,7 +5577,7 @@ Options:
 
 At the end of the dance, Bob is dancing with Patrick.
 
-Final Answer: (E) Patrick",1
+Final Answer: (E) Patrick",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a brown present, Bob has a white present, Claire has a black ball, Dave has a red present, and Eve has a purple present.
 As the event progresses, pairs of people swap gifts. First, Bob and Claire swap their gifts. Then, Eve and Alice swap their gifts. Then, Bob and Claire swap their gifts. Then, Claire and Dave swap their gifts. Finally, Eve and Dave swap their gifts. At the end of the event, Eve has the
 Options:
@@ -5646,7 +5646,7 @@ Options:
 
 At the end of the event, Eve has the black ball.
 
-Final Answer: (C) black ball",1
+Final Answer: (C) black ball",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a pink ball, Bob has a red present, Claire has a green present, Dave has a orange ball, and Eve has a black ball.
 As the event progresses, pairs of people swap gifts. First, Alice and Dave swap their gifts. Then, Dave and Eve swap their gifts. Then, Dave and Alice swap their gifts. Then, Bob and Claire swap their gifts. Finally, Bob and Eve swap their gifts. At the end of the event, Dave has the
 Options:
@@ -5715,7 +5715,7 @@ Options:
 
 At the end of the event, Dave has the orange ball.
 
-Final Answer: (D) orange ball",1
+Final Answer: (D) orange ball",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Helga, Bob is dancing with Karl, Claire is dancing with Melissa, Dave is dancing with Ophelia, and Eve is dancing with Sam.
 Throughout the song, the dancers often trade partners. First, Alice and Dave switch partners. Then, Eve and Alice switch partners. Then, Bob and Claire switch partners. Then, Alice and Claire switch partners. Finally, Dave and Eve switch partners. At the end of the dance, Dave is dancing with
 Options:
@@ -5779,7 +5779,7 @@ Options:
 
 At the end of the dance, Dave is dancing with Ophelia.
 
-Final Answer: D",1
+Final Answer: D",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Melissa, Bob is dancing with Lola, Claire is dancing with Jamie, Dave is dancing with Patrick, and Eve is dancing with Ophelia.
 Throughout the song, the dancers often trade partners. First, Bob and Dave switch partners. Then, Claire and Eve switch partners. Then, Dave and Alice switch partners. Then, Claire and Eve switch partners. Finally, Eve and Bob switch partners. At the end of the dance, Bob is dancing with
 Options:
@@ -5848,7 +5848,7 @@ Options:
 
 At the end of the dance, Bob is dancing with Ophelia.
 
-Final Answer: E",1
+Final Answer: E",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a purple present, Bob has a green present, Claire has a brown present, Dave has a red present, and Eve has a white present.
 As the event progresses, pairs of people swap gifts. First, Eve and Claire swap their gifts. Then, Claire and Bob swap their gifts. Then, Bob and Alice swap their gifts. Then, Eve and Alice swap their gifts. Finally, Bob and Dave swap their gifts. At the end of the event, Eve has the
 Options:
@@ -5917,7 +5917,7 @@ Options:
 
 At the end of the event, Eve has the white present.
 
-Final Answer: (E) white present",1
+Final Answer: (E) white present",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a brown ball, Bob has a blue ball, Claire has a orange ball, Dave has a pink ball, and Eve has a white ball.
 As the game progresses, pairs of players trade balls. First, Dave and Alice swap balls. Then, Alice and Claire swap balls. Then, Claire and Bob swap balls. Then, Eve and Bob swap balls. Finally, Alice and Dave swap balls. At the end of the game, Claire has the
 Options:
@@ -5985,7 +5985,7 @@ Now, we need to determine which ball Claire has at the end of the game. From the
 
 Thus, the answer is (B) blue ball.
 
-Final Answer: B",1
+Final Answer: B",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Ulysses, Bob gets Moby Dick, Claire gets The Pearl, Dave gets The Odyssey, and Eve gets The Fellowship of the Ring.
 As the semester proceeds, they start trading around the new books. First, Alice and Claire swap books. Then, Eve and Claire swap books. Then, Claire and Bob swap books. Then, Dave and Claire swap books. Finally, Bob and Dave swap books. At the end of the semester, Alice has
 Options:
@@ -6039,7 +6039,7 @@ Options:
 
 At the end of the semester, Alice has The Pearl.
 
-Final Answer: (C) The Pearl",1
+Final Answer: (C) The Pearl",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets The Great Gatsby, Bob gets Frankenstein, Claire gets The Pearl, Dave gets Catch-22, and Eve gets Ulysses.
 As the semester proceeds, they start trading around the new books. First, Claire and Dave swap books. Then, Bob and Alice swap books. Then, Dave and Alice swap books. Then, Bob and Claire swap books. Finally, Dave and Eve swap books. At the end of the semester, Eve has
 Options:
@@ -6103,7 +6103,7 @@ Options:
 
 At the end of the semester, Eve has Frankenstein.
 
-Final Answer: (B) Frankenstein",1
+Final Answer: (B) Frankenstein",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a pink ball, Bob has a brown present, Claire has a green present, Dave has a red present, and Eve has a purple present.
 As the event progresses, pairs of people swap gifts. First, Claire and Bob swap their gifts. Then, Claire and Dave swap their gifts. Then, Bob and Alice swap their gifts. Then, Alice and Eve swap their gifts. Finally, Dave and Alice swap their gifts. At the end of the event, Claire has the
 Options:
@@ -6169,7 +6169,7 @@ Now, let's go through the swaps step by step:
 
 At the end of the event, Claire has the red present.
 
-Final Answer: (D) red present",1
+Final Answer: (D) red present",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing left winger, Bob is playing benchwarmer, Claire is playing striker, Dave is playing fullback, and Eve is playing center midfielder.
 As the game progresses, pairs of players occasionally swap positions. First, Dave and Claire trade positions. Then, Bob and Eve trade positions. Then, Alice and Claire trade positions. Then, Bob and Eve trade positions. Finally, Claire and Bob trade positions. At the end of the match, Claire is playing
 Options:
@@ -6223,7 +6223,7 @@ Options:
 
 At the end of all the swaps, we find that Claire is now in the position of Benchwarmer.
 
-Final Answer: (B) benchwarmer",1
+Final Answer: (B) benchwarmer",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Karl, Bob is dancing with Melissa, Claire is dancing with Lola, Dave is dancing with Sam, and Eve is dancing with Izzi.
 Throughout the song, the dancers often trade partners. First, Claire and Dave switch partners. Then, Eve and Bob switch partners. Then, Claire and Alice switch partners. Then, Eve and Alice switch partners. Finally, Claire and Dave switch partners. At the end of the dance, Bob is dancing with
 Options:
@@ -6350,7 +6350,7 @@ Options:
 
 At the end of the match, Eve is playing benchwarmer.
 
-Final Answer: (C) benchwarmer",1
+Final Answer: (C) benchwarmer",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a green ball, Bob has a purple ball, Claire has a black ball, Dave has a blue ball, and Eve has a red ball.
 As the game progresses, pairs of players trade balls. First, Dave and Eve swap balls. Then, Bob and Alice swap balls. Then, Eve and Claire swap balls. Then, Bob and Dave swap balls. Finally, Dave and Claire swap balls. At the end of the game, Claire has the
 Options:
@@ -6414,7 +6414,7 @@ Options:
 
 At the end of the game, Claire has the green ball.
 
-Final Answer: (A) green ball",1
+Final Answer: (A) green ball",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a orange ball, Bob has a blue ball, Claire has a black ball, Dave has a white ball, and Eve has a purple ball.
 As the game progresses, pairs of players trade balls. First, Bob and Dave swap balls. Then, Claire and Eve swap balls. Then, Dave and Eve swap balls. Then, Claire and Dave swap balls. Finally, Alice and Bob swap balls. At the end of the game, Dave has the
 Options:
@@ -6483,7 +6483,7 @@ Options:
 
 At the end of the game, Dave has the purple ball.
 
-Final Answer: E",1
+Final Answer: E",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a red ball, Bob has a green ball, Claire has a brown ball, Dave has a black ball, and Eve has a orange ball.
 As the game progresses, pairs of players trade balls. First, Claire and Alice swap balls. Then, Dave and Eve swap balls. Then, Claire and Eve swap balls. Then, Bob and Claire swap balls. Finally, Alice and Claire swap balls. At the end of the game, Alice has the
 Options:
@@ -6547,7 +6547,7 @@ Options:
 
 At the end of the game, Alice has the green ball.
 
-Final Answer: (B) green ball",1
+Final Answer: (B) green ball",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing benchwarmer, Bob is playing left midfielder, Claire is playing right midfielder, Dave is playing goalkeeper, and Eve is playing center midfielder.
 As the game progresses, pairs of players occasionally swap positions. First, Dave and Bob trade positions. Then, Dave and Claire trade positions. Then, Eve and Bob trade positions. Then, Alice and Dave trade positions. Finally, Eve and Claire trade positions. At the end of the match, Claire is playing
 Options:
@@ -6601,7 +6601,7 @@ Options:
 
 At the end of the match, Claire is playing goalkeeper.
 
-Final Answer: (D) goalkeeper",1
+Final Answer: (D) goalkeeper",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing right midfielder, Bob is playing cheerleader, Claire is playing left midfielder, Dave is playing left winger, and Eve is playing benchwarmer.
 As the game progresses, pairs of players occasionally swap positions. First, Dave and Bob trade positions. Then, Claire and Dave trade positions. Then, Alice and Claire trade positions. Then, Claire and Dave trade positions. Finally, Eve and Alice trade positions. At the end of the match, Claire is playing
 Options:
@@ -6655,7 +6655,7 @@ Options:
 
 At the end of the match, Claire is playing Left Midfielder.
 
-Final Answer: (C) left midfielder",1
+Final Answer: (C) left midfielder",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a blue ball, Bob has a purple ball, Claire has a green ball, Dave has a brown ball, and Eve has a orange ball.
 As the game progresses, pairs of players trade balls. First, Bob and Claire swap balls. Then, Dave and Bob swap balls. Then, Claire and Bob swap balls. Then, Bob and Alice swap balls. Finally, Eve and Bob swap balls. At the end of the game, Claire has the
 Options:
@@ -6724,7 +6724,7 @@ Options:
 
 At the end of the game, Claire has the brown ball.
 
-Final Answer: (D) brown ball",1
+Final Answer: (D) brown ball",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing center midfielder, Bob is playing left midfielder, Claire is playing right midfielder, Dave is playing benchwarmer, and Eve is playing left winger.
 As the game progresses, pairs of players occasionally swap positions. First, Eve and Bob trade positions. Then, Alice and Bob trade positions. Then, Alice and Dave trade positions. Then, Claire and Alice trade positions. Finally, Dave and Eve trade positions. At the end of the match, Alice is playing
 Options:
@@ -6778,7 +6778,7 @@ Options:
 
 At the end of the match, Alice is playing Right Midfielder (RM).
 
-Final Answer: (C) right midfielder",1
+Final Answer: (C) right midfielder",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a orange ball, Bob has a black ball, Claire has a red ball, Dave has a pink ball, and Eve has a blue ball.
 As the game progresses, pairs of players trade balls. First, Eve and Bob swap balls. Then, Claire and Eve swap balls. Then, Bob and Dave swap balls. Then, Eve and Alice swap balls. Finally, Dave and Bob swap balls. At the end of the game, Bob has the
 Options:
@@ -6847,7 +6847,7 @@ Options:
 
 At the end of the game, Bob has the blue ball.
 
-Final Answer: (E) blue ball",1
+Final Answer: (E) blue ball",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a green present, Bob has a orange ball, Claire has a white present, Dave has a red present, and Eve has a pink ball.
 As the event progresses, pairs of people swap gifts. First, Eve and Alice swap their gifts. Then, Dave and Bob swap their gifts. Then, Claire and Dave swap their gifts. Then, Eve and Claire swap their gifts. Finally, Bob and Dave swap their gifts. At the end of the event, Claire has the
 Options:
@@ -6926,7 +6926,7 @@ Now, we need to determine what Claire has at the end of the event. From the fina
 - Claire has the green present.
 
 Thus, the answer is:
-Final Answer: (A) green present",1
+Final Answer: (A) green present",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Izzi, Bob is dancing with Lola, Claire is dancing with Sam, Dave is dancing with Patrick, and Eve is dancing with Jamie.
 Throughout the song, the dancers often trade partners. First, Claire and Eve switch partners. Then, Dave and Alice switch partners. Then, Claire and Dave switch partners. Then, Claire and Alice switch partners. Finally, Bob and Eve switch partners. At the end of the dance, Alice is dancing with
 Options:
@@ -6980,7 +6980,7 @@ Options:
 
 At the end of the dance, Alice is dancing with Izzi.
 
-Final Answer: A",1
+Final Answer: A",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Melissa, Bob is dancing with Patrick, Claire is dancing with Izzi, Dave is dancing with Lola, and Eve is dancing with Rodrigo.
 Throughout the song, the dancers often trade partners. First, Alice and Claire switch partners. Then, Dave and Eve switch partners. Then, Alice and Claire switch partners. Then, Alice and Eve switch partners. Finally, Dave and Bob switch partners. At the end of the dance, Bob is dancing with
 Options:
@@ -7049,7 +7049,7 @@ Options:
 
 At the end of the dance, Bob is dancing with Rodrigo.
 
-Final Answer: E",1
+Final Answer: E",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Moby Dick, Bob gets Catch-22, Claire gets The Fellowship of the Ring, Dave gets Ulysses, and Eve gets The Odyssey.
 As the semester proceeds, they start trading around the new books. First, Claire and Bob swap books. Then, Claire and Alice swap books. Then, Dave and Claire swap books. Then, Eve and Dave swap books. Finally, Eve and Alice swap books. At the end of the semester, Eve has
 Options:
@@ -7103,7 +7103,7 @@ Options:
 
 At the end of the semester, Eve has Catch-22.
 
-Final Answer: (B) Catch-22",1
+Final Answer: (B) Catch-22",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Hound of the Baskervilles, Bob gets The Fellowship of the Ring, Claire gets Ulysses, Dave gets Lolita, and Eve gets Moby Dick.
 As the semester proceeds, they start trading around the new books. First, Bob and Alice swap books. Then, Claire and Eve swap books. Then, Claire and Dave swap books. Then, Bob and Dave swap books. Finally, Claire and Eve swap books. At the end of the semester, Claire has
 Options:
@@ -7157,7 +7157,7 @@ Options:
 
 At the end of the semester, Claire has Ulysses.
 
-Final Answer: (C) Ulysses",1
+Final Answer: (C) Ulysses",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets The Great Gatsby, Bob gets Catch-22, Claire gets The Pearl, Dave gets The Fellowship of the Ring, and Eve gets Hound of the Baskervilles.
 As the semester proceeds, they start trading around the new books. First, Eve and Claire swap books. Then, Bob and Eve swap books. Then, Claire and Dave swap books. Then, Bob and Eve swap books. Finally, Alice and Bob swap books. At the end of the semester, Alice has
 Options:
@@ -7211,7 +7211,7 @@ Options:
 
 At the end of the semester, Alice has Catch-22.
 
-Final Answer: (B) Catch-22",1
+Final Answer: (B) Catch-22",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Lolita, Bob gets The Great Gatsby, Claire gets Frankenstein, Dave gets Hound of the Baskervilles, and Eve gets Ulysses.
 As the semester proceeds, they start trading around the new books. First, Eve and Alice swap books. Then, Dave and Bob swap books. Then, Eve and Claire swap books. Then, Bob and Alice swap books. Finally, Claire and Dave swap books. At the end of the semester, Alice has
 Options:
@@ -7275,7 +7275,7 @@ Options:
 
 At the end of the semester, Alice has Hound of the Baskervilles.
 
-Final Answer: (D) Hound of the Baskervilles",1
+Final Answer: (D) Hound of the Baskervilles",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Sam, Bob is dancing with Izzi, Claire is dancing with Jamie, Dave is dancing with Ophelia, and Eve is dancing with Patrick.
 Throughout the song, the dancers often trade partners. First, Bob and Dave switch partners. Then, Alice and Eve switch partners. Then, Claire and Dave switch partners. Then, Bob and Eve switch partners. Finally, Alice and Bob switch partners. At the end of the dance, Eve is dancing with
 Options:
@@ -7329,7 +7329,7 @@ Options:
 
 At the end of the dance, Eve is dancing with Ophelia.
 
-Final Answer: (D) Ophelia",1
+Final Answer: (D) Ophelia",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a pink ball, Bob has a white ball, Claire has a red ball, Dave has a purple ball, and Eve has a yellow ball.
 As the game progresses, pairs of players trade balls. First, Alice and Dave swap balls. Then, Claire and Eve swap balls. Then, Alice and Bob swap balls. Then, Dave and Claire swap balls. Finally, Alice and Claire swap balls. At the end of the game, Eve has the
 Options:
@@ -7390,7 +7390,7 @@ At the end of the game, we summarize the final holdings:
 
 Since we are asked what Eve has, we see that Eve has the red ball.
 
-Final Answer: (C) red ball",1
+Final Answer: (C) red ball",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing right winger, Bob is playing goalkeeper, Claire is playing benchwarmer, Dave is playing center midfielder, and Eve is playing left midfielder.
 As the game progresses, pairs of players occasionally swap positions. First, Claire and Eve trade positions. Then, Claire and Alice trade positions. Then, Alice and Dave trade positions. Then, Bob and Eve trade positions. Finally, Alice and Claire trade positions. At the end of the match, Dave is playing
 Options:
@@ -7448,7 +7448,7 @@ Now, we need to determine Dave's final position. After all the swaps, we see tha
 
 Thus, the answer is:
 
-Final Answer: (E) left midfielder",1
+Final Answer: (E) left midfielder",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Helga, Bob is dancing with Karl, Claire is dancing with Izzi, Dave is dancing with Sam, and Eve is dancing with Melissa.
 Throughout the song, the dancers often trade partners. First, Bob and Alice switch partners. Then, Bob and Claire switch partners. Then, Dave and Claire switch partners. Then, Eve and Dave switch partners. Finally, Bob and Alice switch partners. At the end of the dance, Eve is dancing with
 Options:
@@ -7502,7 +7502,7 @@ Options:
 
 At the end of the dance, we see that Eve is dancing with Helga.
 
-Final Answer: (A) Helga",1
+Final Answer: (A) Helga",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing cheerleader, Bob is playing fullback, Claire is playing center midfielder, Dave is playing left midfielder, and Eve is playing goalkeeper.
 As the game progresses, pairs of players occasionally swap positions. First, Dave and Alice trade positions. Then, Alice and Bob trade positions. Then, Dave and Eve trade positions. Then, Bob and Dave trade positions. Finally, Alice and Claire trade positions. At the end of the match, Claire is playing
 Options:
@@ -7571,7 +7571,7 @@ Options:
 
 At the end of the match, Claire is playing Fullback.
 
-Final Answer: (B) fullback",1
+Final Answer: (B) fullback",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing fullback, Bob is playing right winger, Claire is playing center midfielder, Dave is playing striker, and Eve is playing benchwarmer.
 As the game progresses, pairs of players occasionally swap positions. First, Alice and Bob trade positions. Then, Dave and Bob trade positions. Then, Alice and Claire trade positions. Then, Bob and Claire trade positions. Finally, Alice and Eve trade positions. At the end of the match, Dave is playing
 Options:
@@ -7629,7 +7629,7 @@ Now, we need to determine Dave's final position. After all the swaps, we see tha
 
 Thus, the answer is:
 
-Final Answer: (A) fullback",1
+Final Answer: (A) fullback",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a green present, Bob has a black ball, Claire has a red present, Dave has a white present, and Eve has a blue present.
 As the event progresses, pairs of people swap gifts. First, Alice and Dave swap their gifts. Then, Dave and Eve swap their gifts. Then, Bob and Eve swap their gifts. Then, Bob and Dave swap their gifts. Finally, Bob and Claire swap their gifts. At the end of the event, Bob has the
 Options:
@@ -7698,7 +7698,7 @@ Options:
 
 At the end of the event, Bob has the red present.
 
-Final Answer: (C) red present",1
+Final Answer: (C) red present",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a green present, Bob has a white present, Claire has a black ball, Dave has a orange ball, and Eve has a yellow present.
 As the event progresses, pairs of people swap gifts. First, Bob and Alice swap their gifts. Then, Alice and Eve swap their gifts. Then, Claire and Eve swap their gifts. Then, Alice and Dave swap their gifts. Finally, Bob and Eve swap their gifts. At the end of the event, Eve has the
 Options:
@@ -7767,7 +7767,7 @@ Options:
 
 At the end of the event, Eve has the green present.
 
-Final Answer: (A) green present",1
+Final Answer: (A) green present",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets The Great Gatsby, Bob gets The Pearl, Claire gets Hound of the Baskervilles, Dave gets The Fellowship of the Ring, and Eve gets The Odyssey.
 As the semester proceeds, they start trading around the new books. First, Claire and Eve swap books. Then, Alice and Dave swap books. Then, Eve and Alice swap books. Then, Dave and Bob swap books. Finally, Dave and Alice swap books. At the end of the semester, Claire has
 Options:
@@ -7831,7 +7831,7 @@ Options:
 
 At the end of the semester, Claire has **The Odyssey**.
 
-Final Answer: (E) The Odyssey",1
+Final Answer: (E) The Odyssey",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Melissa, Bob is dancing with Lola, Claire is dancing with Jamie, Dave is dancing with Patrick, and Eve is dancing with Ophelia.
 Throughout the song, the dancers often trade partners. First, Bob and Dave switch partners. Then, Claire and Eve switch partners. Then, Dave and Alice switch partners. Then, Claire and Eve switch partners. Finally, Eve and Bob switch partners. At the end of the dance, Claire is dancing with
 Options:
@@ -7885,7 +7885,7 @@ Options:
 
 At the end of the dance, Claire is dancing with Jamie.
 
-Final Answer: C",1
+Final Answer: C",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a white present, Bob has a green present, Claire has a yellow present, Dave has a purple present, and Eve has a pink ball.
 As the event progresses, pairs of people swap gifts. First, Alice and Dave swap their gifts. Then, Claire and Dave swap their gifts. Then, Dave and Eve swap their gifts. Then, Bob and Dave swap their gifts. Finally, Dave and Claire swap their gifts. At the end of the event, Alice has the
 Options:
@@ -7961,7 +7961,7 @@ Now, let's go through each swap step by step:
 
 At the end of the event, Alice has the purple present.
 
-Final Answer: (D) purple present",1
+Final Answer: (D) purple present",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a black ball, Bob has a green ball, Claire has a orange ball, Dave has a yellow ball, and Eve has a red ball.
 As the game progresses, pairs of players trade balls. First, Alice and Eve swap balls. Then, Dave and Claire swap balls. Then, Dave and Eve swap balls. Then, Claire and Eve swap balls. Finally, Bob and Eve swap balls. At the end of the game, Bob has the
 Options:
@@ -8025,7 +8025,7 @@ Options:
 
 At the end of the game, Bob has the yellow ball.
 
-Final Answer: (D) yellow ball",1
+Final Answer: (D) yellow ball",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a black ball, Bob has a purple ball, Claire has a green ball, Dave has a brown ball, and Eve has a white ball.
 As the game progresses, pairs of players trade balls. First, Eve and Bob swap balls. Then, Dave and Claire swap balls. Then, Dave and Alice swap balls. Then, Dave and Claire swap balls. Finally, Alice and Claire swap balls. At the end of the game, Bob has the
 Options:
@@ -8094,7 +8094,7 @@ Options:
 
 Now, we check what Bob has at the end of the game. Bob has the white ball.
 
-Final Answer: (E) white ball",1
+Final Answer: (E) white ball",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a blue ball, Bob has a orange ball, Claire has a pink ball, Dave has a green ball, and Eve has a brown ball.
 As the game progresses, pairs of players trade balls. First, Bob and Eve swap balls. Then, Eve and Dave swap balls. Then, Dave and Alice swap balls. Then, Alice and Claire swap balls. Finally, Bob and Claire swap balls. At the end of the game, Bob has the
 Options:
@@ -8158,7 +8158,7 @@ Options:
 
 At the end of the game, Bob has the orange ball.
 
-Final Answer: (B) orange ball",1
+Final Answer: (B) orange ball",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a red ball, Bob has a green ball, Claire has a brown ball, Dave has a black ball, and Eve has a orange ball.
 As the game progresses, pairs of players trade balls. First, Claire and Alice swap balls. Then, Dave and Eve swap balls. Then, Claire and Eve swap balls. Then, Bob and Claire swap balls. Finally, Alice and Claire swap balls. At the end of the game, Eve has the
 Options:
@@ -8222,7 +8222,7 @@ Options:
 
 At the end of the game, Eve has the red ball.
 
-Final Answer: (A) red ball",1
+Final Answer: (A) red ball",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets The Odyssey, Bob gets Moby Dick, Claire gets Lolita, Dave gets The Fellowship of the Ring, and Eve gets Frankenstein.
 As the semester proceeds, they start trading around the new books. First, Eve and Bob swap books. Then, Dave and Alice swap books. Then, Dave and Bob swap books. Then, Bob and Claire swap books. Finally, Alice and Dave swap books. At the end of the semester, Eve has
 Options:
@@ -8291,7 +8291,7 @@ Options:
 
 At the end of the semester, Eve still has Moby Dick.
 
-Final Answer: (B) Moby Dick",1
+Final Answer: (B) Moby Dick",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a brown ball, Bob has a black ball, Claire has a white ball, Dave has a yellow ball, and Eve has a purple ball.
 As the game progresses, pairs of players trade balls. First, Claire and Dave swap balls. Then, Alice and Eve swap balls. Then, Dave and Bob swap balls. Then, Alice and Eve swap balls. Finally, Claire and Eve swap balls. At the end of the game, Eve has the
 Options:
@@ -8355,7 +8355,7 @@ Options:
 
 At the end of the game, Eve has the yellow ball.
 
-Final Answer: (D) yellow ball",1
+Final Answer: (D) yellow ball",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets The Fellowship of the Ring, Bob gets Moby Dick, Claire gets The Pearl, Dave gets Ulysses, and Eve gets Frankenstein.
 As the semester proceeds, they start trading around the new books. First, Dave and Eve swap books. Then, Bob and Dave swap books. Then, Claire and Bob swap books. Then, Alice and Bob swap books. Finally, Claire and Eve swap books. At the end of the semester, Eve has
 Options:
@@ -8419,7 +8419,7 @@ Options:
 
 At the end of the semester, Eve has Frankenstein.
 
-Final Answer: E",1
+Final Answer: E",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Frankenstein, Bob gets Ulysses, Claire gets Lolita, Dave gets The Odyssey, and Eve gets The Fellowship of the Ring.
 As the semester proceeds, they start trading around the new books. First, Eve and Dave swap books. Then, Claire and Alice swap books. Then, Dave and Eve swap books. Then, Bob and Claire swap books. Finally, Alice and Claire swap books. At the end of the semester, Alice has
 Options:
@@ -8483,7 +8483,7 @@ Options:
 
 At the end of the semester, Alice has Ulysses.
 
-Final Answer: B",1
+Final Answer: B",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a brown present, Bob has a black ball, Claire has a blue present, Dave has a orange ball, and Eve has a red present.
 As the event progresses, pairs of people swap gifts. First, Claire and Alice swap their gifts. Then, Bob and Eve swap their gifts. Then, Dave and Bob swap their gifts. Then, Alice and Claire swap their gifts. Finally, Eve and Dave swap their gifts. At the end of the event, Claire has the
 Options:
@@ -8552,7 +8552,7 @@ Options:
 
 At the end of the event, Claire has the blue present.
 
-Final Answer: (C) blue present",1
+Final Answer: (C) blue present",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing left winger, Bob is playing benchwarmer, Claire is playing striker, Dave is playing fullback, and Eve is playing center midfielder.
 As the game progresses, pairs of players occasionally swap positions. First, Dave and Claire trade positions. Then, Bob and Eve trade positions. Then, Alice and Claire trade positions. Then, Bob and Eve trade positions. Finally, Claire and Bob trade positions. At the end of the match, Dave is playing
 Options:
@@ -8613,7 +8613,7 @@ Now, let's summarize the final positions:
 
 At the end of the match, Dave is playing striker.
 
-Final Answer: C",1
+Final Answer: C",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Lola, Bob is dancing with Izzi, Claire is dancing with Sam, Dave is dancing with Patrick, and Eve is dancing with Karl.
 Throughout the song, the dancers often trade partners. First, Claire and Bob switch partners. Then, Claire and Alice switch partners. Then, Bob and Claire switch partners. Then, Eve and Bob switch partners. Finally, Dave and Claire switch partners. At the end of the dance, Claire is dancing with
 Options:
@@ -8667,7 +8667,7 @@ Options:
 
 At the end of the dance, Claire is dancing with Patrick.
 
-Final Answer: D",1
+Final Answer: D",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Karl, Bob is dancing with Ophelia, Claire is dancing with Patrick, Dave is dancing with Helga, and Eve is dancing with Sam.
 Throughout the song, the dancers often trade partners. First, Claire and Eve switch partners. Then, Alice and Claire switch partners. Then, Bob and Dave switch partners. Then, Alice and Eve switch partners. Finally, Dave and Alice switch partners. At the end of the dance, Alice is dancing with
 Options:
@@ -8721,7 +8721,7 @@ Options:
 
 At the end of the dance, Alice is dancing with Ophelia.
 
-Final Answer: (B) Ophelia",1
+Final Answer: (B) Ophelia",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a brown present, Bob has a black ball, Claire has a green present, Dave has a purple present, and Eve has a yellow present.
 As the event progresses, pairs of people swap gifts. First, Bob and Dave swap their gifts. Then, Bob and Eve swap their gifts. Then, Dave and Claire swap their gifts. Then, Dave and Bob swap their gifts. Finally, Alice and Dave swap their gifts. At the end of the event, Claire has the
 Options:
@@ -8788,7 +8788,7 @@ Now, let's go through the swaps step by step:
 At the end of the event, Claire has the black ball.
 
 Thus, the answer is:
-Final Answer: (B) black ball",1
+Final Answer: (B) black ball",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a orange ball, Bob has a white ball, Claire has a yellow ball, Dave has a red ball, and Eve has a brown ball.
 As the game progresses, pairs of players trade balls. First, Eve and Dave swap balls. Then, Alice and Dave swap balls. Then, Alice and Claire swap balls. Then, Dave and Bob swap balls. Finally, Eve and Dave swap balls. At the end of the game, Bob has the
 Options:
@@ -8852,7 +8852,7 @@ Options:
 
 At the end of the game, Bob has the orange ball.
 
-Final Answer: (A) orange ball",1
+Final Answer: (A) orange ball",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing right winger, Bob is playing right midfielder, Claire is playing left winger, Dave is playing cheerleader, and Eve is playing goalkeeper.
 As the game progresses, pairs of players occasionally swap positions. First, Dave and Bob trade positions. Then, Dave and Eve trade positions. Then, Alice and Bob trade positions. Then, Dave and Claire trade positions. Finally, Dave and Eve trade positions. At the end of the match, Eve is playing
 Options:
@@ -8906,7 +8906,7 @@ Options:
 
 At the end of the match, Eve is playing Left Winger.
 
-Final Answer: (C) left winger",1
+Final Answer: (C) left winger",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Jamie, Bob is dancing with Melissa, Claire is dancing with Patrick, Dave is dancing with Rodrigo, and Eve is dancing with Karl.
 Throughout the song, the dancers often trade partners. First, Alice and Claire switch partners. Then, Dave and Claire switch partners. Then, Dave and Bob switch partners. Then, Dave and Claire switch partners. Finally, Dave and Eve switch partners. At the end of the dance, Bob is dancing with
 Options:
@@ -8975,7 +8975,7 @@ Options:
 
 At the end of the dance, Bob is dancing with Jamie.
 
-Final Answer: (A) Jamie",1
+Final Answer: (A) Jamie",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing striker, Bob is playing fullback, Claire is playing cheerleader, Dave is playing benchwarmer, and Eve is playing goalkeeper.
 As the game progresses, pairs of players occasionally swap positions. First, Alice and Eve trade positions. Then, Alice and Claire trade positions. Then, Dave and Bob trade positions. Then, Alice and Dave trade positions. Finally, Dave and Eve trade positions. At the end of the match, Claire is playing
 Options:
@@ -9116,7 +9116,7 @@ Options:
 
 At the end of the semester, Eve has Frankenstein.
 
-Final Answer: C",1
+Final Answer: C",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Helga, Bob is dancing with Karl, Claire is dancing with Izzi, Dave is dancing with Sam, and Eve is dancing with Melissa.
 Throughout the song, the dancers often trade partners. First, Bob and Alice switch partners. Then, Bob and Claire switch partners. Then, Dave and Claire switch partners. Then, Eve and Dave switch partners. Finally, Bob and Alice switch partners. At the end of the dance, Dave is dancing with
 Options:
@@ -9174,7 +9174,7 @@ Now, we need to find out who Dave is dancing with at the end of the dance. After
 
 Thus, the answer is:
 
-Final Answer: (E) Melissa",1
+Final Answer: (E) Melissa",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a blue present, Bob has a black ball, Claire has a brown present, Dave has a orange ball, and Eve has a red present.
 As the event progresses, pairs of people swap gifts. First, Bob and Dave swap their gifts. Then, Alice and Dave swap their gifts. Then, Eve and Claire swap their gifts. Then, Alice and Bob swap their gifts. Finally, Dave and Claire swap their gifts. At the end of the event, Alice has the
 Options:
@@ -9238,7 +9238,7 @@ Options:
 
 At the end of the event, Alice has the orange ball.
 
-Final Answer: (D) orange ball",1
+Final Answer: (D) orange ball",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a black ball, Bob has a brown ball, Claire has a red ball, Dave has a white ball, and Eve has a green ball.
 As the game progresses, pairs of players trade balls. First, Bob and Alice swap balls. Then, Alice and Claire swap balls. Then, Eve and Alice swap balls. Then, Claire and Bob swap balls. Finally, Claire and Dave swap balls. At the end of the game, Dave has the
 Options:
@@ -9302,7 +9302,7 @@ Options:
 
 At the end of the game, we see that Dave has the black ball.
 
-Final Answer: (A) black ball",1
+Final Answer: (A) black ball",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a green present, Bob has a brown present, Claire has a purple present, Dave has a white present, and Eve has a blue present.
 As the event progresses, pairs of people swap gifts. First, Alice and Bob swap their gifts. Then, Bob and Eve swap their gifts. Then, Dave and Eve swap their gifts. Then, Alice and Claire swap their gifts. Finally, Bob and Eve swap their gifts. At the end of the event, Claire has the
 Options:
@@ -9350,7 +9350,7 @@ Now, let's summarize the final gifts:
 
 At the end of the event, Claire has the Brown present.
 
-Final Answer: (B) brown present",1
+Final Answer: (B) brown present",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets The Fellowship of the Ring, Bob gets The Odyssey, Claire gets Frankenstein, Dave gets Hound of the Baskervilles, and Eve gets Ulysses.
 As the semester proceeds, they start trading around the new books. First, Alice and Claire swap books. Then, Alice and Eve swap books. Then, Dave and Claire swap books. Then, Dave and Bob swap books. Finally, Dave and Alice swap books. At the end of the semester, Claire has
 Options:
@@ -9414,7 +9414,7 @@ Options:
 
 At the end of the semester, Claire has Hound of the Baskervilles.
 
-Final Answer: (D) Hound of the Baskervilles",1
+Final Answer: (D) Hound of the Baskervilles",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a brown present, Bob has a white present, Claire has a black ball, Dave has a red present, and Eve has a purple present.
 As the event progresses, pairs of people swap gifts. First, Bob and Claire swap their gifts. Then, Eve and Alice swap their gifts. Then, Bob and Claire swap their gifts. Then, Claire and Dave swap their gifts. Finally, Eve and Dave swap their gifts. At the end of the event, Bob has the
 Options:
@@ -9483,7 +9483,7 @@ Options:
 
 At the end of the event, Bob has the white present.
 
-Final Answer: (B) white present",1
+Final Answer: (B) white present",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing striker, Bob is playing fullback, Claire is playing left winger, Dave is playing center midfielder, and Eve is playing benchwarmer.
 As the game progresses, pairs of players occasionally swap positions. First, Claire and Bob trade positions. Then, Dave and Claire trade positions. Then, Alice and Bob trade positions. Then, Eve and Dave trade positions. Finally, Alice and Dave trade positions. At the end of the match, Claire is playing
 Options:
@@ -9537,7 +9537,7 @@ Options:
 
 At the end of the match, we need to find out Claire's position. After all the swaps, Claire is playing as the **Center Midfielder**.
 
-Final Answer: (D) center midfielder",1
+Final Answer: (D) center midfielder",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing goalkeeper, Bob is playing striker, Claire is playing cheerleader, Dave is playing center midfielder, and Eve is playing right midfielder.
 As the game progresses, pairs of players occasionally swap positions. First, Eve and Dave trade positions. Then, Dave and Bob trade positions. Then, Dave and Claire trade positions. Then, Dave and Bob trade positions. Finally, Alice and Bob trade positions. At the end of the match, Claire is playing
 Options:
@@ -9600,7 +9600,7 @@ Now, we need to find out what position Claire is playing at the end of the match
 
 Claire is playing striker.
 
-Final Answer: B",1
+Final Answer: B",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a red present, Bob has a pink ball, Claire has a black ball, Dave has a brown present, and Eve has a purple present.
 As the event progresses, pairs of people swap gifts. First, Claire and Dave swap their gifts. Then, Eve and Dave swap their gifts. Then, Eve and Claire swap their gifts. Then, Dave and Bob swap their gifts. Finally, Alice and Claire swap their gifts. At the end of the event, Alice has the
 Options:
@@ -9664,7 +9664,7 @@ Options:
 
 At the end of the event, Alice has the black ball.
 
-Final Answer: (C) black ball",1
+Final Answer: (C) black ball",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a blue ball, Bob has a brown ball, Claire has a green ball, Dave has a white ball, and Eve has a red ball.
 As the game progresses, pairs of players trade balls. First, Bob and Claire swap balls. Then, Dave and Eve swap balls. Then, Alice and Eve swap balls. Then, Dave and Claire swap balls. Finally, Bob and Dave swap balls. At the end of the game, Claire has the
 Options:
@@ -9728,7 +9728,7 @@ Options:
 
 At the end of the game, Claire has the red ball.
 
-Final Answer: (E) red ball",1
+Final Answer: (E) red ball",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a red present, Bob has a yellow present, Claire has a green present, Dave has a pink ball, and Eve has a white present.
 As the event progresses, pairs of people swap gifts. First, Claire and Alice swap their gifts. Then, Dave and Eve swap their gifts. Then, Bob and Dave swap their gifts. Then, Eve and Dave swap their gifts. Finally, Dave and Alice swap their gifts. At the end of the event, Claire has the
 Options:
@@ -9868,7 +9868,7 @@ Now, let's summarize the final positions:
 
 At the end of the match, Dave is playing as the striker.
 
-Final Answer: (B) striker",1
+Final Answer: (B) striker",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a orange ball, Bob has a blue ball, Claire has a black ball, Dave has a white ball, and Eve has a purple ball.
 As the game progresses, pairs of players trade balls. First, Bob and Dave swap balls. Then, Claire and Eve swap balls. Then, Dave and Eve swap balls. Then, Claire and Dave swap balls. Finally, Alice and Bob swap balls. At the end of the game, Claire has the
 Options:
@@ -9932,7 +9932,7 @@ Options:
 
 At the end of the game, Claire has the black ball.
 
-Final Answer: (C) black ball",1
+Final Answer: (C) black ball",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a brown ball, Bob has a black ball, Claire has a red ball, Dave has a pink ball, and Eve has a blue ball.
 As the game progresses, pairs of players trade balls. First, Claire and Bob swap balls. Then, Claire and Eve swap balls. Then, Bob and Claire swap balls. Then, Dave and Claire swap balls. Finally, Alice and Dave swap balls. At the end of the game, Eve has the
 Options:
@@ -9996,7 +9996,7 @@ Options:
 
 At the end of the game, Eve has the black ball.
 
-Final Answer: (B) black ball",1
+Final Answer: (B) black ball",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Karl, Bob is dancing with Ophelia, Claire is dancing with Patrick, Dave is dancing with Helga, and Eve is dancing with Sam.
 Throughout the song, the dancers often trade partners. First, Claire and Eve switch partners. Then, Alice and Claire switch partners. Then, Bob and Dave switch partners. Then, Alice and Eve switch partners. Finally, Dave and Alice switch partners. At the end of the dance, Claire is dancing with
 Options:
@@ -10114,7 +10114,7 @@ Options:
 
 At the end of the game, Dave has the black ball.
 
-Final Answer: (E) black ball",1
+Final Answer: (E) black ball",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a red ball, Bob has a green ball, Claire has a brown ball, Dave has a black ball, and Eve has a orange ball.
 As the game progresses, pairs of players trade balls. First, Claire and Alice swap balls. Then, Dave and Eve swap balls. Then, Claire and Eve swap balls. Then, Bob and Claire swap balls. Finally, Alice and Claire swap balls. At the end of the game, Claire has the
 Options:
@@ -10178,7 +10178,7 @@ Options:
 
 At the end of the game, Claire has the brown ball.
 
-Final Answer: (C) brown ball",1
+Final Answer: (C) brown ball",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing cheerleader, Bob is playing right midfielder, Claire is playing left midfielder, Dave is playing left winger, and Eve is playing goalkeeper.
 As the game progresses, pairs of players occasionally swap positions. First, Eve and Claire trade positions. Then, Alice and Dave trade positions. Then, Bob and Eve trade positions. Then, Dave and Bob trade positions. Finally, Bob and Eve trade positions. At the end of the match, Dave is playing
 Options:
@@ -10309,7 +10309,7 @@ Now, let's go through each swap step by step:
 Now, we need to determine what Claire has at the end of the event. From the final state, we see that Claire has the white present.
 
 Thus, the answer is:
-Final Answer: (D) white present",1
+Final Answer: (D) white present",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets The Pearl, Bob gets Frankenstein, Claire gets Ulysses, Dave gets Hound of the Baskervilles, and Eve gets Moby Dick.
 As the semester proceeds, they start trading around the new books. First, Bob and Dave swap books. Then, Bob and Claire swap books. Then, Dave and Claire swap books. Then, Claire and Bob swap books. Finally, Alice and Eve swap books. At the end of the semester, Dave has
 Options:
@@ -10373,7 +10373,7 @@ Options:
 
 At the end of the semester, Dave has Hound of the Baskervilles.
 
-Final Answer: (D) Hound of the Baskervilles",1
+Final Answer: (D) Hound of the Baskervilles",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Izzi, Bob is dancing with Patrick, Claire is dancing with Helga, Dave is dancing with Rodrigo, and Eve is dancing with Karl.
 Throughout the song, the dancers often trade partners. First, Claire and Eve switch partners. Then, Claire and Dave switch partners. Then, Alice and Claire switch partners. Then, Eve and Bob switch partners. Finally, Claire and Eve switch partners. At the end of the dance, Claire is dancing with
 Options:
@@ -10427,7 +10427,7 @@ Options:
 
 At the end of the dance, Claire is dancing with Patrick.
 
-Final Answer: B",1
+Final Answer: B",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets The Odyssey, Bob gets Moby Dick, Claire gets Lolita, Dave gets The Fellowship of the Ring, and Eve gets Frankenstein.
 As the semester proceeds, they start trading around the new books. First, Eve and Bob swap books. Then, Dave and Alice swap books. Then, Dave and Bob swap books. Then, Bob and Claire swap books. Finally, Alice and Dave swap books. At the end of the semester, Alice has
 Options:
@@ -10481,7 +10481,7 @@ Options:
 
 At the end of the semester, Alice has **Frankenstein**.
 
-Final Answer: E",1
+Final Answer: E",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing left midfielder, Bob is playing striker, Claire is playing goalkeeper, Dave is playing left winger, and Eve is playing cheerleader.
 As the game progresses, pairs of players occasionally swap positions. First, Dave and Claire trade positions. Then, Eve and Alice trade positions. Then, Claire and Alice trade positions. Then, Eve and Alice trade positions. Finally, Eve and Bob trade positions. At the end of the match, Claire is playing
 Options:
@@ -10542,7 +10542,7 @@ Now, let's summarize the final positions:
 
 At the end of the match, Claire is playing as the cheerleader.
 
-Final Answer: (E) cheerleader",1
+Final Answer: (E) cheerleader",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Catch-22, Bob gets Lolita, Claire gets Ulysses, Dave gets Frankenstein, and Eve gets The Pearl.
 As the semester proceeds, they start trading around the new books. First, Bob and Claire swap books. Then, Eve and Claire swap books. Then, Bob and Eve swap books. Then, Dave and Alice swap books. Finally, Dave and Bob swap books. At the end of the semester, Claire has
 Options:
@@ -10606,7 +10606,7 @@ Options:
 
 At the end of the semester, Claire has The Pearl.
 
-Final Answer: (E) The Pearl",1
+Final Answer: (E) The Pearl",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Frankenstein, Bob gets The Pearl, Claire gets Hound of the Baskervilles, Dave gets Ulysses, and Eve gets The Great Gatsby.
 As the semester proceeds, they start trading around the new books. First, Dave and Claire swap books. Then, Bob and Claire swap books. Then, Claire and Eve swap books. Then, Bob and Claire swap books. Finally, Alice and Claire swap books. At the end of the semester, Alice has
 Options:
@@ -10675,7 +10675,7 @@ Options:
 
 At the end of the semester, Alice has Ulysses.
 
-Final Answer: D",1
+Final Answer: D",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Jamie, Bob is dancing with Patrick, Claire is dancing with Karl, Dave is dancing with Helga, and Eve is dancing with Izzi.
 Throughout the song, the dancers often trade partners. First, Claire and Alice switch partners. Then, Alice and Dave switch partners. Then, Alice and Bob switch partners. Then, Bob and Eve switch partners. Finally, Dave and Bob switch partners. At the end of the dance, Claire is dancing with
 Options:
@@ -10800,7 +10800,7 @@ At the end of the match, we need to find out Eve's position. After all the swaps
 
 Thus, the final position of Eve is:
 
-Final Answer: (B) center midfielder",1
+Final Answer: (B) center midfielder",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing left winger, Bob is playing striker, Claire is playing benchwarmer, Dave is playing left midfielder, and Eve is playing cheerleader.
 As the game progresses, pairs of players occasionally swap positions. First, Dave and Alice trade positions. Then, Bob and Eve trade positions. Then, Alice and Bob trade positions. Then, Claire and Alice trade positions. Finally, Claire and Eve trade positions. At the end of the match, Claire is playing
 Options:
@@ -10925,7 +10925,7 @@ Now, let's go through the swaps step by step:
 
 At the end of the event, Eve has the blue present.
 
-Final Answer: (C) blue present",1
+Final Answer: (C) blue present",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets The Great Gatsby, Bob gets The Odyssey, Claire gets The Fellowship of the Ring, Dave gets Moby Dick, and Eve gets Lolita.
 As the semester proceeds, they start trading around the new books. First, Alice and Bob swap books. Then, Eve and Bob swap books. Then, Bob and Claire swap books. Then, Alice and Claire swap books. Finally, Dave and Claire swap books. At the end of the semester, Bob has
 Options:
@@ -10979,7 +10979,7 @@ Options:
 
 At the end of the semester, Bob has **The Fellowship of the Ring**.
 
-Final Answer: (C) The Fellowship of the Ring",1
+Final Answer: (C) The Fellowship of the Ring",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a yellow present, Bob has a red present, Claire has a green present, Dave has a orange ball, and Eve has a black ball.
 As the event progresses, pairs of people swap gifts. First, Claire and Dave swap their gifts. Then, Bob and Claire swap their gifts. Then, Claire and Dave swap their gifts. Then, Alice and Eve swap their gifts. Finally, Claire and Bob swap their gifts. At the end of the event, Bob has the
 Options:
@@ -11053,7 +11053,7 @@ Initially:
 
 At the end of the event, Bob has the green present.
 
-Final Answer: (C) green present",1
+Final Answer: (C) green present",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a yellow present, Bob has a orange ball, Claire has a red present, Dave has a purple present, and Eve has a green present.
 As the event progresses, pairs of people swap gifts. First, Alice and Eve swap their gifts. Then, Bob and Dave swap their gifts. Then, Bob and Eve swap their gifts. Then, Claire and Eve swap their gifts. Finally, Dave and Alice swap their gifts. At the end of the event, Eve has the
 Options:
@@ -11122,7 +11122,7 @@ Options:
 
 At the end of the event, Eve has the red present.
 
-Final Answer: (C) red present",1
+Final Answer: (C) red present",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Lolita, Bob gets The Great Gatsby, Claire gets Frankenstein, Dave gets Hound of the Baskervilles, and Eve gets Ulysses.
 As the semester proceeds, they start trading around the new books. First, Eve and Alice swap books. Then, Dave and Bob swap books. Then, Eve and Claire swap books. Then, Bob and Alice swap books. Finally, Claire and Dave swap books. At the end of the semester, Claire has
 Options:
@@ -11191,7 +11191,7 @@ Options:
 
 At the end of the semester, Claire has The Great Gatsby.
 
-Final Answer: (B) The Great Gatsby",1
+Final Answer: (B) The Great Gatsby",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a red present, Bob has a black ball, Claire has a pink ball, Dave has a orange ball, and Eve has a brown present.
 As the event progresses, pairs of people swap gifts. First, Claire and Alice swap their gifts. Then, Claire and Dave swap their gifts. Then, Alice and Bob swap their gifts. Then, Eve and Dave swap their gifts. Finally, Bob and Claire swap their gifts. At the end of the event, Claire has the
 Options:
@@ -11260,7 +11260,7 @@ Options:
 
 At the end of the event, Claire has the pink ball.
 
-Final Answer: (C) pink ball",1
+Final Answer: (C) pink ball",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a orange ball, Bob has a black ball, Claire has a red ball, Dave has a pink ball, and Eve has a blue ball.
 As the game progresses, pairs of players trade balls. First, Eve and Bob swap balls. Then, Claire and Eve swap balls. Then, Bob and Dave swap balls. Then, Eve and Alice swap balls. Finally, Dave and Bob swap balls. At the end of the game, Claire has the
 Options:
@@ -11324,7 +11324,7 @@ Options:
 
 At the end of the game, we see that Claire has the black ball.
 
-Final Answer: (B) black ball",1
+Final Answer: (B) black ball",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing right winger, Bob is playing right midfielder, Claire is playing left winger, Dave is playing cheerleader, and Eve is playing goalkeeper.
 As the game progresses, pairs of players occasionally swap positions. First, Dave and Bob trade positions. Then, Dave and Eve trade positions. Then, Alice and Bob trade positions. Then, Dave and Claire trade positions. Finally, Dave and Eve trade positions. At the end of the match, Bob is playing
 Options:
@@ -11378,7 +11378,7 @@ Options:
 
 At the end of the match, Bob is playing as the Right Winger.
 
-Final Answer: (A) right winger",1
+Final Answer: (A) right winger",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Lola, Bob is dancing with Rodrigo, Claire is dancing with Melissa, Dave is dancing with Helga, and Eve is dancing with Jamie.
 Throughout the song, the dancers often trade partners. First, Dave and Eve switch partners. Then, Alice and Claire switch partners. Then, Dave and Bob switch partners. Then, Alice and Eve switch partners. Finally, Eve and Dave switch partners. At the end of the dance, Alice is dancing with
 Options:
@@ -11432,7 +11432,7 @@ Options:
 
 At the end of the dance, Alice is dancing with Helga.
 
-Final Answer: D",1
+Final Answer: D",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing right midfielder, Bob is playing fullback, Claire is playing striker, Dave is playing goalkeeper, and Eve is playing benchwarmer.
 As the game progresses, pairs of players occasionally swap positions. First, Eve and Bob trade positions. Then, Bob and Claire trade positions. Then, Dave and Alice trade positions. Then, Eve and Claire trade positions. Finally, Alice and Bob trade positions. At the end of the match, Alice is playing
 Options:
@@ -11486,7 +11486,7 @@ Options:
 
 At the end of the match, Alice is playing as a striker.
 
-Final Answer: (C) striker",1
+Final Answer: (C) striker",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets The Fellowship of the Ring, Bob gets The Odyssey, Claire gets Frankenstein, Dave gets Hound of the Baskervilles, and Eve gets Ulysses.
 As the semester proceeds, they start trading around the new books. First, Alice and Claire swap books. Then, Alice and Eve swap books. Then, Dave and Claire swap books. Then, Dave and Bob swap books. Finally, Dave and Alice swap books. At the end of the semester, Dave has
 Options:
@@ -11550,7 +11550,7 @@ Options:
 
 At the end of the semester, Dave has Ulysses.
 
-Final Answer: E",1
+Final Answer: E",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Melissa, Bob is dancing with Rodrigo, Claire is dancing with Lola, Dave is dancing with Patrick, and Eve is dancing with Jamie.
 Throughout the song, the dancers often trade partners. First, Claire and Bob switch partners. Then, Claire and Eve switch partners. Then, Eve and Dave switch partners. Then, Claire and Alice switch partners. Finally, Bob and Eve switch partners. At the end of the dance, Alice is dancing with
 Options:
@@ -11604,7 +11604,7 @@ Options:
 
 At the end of the dance, Alice is dancing with Jamie.
 
-Final Answer: E",1
+Final Answer: E",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing left winger, Bob is playing striker, Claire is playing left midfielder, Dave is playing cheerleader, and Eve is playing goalkeeper.
 As the game progresses, pairs of players occasionally swap positions. First, Claire and Bob trade positions. Then, Claire and Dave trade positions. Then, Alice and Bob trade positions. Then, Bob and Dave trade positions. Finally, Eve and Bob trade positions. At the end of the match, Dave is playing
 Options:
@@ -11665,7 +11665,7 @@ Now, let's summarize the final positions:
 
 At the end of the match, Dave is playing Left Winger.
 
-Final Answer: (A) left winger",1
+Final Answer: (A) left winger",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets The Great Gatsby, Bob gets Frankenstein, Claire gets Moby Dick, Dave gets The Fellowship of the Ring, and Eve gets Catch-22.
 As the semester proceeds, they start trading around the new books. First, Alice and Bob swap books. Then, Dave and Eve swap books. Then, Eve and Alice swap books. Then, Dave and Eve swap books. Finally, Claire and Dave swap books. At the end of the semester, Dave has
 Options:
@@ -11719,7 +11719,7 @@ Options:
 
 At the end of the semester, Dave has Moby Dick.
 
-Final Answer: (C) Moby Dick",1
+Final Answer: (C) Moby Dick",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a purple present, Bob has a brown present, Claire has a white present, Dave has a blue present, and Eve has a orange ball.
 As the event progresses, pairs of people swap gifts. First, Eve and Alice swap their gifts. Then, Bob and Dave swap their gifts. Then, Bob and Alice swap their gifts. Then, Claire and Eve swap their gifts. Finally, Alice and Eve swap their gifts. At the end of the event, Dave has the
 Options:
@@ -11798,7 +11798,7 @@ Now, we need to determine what gift Dave has at the end of the event. From the f
 - Dave has the brown present.
 
 Thus, the answer is:
-Final Answer: (B) brown present",1
+Final Answer: (B) brown present",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing fullback, Bob is playing center midfielder, Claire is playing right midfielder, Dave is playing left winger, and Eve is playing goalkeeper.
 As the game progresses, pairs of players occasionally swap positions. First, Dave and Eve trade positions. Then, Claire and Bob trade positions. Then, Alice and Bob trade positions. Then, Eve and Dave trade positions. Finally, Bob and Alice trade positions. At the end of the match, Alice is playing
 Options:
@@ -11852,7 +11852,7 @@ Options:
 
 At the end of the match, Alice is back to playing Fullback.
 
-Final Answer: (A) fullback",1
+Final Answer: (A) fullback",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a blue present, Bob has a yellow present, Claire has a black ball, Dave has a purple present, and Eve has a red present.
 As the event progresses, pairs of people swap gifts. First, Bob and Claire swap their gifts. Then, Dave and Eve swap their gifts. Then, Bob and Claire swap their gifts. Then, Claire and Alice swap their gifts. Finally, Eve and Dave swap their gifts. At the end of the event, Claire has the
 Options:
@@ -11921,7 +11921,7 @@ Options:
 
 At the end of the event, Claire has the blue present.
 
-Final Answer: (A) blue present",1
+Final Answer: (A) blue present",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a brown present, Bob has a orange ball, Claire has a green present, Dave has a blue present, and Eve has a white present.
 As the event progresses, pairs of people swap gifts. First, Eve and Bob swap their gifts. Then, Eve and Claire swap their gifts. Then, Eve and Dave swap their gifts. Then, Dave and Alice swap their gifts. Finally, Claire and Dave swap their gifts. At the end of the event, Alice has the
 Options:
@@ -11990,7 +11990,7 @@ Options:
 
 At the end of the event, Alice has the green present.
 
-Final Answer: (C) green present",1
+Final Answer: (C) green present",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a purple present, Bob has a white present, Claire has a brown present, Dave has a red present, and Eve has a yellow present.
 As the event progresses, pairs of people swap gifts. First, Bob and Dave swap their gifts. Then, Bob and Eve swap their gifts. Then, Bob and Dave swap their gifts. Then, Claire and Eve swap their gifts. Finally, Alice and Dave swap their gifts. At the end of the event, Bob has the
 Options:
@@ -12054,7 +12054,7 @@ Options:
 
 At the end of the event, Bob has the white present.
 
-Final Answer: (B) white present",1
+Final Answer: (B) white present",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Patrick, Bob is dancing with Jamie, Claire is dancing with Izzi, Dave is dancing with Karl, and Eve is dancing with Rodrigo.
 Throughout the song, the dancers often trade partners. First, Dave and Eve switch partners. Then, Eve and Claire switch partners. Then, Alice and Dave switch partners. Then, Claire and Eve switch partners. Finally, Eve and Bob switch partners. At the end of the dance, Eve is dancing with
 Options:
@@ -12108,7 +12108,7 @@ Options:
 
 At the end of the dance, Eve is dancing with Jamie.
 
-Final Answer: B",1
+Final Answer: B",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a purple present, Bob has a red present, Claire has a pink ball, Dave has a brown present, and Eve has a orange ball.
 As the event progresses, pairs of people swap gifts. First, Alice and Claire swap their gifts. Then, Dave and Alice swap their gifts. Then, Bob and Claire swap their gifts. Then, Eve and Dave swap their gifts. Finally, Claire and Alice swap their gifts. At the end of the event, Dave has the
 Options:
@@ -12177,7 +12177,7 @@ Options:
 
 At the end of the event, we see that Dave has the orange ball.
 
-Final Answer: E",1
+Final Answer: E",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing left winger, Bob is playing striker, Claire is playing benchwarmer, Dave is playing left midfielder, and Eve is playing cheerleader.
 As the game progresses, pairs of players occasionally swap positions. First, Dave and Alice trade positions. Then, Bob and Eve trade positions. Then, Alice and Bob trade positions. Then, Claire and Alice trade positions. Finally, Claire and Eve trade positions. At the end of the match, Bob is playing
 Options:
@@ -12246,7 +12246,7 @@ Options:
 
 At the end of the match, Bob is playing Left Midfielder.
 
-Final Answer: (D) left midfielder",1
+Final Answer: (D) left midfielder",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a red ball, Bob has a blue ball, Claire has a brown ball, Dave has a black ball, and Eve has a orange ball.
 As the game progresses, pairs of players trade balls. First, Dave and Claire swap balls. Then, Alice and Bob swap balls. Then, Eve and Dave swap balls. Then, Claire and Bob swap balls. Finally, Dave and Eve swap balls. At the end of the game, Claire has the
 Options:
@@ -12310,7 +12310,7 @@ Options:
 
 At the end of the game, Claire has the red ball.
 
-Final Answer: (A) red ball",1
+Final Answer: (A) red ball",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing striker, Bob is playing right winger, Claire is playing goalkeeper, Dave is playing left winger, and Eve is playing left midfielder.
 As the game progresses, pairs of players occasionally swap positions. First, Dave and Bob trade positions. Then, Alice and Bob trade positions. Then, Eve and Dave trade positions. Then, Bob and Dave trade positions. Finally, Claire and Alice trade positions. At the end of the match, Dave is playing
 Options:
@@ -12364,7 +12364,7 @@ Options:
 
 At the end of the match, Dave is playing Striker.
 
-Final Answer: (A) striker",1
+Final Answer: (A) striker",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Lola, Bob is dancing with Melissa, Claire is dancing with Jamie, Dave is dancing with Rodrigo, and Eve is dancing with Helga.
 Throughout the song, the dancers often trade partners. First, Bob and Eve switch partners. Then, Alice and Dave switch partners. Then, Eve and Bob switch partners. Then, Eve and Claire switch partners. Finally, Dave and Bob switch partners. At the end of the dance, Eve is dancing with
 Options:
@@ -12418,7 +12418,7 @@ Options:
 
 At the end of the dance, Eve is dancing with Jamie.
 
-Final Answer: C",1
+Final Answer: C",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a white ball, Bob has a yellow ball, Claire has a blue ball, Dave has a orange ball, and Eve has a brown ball.
 As the game progresses, pairs of players trade balls. First, Eve and Alice swap balls. Then, Dave and Bob swap balls. Then, Claire and Alice swap balls. Then, Alice and Dave swap balls. Finally, Eve and Alice swap balls. At the end of the game, Bob has the
 Options:
@@ -12482,7 +12482,7 @@ Options:
 
 At the end of the game, Bob has the orange ball.
 
-Final Answer: (D) orange ball",1
+Final Answer: (D) orange ball",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a blue ball, Bob has a purple ball, Claire has a green ball, Dave has a brown ball, and Eve has a orange ball.
 As the game progresses, pairs of players trade balls. First, Bob and Claire swap balls. Then, Dave and Bob swap balls. Then, Claire and Bob swap balls. Then, Bob and Alice swap balls. Finally, Eve and Bob swap balls. At the end of the game, Dave has the
 Options:
@@ -12550,7 +12550,7 @@ Now, we need to find out what ball Dave has at the end of the game. From the fin
 
 Thus, the answer is:
 
-Final Answer: (C) green ball",1
+Final Answer: (C) green ball",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a green present, Bob has a black ball, Claire has a red present, Dave has a white present, and Eve has a blue present.
 As the event progresses, pairs of people swap gifts. First, Alice and Dave swap their gifts. Then, Dave and Eve swap their gifts. Then, Bob and Eve swap their gifts. Then, Bob and Dave swap their gifts. Finally, Bob and Claire swap their gifts. At the end of the event, Dave has the
 Options:
@@ -12619,7 +12619,7 @@ Options:
 
 At the end of the event, we see that Dave has the green present.
 
-Final Answer: (A) green present",1
+Final Answer: (A) green present",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets The Pearl, Bob gets Catch-22, Claire gets The Fellowship of the Ring, Dave gets Lolita, and Eve gets Ulysses.
 As the semester proceeds, they start trading around the new books. First, Claire and Alice swap books. Then, Dave and Alice swap books. Then, Eve and Bob swap books. Then, Dave and Bob swap books. Finally, Bob and Claire swap books. At the end of the semester, Alice has
 Options:
@@ -12673,7 +12673,7 @@ Options:
 
 At the end of the semester, Alice has **Lolita**.
 
-Final Answer: D",1
+Final Answer: D",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a purple present, Bob has a red present, Claire has a pink ball, Dave has a brown present, and Eve has a orange ball.
 As the event progresses, pairs of people swap gifts. First, Alice and Claire swap their gifts. Then, Dave and Alice swap their gifts. Then, Bob and Claire swap their gifts. Then, Eve and Dave swap their gifts. Finally, Claire and Alice swap their gifts. At the end of the event, Alice has the
 Options:
@@ -12742,7 +12742,7 @@ Options:
 
 At the end of the event, Alice has the red present.
 
-Final Answer: (B) red present",1
+Final Answer: (B) red present",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a green present, Bob has a brown present, Claire has a purple present, Dave has a white present, and Eve has a blue present.
 As the event progresses, pairs of people swap gifts. First, Alice and Bob swap their gifts. Then, Bob and Eve swap their gifts. Then, Dave and Eve swap their gifts. Then, Alice and Claire swap their gifts. Finally, Bob and Eve swap their gifts. At the end of the event, Bob has the
 Options:
@@ -12811,7 +12811,7 @@ Options:
 
 At the end of the event, Bob has the white present.
 
-Final Answer: (D) white present",1
+Final Answer: (D) white present",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a brown ball, Bob has a black ball, Claire has a white ball, Dave has a yellow ball, and Eve has a purple ball.
 As the game progresses, pairs of players trade balls. First, Claire and Dave swap balls. Then, Alice and Eve swap balls. Then, Dave and Bob swap balls. Then, Alice and Eve swap balls. Finally, Claire and Eve swap balls. At the end of the game, Alice has the
 Options:
@@ -12875,7 +12875,7 @@ Options:
 
 At the end of the game, Alice has the brown ball.
 
-Final Answer: (A) brown ball",1
+Final Answer: (A) brown ball",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Melissa, Bob is dancing with Sam, Claire is dancing with Helga, Dave is dancing with Ophelia, and Eve is dancing with Jamie.
 Throughout the song, the dancers often trade partners. First, Dave and Eve switch partners. Then, Alice and Eve switch partners. Then, Claire and Eve switch partners. Then, Bob and Eve switch partners. Finally, Dave and Eve switch partners. At the end of the dance, Dave is dancing with
 Options:
@@ -12929,7 +12929,7 @@ Options:
 
 At the end of the dance, Dave is dancing with Sam.
 
-Final Answer: B",1
+Final Answer: B",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Karl, Bob is dancing with Jamie, Claire is dancing with Melissa, Dave is dancing with Lola, and Eve is dancing with Ophelia.
 Throughout the song, the dancers often trade partners. First, Bob and Claire switch partners. Then, Alice and Dave switch partners. Then, Bob and Alice switch partners. Then, Claire and Eve switch partners. Finally, Eve and Alice switch partners. At the end of the dance, Dave is dancing with
 Options:
@@ -13056,7 +13056,7 @@ Options:
 
 At the end of the semester, Eve has Frankenstein.
 
-Final Answer: D",1
+Final Answer: D",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a red present, Bob has a pink ball, Claire has a black ball, Dave has a brown present, and Eve has a purple present.
 As the event progresses, pairs of people swap gifts. First, Claire and Dave swap their gifts. Then, Eve and Dave swap their gifts. Then, Eve and Claire swap their gifts. Then, Dave and Bob swap their gifts. Finally, Alice and Claire swap their gifts. At the end of the event, Claire has the
 Options:
@@ -13122,7 +13122,7 @@ Now, let's go through the swaps step by step:
 
 At the end of the event, Claire has the red present.
 
-Final Answer: (A) red present",1
+Final Answer: (A) red present",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Ophelia, Bob is dancing with Izzi, Claire is dancing with Helga, Dave is dancing with Patrick, and Eve is dancing with Lola.
 Throughout the song, the dancers often trade partners. First, Eve and Claire switch partners. Then, Claire and Dave switch partners. Then, Claire and Alice switch partners. Then, Bob and Alice switch partners. Finally, Dave and Claire switch partners. At the end of the dance, Bob is dancing with
 Options:
@@ -13176,7 +13176,7 @@ Options:
 
 At the end of the dance, we see that Bob is dancing with Patrick.
 
-Final Answer: (D) Patrick",1
+Final Answer: (D) Patrick",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a black ball, Bob has a blue ball, Claire has a orange ball, Dave has a pink ball, and Eve has a white ball.
 As the game progresses, pairs of players trade balls. First, Eve and Bob swap balls. Then, Dave and Bob swap balls. Then, Dave and Alice swap balls. Then, Eve and Claire swap balls. Finally, Claire and Alice swap balls. At the end of the game, Dave has the
 Options:
@@ -13245,7 +13245,7 @@ Options:
 
 At the end of the game, Dave has the black ball.
 
-Final Answer: (A) black ball",1
+Final Answer: (A) black ball",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing cheerleader, Bob is playing right winger, Claire is playing left winger, Dave is playing goalkeeper, and Eve is playing striker.
 As the game progresses, pairs of players occasionally swap positions. First, Bob and Dave trade positions. Then, Alice and Eve trade positions. Then, Claire and Dave trade positions. Then, Claire and Bob trade positions. Finally, Eve and Bob trade positions. At the end of the match, Dave is playing
 Options:
@@ -13301,7 +13301,7 @@ Now, we need to determine Dave's final position. After all the swaps, Dave is in
 
 Thus, the final answer is:
 
-Final Answer: (C) left winger",1
+Final Answer: (C) left winger",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets The Great Gatsby, Bob gets Frankenstein, Claire gets Moby Dick, Dave gets The Fellowship of the Ring, and Eve gets Catch-22.
 As the semester proceeds, they start trading around the new books. First, Alice and Bob swap books. Then, Dave and Eve swap books. Then, Eve and Alice swap books. Then, Dave and Eve swap books. Finally, Claire and Dave swap books. At the end of the semester, Alice has
 Options:
@@ -13355,7 +13355,7 @@ Options:
 
 At the end of the semester, Alice has **The Fellowship of the Ring**.
 
-Final Answer: (D) The Fellowship of the Ring",1
+Final Answer: (D) The Fellowship of the Ring",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a blue present, Bob has a red present, Claire has a white present, Dave has a yellow present, and Eve has a purple present.
 As the event progresses, pairs of people swap gifts. First, Dave and Eve swap their gifts. Then, Dave and Claire swap their gifts. Then, Dave and Bob swap their gifts. Then, Dave and Alice swap their gifts. Finally, Eve and Bob swap their gifts. At the end of the event, Alice has the
 Options:
@@ -13419,7 +13419,7 @@ Options:
 
 At the end of the event, Alice has the red present.
 
-Final Answer: (B) red present",1
+Final Answer: (B) red present",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Melissa, Bob is dancing with Sam, Claire is dancing with Helga, Dave is dancing with Ophelia, and Eve is dancing with Jamie.
 Throughout the song, the dancers often trade partners. First, Dave and Eve switch partners. Then, Alice and Eve switch partners. Then, Claire and Eve switch partners. Then, Bob and Eve switch partners. Finally, Dave and Eve switch partners. At the end of the dance, Bob is dancing with
 Options:
@@ -13473,7 +13473,7 @@ Options:
 
 Now, we need to find out who Bob is dancing with at the end of the dance. After all the switches, Bob is dancing with Helga.
 
-Final Answer: (C) Helga",1
+Final Answer: (C) Helga",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Jamie, Bob is dancing with Rodrigo, Claire is dancing with Sam, Dave is dancing with Helga, and Eve is dancing with Ophelia.
 Throughout the song, the dancers often trade partners. First, Eve and Alice switch partners. Then, Dave and Claire switch partners. Then, Alice and Bob switch partners. Then, Claire and Eve switch partners. Finally, Claire and Alice switch partners. At the end of the dance, Claire is dancing with
 Options:
@@ -13542,7 +13542,7 @@ Options:
 
 At the end of the dance, Claire is dancing with Rodrigo.
 
-Final Answer: B",1
+Final Answer: B",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing left winger, Bob is playing fullback, Claire is playing benchwarmer, Dave is playing goalkeeper, and Eve is playing left midfielder.
 As the game progresses, pairs of players occasionally swap positions. First, Bob and Claire trade positions. Then, Bob and Dave trade positions. Then, Eve and Dave trade positions. Then, Dave and Claire trade positions. Finally, Alice and Dave trade positions. At the end of the match, Alice is playing
 Options:
@@ -13596,7 +13596,7 @@ Options:
 
 At the end of the match, Alice is playing **fullback**.
 
-Final Answer: (B) fullback",1
+Final Answer: (B) fullback",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing cheerleader, Bob is playing benchwarmer, Claire is playing center midfielder, Dave is playing striker, and Eve is playing left midfielder.
 As the game progresses, pairs of players occasionally swap positions. First, Dave and Bob trade positions. Then, Dave and Alice trade positions. Then, Alice and Claire trade positions. Then, Bob and Alice trade positions. Finally, Eve and Bob trade positions. At the end of the match, Bob is playing
 Options:
@@ -13650,7 +13650,7 @@ Options:
 
 At the end of the match, Bob is playing left midfielder.
 
-Final Answer: (E) left midfielder",1
+Final Answer: (E) left midfielder",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Sam, Bob is dancing with Izzi, Claire is dancing with Jamie, Dave is dancing with Ophelia, and Eve is dancing with Patrick.
 Throughout the song, the dancers often trade partners. First, Bob and Dave switch partners. Then, Alice and Eve switch partners. Then, Claire and Dave switch partners. Then, Bob and Eve switch partners. Finally, Alice and Bob switch partners. At the end of the dance, Claire is dancing with
 Options:
@@ -13773,7 +13773,7 @@ Options:
 
 At the end of the event, Eve has the brown present.
 
-Final Answer: (D) brown present",1
+Final Answer: (D) brown present",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a orange ball, Bob has a black ball, Claire has a green ball, Dave has a brown ball, and Eve has a yellow ball.
 As the game progresses, pairs of players trade balls. First, Eve and Alice swap balls. Then, Claire and Bob swap balls. Then, Dave and Bob swap balls. Then, Alice and Eve swap balls. Finally, Dave and Claire swap balls. At the end of the game, Dave has the
 Options:
@@ -13837,7 +13837,7 @@ Options:
 
 At the end of the game, Dave has the black ball.
 
-Final Answer: (B) black ball",1
+Final Answer: (B) black ball",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Catch-22, Bob gets The Odyssey, Claire gets Moby Dick, Dave gets Lolita, and Eve gets Frankenstein.
 As the semester proceeds, they start trading around the new books. First, Claire and Eve swap books. Then, Alice and Bob swap books. Then, Bob and Eve swap books. Then, Eve and Alice swap books. Finally, Bob and Dave swap books. At the end of the semester, Alice has
 Options:
@@ -13901,7 +13901,7 @@ Options:
 
 At the end of the semester, Alice has Catch-22.
 
-Final Answer: A",1
+Final Answer: A",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing right winger, Bob is playing goalkeeper, Claire is playing benchwarmer, Dave is playing center midfielder, and Eve is playing left midfielder.
 As the game progresses, pairs of players occasionally swap positions. First, Claire and Eve trade positions. Then, Claire and Alice trade positions. Then, Alice and Dave trade positions. Then, Bob and Eve trade positions. Finally, Alice and Claire trade positions. At the end of the match, Alice is playing
 Options:
@@ -13955,7 +13955,7 @@ Options:
 
 At the end of the match, Alice is playing as the Right Winger.
 
-Final Answer: (A) right winger",1
+Final Answer: (A) right winger",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing benchwarmer, Bob is playing right midfielder, Claire is playing right winger, Dave is playing center midfielder, and Eve is playing left winger.
 As the game progresses, pairs of players occasionally swap positions. First, Dave and Bob trade positions. Then, Alice and Claire trade positions. Then, Claire and Eve trade positions. Then, Bob and Claire trade positions. Finally, Dave and Eve trade positions. At the end of the match, Eve is playing
 Options:
@@ -14009,7 +14009,7 @@ Options:
 
 At the end of the match, Eve is playing Right Midfielder.
 
-Final Answer: (B) right midfielder",1
+Final Answer: (B) right midfielder",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets The Great Gatsby, Bob gets Frankenstein, Claire gets Moby Dick, Dave gets The Fellowship of the Ring, and Eve gets Catch-22.
 As the semester proceeds, they start trading around the new books. First, Alice and Bob swap books. Then, Dave and Eve swap books. Then, Eve and Alice swap books. Then, Dave and Eve swap books. Finally, Claire and Dave swap books. At the end of the semester, Claire has
 Options:
@@ -14063,7 +14063,7 @@ Options:
 
 At the end of the semester, Claire has Frankenstein.
 
-Final Answer: (B) Frankenstein",1
+Final Answer: (B) Frankenstein",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing right midfielder, Bob is playing right winger, Claire is playing fullback, Dave is playing left midfielder, and Eve is playing cheerleader.
 As the game progresses, pairs of players occasionally swap positions. First, Eve and Bob trade positions. Then, Eve and Claire trade positions. Then, Claire and Dave trade positions. Then, Alice and Dave trade positions. Finally, Dave and Claire trade positions. At the end of the match, Claire is playing
 Options:
@@ -14117,7 +14117,7 @@ Options:
 
 At the end of the match, Claire is playing **Right Midfielder**.
 
-Final Answer: (A) right midfielder",1
+Final Answer: (A) right midfielder",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a black ball, Bob has a brown ball, Claire has a blue ball, Dave has a green ball, and Eve has a yellow ball.
 As the game progresses, pairs of players trade balls. First, Eve and Claire swap balls. Then, Bob and Dave swap balls. Then, Eve and Alice swap balls. Then, Claire and Bob swap balls. Finally, Alice and Eve swap balls. At the end of the game, Claire has the
 Options:
@@ -14181,7 +14181,7 @@ Options:
 
 At the end of the game, Claire has the green ball.
 
-Final Answer: (D) green ball",1
+Final Answer: (D) green ball",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing benchwarmer, Bob is playing goalkeeper, Claire is playing left midfielder, Dave is playing fullback, and Eve is playing center midfielder.
 As the game progresses, pairs of players occasionally swap positions. First, Alice and Bob trade positions. Then, Alice and Eve trade positions. Then, Dave and Bob trade positions. Then, Dave and Eve trade positions. Finally, Claire and Bob trade positions. At the end of the match, Eve is playing
 Options:
@@ -14235,7 +14235,7 @@ Options:
 
 At the end of the match, Eve is playing as the Benchwarmer.
 
-Final Answer: (A) benchwarmer",1
+Final Answer: (A) benchwarmer",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Catch-22, Bob gets Lolita, Claire gets Ulysses, Dave gets Frankenstein, and Eve gets The Pearl.
 As the semester proceeds, they start trading around the new books. First, Bob and Claire swap books. Then, Eve and Claire swap books. Then, Bob and Eve swap books. Then, Dave and Alice swap books. Finally, Dave and Bob swap books. At the end of the semester, Alice has
 Options:
@@ -14289,7 +14289,7 @@ Options:
 
 At the end of the semester, Alice has Frankenstein.
 
-Final Answer: (D) Frankenstein",1
+Final Answer: (D) Frankenstein",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Lola, Bob is dancing with Karl, Claire is dancing with Patrick, Dave is dancing with Sam, and Eve is dancing with Helga.
 Throughout the song, the dancers often trade partners. First, Dave and Alice switch partners. Then, Eve and Alice switch partners. Then, Bob and Dave switch partners. Then, Bob and Eve switch partners. Finally, Bob and Claire switch partners. At the end of the dance, Bob is dancing with
 Options:
@@ -14358,7 +14358,7 @@ Options:
 
 At the end of the dance, Bob is dancing with Patrick.
 
-Final Answer: C",1
+Final Answer: C",0
 "Alice, Bob, Claire, Dave, and Eve are on the same team in a soccer match. At the start of the match, they are each assigned to a position: Alice is playing striker, Bob is playing center midfielder, Claire is playing fullback, Dave is playing right winger, and Eve is playing left midfielder.
 As the game progresses, pairs of players occasionally swap positions. First, Alice and Eve trade positions. Then, Claire and Bob trade positions. Then, Eve and Bob trade positions. Then, Bob and Dave trade positions. Finally, Eve and Dave trade positions. At the end of the match, Claire is playing
 Options:
@@ -14412,7 +14412,7 @@ Options:
 
 At the end of the match, Claire is playing center midfielder.
 
-Final Answer: (B) center midfielder",1
+Final Answer: (B) center midfielder",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a brown present, Bob has a black ball, Claire has a green present, Dave has a purple present, and Eve has a yellow present.
 As the event progresses, pairs of people swap gifts. First, Bob and Dave swap their gifts. Then, Bob and Eve swap their gifts. Then, Dave and Claire swap their gifts. Then, Dave and Bob swap their gifts. Finally, Alice and Dave swap their gifts. At the end of the event, Eve has the
 Options:
@@ -14480,7 +14480,7 @@ At the end of the event, we need to determine what Eve has:
 - Eve has the purple present.
 
 Thus, the final answer is:
-Final Answer: (D) purple present",1
+Final Answer: (D) purple present",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets The Great Gatsby, Bob gets Catch-22, Claire gets The Pearl, Dave gets The Fellowship of the Ring, and Eve gets Hound of the Baskervilles.
 As the semester proceeds, they start trading around the new books. First, Eve and Claire swap books. Then, Bob and Eve swap books. Then, Claire and Dave swap books. Then, Bob and Eve swap books. Finally, Alice and Bob swap books. At the end of the semester, Bob has
 Options:
@@ -14549,7 +14549,7 @@ Options:
 
 At the end of the semester, Bob has The Great Gatsby.
 
-Final Answer: (A) The Great Gatsby",1
+Final Answer: (A) The Great Gatsby",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Helga, Bob is dancing with Rodrigo, Claire is dancing with Melissa, Dave is dancing with Patrick, and Eve is dancing with Jamie.
 Throughout the song, the dancers often trade partners. First, Eve and Bob switch partners. Then, Alice and Bob switch partners. Then, Dave and Eve switch partners. Then, Eve and Claire switch partners. Finally, Alice and Claire switch partners. At the end of the dance, Claire is dancing with
 Options:
@@ -14603,7 +14603,7 @@ Options:
 
 At the end of the dance, Claire is dancing with Jamie.
 
-Final Answer: (E) Jamie",1
+Final Answer: (E) Jamie",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a yellow ball, Bob has a blue ball, Claire has a pink ball, Dave has a white ball, and Eve has a red ball.
 As the game progresses, pairs of players trade balls. First, Claire and Alice swap balls. Then, Eve and Bob swap balls. Then, Bob and Dave swap balls. Then, Claire and Eve swap balls. Finally, Alice and Dave swap balls. At the end of the game, Dave has the
 Options:
@@ -14667,7 +14667,7 @@ Options:
 
 At the end of the game, Dave has the pink ball.
 
-Final Answer: (C) pink ball",1
+Final Answer: (C) pink ball",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a blue ball, Bob has a purple ball, Claire has a red ball, Dave has a brown ball, and Eve has a black ball.
 As the game progresses, pairs of players trade balls. First, Claire and Dave swap balls. Then, Eve and Claire swap balls. Then, Bob and Alice swap balls. Then, Dave and Claire swap balls. Finally, Eve and Bob swap balls. At the end of the game, Bob has the
 Options:
@@ -14731,7 +14731,7 @@ Options:
 
 At the end of the game, Bob has the brown ball.
 
-Final Answer: (D) brown ball",1
+Final Answer: (D) brown ball",0
 "Alice, Bob, Claire, Dave, and Eve are playing a game. At the start of the game, they are each holding a ball: Alice has a orange ball, Bob has a black ball, Claire has a pink ball, Dave has a white ball, and Eve has a red ball.
 As the game progresses, pairs of players trade balls. First, Alice and Dave swap balls. Then, Bob and Claire swap balls. Then, Claire and Dave swap balls. Then, Dave and Bob swap balls. Finally, Alice and Eve swap balls. At the end of the game, Claire has the
 Options:
@@ -14795,7 +14795,7 @@ Options:
 
 At the end of the game, Claire has the orange ball.
 
-Final Answer: (A) orange ball",1
+Final Answer: (A) orange ball",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets The Pearl, Bob gets Hound of the Baskervilles, Claire gets Moby Dick, Dave gets Lolita, and Eve gets The Odyssey.
 As the semester proceeds, they start trading around the new books. First, Bob and Alice swap books. Then, Claire and Dave swap books. Then, Eve and Dave swap books. Then, Bob and Dave swap books. Finally, Eve and Bob swap books. At the end of the semester, Claire has
 Options:
@@ -14849,7 +14849,7 @@ Options:
 
 At the end of the semester, Claire has **Lolita**.
 
-Final Answer: (D) Lolita",1
+Final Answer: (D) Lolita",0
 "Alice, Bob, Claire, Dave, and Eve are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a brown present, Bob has a orange ball, Claire has a green present, Dave has a blue present, and Eve has a white present.
 As the event progresses, pairs of people swap gifts. First, Eve and Bob swap their gifts. Then, Eve and Claire swap their gifts. Then, Eve and Dave swap their gifts. Then, Dave and Alice swap their gifts. Finally, Claire and Dave swap their gifts. At the end of the event, Claire has the
 Options:
@@ -14920,7 +14920,7 @@ Now, let's go through each swap step by step:
 
 At the end of the event, Claire has the brown present.
 
-Final Answer: (A) brown present",1
+Final Answer: (A) brown present",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Ulysses, Bob gets Moby Dick, Claire gets Catch-22, Dave gets Frankenstein, and Eve gets Hound of the Baskervilles.
 As the semester proceeds, they start trading around the new books. First, Eve and Claire swap books. Then, Alice and Bob swap books. Then, Dave and Alice swap books. Then, Bob and Dave swap books. Finally, Eve and Bob swap books. At the end of the semester, Dave has
 Options:
@@ -14989,7 +14989,7 @@ Options:
 
 At the end of the semester, Dave has Ulysses.
 
-Final Answer: (A) Ulysses",1
+Final Answer: (A) Ulysses",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Lola, Bob is dancing with Karl, Claire is dancing with Patrick, Dave is dancing with Melissa, and Eve is dancing with Jamie.
 Throughout the song, the dancers often trade partners. First, Claire and Eve switch partners. Then, Eve and Dave switch partners. Then, Dave and Claire switch partners. Then, Claire and Bob switch partners. Finally, Dave and Alice switch partners. At the end of the dance, Bob is dancing with
 Options:
@@ -15043,7 +15043,7 @@ Options:
 
 Now, we need to find out who Bob is dancing with at the end of the dance. After all the switches, Bob is dancing with Patrick.
 
-Final Answer: Patrick",1
+Final Answer: Patrick",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Patrick, Bob is dancing with Sam, Claire is dancing with Jamie, Dave is dancing with Lola, and Eve is dancing with Melissa.
 Throughout the song, the dancers often trade partners. First, Dave and Eve switch partners. Then, Dave and Alice switch partners. Then, Eve and Alice switch partners. Then, Claire and Bob switch partners. Finally, Dave and Alice switch partners. At the end of the dance, Claire is dancing with
 Options:
@@ -15097,7 +15097,7 @@ Options:
 
 Now, we need to find out who Claire is dancing with at the end of the dance. After all the switches, Claire is dancing with Sam.
 
-Final Answer: B",1
+Final Answer: B",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Catch-22, Bob gets Moby Dick, Claire gets Hound of the Baskervilles, Dave gets Lolita, and Eve gets The Odyssey.
 As the semester proceeds, they start trading around the new books. First, Eve and Bob swap books. Then, Alice and Claire swap books. Then, Alice and Dave swap books. Then, Claire and Dave swap books. Finally, Bob and Claire swap books. At the end of the semester, Dave has
 Options:
@@ -15166,7 +15166,7 @@ Options:
 
 At the end of the semester, Dave has Catch-22.
 
-Final Answer: (A) Catch-22",1
+Final Answer: (A) Catch-22",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Jamie, Bob is dancing with Patrick, Claire is dancing with Ophelia, Dave is dancing with Melissa, and Eve is dancing with Rodrigo.
 Throughout the song, the dancers often trade partners. First, Dave and Bob switch partners. Then, Claire and Dave switch partners. Then, Eve and Alice switch partners. Then, Claire and Eve switch partners. Finally, Alice and Eve switch partners. At the end of the dance, Alice is dancing with
 Options:
@@ -15220,7 +15220,7 @@ Options:
 
 At the end of the dance, Alice is dancing with Patrick.
 
-Final Answer: B",1
+Final Answer: B",0
 "Alice, Bob, Claire, Dave, and Eve are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets Catch-22, Bob gets Lolita, Claire gets Ulysses, Dave gets Frankenstein, and Eve gets The Pearl.
 As the semester proceeds, they start trading around the new books. First, Bob and Claire swap books. Then, Eve and Claire swap books. Then, Bob and Eve swap books. Then, Dave and Alice swap books. Finally, Dave and Bob swap books. At the end of the semester, Bob has
 Options:
@@ -15274,7 +15274,7 @@ Options:
 
 At the end of the semester, Bob has Catch-22.
 
-Final Answer: (A) Catch-22",1
+Final Answer: (A) Catch-22",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Helga, Bob is dancing with Karl, Claire is dancing with Melissa, Dave is dancing with Ophelia, and Eve is dancing with Sam.
 Throughout the song, the dancers often trade partners. First, Alice and Dave switch partners. Then, Eve and Alice switch partners. Then, Bob and Claire switch partners. Then, Alice and Claire switch partners. Finally, Dave and Eve switch partners. At the end of the dance, Alice is dancing with
 Options:
@@ -15343,7 +15343,7 @@ Options:
 
 At the end of the dance, Alice is dancing with Karl.
 
-Final Answer: B",1
+Final Answer: B",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Lola, Bob is dancing with Melissa, Claire is dancing with Jamie, Dave is dancing with Rodrigo, and Eve is dancing with Helga.
 Throughout the song, the dancers often trade partners. First, Bob and Eve switch partners. Then, Alice and Dave switch partners. Then, Eve and Bob switch partners. Then, Eve and Claire switch partners. Finally, Dave and Bob switch partners. At the end of the dance, Dave is dancing with
 Options:
@@ -15397,7 +15397,7 @@ Options:
 
 Now, we need to find out who Dave is dancing with at the end of the dance. After all the switches, Dave is dancing with Melissa.
 
-Final Answer: (B) Melissa",1
+Final Answer: (B) Melissa",0
 "Alice, Bob, Claire, Dave, and Eve are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Rodrigo, Bob is dancing with Sam, Claire is dancing with Izzi, Dave is dancing with Jamie, and Eve is dancing with Ophelia.
 Throughout the song, the dancers often trade partners. First, Bob and Eve switch partners. Then, Alice and Bob switch partners. Then, Eve and Bob switch partners. Then, Dave and Alice switch partners. Finally, Eve and Claire switch partners. At the end of the dance, Alice is dancing with
 Options:
@@ -15451,4 +15451,4 @@ Options:
 
 At the end of the dance, Alice is dancing with Jamie.
 
-Final Answer: D",1
+Final Answer: D",0

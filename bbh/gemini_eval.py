@@ -25,9 +25,7 @@ def get_model_response(question):
     try:
         completion = client.models.generate_content(
             model="gemini-2.5-flash", 
-            messages=[{"role": "user", "content": prompt}],
-            temperature=0,
-            stream=False
+            contents=prompt
         )
         return completion.text.strip()
     except Exception as e:
@@ -36,55 +34,15 @@ def get_model_response(question):
 
 # get the model's answer
 def extract_final_answer(model_output):
-    # try "Final Answer:" or "The final answer is"
-    match = re.search(r"(?:Final Answer:|The final answer is)\s*(.*)", model_output, re.IGNORECASE)
-    if match:
-        result = match.group(1).strip()
-    else:
-        # fallback: use last non-empty line instead of full output
-        lines = [l.strip() for l in model_output.strip().splitlines() if l.strip()]
-        result = lines[-1] if lines else model_output.strip()
-    result = result.strip("\"'`")
-    # handle LaTeX boxed: $\boxed{\text{01/01/1930}}$ or $\boxed{D}$ → content
-    boxed = re.search(r'\$\\boxed\{(?:\\text\{([^}]+)\}|([^}]+))\}\$', result)
-    if boxed:
-        result = (boxed.group(1) or boxed.group(2)).strip()
-    return result
+    match = re.search(r"Final Answer:\s*(.*)", model_output, re.IGNORECASE)
+    return match.group(1).strip() if match else model_output.strip()
 
 # check if the final answer matches the gold
-def score_response(model_response, gold_answer, question=""):
+def score_response(model_response, gold_answer):
     final_answer = extract_final_answer(model_response)
     if final_answer is None:
         return 0
-    # case 1: accurate matching
-    if final_answer.lower().strip() == gold_answer.lower().strip():
-        return 1
-    # case 2.1 gold_answer: (D), final_answer: "B" or "(B)" or "(B) choices"
-    if re.match(r'^\([A-Z]\)$', gold_answer.strip()):
-        m = re.match(r'^\(?([A-Z])\)?', final_answer.strip())
-        if m and f"({m.group(1)})" == gold_answer.strip():
-            return 1
-    # case 2.2 gold_answer: (D), final_answer: "choices" with no Alphabet
-    if question and re.match(r'^\([A-Z]\)$', gold_answer.strip()):
-        options = dict(re.findall(r'\(([A-Z])\)\s*([^\n(]+)', question))
-        gold_letter = gold_answer.strip("()")
-        gold_content = options.get(gold_letter, "").strip()
-        if gold_content and final_answer.lower() == gold_content.lower():
-            return 1
-    # case 3: deal with "barn, damp" vs "barn damp"
-    if final_answer.lower().replace(",", " ").split() == gold_answer.lower().split():
-        return 1
-    # case 4: deal with complete sequence of parenthesis and brackets
-    m = re.search(r'Input:\s*(.+)', question, re.IGNORECASE)
-    if m:
-        partial = m.group(1).strip()
-        full = partial + " " + gold_answer.strip()
-        if final_answer.lower().strip() == full.lower().strip():
-            return 1
-    # case 5: with comma inside "No  ," vs "No"
-    if final_answer.lower().replace(",", " ").split() == gold_answer.lower().replace(",", " ").split():
-        return 1
-    return 0
+    return int(final_answer.lower().strip() == gold_answer.lower().strip())
 
 # start with an empty list for the overall scores and the list of splits to evaluate
 overall_results = []
@@ -124,7 +82,7 @@ for split in splits:
             gold = example["target"]
             # generate and score the response
             model_resp = get_model_response(q)
-            score = score_response(model_resp, gold, q)
+            score = score_response(model_resp, gold)
 
             # append to the results csv for this split
             results.append({
@@ -141,7 +99,7 @@ for split in splits:
         # append the average score on this split to the overall results
         overall_results.append({
             "dataset": split,
-            "average_score": round(results_df["score"].mean(), 3)
+            "average_score": results_df["score"].mean()
         })
     except Exception as e:
         print("Error:", e)

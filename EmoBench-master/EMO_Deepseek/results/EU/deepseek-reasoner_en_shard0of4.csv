@@ -1,0 +1,245 @@
+qid,lang,coarse_category,finegrained_category,scenario,subject,emo_label,emo_answer,cause_label,cause_answer,model_response,score
+1,en,complex_emotions,emotion_transition,"Dorea was trying to cook a Baklava. When she took it out of the oven, the Baklava was ruined as the bread was not crispy, and the filling was bursting all over the pan. At that moment, her daughter came home and noticed her mom's fresh yet ruined Baklava. She tasted it and gave a thumbs-up to her mother.",Dorea,A,A,B,B,"{
+""answer_q1"": ""A"",
+""answer_q2"": ""B""
+}",1
+2,en,complex_emotions,emotion_transition,"Simon, an amateur painter, had been working on a portrait of his deceased pet for over a week. After he finally completed it, he stepped back and immediately noticed that he had painted the wrong color for his pet's fur. Just then, his wife saw it and exclaimed, ""That's exactly how I remember him!""",Simon,A,E,B,B,"{
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""B""
+}",0
+3,en,complex_emotions,emotion_transition,"After weeks of hard work and determination, Andy was finally able to open his art exhibition and display his portraits. While he invited all of the people at work, none of them showed up. As he was packing up to leave, his boss showed up, pointed to his painting, and praised his skills.",Andy,D,D,B,B,"```json
+{
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""B""
+}
+```",1
+4,en,complex_emotions,emotion_transition,"Albert and his dad made a deal. If Albert managed to graduate, being in the top 5 in the school, his dad would buy him a new laptop. If Albert lost, then he would not get anything. During the announcement, Albert fell short of the list and was ranked 6. The next day, they found out that one of the top 5 contestants had cheated and was disqualified.",Albert,D,D,C,C,"```json
+{
+""answer_q1"": ""D"",
+""answer_q2"": ""C""
+}
+```",1
+5,en,complex_emotions,emotion_transition,"Momo loved dancing and used it as an escape from her stressful life. Today, her client refused her work multiple times which resulted in her being reprimanded by her boss. Arriving at the dance studio, she put her bag down and screamed before starting to dance. After she finished dancing, Momo closed her eyes and nodded to herself in the mirror.",Momo,A,A,B,B,"{
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""B""
+}",1
+6,en,complex_emotions,emotion_transition,"On his way to work, Andre was stuck in traffic when a person started shouting at him for being a bad driver. Once he came out of the car to confront that person, he realized it was his dad.",Andre,B,B,C,C,"```json
+{
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""C""
+}
+```",1
+7,en,complex_emotions,emotion_transition,"I was annoyed with my friend for not inviting me to his birthday party. Then, I realized he also talks badly about me behind my back to others.",I,A,A,B,B,"```json
+{
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""B""
+}
+```",1
+8,en,complex_emotions,emotion_transition,"Julius was excited to present his innovative idea to the team. During the meeting, his boss brutally criticized his lack of details and clarity. Julius analyzed his boss' comments and realized that this harsh feedback was what he needed to improve. He read over his notes and started refining his ideas.",Julius,A,A,C,C,"{
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""C""
+}",1
+9,en,complex_emotions,emotion_transition,"Liam, a teenager often overlooked by his parents, found pride in keeping a flawless academic record. His parents told him they'd be skipping his awards ceremony for his younger brother's baseball game. With a crushing feeling in his heart, he climbed the stage alone. As he looked into the audience, he saw his parents sitting in the front row, smiling and clapping for him.",Liam,F,F,A,A,"```json
+{
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""A""
+}
+```",1
+10,en,complex_emotions,emotion_transition,"Joe's biggest hobby is taking pictures of birds. He had been trying to spot a rare type of bird, called the bluebird, for months. After numerous attempts, he finally spotted one sitting on a tree branch and was delighted. So, he sat down and prepared his camera to take the photo, but as he wanted to take the picture, the bird flew away. As Joe was staying there staring at the empty branch, the bird flew back.",Joe,A,A,C,C,"{
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""C""
+}",1
+11,en,complex_emotions,emotion_transition,"Ella was up the entire night working on her painting for the art exhibition. She was full of doubt, questioning whether it was good enough or not for the public. As she finished and stepped away, her little brother walked into the room. He stood there, stared at the painting for a while, then he turned to Ella with wide eyes and a big smile on his face.",Ella,A,A,B,B,"{
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""B""
+}",1
+12,en,complex_emotions,emotion_transition,"Mira had always been afraid of dogs. One day, while walking in her neighborhood, she saw an injured puppy on the sidewalk. She cautiously approached, quickly wrapped it in her scarf, and took it to the vet. A few weeks of visits later, Mira found herself getting attached to the creature.",Mira,B,B,C,C,"```json
+{
+""answer_q1"": ""B"",
+""answer_q2"": ""C""
+}
+```",1
+13,en,complex_emotions,emotion_transition,"Lena has been trying to study hard the entire week for her crucial medical exam, but has not found the chance because of her social life. So, with high anxiety, she decided to prepare hours away from the exam. In the middle of her study, she got a notification about the cancellation of the exam due to a virus outbreak in her college.",Lena,B,B,D,D,"{
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""D""
+}",1
+14,en,complex_emotions,emotion_transition,"After waiting for almost two hours for his date, Roger was considering leaving when he heard a familiar voice behind him. It was his date, Jessica, who frantically apologized for being late and explained she had been helping a family stuck on the highway.",Roger,B,B,C,C,"{
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""C""
+}",1
+15,en,complex_emotions,emotion_transition,"After waiting for almost two hours for his date, Roger was considering leaving when he heard a familiar voice behind him. It was his date, Jessica, who frantically apologized for being late and explained she had been helping a family stuck on the highway.",Jessica,A,A,C,C,"{
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""C""
+}",1
+16,en,complex_emotions,mixture_of_emotions,"James and I are coworkers. We've been best friends for over a decade. Our boss gives out an employee of the year award every year. This year, we both applied as candidates for this reward and worked hard to get it. The results were announced yesterday. My friend won the award. When we found out, he smiled at first but didn't celebrate.",I,D,D,E,F,"```json
+{
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""F""
+}
+```",0
+17,en,complex_emotions,mixture_of_emotions,"James and I are coworkers. We've been best friends for over a decade. Our boss gives out an employee of the year award every year. This year, we both applied as candidates for this reward and worked hard to get it. The results were announced yesterday. My friend won the award. When we found out, he smiled at first but didn't celebrate.",James,A,A,F,F,"{
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""F""
+}",1
+18,en,complex_emotions,mixture_of_emotions,"I had a math exam yesterday. The night before, I had studied all the material I could get my hands on and did many practice tests. But when it came to the actual exam, I had forgotten many of the things that I had reviewed. After the exam was over, I felt so bad I thought I would fail even though I studied really hard. The results came out today. I passed with a low mark, so I will ask the teacher if I can get a higher grade.",I,B,B,A,A,"{
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""A""
+}",1
+19,en,complex_emotions,mixture_of_emotions,"Charlene is a big fan of Taylor Swift. She has been saving up her allowance for a year to go to her concert. One day, as she was sitting in a cafe, she decided to try buying a Taylor Swift concert ticket. She knew there was a long waitlist of people wanting to go to the concert, but she still gave it a try. After around thirty minutes, she became one of the few to buy the tickets. She screamed the moment she received the email for her purchase confirmation. Immediately after, she realized what she had done and apologized to the other customers.",Charlene,F,F,F,F,"{
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""F""
+}",1
+20,en,complex_emotions,mixture_of_emotions,"Naomi just graduated high school and is about to attend college abroad in three days. This is the first time she is separated from her family and has to live on her own. While packing, although she's grown up and doesn't play with toys anymore, Naomi brought a doll that her mother gave her as a child.",Naomi,F,F,A,A,"{
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""A""
+}",1
+21,en,complex_emotions,mixture_of_emotions,"I applied to eight different universities to pursue my Bachelor's degree. Each decision letter came in differing dates. I waited until I received all the decision letters and opened them simultaneously. After opening the letters, I found that five of the universities, including my dream university, rejected me. Yet, one of the other three had offered to provide a full scholarship.",I,A,B,B,B,"```json
+{
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""B""
+}
+```",0
+22,en,complex_emotions,mixture_of_emotions,"I had a challenging physics exam today. Yet, I was well prepared. I answered most of the questions in the exam in a short amount of time and was sure of my answers. However, when I got to the last question, I could not figure out a solution and ended up spending the rest of the exam on it. The moment I came out of the exam hall and started discussing the questions with my friends, I suddenly came up with a solution for the question.",I,F,F,A,A,"{
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""A""
+}",1
+23,en,complex_emotions,mixture_of_emotions,"Taylor had to complete a group project for the human-computer interaction course. The teams were assigned randomly, and Taylor was excited about meeting new teammates. During weeks of working on the project, he realized he was the only one doing the work, and none of his teammates were willing to help. After all projects were submitted and assessed, his group's project was selected as the best and got the highest mark.",Taylor,B,B,F,C,"```json
+{
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""C""
+}
+```",0
+24,en,complex_emotions,mixture_of_emotions,"Laura owns a bakery. She recently got a chance to compete in a high-profile national baking competition. After weeks of grueling preparation, she made it to the final round but unfortunately finished in second place. Despite this, she was praised for her work by her baking idol, a renowned pastry chef.",Laura,A,A,F,F,"{
+""answer_q1"": ""A"",
+""answer_q2"": ""F""
+}",1
+25,en,complex_emotions,mixture_of_emotions,"Ben has been aiming to buy his dream car for many years. He has saved up every single penny he could save from his salary and even did extra part-time jobs for this. After years of hard work, he finally had enough money to buy his dream car. The day he went to buy the car, as he was on his way to the dealership, he noticed a homeless man on the road in dire need of help. Ben helped the man with a considerable part of his savings so that he could start a new life.",Ben,E,E,A,A,"```json
+{
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""A""
+}
+```",1
+26,en,complex_emotions,mixture_of_emotions,"Patrick is a passionate soccer player on his high school team. For the whole year, he has been practicing hard to win the championship. On the final day of the match, his leg gets injured. Yet, he still decides to finish the game. Surprisingly, Patrick scored the final goal, leading the team to victory. However, after the match, he found out that his injury needed numerous weeks of medical rest.",Patrick,C,C,C,C,"```json
+{
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""C""
+}
+```",1
+27,en,complex_emotions,mixture_of_emotions,"Lora left her husband with her toddler to go grocery shopping. When she got back home, she saw her husband with her toddler on top of his chest, sleeping on the couch, before noticing the mess in the living room.",Lora,C,C,F,F,"{
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""F""
+}",1
+28,en,complex_emotions,mixture_of_emotions,"Every evening, Alexa used to water her vegetable garden, which was in the backyard of her home. One evening, a group of children playing soccer in the nearby ground accidentally kicked the ball into her garden, damaging some of her plants. Alexa destroyed their ball to show her anger. The following afternoon, she saw the children arrive with new plants, apologizing for their actions and asking if they could have their ball back.",Alexa,F,F,B,B,"```json
+{
+""answer_q1"": ""F"",
+""answer_q2"": ""B""
+}
+```",1
+29,en,complex_emotions,mixture_of_emotions,"Every evening, Alexa used to water her vegetable garden, which was in the backyard of her home. One evening, a group of children playing soccer in the nearby ground accidentally kicked the ball into her garden, damaging some of her plants. Alexa destroyed their ball to show her anger. The following afternoon, she saw the children arrive with new plants, apologizing for their actions and asking if they could have their ball back.",the children,A,A,F,F,"{
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""F""
+}",1
+30,en,complex_emotions,unexpected_outcome,"Gabriel has had a long and tough day. He woke up early to go to work, got shouted at by his boss, and was laughed at by his coworkers. Then, he found that he might need to find a new job due to his recent failures. On his way home, Gabriel bought an ice cream to make himself feel better, but it fell to the ground right as he wanted to start eating it. Then, he started laughing hysterically.",Gabriel,A,B,D,D,"{
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""D""
+}",0
+31,en,complex_emotions,unexpected_outcome,"When Clai was about to graduate from college, Michi, her best friend, told her that she wasn't able to come to her graduation. During the graduation day, Clai was walking down the stage to receive her diploma when suddenly she heard loud cheering and saw Michi.",Clai,F,F,A,A,"{
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""A""
+}",1
+32,en,complex_emotions,unexpected_outcome,"When Clai was about to graduate from college, Michi, her best friend, told her that she wasn't able to come to her graduation. During the graduation day, Clai was walking down the stage to receive her diploma when suddenly she heard loud cheering and saw Michi.",Michi,B,B,A,A,"```json
+{
+""answer_q1"": ""B"",
+""answer_q2"": ""A""
+}
+```",1
+33,en,complex_emotions,unexpected_outcome,"Rea is disliked by her classmates due to her high grades. Last week, their class had a very challenging chemistry test. When the papers were graded and handed out, Rea realized that she was the only student who passed the test among her classmates. So, she immediately tore her test paper and threw it out before anyone else saw it.",Rea,B,B,B,B,"```json
+{
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""B""
+}
+```",1
+34,en,complex_emotions,unexpected_outcome,"Rea is disliked by her classmates due to her high grades. Last week, their class had a very challenging chemistry test. When the papers were graded and handed out, Rea realized that she was the only student who passed the test among her classmates. So, she immediately tore her test paper and threw it out before anyone else saw it.",Rea's Classmates,F,F,C,C,"{
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""C""
+}",1
+35,en,complex_emotions,unexpected_outcome,"Ella gave her daughter Ada a music box for her 6th birthday, it played her favorite classical songs. Ada loved the music box and used to listen to it every night before bed. When Ada turned 10, she accidentally broke the music box. So, she hid the broken box and never mentioned the incident to Ella. One day, while cleaning, Ella found the broken music box and comforted Ada telling her that accidents happen.",Ella,A,A,B,B,"```json
+{
+""answer_q1"": ""A"",
+""answer_q2"": ""B""
+}
+```",1
+36,en,complex_emotions,unexpected_outcome,"Ella gave her daughter Ada a music box for her 6th birthday, it played her favorite classical songs. Ada loved the music box and used to listen to it every night before bed. When Ada turned 10, she accidentally broke the music box. So, she hid the broken box and never mentioned the incident to Ella. One day, while cleaning, Ella found the broken music box and comforted Ada telling her that accidents happen.",Ada,F,F,E,D,"```json
+{
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""D""
+}
+```",0
+37,en,complex_emotions,unexpected_outcome,"Elise and Damon had been the best of friends since their high school days. Recently, Elise developed feelings for Damon and decided to confess. She rehearsed and finally, with her heart pounding, she confessed her feelings. Damon told her he had been in a relationship with someone else for a couple of months. Elise congratulated him and left hurriedly.",Elise,A,A,C,C,"{
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""C""
+}",1
+38,en,complex_emotions,unexpected_outcome,"Elise and Damon had been the best of friends since their high school days. Recently, Elise developed feelings for Damon and decided to confess. She rehearsed and finally, with her heart pounding, she confessed her feelings. Damon told her he had been in a relationship with someone else for a couple of months. Elise congratulated him and left hurriedly.",Damon,E,E,D,D,"{
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""D""
+}",1
+39,en,complex_emotions,unexpected_outcome,"Diana was a self-taught artist, while her sister Eliana has been going to classes since she was a child. Eliana often criticized Diana for her lack of creativity. One day, Eliana entered a prestigious photo contest and lost. She then found out that Diana had won the same contest with her artwork. So, she went online to write comments on how the judges do not understand art.",Diana,A,A,C,C,"{
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""C""
+}",1
+40,en,complex_emotions,unexpected_outcome,"Diana was a self-taught artist, while her sister Eliana has been going to classes since she was a child. Eliana often criticized Diana for her lack of creativity. One day, Eliana entered a prestigious photo contest and lost. She then found out that Diana had won the same contest with her artwork. So, she went online to write comments on how the judges do not understand art.",Eliana,A,A,A,A,"```json
+{
+""answer_q1"": ""A"",
+""answer_q2"": ""A""
+}
+```",1
+41,en,complex_emotions,unexpected_outcome,"Alice had been working for a long time to afford the car of her dreams. After a lot of saving up, she was able to buy it today. Meanwhile, her brother Bill was going through financial struggles and had to sell his car a few weeks ago. Alice decided to take Bill for a ride in her new car that evening.",Alice,A,A,B,B,"{
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""B""
+}",1
+42,en,complex_emotions,unexpected_outcome,"Alice had been working for a long time to afford the car of her dreams. After a lot of saving up, she was able to buy it today. Meanwhile, her brother Bill was going through financial struggles and had to sell his car a few weeks ago. Alice decided to take Bill for a ride in her new car that evening.",Bill,A,D,C,C,"```json
+{
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""C""
+}
+```",0
+43,en,complex_emotions,unexpected_outcome,"Jane's mother is very strict and always undermines her accomplishments at home. One day, Jane showed her mother the test paper on which she had scored 95 points out of 100. Her mother only said that she should have gotten full marks on such a simple test. However, when other parents are present, she openly talks about Jane's grades and excitedly praises her daughter.",Jane,E,E,C,C,"{
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""C""
+}",1
+44,en,complex_emotions,unexpected_outcome,"Jane's mother is very strict and always undermines her accomplishments at home. One day, Jane showed her mother the test paper on which she had scored 95 points out of 100. Her mother only said that she should have gotten full marks on such a simple test. However, when other parents are present, she openly talks about Jane's grades and excitedly praises her daughter.",Jane's mother,A,B,A,C,"{
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""C""
+}",0
+45,en,complex_emotions,unexpected_outcome,"Angie and Shawn are a very close couple, but they haven't been on the best terms for the last two weeks. Today is the 28th. On this day of every month, Shawn would buy a bouquet of flowers and put them in the living room to express his love for Angie. As Shawn passed by the flower shop, he started pondering deeply, and after some time, he walked in to buy a bouquet.",Shawn,F,F,B,B,"```json
+{
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""B""
+}
+```",1
+46,en,complex_emotions,unexpected_outcome,"The result of the hard chemistry test is finally out today. Victoria found out that, while she didn't pass the test, she earned a higher score than Bertha, her rival.",Victoria,A,A,A,A,"{
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""A""
+}",1
+47,en,complex_emotions,unexpected_outcome,"The result of the hard chemistry test is finally out today. Victoria found out that, while she didn't pass the test, she earned a higher score than Bertha, her rival.",Bertha,A,A,F,F,"{
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""F""
+}",1
+48,en,complex_emotions,unexpected_outcome,"Andre is a doctor. Due to the constant emergencies happening in the past few months, Andre hasn't had the time to be with his girlfriend. So, this weekend, he decided to take his girlfriend on a romantic date night. Nearing the end of the main course, he got a call from his friend at the hospital telling him to enjoy the night.",Andre,A,A,A,A,"```json
+{
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""A""
+}
+```",1
+49,en,complex_emotions,unexpected_outcome,"Today was a hectic day for Harvey. He woke up late to go to the office, skipped his breakfast, got scolded by his manager, had to work late, and ate one meal only. When he came home, he wanted to get to bed immediately when he saw his parents' morning text that he had been unable to check until now, wishing him the happiest birthday and leaving heartfelt messages.",Harvey,C,B,B,B,"```json
+{
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""B""
+}
+```",0
+50,en,personal_beliefs_and_experiences,cultural_value,"To celebrate moving into his new house, Zhongli hosted a housewarming party and invited one of his best friends, Ollie. Around 6 p.m., Ollie arrived at Zhongli's house and entered without taking off his shoes. Seeing this, Zhongli told him to take off his shoes and offered a pair of slippers to use inside the house.",Zhongli,D,D,C,C,"```json
+{
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""C""
+}
+```",1

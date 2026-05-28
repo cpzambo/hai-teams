@@ -35,7 +35,7 @@ The oldest penguin is the one with the highest age, which is James at 12 years.
 
 Thus, the answer to the question ""Which is the oldest penguin?"" is James.
 
-Final Answer: James",1
+Final Answer: James",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  What is the name of the last penguin sorted by alphabetic order?
 Options:
 (A) Louis
@@ -58,7 +58,7 @@ Now, we will sort these names alphabetically:
 
 The last name in this sorted list is ""Vincent.""
 
-Final Answer: Vincent",1
+Final Answer: Vincent",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  How many penguins are more than 5 years old?
 Options:
 (A) 1
@@ -86,7 +86,7 @@ Counting those who are more than 5 years old, we have:
 
 This gives us a total of 3 penguins that are more than 5 years old.
 
-Final Answer: C) 3",1
+Final Answer: C) 3",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  And here is a similar table, but listing giraffes:
 name, age, height (cm), weight (kg)
 Jody, 5, 430, 620
@@ -125,7 +125,7 @@ Total animals more than 5 years old = 3 (penguins) + 2 (giraffes) = 5.
 
 Thus, the total number of animals that are more than 5 years old is 5.
 
-Final Answer: (A) 5",1
+Final Answer: (A) 5",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Which penguin is older than Gwen?
 Options:
 (A) Louis
@@ -147,7 +147,7 @@ Gwen is 8 years old. Now, we will compare the ages of the other penguins to see 
 
 Now, we can conclude that Vincent is the only penguin older than Gwen.
 
-Final Answer: C",1
+Final Answer: C",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  And here is a similar table, but listing giraffes:
 name, age, height (cm), weight (kg)
 Jody, 5, 430, 620
@@ -174,7 +174,7 @@ Now, we will sum these ages:
 
 Thus, the cumulated age of the giraffes is 26 years.
 
-Final Answer: (A) 26",1
+Final Answer: (A) 26",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 And here is a similar table, but listing giraffes:
@@ -201,7 +201,7 @@ From the list, we can see that Gwen is the only penguin with a height of 70 cm.
 
 Thus, the name of the penguin that is 70 cm tall is Gwen.
 
-Final Answer: Gwen",1
+Final Answer: Gwen",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  And here is a similar table, but listing giraffes:
 name, age, height (cm), weight (kg)
 Jody, 5, 430, 620
@@ -232,7 +232,7 @@ When sorted alphabetically, ""Marian"" comes last.
 
 Thus, the name of the last giraffe sorted by alphabetic order is Marian.
 
-Final Answer: Marian",1
+Final Answer: Marian",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 How many penguins are there in the table?
@@ -266,7 +266,7 @@ Now, we have:
 
 Counting all of them, we find there are 5 penguins in total.
 
-Final Answer: 5",1
+Final Answer: 5",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Which penguin has the first name of a famous jazzman?
 Options:
 (A) Louis
@@ -283,7 +283,7 @@ Options:
 
 Given this analysis, the only name that stands out as being associated with a famous jazzman is **Louis**.
 
-Final Answer: A",1
+Final Answer: A",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We then delete the penguin named Bernard from the table.
 How many penguins are more than 8 years old?
 Options:
@@ -316,7 +316,7 @@ Only Vincent is more than 8 years old.
 
 Thus, there is 1 penguin that is more than 8 years old.
 
-Final Answer: (A) 1",1
+Final Answer: (A) 1",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  And here is a similar table, but listing giraffes:
 name, age, height (cm), weight (kg)
 Jody, 5, 430, 620
@@ -345,7 +345,7 @@ Now, we will count the giraffes that are older than 5 years:
 
 Thus, the giraffes that are more than 5 years old are Gladys and Donna. This gives us a total of 2 giraffes.
 
-Final Answer: (B) 2",1
+Final Answer: (B) 2",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 We then delete the penguin named Bernard from the table.
@@ -386,7 +386,7 @@ Only Louis is less than 8 years old.
 
 Thus, the total number of penguins less than 8 years old is 1.
 
-Final Answer: A) 1",1
+Final Answer: A) 1",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 And here is a similar table, but listing giraffes:
@@ -415,7 +415,7 @@ Counting these entries, we see that there are 4 giraffes listed in the second ta
 
 Thus, the total number of giraffes in the tables is 4.
 
-Final Answer: D",1
+Final Answer: D",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  How many animals are listed in the table?
 Options:
 (A) 1
@@ -431,7 +431,7 @@ Options:
 
 Each of these entries represents one penguin. Therefore, there are a total of 4 penguins listed in the table.
 
-Final Answer: D 4",1
+Final Answer: D 4",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 We then delete the penguin named Bernard from the table.
@@ -465,7 +465,7 @@ Now, we count the penguins that meet both criteria (more than 5 years old and we
 
 Thus, there is only 1 penguin that meets the criteria.
 
-Final Answer: A",1
+Final Answer: A",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 And here is a similar table, but listing giraffes:
@@ -497,7 +497,7 @@ So, the giraffes that are more than 5 years old are Gladys and Donna.
 
 Counting these, we find there are 2 giraffes that are more than 5 years old.
 
-Final Answer: (B) 2",1
+Final Answer: (B) 2",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We then delete the penguin named Bernard from the table.
 How many penguins are there in the table?
 Options:
@@ -522,7 +522,7 @@ After deleting the penguin named Bernard, the remaining penguins are:
 
 Now, there are 3 penguins left in the table.
 
-Final Answer: 3",1
+Final Answer: 3",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 What is the average height of the penguins?
@@ -562,7 +562,7 @@ Now we can compare this result with the options provided:
 
 The average height of the penguins is 70 cm, which corresponds to option (C).
 
-Final Answer: C",1
+Final Answer: C",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We then delete the penguin named Bernard from the table.
 Which is the younest penguin?
 Options:
@@ -594,7 +594,7 @@ Now, let's check the options provided:
 
 Since Bernard is deleted, he cannot be considered. The youngest remaining penguin is Louis.
 
-Final Answer: A",1
+Final Answer: A",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We then delete the penguin named Bernard from the table.
 How many penguins are less than 8 years old?
 Options:
@@ -631,7 +631,7 @@ From this, we see that only Louis is less than 8 years old.
 
 Thus, the number of penguins that are less than 8 years old is 1.
 
-Final Answer: A) 1",1
+Final Answer: A) 1",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 What is the cumulated weight of the penguins?
@@ -663,7 +663,7 @@ Calculating step by step:
 
 Thus, the cumulated weight of the penguins is 62 kg.
 
-Final Answer: 62",1
+Final Answer: 62",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  How many penguins are more than 8 years old?
 Options:
 (A) 1
@@ -686,7 +686,7 @@ Now, we will count the number of penguins whose ages are greater than 8:
 
 From this analysis, only Vincent is more than 8 years old. Therefore, there is 1 penguin that is more than 8 years old.
 
-Final Answer: (A) 1",1
+Final Answer: (A) 1",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 How many penguins are more than 5 years old and weight more than 12 kg?
@@ -717,7 +717,7 @@ From this analysis, only Gwen qualifies as being more than 5 years old and weigh
 
 Thus, the total number of penguins that meet the criteria is 1.
 
-Final Answer: A",1
+Final Answer: A",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  What is the age of Bernard?
 Options:
 (A) 7
@@ -742,7 +742,7 @@ Now, let's look at the options provided:
 
 The correct answer, based on the information from the table, is option (B) 5.
 
-Final Answer: 5",1
+Final Answer: 5",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We then delete the penguin named Bernard from the table.
 How many penguins are less than 10 years old?
 Options:
@@ -772,7 +772,7 @@ All three remaining penguins (Louis, Vincent, and Gwen) are less than 10 years o
 
 Thus, the total number of penguins that are less than 10 years old is 3.
 
-Final Answer: 3",1
+Final Answer: 3",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 And here is a similar table, but listing giraffes:
@@ -806,7 +806,7 @@ Now, let's review the options provided:
 
 Since James is the last penguin listed, the correct answer is:
 
-Final Answer: E",1
+Final Answer: E",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We then delete the penguin named Bernard from the table.
 How many penguins are more than 5 years old and weight more than 12 kg?
 Options:
@@ -843,7 +843,7 @@ Only Gwen meets both criteria.
 
 Thus, there is only 1 penguin that is more than 5 years old and weighs more than 12 kg.
 
-Final Answer: (A) 1",1
+Final Answer: (A) 1",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 What is the name of the 60 cm tall penguin?
@@ -864,7 +864,7 @@ From the list, we can see that Vincent is the penguin with a height of 60 cm.
 
 Thus, the name of the 60 cm tall penguin is Vincent.
 
-Final Answer: Vincent",1
+Final Answer: Vincent",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 And here is a similar table, but listing giraffes:
@@ -897,7 +897,7 @@ Now, let's analyze the options provided:
 
 Since Donna is the last giraffe mentioned in the table, the correct answer is:
 
-Final Answer: D",1
+Final Answer: D",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 And here is a similar table, but listing giraffes:
@@ -964,7 +964,7 @@ When sorted alphabetically, the last name in this list is ""Marian.""
 
 Thus, the name of the last giraffe sorted by alphabetical order is Marian.
 
-Final Answer: Marian",1
+Final Answer: Marian",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  And here is a similar table, but listing giraffes:
 name, age, height (cm), weight (kg)
 Jody, 5, 430, 620
@@ -995,7 +995,7 @@ Now, let's confirm that we have correctly identified the last entry. The table l
 
 Since Gwen is the last name listed, we can conclude that the answer is correct.
 
-Final Answer: Gwen",1
+Final Answer: Gwen",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  And here is a similar table, but listing giraffes:
 name, age, height (cm), weight (kg)
 Jody, 5, 430, 620
@@ -1026,7 +1026,7 @@ Now, let's review the options provided:
 
 Since Donna is the last giraffe listed, the correct answer is option (D).
 
-Final Answer: D",1
+Final Answer: D",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  How many species are listed in the table?
 Options:
 (A) 1
@@ -1039,7 +1039,7 @@ Given that there is no information indicating multiple species, we can infer tha
 
 Thus, the answer to the question of how many species are listed in the table is:
 
-Final Answer: (A) 1",1
+Final Answer: (A) 1",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 How many animals are listed in the table?
@@ -1067,7 +1067,7 @@ Now, we have a total of 5 penguins in the table.
 
 Thus, the total number of animals listed in the table is 5.
 
-Final Answer: E",1
+Final Answer: E",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 We then delete the penguin named Bernard from the table.
@@ -1099,7 +1099,7 @@ Now, we compare the ages:
 
 The oldest penguin is James, who is 12 years old.
 
-Final Answer: James",1
+Final Answer: James",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 We then delete the penguin named Bernard from the table.
@@ -1137,7 +1137,7 @@ Now, we have 4 penguins left in the table.
 
 Thus, the final count of penguins is 4.
 
-Final Answer: 4",1
+Final Answer: 4",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  And here is a similar table, but listing giraffes:
 name, age, height (cm), weight (kg)
 Jody, 5, 430, 620
@@ -1172,7 +1172,7 @@ Now, we need to count the total number of giraffes across both tables. Since the
 
 Thus, there are 4 giraffes in the second table.
 
-Final Answer: 4",1
+Final Answer: 4",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  What is the name of the 0.6 m tall penguin?
 Options:
 (A) Louis
@@ -1194,7 +1194,7 @@ From this information, we see that Vincent is the only penguin with a height of 
 
 Thus, the name of the 0.6 m tall penguin is Vincent.
 
-Final Answer: Vincent",1
+Final Answer: Vincent",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 How many penguins are less than 8 years old and weight less than 12 kg?
@@ -1225,7 +1225,7 @@ From the analysis, only Louis meets both criteria.
 
 Thus, the total number of penguins that are less than 8 years old and weigh less than 12 kg is 1.
 
-Final Answer: A",1
+Final Answer: A",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We then delete the penguin named Bernard from the table.
 How many animals are listed in the table?
 Options:
@@ -1252,7 +1252,7 @@ Now, there are 3 penguins left in the table.
 
 Thus, the number of animals listed in the table after the deletion is 3.
 
-Final Answer: 3",1
+Final Answer: 3",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 How many penguins are more than 5 years old?
@@ -1288,7 +1288,7 @@ Now, we count the penguins that are more than 5 years old:
 
 This gives us a total of 4 penguins that are more than 5 years old.
 
-Final Answer: D) 4",1
+Final Answer: D) 4",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 And here is a similar table, but listing giraffes:
@@ -1340,7 +1340,7 @@ Total animals more than 5 years old = 4 (penguins) + 2 (giraffes) = **6**
 
 Thus, the total number of animals that are more than 5 years old is **6**.
 
-Final Answer: B",1
+Final Answer: B",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 How many penguins are more than 8 years old?
@@ -1373,7 +1373,7 @@ Counting them gives us:
 
 This results in a total of 2 penguins that are more than 8 years old.
 
-Final Answer: B) 2",1
+Final Answer: B) 2",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 What is the name of the first penguin sorted by alphabetic order?
@@ -1400,7 +1400,7 @@ Now, we will sort these names alphabetically:
 
 The first name in this sorted list is ""Bernard.""
 
-Final Answer: Bernard",1
+Final Answer: Bernard",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 And here is a similar table, but listing giraffes:
@@ -1431,7 +1431,7 @@ Now, we compare the ages:
 
 The oldest giraffe is Gladys, who is 10 years old.
 
-Final Answer: (B) Gladys",1
+Final Answer: (B) Gladys",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  And here is a similar table, but listing giraffes:
 name, age, height (cm), weight (kg)
 Jody, 5, 430, 620
@@ -1475,7 +1475,7 @@ Now, let's look at the options provided:
 
 Since we have determined that there are 4 penguins, the correct option is (D) 4.
 
-Final Answer: D",1
+Final Answer: D",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 What is the cumulated age of the penguins?
@@ -1500,7 +1500,7 @@ Now, we will sum these ages:
 
 Thus, the cumulated age of the penguins is 41 years.
 
-Final Answer: 41",1
+Final Answer: 41",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Which penguin has a welsh name?
 Options:
 (A) Louis
@@ -1517,7 +1517,7 @@ Options:
 
 Among the names listed, ""Gwen"" stands out as the only name that is distinctly Welsh.
 
-Final Answer: D",1
+Final Answer: D",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  And here is a similar table, but listing giraffes:
 name, age, height (cm), weight (kg)
 Jody, 5, 430, 620
@@ -1551,7 +1551,7 @@ From this, we can see that Gwen is the penguin that is 70 cm tall.
 
 Thus, the answer is:
 
-Final Answer: D",1
+Final Answer: D",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Which is the shortest penguin?
 Options:
 (A) Louis
@@ -1574,7 +1574,7 @@ Now, we compare the heights:
 
 From this comparison, we can see that Louis is the shortest penguin at 50 cm.
 
-Final Answer: (A) Louis",1
+Final Answer: (A) Louis",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Which penguin is less than 7 years old?
 Options:
 (A) Louis
@@ -1599,7 +1599,7 @@ Now, let's review the options:
 
 Thus, the correct answer is Bernard.
 
-Final Answer: B",1
+Final Answer: B",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  What is the name of the first penguin?
 Options:
 (A) Louis
@@ -1624,7 +1624,7 @@ Now, let's review the options provided:
 
 Since ""Louis"" is the name of the first penguin, the correct answer is option (A).
 
-Final Answer: A",1
+Final Answer: A",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 We then delete the penguin named Bernard from the table.
@@ -1671,7 +1671,7 @@ The last penguin added to the table is James, and he is still present after the 
 
 Thus, the name of the last penguin is James.
 
-Final Answer: E",1
+Final Answer: E",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  How many columns are there in the table?
 Options:
 (A) 1
@@ -1696,7 +1696,7 @@ Each of these categories represents a column in the table. The subsequent lines 
 
 Thus, the total number of columns in the table is 4.
 
-Final Answer: 4",1
+Final Answer: 4",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  What is the height of Gwen?
 Options:
 (A) 50
@@ -1721,7 +1721,7 @@ Now, let's look at the options provided:
 
 Since we have determined that Gwen's height is 70 cm, the correct option is (D) 70.
 
-Final Answer: D",1
+Final Answer: D",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  what is the number of the column with the names (1, 2, 3 or 4)?
 Options:
 (A) 1
@@ -1747,7 +1747,7 @@ Now, let's review the options provided:
 
 Since the names are in the first column, the correct answer is (A) 1.
 
-Final Answer: A",1
+Final Answer: A",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  What is the name of the penguin that is 9 years old?
 Options:
 (A) Louis
@@ -1765,7 +1765,7 @@ From this information, we can see that Vincent is the penguin who is 9 years old
 
 Thus, the answer is Vincent.
 
-Final Answer: Vincent",1
+Final Answer: Vincent",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  What is the weight of Louis?
 Options:
 (A) 11
@@ -1788,7 +1788,7 @@ Now, let's look at the options provided:
 
 Since we have determined that Louis's weight is 11 kg, the correct answer is option (A).
 
-Final Answer: 11",1
+Final Answer: 11",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 What is the name of the last penguin?
@@ -1820,7 +1820,7 @@ Now, let's review the options provided:
 
 The last penguin is James.
 
-Final Answer: E",1
+Final Answer: E",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  What is the cumulated age of the penguins?
 Options:
 (A) 24
@@ -1841,7 +1841,7 @@ Now, we will sum these ages:
 
 Thus, the cumulated age of the penguins is 29 years.
 
-Final Answer: 29",1
+Final Answer: 29",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  what is the number of the column with the weights (1, 2, 3 or 4)?
 Options:
 (A) 1
@@ -1873,7 +1873,7 @@ Now, let's look at the options provided:
 
 Since the weights are in the fourth column, the correct answer is (D) 4.
 
-Final Answer: 4",1
+Final Answer: 4",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  How many penguins are less than 10 years old?
 Options:
 (A) 1
@@ -1898,7 +1898,7 @@ All four penguins (Louis, Bernard, Vincent, and Gwen) are less than 10 years old
 
 Thus, the total number of penguins that are less than 10 years old is 4.
 
-Final Answer: 4",1
+Final Answer: 4",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 And here is a similar table, but listing giraffes:
@@ -1939,7 +1939,7 @@ Now, we add the total ages of the penguins and giraffes together:
 
 Thus, the cumulated age of the animals is 67 years.
 
-Final Answer: E) 67",1
+Final Answer: E) 67",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We then delete the penguin named Bernard from the table.
 What is the average height of the penguins?
 Options:
@@ -1978,7 +1978,7 @@ Now we can calculate the average height:
 
 Thus, the average height of the remaining penguins is 60 cm.
 
-Final Answer: (A) 60",1
+Final Answer: (A) 60",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We then delete the penguin named Bernard from the table.
 What is the name of the fist penguin sorted by alphabetic order?
 Options:
@@ -2002,7 +2002,7 @@ The first name in this sorted list is ""Gwen"".
 
 Thus, the name of the first penguin sorted by alphabetic order is Gwen.
 
-Final Answer: Gwen",1
+Final Answer: Gwen",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 And here is a similar table, but listing giraffes:
@@ -2037,7 +2037,7 @@ From this sorted list, the last name is ""Vincent.""
 
 Thus, the name of the last penguin sorted by alphabetical order is Vincent.
 
-Final Answer: Vincent",1
+Final Answer: Vincent",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 We then delete the penguin named Bernard from the table.
@@ -2069,7 +2069,7 @@ Only Louis meets the criteria of being less than 8 years old and weighing less t
 
 Thus, the total count of penguins that are less than 8 years old and weigh less than 12 kg is 1.
 
-Final Answer: A",1
+Final Answer: A",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  What is the name of the next to last penguin sorted by alphabetic order?
 Options:
 (A) Louis
@@ -2094,7 +2094,7 @@ The next to last penguin in this sorted list is ""Louis.""
 
 Thus, the answer is:
 
-Final Answer: Louis",1
+Final Answer: Louis",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 We then delete the penguin named Bernard from the table.
@@ -2131,7 +2131,7 @@ Now, we have 4 penguins left in the table.
 
 Thus, the total number of animals listed in the table after these operations is 4.
 
-Final Answer: 4",1
+Final Answer: 4",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Which penguin is younger than Vincent and older than Louis?
 Options:
 (A) Louis
@@ -2167,7 +2167,7 @@ Now, we check each penguin against both conditions:
 
 The only penguin that is younger than Vincent (9 years) and older than Louis (7 years) is Gwen (8 years).
 
-Final Answer: Gwen",1
+Final Answer: Gwen",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Which is the second youngest penguin?
 Options:
 (A) Louis
@@ -2199,7 +2199,7 @@ Now, let's check the options:
 
 The second youngest penguin is indeed Louis.
 
-Final Answer: A",1
+Final Answer: A",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Which penguin has the shortest name?
 Options:
 (A) Louis
@@ -2217,7 +2217,7 @@ Now, we can see that ""Gwen"" has the shortest name with only 4 letters.
 
 Thus, the answer is:
 
-Final Answer: D",1
+Final Answer: D",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 And here is a similar table, but listing giraffes:
@@ -2251,7 +2251,7 @@ Since there are two different species represented in the tables (penguins and gi
 
 Thus, the answer to the question is:
 
-Final Answer: B",1
+Final Answer: B",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 And here is a similar table, but listing giraffes:
@@ -2292,7 +2292,7 @@ Now, we add the counts from both tables:
 
 Thus, the total number of animals listed in the tables is 9.
 
-Final Answer: 9",1
+Final Answer: 9",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  How many penguins are less than 8 years old and weight less than 12 kg?
 Options:
 (A) 1
@@ -2319,7 +2319,7 @@ Only Louis meets both criteria.
 
 Thus, the total number of penguins that are less than 8 years old and weigh less than 12 kg is 1.
 
-Final Answer: A",1
+Final Answer: A",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  And here is a similar table, but listing giraffes:
 name, age, height (cm), weight (kg)
 Jody, 5, 430, 620
@@ -2351,7 +2351,7 @@ Total animals = 4 (penguins) + 4 (giraffes) = 8
 
 Thus, the total number of animals listed in the tables is 8.
 
-Final Answer: D",1
+Final Answer: D",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We then delete the penguin named Bernard from the table.
 What is the cumulated age of the penguins?
 Options:
@@ -2380,7 +2380,7 @@ Now, we will sum the ages of the remaining penguins:
 
 Thus, the cumulated age of the penguins is 24.
 
-Final Answer: A",1
+Final Answer: A",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 We then delete the penguin named Bernard from the table.
@@ -2423,7 +2423,7 @@ All four remaining penguins are more than 5 years old.
 
 Thus, the total number of penguins that are more than 5 years old is 4.
 
-Final Answer: D",1
+Final Answer: D",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  And here is a similar table, but listing giraffes:
 name, age, height (cm), weight (kg)
 Jody, 5, 430, 620
@@ -2448,7 +2448,7 @@ Since we are asked for the name of the last animal overall, we consider the last
 
 Thus, the name of the last animal is Donna.
 
-Final Answer: B",1
+Final Answer: B",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 We then delete the penguin named Bernard from the table.
@@ -2476,7 +2476,7 @@ The first name in this sorted list is ""Gwen"".
 
 Thus, the name of the first penguin sorted by alphabetic order is Gwen.
 
-Final Answer: Gwen",1
+Final Answer: Gwen",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 We then delete the penguin named Bernard from the table.
@@ -2519,7 +2519,7 @@ Now, we sum these weights:
 
 Thus, the cumulated weight of the remaining penguins is 49 kg.
 
-Final Answer: B) 49",1
+Final Answer: B) 49",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We then delete the penguin named Bernard from the table.
 How many penguins are more than 5 years old and weight less than 12 kg?
 Options:
@@ -2570,7 +2570,7 @@ Now we count the penguins that meet the criteria:
 
 Thus, there are 2 penguins (Louis and Vincent) that are more than 5 years old and weigh less than 12 kg.
 
-Final Answer: B) 2",1
+Final Answer: B) 2",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  And here is a similar table, but listing giraffes:
 name, age, height (cm), weight (kg)
 Jody, 5, 430, 620
@@ -2608,7 +2608,7 @@ Now, we add the total ages of both groups:
 
 Thus, the cumulated age of the penguins and giraffes is 55 years.
 
-Final Answer: D) 55",1
+Final Answer: D) 55",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 We then delete the penguin named Bernard from the table.
@@ -2642,7 +2642,7 @@ Now, we need to find the penguin that is 60 cm tall. From the updated table, we 
 
 Thus, the name of the penguin that is 60 cm tall is Vincent.
 
-Final Answer: Vincent",1
+Final Answer: Vincent",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  What is the name of the last penguin?
 Options:
 (A) Louis
@@ -2666,7 +2666,7 @@ Now, let's confirm the order:
 
 Thus, the name of the last penguin is Gwen.
 
-Final Answer: D",1
+Final Answer: D",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We then delete the penguin named Bernard from the table.
 How many penguins are more than 5 years old?
 Options:
@@ -2703,7 +2703,7 @@ All three remaining penguins (Louis, Vincent, and Gwen) are more than 5 years ol
 
 Thus, the total number of penguins that are more than 5 years old is 3.
 
-Final Answer: 3",1
+Final Answer: 3",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 We then delete the penguin named Bernard from the table.
@@ -2745,7 +2745,7 @@ So, the penguins that are more than 8 years old are Vincent and James.
 
 Thus, there are 2 penguins that are more than 8 years old.
 
-Final Answer: B",1
+Final Answer: B",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 And here is a similar table, but listing giraffes:
@@ -2801,7 +2801,7 @@ The last name in this sorted list is ""Vincent.""
 
 Thus, the name of the last animal sorted by alphabetic order is Vincent.
 
-Final Answer: Vincent",1
+Final Answer: Vincent",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Which penguin is two years younger than Vincent?
 Options:
 (A) Louis
@@ -2823,7 +2823,7 @@ From this information, we see that Louis is the only penguin who is 7 years old,
 
 Thus, the answer is:
 
-Final Answer: A",1
+Final Answer: A",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 How many penguins are less than 10 years old?
@@ -2861,7 +2861,7 @@ This gives us a total of 4 penguins that are less than 10 years old.
 
 Thus, the answer is:
 
-Final Answer: (D) 4",1
+Final Answer: (D) 4",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  How many penguins are less than 8 years old and weight more than 12 kg?
 Options:
 (A) 1
@@ -2888,7 +2888,7 @@ From this analysis, only Bernard qualifies as he is less than 8 years old and we
 
 Thus, the total number of penguins that meet the criteria is 1.
 
-Final Answer: A",1
+Final Answer: A",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We then delete the penguin named Bernard from the table.
 What is the name of the last penguin?
 Options:
@@ -2917,7 +2917,7 @@ Now, we need to identify the last penguin in this list. The last penguin listed 
 
 Thus, the name of the last penguin is Gwen.
 
-Final Answer: Gwen",1
+Final Answer: Gwen",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We then delete the penguin named Bernard from the table.
 What is the name of the last penguin sorted by alphabetic order?
 Options:
@@ -2941,7 +2941,7 @@ When sorted alphabetically, Vincent comes last.
 
 Thus, the name of the last penguin sorted by alphabetic order is Vincent.
 
-Final Answer: Vincent",1
+Final Answer: Vincent",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  How many penguins are there in the table?
 Options:
 (A) 1
@@ -2961,7 +2961,7 @@ Counting these entries, we find there are 4 penguins listed.
 
 Thus, the total number of penguins in the table is 4.
 
-Final Answer: 4",1
+Final Answer: 4",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 And here is a similar table, but listing giraffes:
@@ -2998,7 +2998,7 @@ Now, let's check the options provided:
 
 The cumulated age of the penguins is 41, which corresponds to option (C).
 
-Final Answer: C",1
+Final Answer: C",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Which is the second heaviest penguin?
 Options:
 (A) Louis
@@ -3031,7 +3031,7 @@ Now, let's check the options provided:
 
 The second heaviest penguin is Bernard.
 
-Final Answer: B",1
+Final Answer: B",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  And here is a similar table, but listing giraffes:
 name, age, height (cm), weight (kg)
 Jody, 5, 430, 620
@@ -3070,7 +3070,7 @@ Now, let's check the options provided:
 
 Since Vincent is the oldest at 9 years, the correct answer is:
 
-Final Answer: C",1
+Final Answer: C",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  What is the name of the 60 cm tall penguin?
 Options:
 (A) Louis
@@ -3086,7 +3086,7 @@ Options:
 
 From this information, we can see that the penguin with a height of 60 cm is Vincent.
 
-Final Answer: C",1
+Final Answer: C",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 How many penguins are more than 5 years old and weight less than 12 kg?
@@ -3121,7 +3121,7 @@ Now, we count the penguins that meet the criteria:
 
 Thus, there are 2 penguins that are more than 5 years old and weigh less than 12 kg.
 
-Final Answer: B) 2",1
+Final Answer: B) 2",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 What is the shortest height?
@@ -3160,7 +3160,7 @@ Now, let's look at the options provided:
 
 The shortest height is clearly 50 cm.
 
-Final Answer: A",1
+Final Answer: A",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We then delete the penguin named Bernard from the table.
 What is the cumulated weight of the penguins?
 Options:
@@ -3190,7 +3190,7 @@ Next, we will sum the weights of the remaining penguins:
 
 Thus, the cumulated weight of the remaining penguins is 37 kg.
 
-Final Answer: A",1
+Final Answer: A",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Which is the tallest penguin?
 Options:
 (A) Louis
@@ -3212,7 +3212,7 @@ Now, let's compare these heights:
 
 From this comparison, we can see that Bernard, with a height of 80 cm, is the tallest among all the penguins listed.
 
-Final Answer: (B) Bernard",1
+Final Answer: (B) Bernard",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  And here is a similar table, but listing giraffes:
 name, age, height (cm), weight (kg)
 Jody, 5, 430, 620
@@ -3229,7 +3229,7 @@ Options:
 
 Since there are only two species represented in the tables, the correct answer is:
 
-Final Answer: B",1
+Final Answer: B",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Which penguin shares his first name with a famous painter?
 Options:
 (A) Louis
@@ -3246,7 +3246,7 @@ Options:
 
 From this analysis, the only penguin whose name is shared with a famous painter is Vincent.
 
-Final Answer: (C) Vincent",1
+Final Answer: (C) Vincent",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We then delete the penguin named Bernard from the table.
 Which is the oldest penguin?
 Options:
@@ -3270,7 +3270,7 @@ The oldest penguin among these is Vincent, who is 9 years old.
 
 Thus, the answer to the question is Vincent.
 
-Final Answer: (C) Vincent",1
+Final Answer: (C) Vincent",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  How many penguins are more than 5 years old and weight more than 12 kg?
 Options:
 (A) 1
@@ -3297,7 +3297,7 @@ Only Gwen qualifies based on the criteria.
 
 Thus, there is only 1 penguin that is more than 5 years old and weighs more than 12 kg.
 
-Final Answer: (A) 1",1
+Final Answer: (A) 1",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  How many penguins are more than 5 years old and weight less than 12 kg?
 Options:
 (A) 1
@@ -3326,7 +3326,7 @@ Now, we count the penguins that meet both criteria:
 
 Thus, there are 2 penguins that are more than 5 years old and weigh less than 12 kg.
 
-Final Answer: (B) 2",1
+Final Answer: (B) 2",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Which penguin is older than the other ones?
 Options:
 (A) Louis
@@ -3358,7 +3358,7 @@ Now, let's check the options provided:
 
 Vincent is the only penguin older than the others.
 
-Final Answer: C",1
+Final Answer: C",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  What is the average height of the penguins?
 Options:
 (A) 60
@@ -3384,7 +3384,7 @@ Average height = 260 cm / 4 = 65 cm
 
 Thus, the average height of the penguins is 65 cm.
 
-Final Answer: (B) 65",1
+Final Answer: (B) 65",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Which penguin is taller than the other ones?
 Options:
 (A) Louis
@@ -3407,7 +3407,7 @@ Now, let's compare these heights:
 
 From this comparison, we can see that Bernard is the only penguin that is taller than all the others.
 
-Final Answer: (B) Bernard",1
+Final Answer: (B) Bernard",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  What is the shortest height?
 Options:
 (A) 50
@@ -3440,7 +3440,7 @@ Now, let's check the options provided:
 
 The correct answer is (A) 50.
 
-Final Answer: 50",1
+Final Answer: 50",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  And here is a similar table, but listing giraffes:
 name, age, height (cm), weight (kg)
 Jody, 5, 430, 620
@@ -3491,7 +3491,7 @@ The last name in this sorted list is ""Vincent.""
 
 Thus, the name of the last animal sorted by alphabetic order is Vincent.
 
-Final Answer: Vincent",1
+Final Answer: Vincent",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  And here is a similar table, but listing giraffes:
 name, age, height (cm), weight (kg)
 Jody, 5, 430, 620
@@ -3525,7 +3525,7 @@ Counting those who are more than 5 years old, we have:
 
 This gives us a total of 3 penguins that are more than 5 years old.
 
-Final Answer: C) 3",1
+Final Answer: C) 3",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  What is the name of the second penguin?
 Options:
 (A) Louis
@@ -3543,7 +3543,7 @@ The first line is the header, and the subsequent lines represent the penguins. T
 
 Thus, the name of the second penguin is Bernard.
 
-Final Answer: Bernard",1
+Final Answer: Bernard",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Which penguin is younger than Louis?
 Options:
 (A) Louis
@@ -3569,7 +3569,7 @@ Now, let's look at the options provided:
 
 The only penguin younger than Louis is Bernard.
 
-Final Answer: B",1
+Final Answer: B",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 And here is a similar table, but listing giraffes:
@@ -3610,7 +3610,7 @@ Now, let's tally them:
 Counting the ""Yes"" responses, we find that there are 4 penguins that are more than 5 years old.
 
 Thus, the answer is:
-Final Answer: D",1
+Final Answer: D",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  How many penguins are less than 8 years old?
 Options:
 (A) 1
@@ -3637,7 +3637,7 @@ Counting the penguins that are less than 8 years old, we find:
 
 Thus, there are 2 penguins that are less than 8 years old.
 
-Final Answer: (B) 2",1
+Final Answer: (B) 2",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 Which is the oldest penguin?
@@ -3666,7 +3666,7 @@ The highest age is 12, which belongs to James.
 
 Therefore, the oldest penguin is James.
 
-Final Answer: E",1
+Final Answer: E",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We then delete the penguin named Bernard from the table.
 How many penguins are less than 8 years old and weight less than 12 kg?
 Options:
@@ -3713,7 +3713,7 @@ Now we count the penguins that meet the criteria:
 
 Thus, there is 1 penguin that is less than 8 years old and weighs less than 12 kg.
 
-Final Answer: A) 1",1
+Final Answer: A) 1",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Which penguin is older than Bernard and younger than Gwen?
 Options:
 (A) Louis
@@ -3748,7 +3748,7 @@ Now, we can summarize the findings:
 
 Thus, the only penguin that is older than Bernard and younger than Gwen is Louis.
 
-Final Answer: A",1
+Final Answer: A",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  And here is a similar table, but listing giraffes:
 name, age, height (cm), weight (kg)
 Jody, 5, 430, 620
@@ -3775,7 +3775,7 @@ Now, we will sum these ages:
 
 Thus, the cumulated age of the penguins is 29 years.
 
-Final Answer: 29",1
+Final Answer: 29",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 We then delete the penguin named Bernard from the table.
@@ -3807,7 +3807,7 @@ Now, we will sort these names alphabetically:
 
 The last name in this sorted list is Vincent.
 
-Final Answer: Vincent",1
+Final Answer: Vincent",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  What animals are listed in the table?
 Options:
 (A) bears
@@ -3825,7 +3825,7 @@ Given the options provided:
 
 The correct answer is clearly (E) penguins, as the data in the table pertains to penguins.
 
-Final Answer: E",1
+Final Answer: E",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  And here is a similar table, but listing giraffes:
 name, age, height (cm), weight (kg)
 Jody, 5, 430, 620
@@ -3856,7 +3856,7 @@ Now, let's review the options:
 
 Since Gladys is the oldest, the correct answer is (B) Gladys.
 
-Final Answer: B",1
+Final Answer: B",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 We then delete the penguin named Bernard from the table.
@@ -3907,7 +3907,7 @@ Now, we count the penguins that meet the criteria:
 
 Thus, there are 2 penguins (Louis and Vincent) that are more than 5 years old and weigh less than 12 kg.
 
-Final Answer: B",1
+Final Answer: B",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 How many penguins are less than 8 years old and weight more than 12 kg?
@@ -3936,7 +3936,7 @@ From this analysis, only Bernard meets the criteria.
 
 Thus, there is 1 penguin that is less than 8 years old and weighs more than 12 kg.
 
-Final Answer: A",1
+Final Answer: A",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  And here is a similar table, but listing giraffes:
 name, age, height (cm), weight (kg)
 Jody, 5, 430, 620
@@ -3967,7 +3967,7 @@ The last name in this sorted list is ""Vincent.""
 
 Thus, the name of the last penguin sorted by alphabetic order is Vincent.
 
-Final Answer: Vincent",1
+Final Answer: Vincent",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 Which is the tallest penguin?
@@ -3996,7 +3996,7 @@ Now, let's compare these heights:
 
 The tallest penguin is James, who has a height of 90 cm.
 
-Final Answer: James",1
+Final Answer: James",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 We then delete the penguin named Bernard from the table.
@@ -4036,7 +4036,7 @@ Counting the penguins less than 10 years old:
 
 There are 3 penguins that are less than 10 years old.
 
-Final Answer: 3",1
+Final Answer: 3",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  What is the cumulated weight of the penguins?
 Options:
 (A) 37
@@ -4062,7 +4062,7 @@ Calculating step-by-step:
 
 Thus, the cumulated weight of the penguins is 50 kg.
 
-Final Answer: C) 50",1
+Final Answer: C) 50",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 And here is a similar table, but listing giraffes:
@@ -4091,7 +4091,7 @@ Now, we will sum these ages:
 
 Thus, the cumulated age of the giraffes is 26 years.
 
-Final Answer: (A) 26",1
+Final Answer: (A) 26",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  And here is a similar table, but listing giraffes:
 name, age, height (cm), weight (kg)
 Jody, 5, 430, 620
@@ -4139,7 +4139,7 @@ Now, we can check the options provided:
 
 The correct answer is (D) 55.
 
-Final Answer: 55",1
+Final Answer: 55",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 What is the largest height?
@@ -4173,7 +4173,7 @@ The largest height is 90 cm.
 
 Thus, the answer to the question is:
 
-Final Answer: 90",1
+Final Answer: 90",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 Which is the shortest penguin?
@@ -4202,7 +4202,7 @@ Among these heights, the shortest is Louis at 50 cm.
 
 Thus, the shortest penguin is Louis.
 
-Final Answer: A",1
+Final Answer: A",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Which penguin is one year younger than Vincent?
 Options:
 (A) Louis
@@ -4233,7 +4233,7 @@ Now, let's check the options:
 
 The only penguin that is one year younger than Vincent is Gwen.
 
-Final Answer: D",1
+Final Answer: D",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Which is the oldest penguin?
 Options:
 (A) Louis
@@ -4258,7 +4258,7 @@ The oldest age among these is 9 years, which belongs to Vincent.
 
 Thus, the oldest penguin is Vincent.
 
-Final Answer: C",1
+Final Answer: C",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Which is the heaviest penguin?
 Options:
 (A) Louis
@@ -4283,7 +4283,7 @@ From this comparison, we can see that Gwen has the highest weight at 15 kg.
 
 Thus, the heaviest penguin is Gwen.
 
-Final Answer: D",1
+Final Answer: D",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 We then delete the penguin named Bernard from the table.
@@ -4321,7 +4321,7 @@ Adding these ages together:
 
 Thus, the cumulated age of the penguins is 36.
 
-Final Answer: C",1
+Final Answer: C",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Which penguin is younger but taller than Gwen?
 Options:
 (A) Louis
@@ -4347,7 +4347,7 @@ Now let's evaluate each penguin:
 
 From the evaluation, only Bernard is younger than Gwen and taller than her.
 
-Final Answer: B",1
+Final Answer: B",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 And here is a similar table, but listing giraffes:
@@ -4394,7 +4394,7 @@ Now, let's check the options provided:
 
 Since we have counted 5 penguins, the correct answer is (E) 5.
 
-Final Answer: 5",1
+Final Answer: 5",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  What is the name of the first penguin sorted by alphabetic order?
 Options:
 (A) Louis
@@ -4419,7 +4419,7 @@ The first name in this sorted list is ""Bernard.""
 
 Thus, the name of the first penguin sorted by alphabetic order is Bernard.
 
-Final Answer: Bernard",1
+Final Answer: Bernard",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Which penguin is a female?
 Options:
 (A) Louis
@@ -4438,7 +4438,7 @@ Since the question asks which penguin is a female, and based on the common assoc
 
 Thus, the reasoning leads us to conclude that Gwen is the female penguin.
 
-Final Answer: D",1
+Final Answer: D",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 Which penguin is taller than the other ones?
@@ -4467,7 +4467,7 @@ Now, let's compare these heights:
 
 Since James has the highest height of 90 cm, he is taller than all the other penguins.
 
-Final Answer: E",1
+Final Answer: E",0
 "Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
 James, 12, 90, 12
 What is the name of the last penguin sorted by alphabetic order?
@@ -4496,4 +4496,4 @@ Now, we look for the last name in this sorted list, which is ""Vincent.""
 
 Thus, the name of the last penguin sorted by alphabetical order is Vincent.
 
-Final Answer: Vincent",1
+Final Answer: Vincent",0
