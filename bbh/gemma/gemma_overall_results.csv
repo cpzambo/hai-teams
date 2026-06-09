@@ -1,4 +1,5 @@
 dataset,average_score
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 boolean_expressions,0.996
 causal_judgement,0.578
@@ -6,6 +7,14 @@ date_understanding,0.824
 dyck_languages,0.584
 formal_fallacies,0.596
 geometric_shapes,0.268
+=======
+boolean_expressions,1.0
+causal_judgement,0.69
+date_understanding,0.936
+dyck_languages,0.828
+formal_fallacies,0.912
+geometric_shapes,0.648
+>>>>>>> Stashed changes
 logical_deduction_five_objects,1.0
 logical_deduction_seven_objects,1.0
 logical_deduction_three_objects,1.0
@@ -19,9 +28,13 @@ tracking_shuffled_objects_five_objects,1.0
 tracking_shuffled_objects_seven_objects,1.0
 tracking_shuffled_objects_three_objects,1.0
 web_of_lies,1.0
+<<<<<<< Updated upstream
 =======
 tracking_shuffled_objects_seven_objects,1.0
 tracking_shuffled_objects_three_objects,1.0
 web_of_lies,1.0
 word_sorting,1.0
 >>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
+=======
+word_sorting,1.0
+>>>>>>> Stashed changes

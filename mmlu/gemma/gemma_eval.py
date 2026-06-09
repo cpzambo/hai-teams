@@ -9,7 +9,7 @@ import time
 # load in the api key and set up the client
 load_dotenv()
 api_key = os.getenv('TOGETHER_API_KEY')
-client = Together(api_key=api_key)
+client = Together(api_key=api_key, timeout=1200)
 
 # generate the model's response
 def get_model_response(question, subject, choices):
@@ -86,19 +86,10 @@ def score_response(model_response, gold_text, gold_letter, answer_index):
     return 0
 
 overall_results = []
-splits = ["Business_ethics",
-          "Econometrics",
-          "Elementary_math",
-          "Formal_logic",
-          "Jurisprudence",
-          "Logical_fallacies",
-          "Management",
-          "Marketing",
+splits = ["Formal_logic",
           "Miscellaneous",
-          "Moral_disputes",
           "Moral_scenarios",
-          "Philosophy",
-          "Professional_accounting"]
+          "Philosophy"]
 
 labels = ["A", "B", "C", "D"]
 
@@ -127,6 +118,8 @@ for split in splits:
                 "model_response": model_resp,
                 "score": score
             })
+
+            time.sleep(3)
 
         results_df = pd.DataFrame(results)
         results_df.to_csv(f"gemma_{split}.csv", index=False)

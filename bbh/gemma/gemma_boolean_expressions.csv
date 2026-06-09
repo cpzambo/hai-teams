@@ -3083,9 +3083,12 @@ Final Answer: False",1
     *   Since both operands are `False`, the result is `False`.
 
 Final Answer: False",1
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 True and not not False and not False is,False,,0
 =======
+=======
+>>>>>>> Stashed changes
 True and not not False and not False is,False,"To evaluate the expression ""True and not not False and not False"", we must follow the order of operations for logical operators. The order of precedence is: `not` (highest), then `and`, then `or` (lowest).
 
 **Step 1: Evaluate the `not` operators.**
@@ -3106,7 +3109,10 @@ Logical `and` operations are evaluated from left to right:
 2.  `False and True` is `False`.
 
 Final Answer: False",1
+<<<<<<< Updated upstream
 >>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
+=======
+>>>>>>> Stashed changes
 not ( not not False ) and True is,True,"To evaluate the expression `not ( not not False ) and True`, we follow the order of operations for boolean logic:
 
 1.  **Evaluate the expression inside the parentheses: `( not not False )`**
