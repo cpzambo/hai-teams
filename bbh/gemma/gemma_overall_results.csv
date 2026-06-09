@@ -1,4 +1,5 @@
 dataset,average_score
+<<<<<<< HEAD
 boolean_expressions,0.996
 causal_judgement,0.578
 date_understanding,0.824
@@ -18,3 +19,9 @@ tracking_shuffled_objects_five_objects,1.0
 tracking_shuffled_objects_seven_objects,1.0
 tracking_shuffled_objects_three_objects,1.0
 web_of_lies,1.0
+=======
+tracking_shuffled_objects_seven_objects,1.0
+tracking_shuffled_objects_three_objects,1.0
+web_of_lies,1.0
+word_sorting,1.0
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2

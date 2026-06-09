@@ -44,7 +44,13 @@ def get_model_response(question, subject, choices):
         except Exception as e:
             print("Error:", e)
             return None
+<<<<<<< HEAD
         time.sleep(3)
+=======
+        time.sleep(10)
+
+    return ""
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
     
 # get the model's answer
 def extract_final_answer(model_output):
@@ -85,6 +91,7 @@ def score_response(model_response, gold_text, gold_letter, answer_index):
     return 0
 
 overall_results = []
+<<<<<<< HEAD
 splits = ["Business_ethics",
           "Econometrics",
           "Elementary_math",
@@ -98,6 +105,12 @@ splits = ["Business_ethics",
           "Moral_scenarios",
           "Philosophy",
           "Professional_accounting"]
+=======
+splits = ["Miscellaneous",
+          "Moral_disputes",
+          "Moral_scenarios",
+          "Philosophy"]
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 
 labels = ["A", "B", "C", "D"]
 
@@ -119,8 +132,18 @@ for split in splits:
 
             if model_resp == "":
                 print(f"Empty response on {split}!")
+<<<<<<< HEAD
             score = score_response(model_resp, gold_text, gold_letter, answer_index)
 
+=======
+            if model_resp is None:
+                print(f"Nonetype model response!")
+
+            score = score_response(model_resp, gold_text, gold_letter, answer_index)
+
+            if score is None:
+                print(f"Nonetype score!")
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
             # append to the results csv for this split
             results.append({
                 "question": q,
@@ -130,7 +153,11 @@ for split in splits:
                 "model_response": model_resp,
                 "score": score
             })
+<<<<<<< HEAD
             time.sleep(1)
+=======
+            time.sleep(7)
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 
         results_df = pd.DataFrame(results)
 
@@ -149,4 +176,8 @@ for split in splits:
 
 # save the overall results
 overall_df = pd.DataFrame(overall_results)
+<<<<<<< HEAD
 overall_df.to_csv("qwen_overall_results.csv", index=False)
+=======
+overall_df.to_csv("qwen_overall_results.csv", index=False)
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2

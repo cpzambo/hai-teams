@@ -15,4 +15,4 @@ eval "$(conda shell.bash hook)"
 
 conda activate /projects/p32983/pythonenvs/hai-teams
 
-python openai_eval.py
+python openai_rescore.py

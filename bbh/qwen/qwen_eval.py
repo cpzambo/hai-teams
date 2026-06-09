@@ -10,7 +10,11 @@ import csv
 # load in the api key and set up the client
 load_dotenv()
 api_key = os.getenv('TOGETHER_API_KEY')
+<<<<<<< HEAD
 client = Together(api_key=api_key)
+=======
+client = Together(api_key=api_key, timeout=18000)
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 
 # generate the model's response
 def get_model_response(question):

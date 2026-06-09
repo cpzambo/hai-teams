@@ -1,0 +1,33 @@
+[EU-en shard 0] Processing indices 0–49 (50 samples)
+[EU-en shard 0] [20/50] checkpoint saved
+[EU-en shard 0] [40/50] checkpoint saved
+[EU-en shard 0] Done → /gpfs/projects/p32983/EmoBench-master/EMO_XAI/results/EU/grok-3-mini_en_shard0of4.jsonl
+
+==================================================
+[EU-en] Evaluation for grok-3-mini
+  Overall accuracy: 0.8600 (43/50)
+  complex_emotions: 0.8571
+  personal_beliefs_and_experiences: 1.0000
+  Saved → /gpfs/projects/p32983/EmoBench-master/EMO_XAI/results/EU/grok-3-mini_en_shard0of4.csv
+  Saved → /gpfs/projects/p32983/EmoBench-master/EMO_XAI/results/EU/grok-3-mini_en_overall.csv
+==================================================
+
+[EA-en shard 0] Processing indices 0–49 (50 samples)
+[EA-en shard 0] [20/50] checkpoint saved
+[EA-en shard 0] [40/50] checkpoint saved
+API error (attempt 1/3): <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "Received http2 header with status: 502"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_status:14, grpc_message:"Received http2 header with status: 502"}"
+>
+Retrying in 5.0s...
+[EA-en shard 0] Done → /gpfs/projects/p32983/EmoBench-master/EMO_XAI/results/EA/grok-3-mini_en_shard0of4.jsonl
+
+==================================================
+[EA-en] Evaluation for grok-3-mini
+  Overall accuracy: 0.7200 (36/50)
+  Personal-Others: 0.7200
+  Saved → /gpfs/projects/p32983/EmoBench-master/EMO_XAI/results/EA/grok-3-mini_en_shard0of4.csv
+  Saved → /gpfs/projects/p32983/EmoBench-master/EMO_XAI/results/EA/grok-3-mini_en_overall.csv
+==================================================
+

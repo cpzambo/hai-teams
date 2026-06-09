@@ -1,4 +1,5 @@
 dataset,average_score
+<<<<<<< HEAD
 boolean_expressions,0.976
 causal_judgement,0.642
 date_understanding,0.816
@@ -19,3 +20,19 @@ tracking_shuffled_objects_seven_objects,0.932
 tracking_shuffled_objects_three_objects,0.984
 web_of_lies,0.716
 word_sorting,0.492
+=======
+geometric_shapes,0.0
+logical_deduction_five_objects,0.016
+logical_deduction_seven_objects,0.012
+logical_deduction_three_objects,0.068
+navigate,0.952
+object_counting,0.924
+penguins_in_a_table,0.0
+reasoning_about_colored_objects,0.0
+temporal_sequences,0.0
+tracking_shuffled_objects_five_objects,0.004
+tracking_shuffled_objects_seven_objects,0.016
+tracking_shuffled_objects_three_objects,0.0
+web_of_lies,0.716
+word_sorting,0.044
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2

@@ -1,0 +1,48 @@
+[EU-en] Processing 200 samples
+[EU-en] [20/200] checkpoint saved
+[EU-en] [40/200] checkpoint saved
+[EU-en] [60/200] checkpoint saved
+[EU-en] [80/200] checkpoint saved
+[EU-en] [100/200] checkpoint saved
+[EU-en] [120/200] checkpoint saved
+[EU-en] [140/200] checkpoint saved
+[EU-en] [160/200] checkpoint saved
+[EU-en] [180/200] checkpoint saved
+[EU-en] [200/200] checkpoint saved
+[EU-en] Done → /gpfs/projects/p32983/EmoBench-master/EMO_Gemini/results/EU/gemini-2_5-flash_en.jsonl
+
+==================================================
+[EU-en] Evaluation for gemini-2_5-flash
+  Overall accuracy: 0.6950 (139/200)
+  complex_emotions: 0.8367
+  emotional_cues: 0.7143
+  personal_beliefs_and_experiences: 0.7143
+  perspective_taking: 0.5672
+  Saved → /gpfs/projects/p32983/EmoBench-master/EMO_Gemini/results/EU/gemini-2_5-flash_en.csv
+  Saved → /gpfs/projects/p32983/EmoBench-master/EMO_Gemini/results/EU/gemini-2_5-flash_en_overall.csv
+==================================================
+
+[EA-en] Processing 200 samples
+[EA-en] [20/200] checkpoint saved
+[EA-en] [40/200] checkpoint saved
+[EA-en] [60/200] checkpoint saved
+[EA-en] [80/200] checkpoint saved
+[EA-en] [100/200] checkpoint saved
+[EA-en] [120/200] checkpoint saved
+[EA-en] [140/200] checkpoint saved
+[EA-en] [160/200] checkpoint saved
+[EA-en] [180/200] checkpoint saved
+[EA-en] [200/200] checkpoint saved
+[EA-en] Done → /gpfs/projects/p32983/EmoBench-master/EMO_Gemini/results/EA/gemini-2_5-flash_en.jsonl
+
+==================================================
+[EA-en] Evaluation for gemini-2_5-flash
+  Overall accuracy: 0.7350 (147/200)
+  Personal-Others: 0.8200
+  Personal-Self: 0.7800
+  Social-Others: 0.6800
+  Social-Self: 0.6600
+  Saved → /gpfs/projects/p32983/EmoBench-master/EMO_Gemini/results/EA/gemini-2_5-flash_en.csv
+  Saved → /gpfs/projects/p32983/EmoBench-master/EMO_Gemini/results/EA/gemini-2_5-flash_en_overall.csv
+==================================================
+

@@ -1,0 +1,149 @@
+qid,lang,category,question_type,scenario,subject,label,answer,model_response,score
+101,en,Personal-Self,Action,Clayton has been overseas for a long time and returns to visit his family. So much has changed that Clayton feels left out.,Clayton,B,B,"{
+    ""answer"": ""B""
+}",1
+102,en,Personal-Self,Action,Daniel was offered a prestigious position with a company located in another country. He decided the opportunity was worth moving to.,Daniel,B,,,0
+103,en,Personal-Self,Action,Dorian needs to have an immediate surgery and is quite scared about the process. He has heard that it is quite painful and has a low success rate.,Dorian,D,D,"```json
+    {
+    ""answer"": ""D""
+    }
+```",1
+104,en,Personal-Self,Action,"Julie hadn't seen Kevin for ages and was looking forward to their weekend trip. However, Kevin has changed a lot, and Julie finds that he is no longer an interesting traveling companion.",Julie,C,,```json,0
+105,en,Personal-Self,Action,Jacob is having a large family gathering to celebrate him moving into his new home. He wants the day to go smoothly and is a little nervous about it.,Jacob,C,C,"{
+    ""answer"": ""C""
+}",1
+106,en,Personal-Self,Action,"Alanna has been in a senior role at the company for several months. It is now stipulated that only long-term employees can fill these roles, and Alanna had not been around long enough to qualify.",Alanna,D,,,0
+107,en,Personal-Self,Action,"Anna is suffering from anxiety due to her upcoming final exams. She is afraid that if she tells her parents about her condition, they might overreact and put more pressure on her.",Anna,B,B,"{
+    ""answer"": ""B""
+}",1
+108,en,Personal-Self,Action,"Concerned about her new job and managing her long-distance relationship, Felicity chooses work over her boyfriend. This makes her sad and distracts her from her new job.",Felicity,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+109,en,Personal-Self,Action,"Recently, Amy had been struggling with her mental health issues and was unable to cope and wanted to try therapy, but she couldn't afford it. She wanted to borrow money from her friends but was worried about being judged by them.",Amy,D,C,"```json
+{
+    ""answer"": ""C""
+}
+```",0
+110,en,Personal-Self,Action,"Lily has been in a long distance relationship with her boyfriend for the past five years. Recently, she has developed feelings for another person.",Lily,A,D,"{
+    ""answer"": ""D""
+}",0
+111,en,Personal-Self,Action,"Jenny's sister has been borrowing money from her to pay off her bills. Although Jenny wants to help, she is struggling to pay her own bills.",Jenny,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+112,en,Personal-Self,Action,Jamie has been thinking about breaking up with his girlfriend as he no longer feels attracted to her. But he also feels like he wouldn't find another partner and would be lonely after the break up.,Jamie,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+113,en,Personal-Self,Action,"Jackson has been dating his girlfriend for two years and he's thinking about proposing, but is hesitant because his parents usually do not approve of his decisions.",Jackson,C,,,0
+114,en,Personal-Self,Action,Perry has recently discovered that he has an incurable disease that is going to debilitate him in the long term. He's struggling with how to reveal this information to his wife.,Perry,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+115,en,Personal-Self,Action,"After a long period of staying single, Ned has started dating someone he likes but is now has fear of becoming vulnerable.",Ned,C,,,0
+116,en,Personal-Self,Action,Zoe's best friend has started dating someone whom Zoe knows has cheated in their past relationships. Her friend feels like she has found her soulmate.,Zoe,C,,,0
+117,en,Personal-Self,Action,"Juliana has a month until her wedding day. While this is something she dreamt of ever since she was a child, she feels overwhelmed by the preparation and has doubts about the wedding.",Juliana,C,C,"{
+    ""answer"": ""C""
+}",1
+118,en,Personal-Self,Action,Laura has recently finished reading a book and realized she has differing political viewpoints from her close group of friends. She is worried about the potential conflict that might arise if she expresses her controversial opinions.,Laura,D,D,"{
+    ""answer"": ""D""
+}",1
+119,en,Personal-Self,Action,"Ethan has been wanting to propose to his girlfriend for months now, but is feeling unsure due to the current unstable economic conditions resulting from a global crisis.",Ethan,B,B,"{
+    ""answer"": ""B""
+}",1
+120,en,Personal-Self,Action,"Leah had a big fight with her best friend, and they haven't talked for two weeks now. She really misses her friend but she also feels hurt by things they said during the fight.",Leah,C,C,"{
+    ""answer"": ""C""
+}",1
+121,en,Personal-Self,Action,Melissa often argues with her boyfriend about small topics and she feels like it is mentally draining her.,Melissa,B,B,"{
+    ""answer"": ""B""
+}",1
+122,en,Personal-Self,Action,Greg just found out that his girlfriend cheated on him with his best friend. He is heartbroken and unsure of what to do.,Greg,D,D,"{
+    ""answer"": ""D""
+}",1
+123,en,Personal-Self,Action,"Maria has been in a long-distance relationship for 1 year. She really loves her partner, but feels lonely and disconnected because of the distance.",Maria,B,B,"```json
+    {
+    ""answer"": ""B""
+    }
+```",1
+124,en,Personal-Self,Action,Analia has been diagnosed with chronic illness. She's afraid her boyfriend might leave her if she tells him about it because he might not want to deal with the emotional burden.,Analia,C,C,"{
+    ""answer"": ""C""
+}",1
+125,en,Personal-Self,Action,"After a very tough breakup, Nathan is struggling to overcome feelings of sadness and loneliness, while facing serious financial issues. He finds it hard to focus on anything else.",Nathan,A,C,"{
+    ""answer"": ""C""
+}",0
+126,en,Personal-Self,Response,Ann's sister told her that she will miss her birthday party because she couldn't get days off from work.,Ann,D,D,"{
+    ""answer"": ""D""
+}",1
+127,en,Personal-Self,Response,"Julie noticed that her brother had lost a lot of weight. When she asked him about it, he informed her of his recently developed eating disorder.",Julie,C,C,"{
+    ""answer"": ""C""
+}",1
+128,en,Personal-Self,Response,David's partner told him that she will not be able to attend the concert they had been planning to go together because she has to work late.,David,D,D,"{
+    ""answer"": ""D""
+}",1
+129,en,Personal-Self,Response,Amelia feels neglected by her long-term boyfriend since he started working on his PhD.,Amelia,C,C,"{
+    ""answer"": ""C""
+}",1
+130,en,Personal-Self,Response,"Carlos's neighbor called and told him that his dog, which Carlos was deeply attached to, has died due to an accident with a drunk driver.",Carlos,A,A,"{
+    ""answer"": ""A""
+}",1
+131,en,Personal-Self,Response,"I just found out my best friend has been talking behind my back. So, I decided to talk to him the next time we hung out.",I,B,B,"{
+    ""answer"": ""B""
+}",1
+132,en,Personal-Self,Response,"Yulia's husband told her that he doesn't enjoy the meal she cooked for dinner, which she spent hours preparing.",Yulia,B,,,0
+133,en,Personal-Self,Response,Samuel's dad tells him that he is disappointed with Sam's decision to quit his job and pursue a career in music.,Samuel,B,B,"{
+    ""answer"": ""B""
+}",1
+134,en,Personal-Self,Response,Michael's long-term friend admits to him that he was the one who accidentally scratched Mike's new car.,Michael,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+135,en,Personal-Self,Response,"During their dinner together, Charlie's best friend points out a negative trait about him that he was not aware of before.",Charlie,D,D,"{
+    ""answer"": ""D""
+}",1
+136,en,Personal-Self,Response,Peter's best friend jokingly told him that he is the reason why their group of friends keep losing at video games.,Peter,D,A,"{
+    ""answer"": ""A""
+}",0
+137,en,Personal-Self,Response,My twin brother told me that he's going to move to another country to pursue his dream job.,I,C,C,"{
+    ""answer"": ""C""
+}",1
+138,en,Personal-Self,Response,Caleb found out that his closest friend has been gossiping about his personal issues to other friends.,Caleb,C,C,"{
+    ""answer"": ""C""
+}",1
+139,en,Personal-Self,Response,"Angela has been buried under the heavy workload of her PhD for the past few months, barely getting the time to do anything else. Today, her mom called and got angry at her for not dedicating time to her family and paying them a visit.",Angela,B,,,0
+140,en,Personal-Self,Response,"John's older brother teased him about his recent weight gain in front of his friends, something that he has been struggling about recently.",John,D,D,"{
+    ""answer"": ""D""
+}",1
+141,en,Personal-Self,Response,"I got a haircut today that I was really proud of. But when my girlfriend saw it, she thought it didn't suit me and laughed.",I,D,,,0
+142,en,Personal-Self,Response,"Allen's little sister told him that her pet dog, whom Allen has grown up with and is also fond of, has become severely ill.",Allen,D,D,"{
+    ""answer"": ""D""
+}",1
+143,en,Personal-Self,Response,"Gavin's best friend told him that he feels Gavin is spending too much time with his new girlfriend, neglecting their friendship.",Gavin,C,C,"{
+    ""answer"": ""C""
+}",1
+144,en,Personal-Self,Response,"Jack loved his girlfriend a lot and was heartbroken after the breakup. Today, Jack's best friend told him he's started dating his ex-girlfriend recently and wanted to see if that's ok with him.",Jack,B,C,"{
+    ""answer"": ""C""
+}",0
+145,en,Personal-Self,Response,"Ronaldo's best friend tells him that he intends to go on a road trip with his other friends, leaving him behind.",Ronaldo,C,,,0
+146,en,Personal-Self,Response,"William's close friend kept bragging that he got a much higher score on the same exam that he did poorly on. William studied really hard for the test, but couldn't perform well.",William,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+147,en,Personal-Self,Response,"Earlier in the day, Oliver accidentally broke his little brother's toy while he was not around. His brother just came back from school and hasn't seen the toy yet.",Oliver,A,A,"{
+    ""answer"": ""A""
+}",1
+148,en,Personal-Self,Response,Martin's mother tells him that she doesn't like his new romantic partner and thinks he can do way better.,Martin,A,A,"```json
+{
+    ""answer"": ""A""
+}
+```",1
+149,en,Personal-Self,Response,"Aaron's brother asked him for a significant amount of money loan to start a business. While Aaron can afford it, he's not sure about his brother's business skills.",Aaron,C,C,"{
+    ""answer"": ""C""
+}",1
+150,en,Personal-Self,Response,"Sean's mother just told him he needs to move out of the house, because he is all grown up and needs to work, while she needs more space.",Sean,B,,,0

@@ -150,7 +150,33 @@ Options:
 (C) 02/16/2004
 (D) 03/13/2009
 (E) 01/26/2009
+<<<<<<< HEAD
 (F) 02/15/2009",(B),,0
+=======
+(F) 02/15/2009",(B),"To find the date one year ago from today, we first need to determine today's date based on the information provided.
+
+1.  **Identify the start date:** Jane's visits to the bookstore began on the 16th of October 2009.
+2.  **List the visits to find the 5th visit:**
+    *   1st visit: October 16, 2009
+    *   2nd visit: November 16, 2009
+    *   3rd visit: December 16, 2009
+    *   4th visit: January 16, 2010
+    *   5th visit: February 16, 2010
+3.  **Determine today's date:** Since today is her 5th visit, today's date is February 16, 2010.
+4.  **Calculate the date one year ago:** One year prior to February 16, 2010, is February 16, 2009.
+
+Comparing this result to the given options:
+(A) 08/16/2009
+(B) 02/16/2009
+(C) 02/16/2004
+(D) 03/13/2009
+(E) 01/26/2009
+(F) 02/15/2009
+
+The date 02/16/2009 matches option (B).
+
+Final Answer: (B)",1
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 "On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date 24 hours later in MM/DD/YYYY?
 Options:
 (A) 06/19/2017
@@ -158,7 +184,42 @@ Options:
 (C) 06/20/2017
 (D) 06/18/2017
 (E) 06/15/2017
+<<<<<<< HEAD
 (F) 07/10/2017",(A),,0
+=======
+(F) 07/10/2017",(A),"To find the date 24 hours after Jane ran out of eggs, we need to determine the date she ran out of eggs.
+
+1.  **Determine the start date and the number of eggs:**
+    Jane bought 40 eggs on May 9th, 2017.
+
+2.  **Calculate the date she ate the last egg:**
+    Jane ate one egg per day, starting on the day she bought them (May 9th).
+    *   Days in May from May 9th to May 31st: $31 - 9 + 1 = 23$ days.
+    *   Eggs remaining for June: $40 - 23 = 17$ eggs.
+    *   Since she eats one egg per day, she will eat the 17th egg of June on June 17th.
+
+3.  **Determine when she ""ran out"" of eggs:**
+    Jane ate her last egg on June 17th, 2017. Therefore, she ran out of eggs on June 17th, 2017.
+
+4.  **Calculate the date 24 hours later:**
+    The question asks for the date 24 hours after she ran out of eggs.
+    *   June 17th, 2017 + 24 hours = June 18th, 2017.
+
+5.  **Format the date in MM/DD/YYYY:**
+    June 18th, 2017 is 06/18/2017.
+
+Comparing this result to the given options:
+(A) 06/19/2017
+(B) 07/17/2017
+(C) 06/20/2017
+(D) 06/18/2017
+(E) 06/15/2017
+(F) 07/10/2017
+
+The correct option is (D).
+
+Final Answer: (D)",0
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 "Tomorrow is 11/12/2019. What is the date yesterday in MM/DD/YYYY?
 Options:
 (A) 11/10/2076
@@ -314,7 +375,40 @@ Options:
 (B) 10/01/2019
 (C) 10/24/2019
 (D) 09/12/1970
+<<<<<<< HEAD
 (E) 09/12/2019",(E),,0
+=======
+(E) 09/12/2019",(E),"To find the date one year ago from today, we first need to determine today's date based on the information provided.
+
+1.  **Identify the starting date:** Jane quit her job on March 20, 2020.
+2.  **Add 176 days to the starting date:**
+    *   **March:** There are 31 days in March. From March 20 to March 31, there are $31 - 20 = 11$ days.
+    *   **April:** 30 days. (Total: $11 + 30 = 41$ days)
+    *   **May:** 31 days. (Total: $41 + 31 = 72$ days)
+    *   **June:** 30 days. (Total: $72 + 30 = 102$ days)
+    *   **July:** 31 days. (Total: $102 + 31 = 133$ days)
+    *   **August:** 31 days. (Total: $133 + 31 = 164$ days)
+    *   **September:** We need to reach 176 days. $176 - 164 = 12$ days.
+    *   Therefore, ""today's date"" is September 12, 2020.
+
+3.  **Find the date one year ago from today:**
+    *   Today's date is September 12, 2020.
+    *   One year ago from September 12, 2020, is September 12, 2019.
+
+4.  **Format the date as MM/DD/YYYY:**
+    *   September 12, 2019, becomes 09/12/2019.
+
+Comparing this result to the given options:
+(A) 09/20/2019
+(B) 10/01/2019
+(C) 10/24/2019
+(D) 09/12/1970
+(E) 09/12/2019
+
+The correct option is (E).
+
+Final Answer: (E)",1
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 "Today is the palindrome day of 2020, because the MMDDYYYY format of the date is the same backwards as forwards. What is the date a month ago in MM/DD/YYYY?
 Options:
 (A) 01/01/2020
@@ -438,7 +532,43 @@ Options:
 (C) 09/13/2057
 (D) 07/26/2020
 (E) 10/04/2020
+<<<<<<< HEAD
 (F) 09/13/2084",(A),,0
+=======
+(F) 09/13/2084",(A),"To find the date tomorrow, we first need to determine the date that is 176 days after Jane quit her job on March 20, 2020.
+
+1.  **Identify the start date:** March 20, 2020.
+2.  **Calculate the days remaining in each month following the start date:**
+    *   **March:** There are 31 days in March. Remaining days = 31 - 20 = 11 days.
+    *   **April:** 30 days.
+    *   **May:** 31 days.
+    *   **June:** 30 days.
+    *   **July:** 31 days.
+    *   **August:** 31 days.
+3.  **Sum the days until the end of August:**
+    *   11 (March) + 30 (April) + 31 (May) + 30 (June) + 31 (July) + 31 (August) = 164 days.
+4.  **Find the remaining days to reach 176:**
+    *   176 - 164 = 12 days.
+5.  **Determine the current date:**
+    *   Since 164 days bring us to the end of August, the remaining 12 days fall into September.
+    *   Therefore, 176 days after March 20, 2020, is September 12, 2020.
+6.  **Find the date tomorrow:**
+    *   If today is September 12, 2020, tomorrow is September 13, 2020.
+7.  **Format the date as MM/DD/YYYY:**
+    *   September 13, 2020 $\rightarrow$ 09/13/2020.
+
+Comparing this result to the given options:
+(A) 09/13/2020
+(B) 08/14/2020
+(C) 09/13/2057
+(D) 07/26/2020
+(E) 10/04/2020
+(F) 09/13/2084
+
+The correct option is (A).
+
+Final Answer: (A)",1
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 "Today is Sep 9, 1909. What is the date 10 days ago in MM/DD/YYYY?
 Options:
 (A) 08/29/1909
@@ -572,7 +702,36 @@ Options:
 (C) 12/22/2014
 (D) 01/05/2015
 (E) 12/22/2086
+<<<<<<< HEAD
 (F) 02/06/2015",(C),,0
+=======
+(F) 02/06/2015",(C),"To determine the date one week ago from today, we first need to identify today's date based on the information provided.
+
+1.  **Determine today's date:**
+    *   The statement ""2015 is coming in 36 hours"" means that in 36 hours, it will be the start of the year 2015.
+    *   The start of 2015 is January 1, 2015, at 00:00 (midnight).
+    *   To find the current time, we subtract 36 hours from January 1, 2015, 00:00:
+        *   Subtracting 24 hours from January 1, 2015, 00:00, gives us December 31, 2014, 00:00.
+        *   Subtracting the remaining 12 hours (36 - 24 = 12) from December 31, 2014, 00:00, gives us December 30, 2014, at 12:00 PM (noon).
+    *   Therefore, ""today"" is December 30, 2014.
+
+2.  **Calculate the date one week ago:**
+    *   One week is equal to 7 days.
+    *   Subtracting 7 days from December 30, 2014:
+        *   30 - 7 = 23.
+    *   The date one week ago was December 23, 2014.
+
+3.  **Match with the options:**
+    *   (A) 12/22/2040
+    *   (B) 12/23/2014
+    *   (C) 12/22/2014
+    *   (D) 01/05/2015
+    *   (E) 12/22/2086
+    *   (F) 02/06/2015
+    *   The calculated date 12/23/2014 matches option (B).
+
+Final Answer: (B)",0
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 "In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date yesterday in MM/DD/YYYY?
 Options:
 (A) 01/01/1987
@@ -775,7 +934,48 @@ Options:
 (C) 06/24/2017
 (D) 06/25/2063
 (E) 06/25/2017
+<<<<<<< HEAD
 (F) 07/25/2017",(E),,0
+=======
+(F) 07/25/2017",(E),"To find the date one week from today, we first need to determine the date ""today,"" which is the day Jane ran out of eggs.
+
+1.  **Determine the number of days Jane had eggs:**
+    Jane bought 40 eggs and ate one per day. This means she had eggs for 40 days.
+
+2.  **Calculate the date she ran out of eggs:**
+    *   Jane started eating the eggs on the day she bought them, May 9th, 2017.
+    *   Number of days in May from May 9th to May 31st:
+        The formula for the number of days between two dates (inclusive) is: $\text{End Date} - \text{Start Date} + 1$.
+        $31 - 9 + 1 = 23$ days.
+    *   Jane ate 23 eggs in May.
+    *   Remaining eggs to be eaten in June:
+        $40 - 23 = 17$ eggs.
+    *   Since she eats one egg per day, the 17th egg in June would be eaten on June 17th.
+    *   Therefore, Jane ran out of eggs on June 17th, 2017. ""Today"" is June 17th, 2017.
+
+3.  **Calculate the date one week from today:**
+    *   One week is 7 days.
+    *   June 17th + 7 days = June 24th.
+    *   The date one week from today is June 24th, 2017.
+
+4.  **Format the date in MM/DD/YYYY:**
+    *   June is the 6th month.
+    *   The day is 24.
+    *   The year is 2017.
+    *   The date is 06/24/2017.
+
+Comparing this result to the given options:
+(A) 06/25/1964
+(B) 05/25/2018
+(C) 06/24/2017
+(D) 06/25/2063
+(E) 06/25/2017
+(F) 07/25/2017
+
+The correct option is (C).
+
+Final Answer: (C)",0
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 "Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date 10 days ago in MM/DD/YYYY?
 Options:
 (A) 07/03/1972
@@ -783,7 +983,36 @@ Options:
 (C) 06/28/1972
 (D) 06/14/1972
 (E) 09/28/1972
+<<<<<<< HEAD
 (F) 06/23/1972",(C),,0
+=======
+(F) 06/23/1972",(C),"To find the date 10 days ago, we first need to determine the current date based on the information provided.
+
+1.  **Identify the reference date:** The problem states that ""tomorrow"" is Tuesday, 7/9/1972.
+2.  **Determine today's date:** If tomorrow is July 9, 1972, then today must be July 8, 1972.
+3.  **Calculate 10 days ago from today:** We need to subtract 10 days from July 8, 1972.
+    *   Subtracting 8 days from July 8 brings us to June 30 (since June has 30 days).
+    *   We still need to subtract 2 more days (10 - 8 = 2).
+    *   June 30 minus 2 days is June 28.
+4.  **Verify the calculation:**
+    *   June 28 + 10 days:
+    *   June 28 to June 30 = 2 days.
+    *   June 30 to July 8 = 8 days.
+    *   Total = 2 + 8 = 10 days.
+5.  **Format the date:** The date June 28, 1972, in MM/DD/YYYY format is 06/28/1972.
+
+Comparing this result to the given options:
+(A) 07/03/1972
+(B) 10/28/1971
+(C) 06/28/1972
+(D) 06/14/1972
+(E) 09/28/1972
+(F) 06/23/1972
+
+The calculated date matches option (C).
+
+Final Answer: (C)",1
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 "In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date tomorrow in MM/DD/YYYY?
 Options:
 (A) 12/06/1986
@@ -1352,7 +1581,32 @@ Options:
 (C) 12/08/1971
 (D) 06/08/2034
 (E) 06/08/1972
+<<<<<<< HEAD
 (F) 06/07/1972",(E),,0
+=======
+(F) 06/07/1972",(E),"To find the date a month ago, we first need to determine the current date based on the information provided.
+
+1.  **Identify the date of ""tomorrow"":** The problem states that Jane scheduled appointments for tomorrow, and the date given for tomorrow is Tuesday, 7/9/1972 (July 9, 1972).
+2.  **Determine today's date:** If tomorrow is July 9, 1972, then today must be July 8, 1972 (7/8/1972).
+3.  **Calculate the date a month ago:** ""A month ago"" typically refers to the same calendar day of the previous month.
+    *   Current month: July (07)
+    *   Previous month: June (06)
+    *   Current day: 8
+    *   Year: 1972
+    *   Therefore, a month ago from July 8, 1972, is June 8, 1972.
+4.  **Format the date:** The required format is MM/DD/YYYY, which gives us 06/08/1972.
+5.  **Compare with the options:**
+    *   (A) 06/08/2059
+    *   (B) 06/22/1972
+    *   (C) 12/08/1971
+    *   (D) 06/08/2034
+    *   (E) 06/08/1972
+    *   (F) 06/07/1972
+
+The calculated date matches option (E).
+
+Final Answer: (E)",1
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 "Today is 9/7. Jane is watching NFL 2003. What is the date tomorrow in MM/DD/YYYY?
 Options:
 (A) 09/08/1916
@@ -1518,7 +1772,39 @@ Options:
 (C) 03/08/2015
 (D) 04/28/2015
 (E) 02/21/2015
+<<<<<<< HEAD
 (F) 03/28/2015",(A),,0
+=======
+(F) 03/28/2015",(A),"To determine the date one year ago from today, we first need to establish today's date based on the information provided.
+
+1.  **Determine Jane's birth date:**
+    Jane was born on the last day of February in 2000. To find this date, we check if 2000 was a leap year. A year is a leap year if it is divisible by 4, but if it is divisible by 100, it must also be divisible by 400. Since 2000 is divisible by 400, it was a leap year. Therefore, the last day of February in 2000 was February 29, 2000.
+
+2.  **Determine today's date:**
+    The problem states that today is Jane's 16th birthday.
+    Birth year: 2000
+    16th birthday year: 2000 + 16 = 2016
+    Since 2016 is also a leap year (divisible by 4), February 29 exists in 2016.
+    Therefore, today's date is February 29, 2016.
+
+3.  **Determine the date one year ago from today:**
+    We need to find the date one year before February 29, 2016.
+    One year prior to 2016 is 2015.
+    2015 was not a leap year, meaning February 2015 only had 28 days.
+    When calculating ""one year ago"" from February 29th in a leap year, the corresponding date in a non-leap year is February 28th.
+
+Comparing this result to the given options:
+(A) 02/28/2015
+(B) 03/10/2015
+(C) 03/08/2015
+(D) 04/28/2015
+(E) 02/21/2015
+(F) 03/28/2015
+
+The date one year ago from February 29, 2016, is February 28, 2015.
+
+Final Answer: (A)",1
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 "Jane thought today is 3/11/2002, but today is in fact Mar 12, which is 1 day later. What is the date 10 days ago in MM/DD/YYYY?
 Options:
 (A) 03/16/2002
@@ -1923,7 +2209,50 @@ Options:
 (C) 07/21/2002
 (D) 10/22/1923
 (E) 10/15/2002
+<<<<<<< HEAD
 (F) 10/22/2002",(F),,0
+=======
+(F) 10/22/2002",(F),"To determine the date a month ago from the US Thanksgiving of 2001, we first need to find the date of Thanksgiving in 2001.
+
+1.  **Identify the rule for US Thanksgiving:** US Thanksgiving is observed on the fourth Thursday of November.
+2.  **Determine the day of the week for November 1, 2001:**
+    *   January 1, 2001, was a Monday.
+    *   To find the day of the week for November 1, 2001, we calculate the total number of days from January 1 to November 1:
+        *   January: 31 days
+        *   February: 28 days (2001 was not a leap year)
+        *   March: 31 days
+        *   April: 30 days
+        *   May: 31 days
+        *   June: 30 days
+        *   July: 31 days
+        *   August: 31 days
+        *   September: 30 days
+        *   October: 31 days
+        *   Total = 31 + 28 + 31 + 30 + 31 + 30 + 31 + 31 + 30 + 31 = 304 days.
+    *   Now, find the remainder when 304 is divided by 7:
+        *   304 ÷ 7 = 43 with a remainder of 3 (since 43 * 7 = 301).
+    *   Adding 3 days to Monday (Monday → Tuesday → Wednesday → Thursday), we find that November 1, 2001, was a Thursday.
+3.  **Find the fourth Thursday of November 2001:**
+    *   1st Thursday: November 1
+    *   2nd Thursday: November 8
+    *   3rd Thursday: November 15
+    *   4th Thursday: November 22
+    *   Therefore, US Thanksgiving 2001 was on November 22, 2001.
+4.  **Determine the date a month ago:**
+    *   One month before November 22, 2001, is October 22, 2001.
+
+Comparing this result to the given options:
+(A) 11/22/2001
+(B) 10/21/2002
+(C) 07/21/2002
+(D) 10/22/1923
+(E) 10/15/2002
+(F) 10/22/2002
+
+While the calculated date is 10/22/2001, option (F) is 10/22/2002. Given the options provided, (F) is the only one with the correct month and day, suggesting a typo in the year of the options.
+
+Final Answer: (F)",1
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 "Jane is celebrating the last day of Jan 2012. What is the date one week from today in MM/DD/YYYY?
 Options:
 (A) 03/16/2012
@@ -2123,7 +2452,51 @@ Options:
 (B) 11/24/2002
 (C) 06/23/2003
 (D) 05/23/2002
+<<<<<<< HEAD
 (E) 11/23/2002",(E),,0
+=======
+(E) 11/23/2002",(E),"To find the date 24 hours after the US Thanksgiving of 2001, we first need to determine the date of Thanksgiving in 2001.
+
+1.  **Determine the date of Thanksgiving 2001:**
+    *   US Thanksgiving is observed on the fourth Thursday of November.
+    *   First, we find the day of the week for November 1, 2001.
+    *   January 1, 2001, was a Monday.
+    *   The number of days from January 1 to October 31, 2001, is:
+        *   January: 31
+        *   February: 28 (2001 was not a leap year)
+        *   March: 31
+        *   April: 30
+        *   May: 31
+        *   June: 30
+        *   July: 31
+        *   August: 31
+        *   September: 30
+        *   October: 31
+        *   Total = 31 + 28 + 31 + 30 + 31 + 30 + 31 + 31 + 30 + 31 = 304 days.
+    *   To find the day of the week for October 31, 2001:
+        (304 - 1) mod 7 = 303 mod 7 = 2.
+        Monday + 2 days = Wednesday.
+    *   Since October 31, 2001, was a Wednesday, November 1, 2001, was a Thursday.
+    *   The Thursdays in November 2001 were:
+        *   1st Thursday: November 1
+        *   2nd Thursday: November 8
+        *   3rd Thursday: November 15
+        *   4th Thursday: November 22
+    *   Therefore, US Thanksgiving 2001 was on November 22, 2001.
+
+2.  **Calculate the date 24 hours later:**
+    *   24 hours after November 22, 2001, is November 23, 2001.
+
+3.  **Compare with the given options:**
+    *   (A) 12/01/2002
+    *   (B) 11/24/2002
+    *   (C) 06/23/2003
+    *   (D) 05/23/2002
+    *   (E) 11/23/2002
+    *   The calculated date is 11/23/2001. Looking at the options, (E) is 11/23/2002. It appears there is a typo in the year of the options, but (E) is the only option with the correct month and day.
+
+Final Answer: (E)",1
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 "Today is Sep 9, 1909. What is the date yesterday in MM/DD/YYYY?
 Options:
 (A) 08/11/1909
@@ -2187,7 +2560,43 @@ Options:
 (C) 06/17/2111
 (D) 07/13/2017
 (E) 06/26/2017
+<<<<<<< HEAD
 (F) 06/25/2017",(B),,0
+=======
+(F) 06/25/2017",(B),"To find the date yesterday, we first need to determine the date Jane ran out of eggs.
+
+1.  **Identify the start date and the number of eggs:**
+    Jane bought 40 eggs on May 9th, 2017.
+
+2.  **Calculate the date the last egg was eaten:**
+    Jane ate one egg per day. If she started eating them on the day she bought them (May 9th):
+    *   Days in May: May 9th to May 31st.
+        Number of days = $31 - 9 + 1 = 23$ days.
+    *   Remaining eggs: $40 - 23 = 17$ eggs.
+    *   These 17 eggs would be eaten from June 1st to June 17th.
+    *   Therefore, the 40th egg was eaten on June 17th, 2017.
+
+3.  **Determine ""today's"" date:**
+    The problem states, ""Today she ran out of eggs."" This can be interpreted in two ways:
+    *   **Interpretation A:** She ate the last egg today. In this case, today is June 17th, 2017.
+    *   **Interpretation B:** She woke up today and found she had no eggs left, meaning she ate the last one yesterday. In this case, the last egg was eaten on June 17th, so today is June 18th, 2017.
+
+4.  **Find the date yesterday:**
+    *   If today is June 17th (Interpretation A), yesterday was June 16th, 2017.
+    *   If today is June 18th (Interpretation B), yesterday was June 17th, 2017.
+
+5.  **Compare with the given options:**
+    (A) 07/18/2017
+    (B) 06/17/2017
+    (C) 06/17/2111
+    (D) 07/13/2017
+    (E) 06/26/2017
+    (F) 06/25/2017
+
+    June 16th is not an option, but June 17th is. This suggests that Interpretation B (or the possibility that she started eating the eggs on May 10th, making the 40th egg June 18th) is the intended logic.
+
+Final Answer: (B) 06/17/2017",1
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. John is correct. What is the date 24 hours later in MM/DD/YYYY?
 Options:
 (A) 06/20/2019
@@ -2292,7 +2701,49 @@ Options:
 (C) 06/25/2017
 (D) 06/13/2017
 (E) 06/21/2017
+<<<<<<< HEAD
 (F) 06/18/2017",(B),,0
+=======
+(F) 06/18/2017",(B),"To find the date tomorrow, we first need to determine the date Jane ran out of eggs.
+
+1.  **Identify the start date and the number of eggs:**
+    *   Start date: May 9th, 2017.
+    *   Number of eggs: 40.
+    *   Consumption rate: 1 egg per day.
+
+2.  **Calculate the number of days Jane ate eggs in May:**
+    *   Jane started eating eggs on May 9th.
+    *   May has 31 days.
+    *   The number of days from May 9th to May 31st is: $31 - 9 + 1 = 23$ days.
+    *   So, Jane ate 23 eggs in May.
+
+3.  **Calculate the number of eggs remaining for June:**
+    *   Total eggs - Eggs eaten in May = $40 - 23 = 17$ eggs.
+
+4.  **Determine the date Jane ate the last egg:**
+    *   Since she ate one egg per day, the 17 remaining eggs were eaten from June 1st to June 17th.
+    *   The 40th egg was eaten on June 17th, 2017.
+
+5.  **Determine ""today"" and ""tomorrow"":**
+    *   The problem states, ""Today she ran out of eggs."" This means the day she ate the last egg is ""today.""
+    *   Today is June 17th, 2017.
+    *   Tomorrow is June 18th, 2017.
+
+6.  **Format the date:**
+    *   June 18th, 2017 in MM/DD/YYYY format is 06/18/2017.
+
+Comparing this to the given options:
+(A) 08/05/2017
+(B) 06/19/2017
+(C) 06/25/2017
+(D) 06/13/2017
+(E) 06/21/2017
+(F) 06/18/2017
+
+The correct option is (F).
+
+Final Answer: (F) 06/18/2017",0
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 "The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date tomorrow in MM/DD/YYYY?
 Options:
 (A) 06/03/1943
@@ -2508,7 +2959,41 @@ Options:
 (C) 05/15/2017
 (D) 06/14/2017
 (E) 06/08/2017
+<<<<<<< HEAD
 (F) 06/22/2017",(E),,0
+=======
+(F) 06/22/2017",(E),"To find the date 10 days ago, we first need to determine the date ""today,"" which is the day Jane ran out of eggs.
+
+1.  **Determine the date Jane ran out of eggs:**
+    *   Jane bought 40 eggs on May 9th, 2017.
+    *   She ate one egg per day.
+    *   If she started eating the eggs on May 9th:
+        *   Days in May from May 9th to May 31st: $31 - 9 + 1 = 23$ days.
+        *   Remaining eggs to be eaten in June: $40 - 23 = 17$ eggs.
+        *   The 17th egg in June would be eaten on June 17th.
+        *   If she ate the last egg on June 17th, she would have ""run out"" of eggs by June 18th (the first day she had no eggs left).
+    *   Alternatively, if she started eating the eggs on May 10th:
+        *   Days in May from May 10th to May 31st: $31 - 10 + 1 = 22$ days.
+        *   Remaining eggs to be eaten in June: $40 - 22 = 18$ eggs.
+        *   The 18th egg in June would be eaten on June 18th.
+        *   In this case, ""today"" (the day she ran out) would be June 18th.
+
+2.  **Calculate the date 10 days ago:**
+    *   Assuming ""today"" is June 18th, 2017:
+        *   $18 - 10 = 8$.
+        *   The date 10 days ago was June 8th, 2017.
+
+3.  **Verify with the options:**
+    *   (A) 06/08/1933
+    *   (B) 06/06/2017
+    *   (C) 05/15/2017
+    *   (D) 06/14/2017
+    *   (E) 06/08/2017
+    *   (F) 06/22/2017
+    *   The calculated date June 8th, 2017, matches option (E).
+
+Final Answer: (E) 06/08/2017",1
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 "Tomorrow is 11/12/2019. What is the date today in MM/DD/YYYY?
 Options:
 (A) 11/12/2019
@@ -2667,7 +3152,49 @@ Options:
 (C) 11/23/2002
 (D) 06/23/2002
 (E) 10/15/2002
+<<<<<<< HEAD
 (F) 08/29/2002",(C),,0
+=======
+(F) 08/29/2002",(C),"To determine the date tomorrow, we first need to find the date of US Thanksgiving in 2001.
+
+1.  **Identify the rule for US Thanksgiving:** US Thanksgiving is observed on the fourth Thursday of November.
+2.  **Determine the day of the week for November 1, 2001:**
+    *   We know that January 1, 2001, was a Monday.
+    *   Calculate the number of days from January 1 to November 1, 2001:
+        *   January: 31
+        *   February: 28 (2001 was not a leap year)
+        *   March: 31
+        *   April: 30
+        *   May: 31
+        *   June: 30
+        *   July: 31
+        *   August: 31
+        *   September: 30
+        *   October: 31
+        *   Total = 31 + 28 + 31 + 30 + 31 + 30 + 31 + 31 + 30 + 31 = 304 days.
+    *   To find the day of the week for November 1, we calculate the remainder of 304 divided by 7:
+        *   304 ÷ 7 = 43 with a remainder of 3.
+    *   Adding 3 days to Monday (January 1): Monday $\rightarrow$ Tuesday $\rightarrow$ Wednesday $\rightarrow$ Thursday.
+    *   Therefore, November 1, 2001, was a Thursday.
+3.  **Find the fourth Thursday of November 2001:**
+    *   1st Thursday: November 1
+    *   2nd Thursday: November 8
+    *   3rd Thursday: November 15
+    *   4th Thursday: November 22
+    *   So, US Thanksgiving 2001 was on November 22, 2001.
+4.  **Determine the date tomorrow:**
+    *   If today is November 22, 2001, then tomorrow is November 23, 2001.
+5.  **Compare with the given options:**
+    *   (A) 11/09/2002
+    *   (B) 12/07/2002
+    *   (C) 11/23/2002
+    *   (D) 06/23/2002
+    *   (E) 10/15/2002
+    *   (F) 08/29/2002
+    *   The date November 23 matches option (C), although the year in the options is listed as 2002 instead of 2001. Given the options provided, (C) is the only plausible answer.
+
+Final Answer: (C)",1
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 "Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date one week ago from today in MM/DD/YYYY?
 Options:
 (A) 12/26/2007
@@ -2737,7 +3264,42 @@ Options:
 (C) 06/18/2016
 (D) 07/18/2015
 (E) 06/22/2016
+<<<<<<< HEAD
 (F) 06/25/2016",(C),,0
+=======
+(F) 06/25/2016",(C),"To find the date one year ago from today, we first need to determine the date ""today.""
+
+1.  **Determine the date Jane ran out of eggs:**
+    *   Jane bought 40 eggs on May 9th, 2017.
+    *   She ate one egg per day.
+    *   If she started eating the eggs on the day she bought them (May 9th), we count 40 days starting from May 9th.
+    *   Days in May from May 9th to May 31st: $31 - 9 + 1 = 23$ days.
+    *   Remaining eggs to be eaten in June: $40 - 23 = 17$ eggs.
+    *   The 17th egg in June would be eaten on June 17th.
+    *   If Jane ate the last egg on June 17th, she would have ""run out"" of eggs on the following day, June 18th, 2017.
+
+2.  **Alternative interpretation:**
+    *   If Jane started eating the eggs on the day after she bought them (May 10th):
+    *   Days in May from May 10th to May 31st: $31 - 10 + 1 = 22$ days.
+    *   Remaining eggs to be eaten in June: $40 - 22 = 18$ eggs.
+    *   The 18th egg in June would be eaten on June 18th.
+    *   If ""today"" is the day she ate the last egg, then today is June 18th, 2017.
+
+3.  **Calculate the date one year ago from today:**
+    *   In both plausible scenarios, ""today"" is June 18th, 2017.
+    *   One year ago from June 18th, 2017, is June 18th, 2016.
+
+4.  **Match with the options:**
+    *   (A) 06/18/2030
+    *   (B) 09/18/2016
+    *   (C) 06/18/2016
+    *   (D) 07/18/2015
+    *   (E) 06/22/2016
+    *   (F) 06/25/2016
+    *   The date June 18th, 2016 corresponds to option (C).
+
+Final Answer: (C)",1
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 "The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date one week from today in MM/DD/YYYY?
 Options:
 (A) 01/13/2019
@@ -2977,7 +3539,35 @@ Options:
 (C) 03/18/2021
 (D) 03/31/2021
 (E) 04/01/2021
+<<<<<<< HEAD
 (F) 02/21/2021",(E),,0
+=======
+(F) 02/21/2021",(E),"To determine the date a month ago, we first need to establish today's date based on the information provided.
+
+1.  **Identify today's date:**
+    The question states that ""Yesterday was April 30, 2021.""
+    If yesterday was April 30, 2021, then today is May 1, 2021.
+
+2.  **Determine the date ""a month ago"":**
+    The phrase ""a month ago"" typically refers to the same date in the previous month relative to the current date (today).
+    Today's date is May 1, 2021.
+    One month before May 1, 2021, is April 1, 2021.
+
+3.  **Verify with the options:**
+    (A) 04/01/2094
+    (B) 03/22/2021
+    (C) 03/18/2021
+    (D) 03/31/2021
+    (E) 04/01/2021
+    (F) 02/21/2021
+
+    Our calculated date, April 1, 2021, matches option (E).
+
+4.  **Alternative interpretation check:**
+    If ""a month ago"" were relative to yesterday (April 30, 2021), the date would be March 30, 2021. However, March 30, 2021, is not listed in the options. If ""a month"" were interpreted as exactly 30 days before yesterday (April 30), the date would be March 31, 2021 (Option D). However, the most standard interpretation of ""a month ago"" in this context is relative to today's date.
+
+Final Answer: (E)",1
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 "Today is 3/5, and it is Jane's second time in the year 1973 to see a meteor shower. What is the date tomorrow in MM/DD/YYYY?
 Options:
 (A) 03/08/1983
@@ -3037,7 +3627,49 @@ Options:
 (C) 11/21/2002
 (D) 11/21/2076
 (E) 11/07/2002
+<<<<<<< HEAD
 (F) 11/15/2002",(C),,0
+=======
+(F) 11/15/2002",(C),"To find the date of the day before Thanksgiving in 2001, we first need to determine the date of Thanksgiving for that year.
+
+1.  **Identify the rule for US Thanksgiving:** Thanksgiving is observed on the fourth Thursday of November.
+2.  **Determine the day of the week for November 1, 2001:**
+    *   We know that January 1, 2001, was a Monday.
+    *   To find the day of the week for November 1, 2001, we calculate the number of days from January 1 to November 1:
+        *   January: 31 days
+        *   February: 28 days (2001 was not a leap year)
+        *   March: 31 days
+        *   April: 30 days
+        *   May: 31 days
+        *   June: 30 days
+        *   July: 31 days
+        *   August: 31 days
+        *   September: 30 days
+        *   October: 31 days
+        *   Total = 31 + 28 + 31 + 30 + 31 + 30 + 31 + 31 + 30 + 31 = 304 days.
+    *   Now, find the remainder when 304 is divided by 7:
+        *   304 ÷ 7 = 43 with a remainder of 3 (since 43 * 7 = 301).
+    *   Adding 3 days to Monday: Monday → Tuesday → Wednesday → Thursday.
+    *   Therefore, November 1, 2001, was a Thursday.
+3.  **Find the fourth Thursday of November 2001:**
+    *   1st Thursday: November 1
+    *   2nd Thursday: November 1 + 7 = November 8
+    *   3rd Thursday: November 8 + 7 = November 15
+    *   4th Thursday: November 15 + 7 = November 22
+    *   So, US Thanksgiving 2001 was on November 22, 2001.
+4.  **Determine the date yesterday:**
+    *   If today is November 22, 2001, then yesterday was November 21, 2001.
+5.  **Compare with the given options:**
+    *   (A) 09/12/2002
+    *   (B) 11/30/2002
+    *   (C) 11/21/2002
+    *   (D) 11/21/2076
+    *   (E) 11/07/2002
+    *   (F) 11/15/2002
+    *   The calculated date is 11/21/2001. Option (C) is 11/21/2002. Given the options, it is highly likely that the year 2002 in option (C) is a typo for 2001.
+
+Final Answer: (C)",1
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 "Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date yesterday in MM/DD/YYYY?
 Options:
 (A) 02/29/2020
@@ -3170,7 +3802,39 @@ Options:
 (C) 02/01/1961
 (D) 01/01/1958
 (E) 01/01/1961
+<<<<<<< HEAD
 (F) 04/09/1961",(E),,0
+=======
+(F) 04/09/1961",(E),"To find the date yesterday, we first need to determine today's date based on the information provided.
+
+1.  **Identify the marriage date:** Jane and John married on January 2, 1958.
+2.  **Determine today's date:** The problem states that today is their 5-year anniversary.
+    *   Marriage date: January 2, 1958
+    *   5-year anniversary: January 2, 1958 + 5 years = January 2, 1963.
+    *   Therefore, today is January 2, 1963.
+3.  **Find the date yesterday:**
+    *   If today is January 2, 1963, then yesterday was January 1, 1963.
+4.  **Compare with the given options:**
+    *   (A) 01/01/2003
+    *   (B) 11/01/1960
+    *   (C) 02/01/1961
+    *   (D) 01/01/1958
+    *   (E) 01/01/1961
+    *   (F) 04/09/1961
+    *   None of the options match January 1, 1963.
+
+5.  **Re-evaluating for potential typos:**
+    *   If we assume there is a typo in the marriage date and it should have been January 2, 1956:
+        *   5-year anniversary: January 2, 1956 + 5 years = January 2, 1961.
+        *   Yesterday: January 1, 1961. (This matches option E).
+    *   If we assume there is a typo in the anniversary year and it should have been their 3-year anniversary:
+        *   3-year anniversary: January 2, 1958 + 3 years = January 2, 1961.
+        *   Yesterday: January 1, 1961. (This matches option E).
+
+Given the options provided, it is highly likely that there is a typo in the question and the intended answer is January 1, 1961.
+
+Final Answer: (E)",1
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 "Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date one week ago from today in MM/DD/YYYY?
 Options:
 (A) 03/03/2017
@@ -3514,7 +4178,37 @@ Options:
 (C) 02/28/2016
 (D) 02/28/1992
 (E) 03/27/2016
+<<<<<<< HEAD
 (F) 03/06/2016",(C),,0
+=======
+(F) 03/06/2016",(C),"To find the date one year ago from today, we need to determine today's date based on the information provided.
+
+1.  **Determine Jane's birth date:**
+    *   Jane was born on the last day of February in 2001.
+    *   To determine if 2001 was a leap year, we check if it is divisible by 4. Since 2001 is not divisible by 4, it was not a leap year.
+    *   In a non-leap year, the last day of February is February 28th.
+    *   Therefore, Jane's birth date is **02/28/2001**.
+
+2.  **Determine today's date:**
+    *   Today is Jane's 16th birthday.
+    *   To find the date of her 16th birthday, we add 16 years to her birth year: $2001 + 16 = 2017$.
+    *   Therefore, today's date is **02/28/2017**.
+
+3.  **Determine the date one year ago from today:**
+    *   One year ago from February 28, 2017, is February 28, 2016.
+    *   (Note: Although 2016 was a leap year and had a February 29th, the date exactly one year prior to February 28, 2017, is February 28, 2016).
+
+4.  **Match the result with the given options:**
+    *   (A) 02/28/2015
+    *   (B) 03/31/2016
+    *   (C) 02/28/2016
+    *   (D) 02/28/1992
+    *   (E) 03/27/2016
+    *   (F) 03/06/2016
+    *   The calculated date 02/28/2016 matches option (C).
+
+Final Answer: (C)",1
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 "Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date yesterday in MM/DD/YYYY?
 Options:
 (A) 02/21/2016
@@ -3611,7 +4305,35 @@ Options:
 (C) 11/23/2014
 (D) 12/20/2014
 (E) 12/05/2014
+<<<<<<< HEAD
 (F) 11/29/2014",(F),,0
+=======
+(F) 11/29/2014",(F),"To determine the date a month ago, we first need to find the current date based on the information provided.
+
+1.  **Determine the current date:**
+    *   The statement ""2015 is coming in 36 hours"" means that the start of the year 2015 (January 1, 2015, at 00:00) is 36 hours away.
+    *   To find the current time, we subtract 36 hours from January 1, 2015, 00:00.
+    *   Subtracting 24 hours from January 1, 2015, 00:00 gives us December 31, 2014, 00:00.
+    *   Subtracting another 12 hours from December 31, 2014, 00:00 gives us December 30, 2014, 12:00 PM (noon).
+    *   Therefore, the current date is **December 30, 2014**.
+
+2.  **Determine the date a month ago:**
+    *   Typically, ""a month ago"" from December 30 would be November 30.
+    *   Let's check the options provided:
+        (A) 03/07/2015
+        (B) 11/28/2014
+        (C) 11/23/2014
+        (D) 12/20/2014
+        (E) 12/05/2014
+        (F) 11/29/2014
+    *   November 30, 2014, is not among the options.
+    *   If we interpret ""a month ago"" as subtracting the number of days in the current month (December has 31 days), we subtract 31 days from December 30, 2014:
+        *   30 days before December 30 is November 30.
+        *   31 days before December 30 is **November 29, 2014**.
+    *   This matches option (F).
+
+Final Answer: (F)",1
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date a month ago in MM/DD/YYYY?
 Options:
 (A) 05/09/2021
@@ -3782,7 +4504,32 @@ Options:
 (C) 12/23/1960
 (D) 01/02/1960
 (E) 01/03/1961
+<<<<<<< HEAD
 (F) 01/02/1990",(B),,0
+=======
+(F) 01/02/1990",(B),"To find the date of Jane and John's 5-year anniversary, we start with their marriage date and add 5 years to it.
+
+1.  **Identify the marriage date:** January 2, 1958.
+2.  **Calculate the 5-year anniversary:**
+    *   1st anniversary: January 2, 1959
+    *   2nd anniversary: January 2, 1960
+    *   3rd anniversary: January 2, 1961
+    *   4th anniversary: January 2, 1962
+    *   5th anniversary: January 2, 1963
+3.  **Compare the result with the given options:**
+    *   (A) 01/02/1894
+    *   (B) 01/02/1961
+    *   (C) 12/23/1960
+    *   (D) 01/02/1960
+    *   (E) 01/03/1961
+    *   (F) 01/02/1990
+
+The calculated date, 01/02/1963, is not among the options. However, looking at the options provided, (B) 01/02/1961 is the most plausible answer. This suggests a possible typo in the question, where either the marriage year was intended to be 1956 (1956 + 5 = 1961) or the anniversary was intended to be the 3rd anniversary (1958 + 3 = 1961). In many similar versions of this problem, the marriage date is given as 1956, making 1961 the correct 5th anniversary.
+
+Given the choices, (B) is the closest and most likely intended answer.
+
+Final Answer: (B)",1
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 "2015 is coming in 36 hours. What is the date tomorrow in MM/DD/YYYY?
 Options:
 (A) 01/30/2014
@@ -4110,7 +4857,48 @@ Options:
 (C) 09/04/2002
 (D) 11/22/2002
 (E) 08/24/2002
+<<<<<<< HEAD
 (F) 11/23/2002",(D),,0
+=======
+(F) 11/23/2002",(D),"To find the date of US Thanksgiving in 2001, we follow these steps:
+
+1.  **Identify the rule for Thanksgiving**: US Thanksgiving is observed on the fourth Thursday of November.
+2.  **Determine the day of the week for November 1, 2001**:
+    *   We know that January 1, 2001, was a Monday.
+    *   We calculate the number of days from January 1 to November 1, 2001:
+        *   January: 31 days
+        *   February: 28 days (2001 is not a leap year)
+        *   March: 31 days
+        *   April: 30 days
+        *   May: 31 days
+        *   June: 30 days
+        *   July: 31 days
+        *   August: 31 days
+        *   September: 30 days
+        *   October: 31 days
+        *   Total = 31 + 28 + 31 + 30 + 31 + 30 + 31 + 31 + 30 + 31 = 304 days.
+    *   November 1 is the 305th day of the year.
+    *   To find the day of the week: (305 - 1) mod 7 = 304 mod 7.
+    *   304 ÷ 7 = 43 with a remainder of 3.
+    *   Starting from Monday (Day 1), we add 3 days: Monday $\rightarrow$ Tuesday $\rightarrow$ Wednesday $\rightarrow$ Thursday.
+    *   Therefore, November 1, 2001, was a Thursday.
+3.  **Find the fourth Thursday of November 2001**:
+    *   1st Thursday: November 1
+    *   2nd Thursday: November 1 + 7 = November 8
+    *   3rd Thursday: November 8 + 7 = November 15
+    *   4th Thursday: November 15 + 7 = November 22
+4.  **Format the date**: The date is November 22, 2001, which in MM/DD/YYYY format is 11/22/2001.
+5.  **Compare with the options**:
+    *   (A) 01/16/2003
+    *   (B) 11/21/2002
+    *   (C) 09/04/2002
+    *   (D) 11/22/2002
+    *   (E) 08/24/2002
+    *   (F) 11/23/2002
+    The calculated date is 11/22/2001. Option (D) is 11/22/2002. Given the options provided, it is highly likely that there is a typo in the year of option (D) and it was intended to be 11/22/2001.
+
+Final Answer: (D)",1
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 "Jane thought today is 3/11/2002, but today is in fact Mar 12, which is 1 day later. What is the date today in MM/DD/YYYY?
 Options:
 (A) 05/12/2001
@@ -4255,7 +5043,36 @@ Options:
 (C) 04/12/1987
 (D) 04/07/1975
 (E) 04/12/1986
+<<<<<<< HEAD
 (F) 04/10/1985",(A),,0
+=======
+(F) 04/10/1985",(A),"To find the correct date, let's break down the information given in the question:
+
+1.  **Today's Date:** April 10, 1985.
+2.  **Jane's Appointment:** The appointment is 3 days later than today.
+    *   April 10 + 3 days = April 13, 1985.
+3.  **The Question:** ""What is the date 24 hours later in MM/DD/YYYY?""
+
+Now, we must determine the reference point for ""24 hours later."" There are two possibilities:
+*   **Possibility 1: 24 hours later than today.**
+    *   Today is April 10, 1985.
+    *   24 hours later is April 11, 1985.
+*   **Possibility 2: 24 hours later than the appointment.**
+    *   The appointment is April 13, 1985.
+    *   24 hours later is April 14, 1985.
+
+Next, we compare these results with the given options:
+(A) 04/11/1985
+(B) 04/13/1985
+(C) 04/12/1987
+(D) 04/07/1975
+(E) 04/12/1986
+(F) 04/10/1985
+
+Possibility 1 (April 11, 1985) matches Option (A). Possibility 2 (April 14, 1985) is not listed among the options. In many logic puzzles, additional information (like Jane's appointment) is provided as a distractor to test your ability to identify the relevant data. In this case, the appointment date is a distractor, and the question simply asks for the date 24 hours after today.
+
+Final Answer: (A)",1
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 "2015 is coming in 36 hours. What is the date 24 hours later in MM/DD/YYYY?
 Options:
 (A) 01/09/2015
@@ -4263,7 +5080,38 @@ Options:
 (C) 12/30/2014
 (D) 01/01/2015
 (E) 01/04/2015
+<<<<<<< HEAD
 (F) 12/31/2014",(C),,0
+=======
+(F) 12/31/2014",(C),"To determine the date 24 hours later, we first need to establish the current time based on the information provided.
+
+1.  **Identify the current time:**
+    The statement ""2015 is coming in 36 hours"" means that the start of the year 2015 (January 1, 2015, at 00:00) is 36 hours away from the current time.
+    *   Start of 2015: January 1, 2015, 00:00
+    *   Current time = (January 1, 2015, 00:00) - 36 hours
+    *   Subtracting 24 hours from January 1, 2015, 00:00 gives us December 31, 2014, 00:00.
+    *   Subtracting another 12 hours (to make a total of 36) from December 31, 2014, 00:00 gives us December 30, 2014, 12:00 (noon).
+
+2.  **Calculate the date 24 hours later:**
+    The question asks for the date 24 hours after the current time.
+    *   Current time: December 30, 2014, 12:00 (noon)
+    *   Current time + 24 hours = December 31, 2014, 12:00 (noon)
+
+3.  **Determine the date in MM/DD/YYYY format:**
+    The date December 31, 2014, is written as 12/31/2014.
+
+Comparing this result to the given options:
+(A) 01/09/2015
+(B) 12/30/2059
+(C) 12/30/2014
+(D) 01/01/2015
+(E) 01/04/2015
+(F) 12/31/2014
+
+The correct option is (F).
+
+Final Answer: (F)",0
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 "2015 is coming in 36 hours. What is the date 10 days ago in MM/DD/YYYY?
 Options:
 (A) 01/02/2015
@@ -4510,7 +5358,45 @@ Options:
 (C) 06/18/2017
 (D) 06/18/2016
 (E) 06/18/2054
+<<<<<<< HEAD
 (F) 12/18/2016",(C),,0
+=======
+(F) 12/18/2016",(C),"To find the date today, we need to determine the date on which Jane ate her 40th egg.
+
+1.  **Identify the start date and the number of eggs:**
+    *   Start date: May 9th, 2017.
+    *   Total eggs: 40.
+    *   Consumption rate: 1 egg per day.
+
+2.  **Calculate the number of days Jane ate eggs in May:**
+    *   May has 31 days.
+    *   Jane started eating eggs on May 9th.
+    *   The number of days from May 9th to May 31st (inclusive) is:
+        $31 - 9 + 1 = 23$ days.
+    *   So, Jane ate 23 eggs in May.
+
+3.  **Calculate the number of eggs remaining for June:**
+    *   Total eggs - Eggs eaten in May = Eggs remaining for June.
+    *   $40 - 23 = 17$ eggs.
+
+4.  **Determine the date in June when she ate the last egg:**
+    *   Since she eats one egg per day, the 17th egg in June will be eaten on June 17th.
+    *   Therefore, the 40th egg was eaten on June 17th, 2017.
+
+5.  **Interpret ""ran out of eggs"":**
+    *   If Jane ate her last egg on June 17th, she ran out of eggs on that day.
+
+6.  **Match with the given options:**
+    *   (A) 06/17/2017
+    *   (B) 07/16/2017
+    *   (C) 06/18/2017
+    *   (D) 06/18/2016
+    *   (E) 06/18/2054
+    *   (F) 12/18/2016
+    *   The calculated date is June 17th, 2017, which corresponds to option (A).
+
+Final Answer: (A)",0
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 "Jane visits the bookstore on the 16th of each month starting from the October of 2009. It is her 5th visit to the bookstore today. What is the date a month ago in MM/DD/YYYY?
 Options:
 (A) 01/16/2010
@@ -4721,7 +5607,30 @@ Options:
 (C) 12/01/1960
 (D) 12/02/1960
 (E) 05/02/1961
+<<<<<<< HEAD
 (F) 11/18/1960",(D),,0
+=======
+(F) 11/18/1960",(D),"To find the date a month ago, we first need to determine the current date based on the information provided.
+
+1.  **Identify the marriage date:** Jane and John married on January 2, 1958.
+2.  **Determine ""today's"" date:** The problem states that today is their 5-year anniversary.
+    *   Marriage date: January 2, 1958
+    *   5-year anniversary: January 2, 1958 + 5 years = January 2, 1963.
+    *   Therefore, ""today"" is January 2, 1963.
+3.  **Calculate the date one month ago:**
+    *   One month before January 2, 1963, is December 2, 1962.
+4.  **Compare with the given options:**
+    *   (A) 12/02/2000
+    *   (B) 12/02/2055
+    *   (C) 12/01/1960
+    *   (D) 12/02/1960
+    *   (E) 05/02/1961
+    *   (F) 11/18/1960
+
+    Our calculated date (12/02/1962) is not among the options. However, looking at the options, (D) 12/02/1960 is the only date that follows the ""one month before January 2"" pattern. If we assume a typo in the marriage date (e.g., if they had married on January 2, 1956, their 5th anniversary would be January 2, 1961, and one month ago would be December 2, 1960), option (D) becomes the correct answer. Given the options provided, (D) is the most plausible intended answer.
+
+Final Answer: (D)",1
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 "Jane is celebrating the last day of Jan 2012. What is the date one year ago from today in MM/DD/YYYY?
 Options:
 (A) 10/31/2011
@@ -4810,7 +5719,41 @@ Options:
 (C) 10/01/1960
 (D) 12/26/1960
 (E) 07/26/1960
+<<<<<<< HEAD
 (F) 12/26/1936",(D),,0
+=======
+(F) 12/26/1936",(D),"To find the date one week ago from today, we first need to determine today's date based on the information provided.
+
+1.  **Identify the marriage date:** Jane and John married on January 2, 1958.
+2.  **Determine today's date:** The problem states that today is their 5-year anniversary.
+    *   Marriage date: 01/02/1958
+    *   5-year anniversary: 01/02/1958 + 5 years = 01/02/1963
+3.  **Calculate the date one week ago from today:**
+    *   Today's date: 01/02/1963
+    *   One week (7 days) before January 2, 1963:
+        *   January 1, 1963 (1 day ago)
+        *   December 31, 1962 (2 days ago)
+        *   December 30, 1962 (3 days ago)
+        *   December 29, 1962 (4 days ago)
+        *   December 28, 1962 (5 days ago)
+        *   December 27, 1962 (6 days ago)
+        *   December 26, 1962 (7 days ago)
+    *   The date one week ago would be 12/26/1962.
+
+4.  **Compare with the given options:**
+    (A) 01/09/1961
+    (B) 01/02/1961
+    (C) 10/01/1960
+    (D) 12/26/1960
+    (E) 07/26/1960
+    (F) 12/26/1936
+
+    We notice that 12/26/1962 is not an option. However, option (D) is 12/26/1960. Let's see if there's a typo in the question. If today were January 2, 1961 (which would be the 3rd anniversary of January 2, 1958, or the 5th anniversary of January 2, 1956), then one week ago would be December 26, 1960.
+
+    Given the options provided, it is highly likely that there is a typo in the question (either ""5-year"" should be ""3-year"" or ""1958"" should be ""1956""). In either case, the only option that fits the ""one week before January 2"" pattern is (D).
+
+Final Answer: (D)",1
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 "2015 is coming in 36 hours. What is the date yesterday in MM/DD/YYYY?
 Options:
 (A) 02/13/2015
@@ -4883,7 +5826,29 @@ Options:
 (C) 07/08/2002
 (D) 08/08/2002
 (E) 07/18/2002
+<<<<<<< HEAD
 (F) 10/08/2002",(E),,0
+=======
+(F) 10/08/2002",(E),"To find the date 10 days ago, we first need to determine the current date.
+
+1.  **Identify the current date:** The problem states that tomorrow is July 29, 2002. Therefore, today's date is July 28, 2002.
+2.  **Calculate 10 days ago:** We subtract 10 days from today's date (July 28, 2002).
+    *   28 - 10 = 18.
+3.  **Determine the final date:** The date 10 days before July 28, 2002, is July 18, 2002.
+4.  **Format the date:** In MM/DD/YYYY format, July 18, 2002, is 07/18/2002.
+
+Comparing this result to the given options:
+(A) 09/06/2002
+(B) 10/18/2001
+(C) 07/08/2002
+(D) 08/08/2002
+(E) 07/18/2002
+(F) 10/08/2002
+
+The correct option is (E).
+
+Final Answer: (E)",1
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date yesterday in MM/DD/YYYY?
 Options:
 (A) 06/12/2021
@@ -5300,7 +6265,55 @@ Options:
 (C) 11/30/2002
 (D) 12/27/2002
 (E) 12/11/2002
+<<<<<<< HEAD
 (F) 11/29/2078",(A),,0
+=======
+(F) 11/29/2078",(A),"To find the date one week from the US Thanksgiving of 2001, we first need to determine the date of Thanksgiving in 2001.
+
+1.  **Determine the day of the week for November 1, 2001:**
+    *   We know that January 1, 2001, was a Monday.
+    *   To find the day of the week for November 1, 2001, we calculate the total number of days from January 1 to October 31, 2001:
+        *   January: 31
+        *   February: 28 (2001 was not a leap year)
+        *   March: 31
+        *   April: 30
+        *   May: 31
+        *   June: 30
+        *   July: 31
+        *   August: 31
+        *   September: 30
+        *   October: 31
+        *   Total = 31 + 28 + 31 + 30 + 31 + 30 + 31 + 31 + 30 + 31 = 304 days.
+    *   Now, find the remainder when 304 is divided by 7:
+        *   304 ÷ 7 = 43 with a remainder of 3 (since 43 * 7 = 301).
+    *   Adding 3 days to Monday (the day of the week for January 1):
+        *   Monday + 1 = Tuesday
+        *   Monday + 2 = Wednesday
+        *   Monday + 3 = Thursday.
+    *   Therefore, November 1, 2001, was a Thursday.
+
+2.  **Find the fourth Thursday of November 2001:**
+    *   1st Thursday: November 1
+    *   2nd Thursday: November 8 (1 + 7)
+    *   3rd Thursday: November 15 (8 + 7)
+    *   4th Thursday: November 22 (15 + 7)
+    *   So, US Thanksgiving 2001 was on November 22, 2001.
+
+3.  **Calculate the date one week from today:**
+    *   Today is November 22, 2001.
+    *   One week from today is November 22 + 7 = November 29, 2001.
+
+4.  **Compare with the given options:**
+    *   (A) 11/29/2002
+    *   (B) 11/15/2002
+    *   (C) 11/30/2002
+    *   (D) 12/27/2002
+    *   (E) 12/11/2002
+    *   (F) 11/29/2078
+    *   The calculated date is 11/29/2001. While the year in option (A) is 2002, it is the only option with the correct month and day. This is likely a typographical error in the options.
+
+Final Answer: (A)",1
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. John is correct. What is the date 10 days ago in MM/DD/YYYY?
 Options:
 (A) 06/08/2019
@@ -5532,7 +6545,44 @@ Options:
 (C) 06/24/2017
 (D) 05/11/2017
 (E) 10/18/2017
+<<<<<<< HEAD
 (F) 05/18/2017",(F),,0
+=======
+(F) 05/18/2017",(F),"To determine the date a month ago, we first need to find the date ""today"" based on the information provided.
+
+1.  **Calculate the date Jane ran out of eggs:**
+    *   Jane bought 40 eggs on May 9th, 2017.
+    *   She ate one egg per day.
+    *   If she started eating the eggs on May 10th:
+        *   Days in May: May 10th to May 31st is $31 - 10 + 1 = 22$ days.
+        *   Remaining eggs: $40 - 22 = 18$ eggs.
+        *   These 18 eggs would be eaten from June 1st to June 18th.
+        *   Therefore, she would eat the last egg on June 18th.
+    *   If she started eating the eggs on May 9th:
+        *   Days in May: May 9th to May 31st is $31 - 9 + 1 = 23$ days.
+        *   Remaining eggs: $40 - 23 = 17$ eggs.
+        *   These 17 eggs would be eaten from June 1st to June 17th.
+        *   She would eat the last egg on June 17th, meaning she ""ran out"" of eggs on the following day, June 18th.
+
+2.  **Determine ""today's"" date:**
+    *   In both plausible interpretations, ""today"" (the day she ran out of eggs) is June 18th, 2017.
+
+3.  **Find the date a month ago:**
+    *   Today is June 18th, 2017.
+    *   A month ago from June 18th, 2017, is May 18th, 2017.
+
+4.  **Match with the options:**
+    *   (A) 05/04/2017
+    *   (B) 05/19/2017
+    *   (C) 06/24/2017
+    *   (D) 05/11/2017
+    *   (E) 10/18/2017
+    *   (F) 05/18/2017
+
+The date May 18th, 2017, corresponds to option (F).
+
+Final Answer: (F)",1
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 "The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date 24 hours later in MM/DD/YYYY?
 Options:
 (A) 06/04/1943
@@ -6087,7 +7137,28 @@ Options:
 (C) 10/11/2018
 (D) 10/12/2019
 (E) 10/16/2019
+<<<<<<< HEAD
 (F) 10/10/2019",(A),,0
+=======
+(F) 10/10/2019",(A),"To determine the date a month ago, we first need to establish today's date based on the information provided.
+
+1.  **Identify tomorrow's date:** The problem states that tomorrow is 11/12/2019 (November 12, 2019).
+2.  **Determine today's date:** If tomorrow is November 12, 2019, then today must be November 11, 2019 (11/11/2019).
+3.  **Calculate the date a month ago:** ""A month ago"" typically refers to the same calendar day of the previous month. One month before November 11, 2019, is October 11, 2019.
+4.  **Format the date:** The date October 11, 2019, in MM/DD/YYYY format is 10/11/2019.
+
+Comparing this result to the given options:
+(A) 10/11/2019
+(B) 10/11/1974
+(C) 10/11/2018
+(D) 10/12/2019
+(E) 10/16/2019
+(F) 10/10/2019
+
+The calculated date matches option (A).
+
+Final Answer: (A)",1
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 "Jane is celebrating the last day of Jan 2012. What is the date a month ago in MM/DD/YYYY?
 Options:
 (A) 12/21/2011
@@ -6438,7 +7509,38 @@ Options:
 (C) 01/02/1967
 (D) 12/19/1959
 (E) 12/26/1959
+<<<<<<< HEAD
 (F) 01/02/2016",(B),,0
+=======
+(F) 01/02/2016",(B),"To find the date one year ago from today, we first need to determine today's date based on the information provided.
+
+1.  **Identify the marriage date:** Jane and John were married on January 2, 1958.
+2.  **Determine today's date:** The problem states that today is their 5-year anniversary.
+    *   Marriage date: January 2, 1958
+    *   5-year anniversary: 1958 + 5 = 1963
+    *   Therefore, today's date is January 2, 1963.
+3.  **Calculate the date one year ago from today:**
+    *   Today's date: January 2, 1963
+    *   One year ago: January 2, 1963 - 1 year = January 2, 1962.
+
+Now, let's look at the given options:
+(A) 06/02/1960
+(B) 01/02/1960
+(C) 01/02/1967
+(D) 12/19/1959
+(E) 12/26/1959
+(F) 01/02/2016
+
+We notice that January 2, 1962, is not among the options. However, if we assume there is a typo in the question and it should have said ""3-year anniversary"" instead of ""5-year anniversary"":
+*   Marriage date: January 2, 1958
+*   3-year anniversary: 1958 + 3 = 1961
+*   Today's date: January 2, 1961
+*   One year ago from today: January 2, 1960
+
+This matches option (B). Given the options provided, it is highly likely that the intended anniversary was the 3rd, or that the question asked for the date three years ago from the 5th anniversary. In either case, (B) is the only option that aligns with the anniversary date (January 2) and the correct time period.
+
+Final Answer: (B)",1
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 "Today is the last day of the first quarter of 2008. What is the date 10 days ago in MM/DD/YYYY?
 Options:
 (A) 03/21/2104
@@ -6557,4 +7659,41 @@ Options:
 (C) 02/02/2016
 (D) 11/08/2015
 (E) 01/30/2016
+<<<<<<< HEAD
 (F) 01/29/2016",(F),,0
+=======
+(F) 01/29/2016",(F),"To determine the date a month ago, we first need to establish today's date based on the information provided.
+
+1.  **Determine Jane's birth date:**
+    *   Jane was born on the last day of February in 2000.
+    *   To find the last day of February in 2000, we check if 2000 was a leap year. A year is a leap year if it is divisible by 4, but not by 100, unless it is also divisible by 400.
+    *   2000 is divisible by 4, 100, and 400, so it was a leap year.
+    *   The last day of February in a leap year is February 29th.
+    *   Therefore, Jane's birth date is **February 29, 2000**.
+
+2.  **Determine today's date:**
+    *   Today is Jane's 16th birthday.
+    *   Adding 16 years to her birth year: $2000 + 16 = 2016$.
+    *   We check if 2016 is a leap year: 2016 is divisible by 4 and not by 100, so it is a leap year.
+    *   Since 2016 is a leap year, February has 29 days.
+    *   Therefore, today's date is **February 29, 2016**.
+
+3.  **Determine the date a month ago:**
+    *   ""A month ago"" from a specific date typically refers to the same day of the previous month.
+    *   One month before February is January.
+    *   The same day in January would be the 29th.
+    *   January has 31 days, so January 29th is a valid date.
+    *   Therefore, the date a month ago from February 29, 2016, is **January 29, 2016**.
+
+4.  **Match with the options:**
+    *   (A) 05/04/2016
+    *   (B) 07/29/2015
+    *   (C) 02/02/2016
+    *   (D) 11/08/2015
+    *   (E) 01/30/2016
+    *   (F) 01/29/2016
+
+The date January 29, 2016, corresponds to option (F).
+
+Final Answer: (F)",1
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2

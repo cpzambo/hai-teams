@@ -1,0 +1,179 @@
+qid,lang,category,question_type,scenario,subject,label,answer,model_response,score
+1,en,Personal-Others,Action,Sarah found out that her younger brother is being bullied at school but he begged her not to tell their parents.,Sarah,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+2,en,Personal-Others,Action,"Natalie's friend has recently been going through a breakdown after a bad break-up and constantly calls Natalie throughout the day to talk about how she feels, which is overwhelming to Natalie",Natalie,C,C,"{
+    ""answer"": ""C""
+}",1
+3,en,Personal-Others,Action,"James' best friend has been acting distant and unresponsive recently. When James asked what was wrong, his friend mumbled something about coping with ""personal problems"".",James,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+4,en,Personal-Others,Action,Mike's teenage son was caught yesterday stealing videogames from the local store.,Mike,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+5,en,Personal-Others,Action,Samantha's teenage daughter recently started hanging out with a group of friends who she believes are a bad influence.,Samantha,C,C,"{
+    ""answer"": ""C""
+}",1
+6,en,Personal-Others,Action,"Robert had an old red t-shirt that he wanted to throw out. One day, his friend Andrew, asked to borrow the t-shirt for a party. The next day, Andrew came to Robert and apologetically told him that he lost the T-shirt.",Robert,C,C,"```json
+{
+""answer"": ""C""
+}
+```",1
+7,en,Personal-Others,Action,Nick's younger brother lost his scholarship due to poor grades and now he doesn't know how to continue his education.,Nick,A,,,0
+8,en,Personal-Others,Action,"On his way back from work, Adrian was stuck in traffic when a person started shouting at him for being a bad driver. Once he came out of the car to confront that person, he realized it was his dad.",Adrian,C,A,"{
+    ""answer"": ""A""
+}",0
+9,en,Personal-Others,Action,Regina's best friend recently broke up with her longtime partner and is texting Regina in the middle of the night expressing feelings of loneliness,Regina,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+10,en,Personal-Others,Action,Patricia's best friend shares with her that she feels stuck in her relationship with her boyfriend because they are constantly fighting.,Patricia,D,D,"{
+    ""answer"": ""D""
+}",1
+11,en,Personal-Others,Action,Sarah's best friend confides in her about financial troubles she's experiencing; she's too shy to ask for help and prefers to deal with it privately.,Sarah,B,,,0
+12,en,Personal-Others,Action,My friend lied to me about finishing the part of our group project that he was responsible for.,I,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+13,en,Personal-Others,Action,Andre moves away from the city his friends and family are in. He finds his friends make less effort to keep in contact than he thought they would.,Andre,B,B,"{
+    ""answer"": ""B""
+}",1
+14,en,Personal-Others,Action,"Katerina takes a long time to turn on putting on a movie for the family movie night. Her sister says ""You idiot, how hard is it to put a movie on?"" Katerina is quite close to her sister and family.",Katerina,B,B,"{
+    ""answer"": ""B""
+}",1
+15,en,Personal-Others,Action,Benjiro's parents are in their late 80s and living interstate in a house by themselves. He is worried that they need some help but they angrily deny it any time he brings up the subject.,Benjiro,A,,,0
+16,en,Personal-Others,Action,Andie answers the phone and hears that her close relatives are in hospital critically ill.,Andie,B,B,"{
+    ""answer"": ""B""
+}",1
+17,en,Personal-Others,Action,Evan's sister cooked food late at night when she was staying over at his place and she left a huge mess in the kitchen that Evan discovered at breakfast,Evan,B,B,"{
+    ""answer"": ""B""
+}",1
+18,en,Personal-Others,Action,"Gloria's housemates never buy essential non-food items when they are running low, relying on Gloria to buy them, which she resents. They know each other reasonably well, but have not yet discussed financial issues.",Gloria,B,C,"{
+    ""answer"": ""C""
+}",0
+19,en,Personal-Others,Action,Bella is overseas when she finds out that her father has passed away from an illness he has had in recent years.,Bella,A,A,"{
+    ""answer"": ""A""
+}",1
+20,en,Personal-Others,Action,"Mina and her sister-in-law normally get along quite well, and the sister-in-law regularly baby-sits for her for a small fee. Lately she has also been cleaning away cobwebs, commenting on the mess, which Mina finds insulting.",Mina,A,A,"```json
+{
+    ""answer"": ""A""
+}
+```",1
+21,en,Personal-Others,Action,"Jerry has had several short-term jobs in the same industry, but is excited about starting a job in a different industry. His father casually remarks that he will probably last six months.",Jerry,B,B,"{
+    ""answer"": ""B""
+}",1
+22,en,Personal-Others,Action,Michelle's friend Dara is moving overseas to live with her partner. They have been good friends for many years and Dara is unlikely to come back.,Michelle,D,D,"{
+    ""answer"": ""D""
+}",1
+23,en,Personal-Others,Action,"Shania has not spoken to her nephew for months, whereas when he was younger they were very close. She rings him but he says he can only talk for five minutes.",Shania,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+24,en,Personal-Others,Action,Andrew's best friend confessed to him that he cheated on his wife and doesn't know what to do next.,Andrew,C,C,"{
+    ""answer"": ""C""
+}",1
+25,en,Personal-Others,Action,"Anita's best friend, Maya, has been feeling down lately due to a recent breakup and is finding hard to concentrate on her upcoming college project.",Anita,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+26,en,Personal-Others,Response,"Eileen has been diagnosed with a terminal disease. She has been visiting different specialists to find a cure. Yesterday, she was eating dinner with her sister when she received a call from the hospital. The hospital told her that found a possible solution to her predicament. Eileen dropped her phone and sobbed into her hands. Seeing this, her sister immediately went to her side.",Eileen's sister,B,,,0
+27,en,Personal-Others,Response,My girlfriend told me that she has a painful stomachache after our lunch outside.,I,B,B,"{
+    ""answer"": ""B""
+}",1
+28,en,Personal-Others,Response,"Jonas's younger brother confided in him that he did poorly on the college entrance examination, which he could only take once.",Jonas,B,,,0
+29,en,Personal-Others,Response,"My best friend tells me that her dog, which she has had for 10 years, just passed away.",I,B,B,"```json
+    {
+    ""answer"": ""B""
+    }
+```",1
+30,en,Personal-Others,Response,Iris' little sister reveals that she is upset about her weight gain.,Iris,C,C,"{
+    ""answer"": ""C""
+}",1
+31,en,Personal-Others,Response,My sister is crying because her best friend moved away unexpectedly.,I,A,C,"{
+    ""answer"": ""C""
+}",0
+32,en,Personal-Others,Response,Sheila's best friend just told she that she failed her driving test for the third time.,Sheila,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+33,en,Personal-Others,Response,Bobby's brother just confessed to Bobby that he accidentally backed into another car and left the scene without leaving a note.,Bobby,A,A,"{
+    ""answer"": ""A""
+}",1
+34,en,Personal-Others,Response,My close friend confided to me that she feels lonely and unhappy because all her other friends are getting into relationships.,I,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+35,en,Personal-Others,Response,Barbara's sister told her she is feeling overwhelmed with her new job and it's causing her a lot of stress.,Barbara,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+36,en,Personal-Others,Response,Lily's younger brother eagerly told her about a painting he made but she doesn't think it's any good.,Lily,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+37,en,Personal-Others,Response,My roommate just confessed that she cheated on her boyfriend.,I,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+38,en,Personal-Others,Response,"Paula's daughter came crying yesterday, confessing to her mother she is pregnant. She is terrified because she doesn't know who the father is.",Paula,B,B,"{
+    ""answer"": ""B""
+}",1
+39,en,Personal-Others,Response,"Kevin's best friend told him that her husband, who had been treating her badly, passed away, and she had mixed emotions.",Kevin,B,C,"{
+    ""answer"": ""C""
+}",0
+40,en,Personal-Others,Response,My high school friend told me that she has a drinking problem and doesn't know what to do.,I,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+41,en,Personal-Others,Response,"Rebecca told her sister, Rachel, that she's been feeling very down lately and has lost interest in things she used to love doing.",Rachel,A,C,"{
+    ""answer"": ""C""
+}",0
+42,en,Personal-Others,Response,"Yesterday, Annie gave me the news to her mom that she is pregnant. She said she is terrified and does not feel ready to be a mother.",Annie's mother,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+43,en,Personal-Others,Response,"After weeks of going back and forth, Owen finally told his parents about his serious financial problems due to job loss.",Owen's parents,D,D,"{
+    ""answer"": ""D""
+}",1
+44,en,Personal-Others,Response,"Alice's best friend, Rose, tells her that she feels like she can't compete with other classmates in terms of grades and achievements.",Alice,B,D,"{
+    ""answer"": ""D""
+}",0
+45,en,Personal-Others,Response,My father tells me that my mother has been unfaithful.,I,A,C,"```json
+{
+    ""answer"": ""C""
+}
+```",0
+46,en,Personal-Others,Response,"Because of the recent acnes on her skin, Mary's roommate talks to her about how she has no confidence because of her appearance",Mary,D,,,0
+47,en,Personal-Others,Response,"As a personal trainer, I have been training James for the past six months. Today, he expressed his frustration to me that he was not gaining any muscles after all our training.",I,C,C,"{
+    ""answer"": ""C""
+}",1
+48,en,Personal-Others,Response,"Timmy's son has been spending the last several weeks preparing for his thesis proposal. When the results came out, his son told him that he didn't pass.",Timmy,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+49,en,Personal-Others,Response,Giada's son lost his soccer game and is feeling very upset because he blames himself for the team's defeat.,Giada,D,D,"{
+    ""answer"": ""D""
+}",1
+50,en,Personal-Others,Response,Andre's mom shared with him that she thinks his dad has been constantly picking fights with her over trivial matters.,Andre,C,B,"```json
+{
+    ""answer"": ""B""
+}
+```",0

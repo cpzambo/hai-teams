@@ -1,0 +1,26 @@
+[EU-en shard 3] Processing indices 150–199 (50 samples)
+[EU-en shard 3] [20/50] checkpoint saved
+[EU-en shard 3] [40/50] checkpoint saved
+[EU-en shard 3] Done → /gpfs/projects/p32983/EmoBench-master/EMO_XAI/results/EU/grok-3-mini_en_shard3of4.jsonl
+
+==================================================
+[EU-en] Evaluation for grok-3-mini
+  Overall accuracy: 0.6200 (31/50)
+  perspective_taking: 0.6200
+  Saved → /gpfs/projects/p32983/EmoBench-master/EMO_XAI/results/EU/grok-3-mini_en_shard3of4.csv
+  Saved → /gpfs/projects/p32983/EmoBench-master/EMO_XAI/results/EU/grok-3-mini_en_overall.csv
+==================================================
+
+[EA-en shard 3] Processing indices 150–199 (50 samples)
+[EA-en shard 3] [20/50] checkpoint saved
+[EA-en shard 3] [40/50] checkpoint saved
+[EA-en shard 3] Done → /gpfs/projects/p32983/EmoBench-master/EMO_XAI/results/EA/grok-3-mini_en_shard3of4.jsonl
+
+==================================================
+[EA-en] Evaluation for grok-3-mini
+  Overall accuracy: 0.7400 (37/50)
+  Social-Self: 0.7400
+  Saved → /gpfs/projects/p32983/EmoBench-master/EMO_XAI/results/EA/grok-3-mini_en_shard3of4.csv
+  Saved → /gpfs/projects/p32983/EmoBench-master/EMO_XAI/results/EA/grok-3-mini_en_overall.csv
+==================================================
+

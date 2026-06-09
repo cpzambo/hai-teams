@@ -1,0 +1,250 @@
+qid,lang,category,question_type,scenario,subject,label,answer,model_response,score
+151,en,Social-Self,Action,"Martina is accepted for a highly sought after contract, but has to fly to the location. Martina has a phobia of flying.",Martina,D,D,"```json
+    {
+    ""answer"": ""D""
+    }
+```",1
+152,en,Social-Self,Action,"Manual is only a few years from retirement when he finds out his position will no longer exist, although he will still have a job with a less prestigious role.",Manual,A,A,"```json
+{
+    ""answer"": ""A""
+}
+```",1
+153,en,Social-Self,Action,"Rhea has left her job to be a full-time mother, which she loves, but she misses the company and companionship of her workmates.",Rhea,C,C,"```json
+    {
+    ""answer"": ""C""
+    }
+```",1
+154,en,Social-Self,Action,Pete has specific skills that his workmates do not and he feels that his workload is higher because of it.,Pete,A,A,"```json
+    {
+    ""answer"": ""A""
+    }
+```",1
+155,en,Social-Self,Action,Surbhi starts a new job where he doesn't know anyone and finds that no one is particularly friendly.,Surbhi,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+156,en,Social-Self,Action,"Darla is nervous about presenting her work to a group of seniors who might not understand it, as they don't know much about her area.",Darla,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+157,en,Social-Self,Action,"Upon entering full-time study, Vincent cannot afford the time or money he used to spend on waterpolo training, which he was quite good at. Although he enjoys full-time study, he misses training",Vincent,A,A,"```json
+{
+    ""answer"": ""A""
+}
+```",1
+158,en,Social-Self,Action,Greg has just gone back to university after a lapse of several years. He is surrounded by younger students who seem very confident about their ability and he is unsure whether he can compete with them.,Greg,B,D,"```json
+{
+    ""answer"": ""D""
+}
+```",0
+159,en,Social-Self,Action,"Chris is nervous about acting a scene when there are a lot of very experienced actors in the crowd, and he doesn't have enough time to prepare more.",Chris,C,B,"```json
+{
+    ""answer"": ""B""
+}
+```",0
+160,en,Social-Self,Action,Mark is fairly sure his company is going down and his job is under threat. It is a large company and nothing official has been said.,Mark,C,C,"```json
+    {
+    ""answer"": ""C""
+    }
+```",1
+161,en,Social-Self,Action,"Mallory moves from a small company to a very large one, where there is little personal contact and not a lot of gathering going on, which she misses.",Mallory,B,B,"```json
+    {
+    ""answer"": ""B""
+    }
+```",1
+162,en,Social-Self,Action,"Ethan is feeling overwhelmed and stressed due to the demands of his college courses, while also working a part-time job. He enjoys both but is finding it hard to balance the commitments.",Ethan,C,C,"```json
+    {
+    ""answer"": ""C""
+    }
+```",1
+163,en,Social-Self,Action,Emily is consistently overlooked for leadership roles at her local community because she is seen as too quiet and reserved. She really wants to contribute and grow her leadership skills in this environment.,Emily,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+164,en,Social-Self,Action,"Matilda has just started a new job and is trying to fit in, but she finds that her coworkers often engage in negative gossip about others at the office.",Matilda,B,D,"```json
+{
+    ""answer"": ""D""
+}
+```",0
+165,en,Social-Self,Action,Alex is a project manager and his team is falling behind on their work due to communication issues.,Alex,A,C,"```json
+{
+    ""answer"": ""C""
+}
+```",0
+166,en,Social-Self,Action,"Due to her expertise in the field, Naomi has been tasked to lead an important project at work. However, the project does not align with her experiences and she feels unsure about how to approach it.",Naomi,B,C,"```json
+    {
+    ""answer"": ""C""
+    }
+```",0
+167,en,Social-Self,Action,"Tom, a PhD student, has been given a piece of research work by his supervisor. While his labmates seem to find the task easy, he finds it challenging and cannot comprehend it completely.",Tom,C,B,"```json
+    {
+    ""answer"": ""B""
+    }
+```",0
+168,en,Social-Self,Action,I recently received a work email from my boss criticizing a project that I've put a great amount of effort into. I feel like the criticism is unfair and not constructive.,I,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+169,en,Social-Self,Action,"Isabella finds out that her coworker, who started at the same time as her, is earning a higher salary for doing the same job.",Isabella,D,D,"```json
+    {
+    ""answer"": ""D""
+    }
+```",1
+170,en,Social-Self,Action,Alec has been asked to give a speech at an upcoming conference. He has never spoken to such a large audience before.,Alec,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+171,en,Social-Self,Action,Patel just got promoted to the manager position at his office. He has to oversee close friends whom he was previously equal with and is unsure about setting boundaries and how this affects their relationship.,Patel,D,D,"```json
+    {
+    ""answer"": ""D""
+    }
+```",1
+172,en,Social-Self,Action,"Connor is part of a group project at his university, but he is finding it difficult to collaborate with a teammate who always dismisses his ideas.",Connor,C,C,"```json
+    {
+    ""answer"": ""C""
+    }
+```",1
+173,en,Social-Self,Action,"Jess is going to graduate soon and has been job hunting for the past weeks. She doesn't want to continue in academia but due to the intense job market, she has been finding it hard to find a job.",Jess,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+174,en,Social-Self,Action,"Ruby was just offered the job of her dreams in an outstanding company, but the position is in a different city, and moving would mean leaving her family and close friends behind.",Ruby,C,D,"```json
+    {
+    ""answer"": ""D""
+    }
+```",0
+175,en,Social-Self,Action,It's Paolo's first time attending a conference and he came with some of his labmates. He wants to make new connections but is struggling to do so due to his introverted nature.,Pablo,C,D,"```json
+    {
+    ""answer"": ""D""
+    }
+```",0
+176,en,Social-Self,Response,Sana's boss tells her she didn't get the promotion she worked so hard for.,Sana,B,B,"```json
+    {
+    ""answer"": ""B""
+    }
+```",1
+177,en,Social-Self,Response,"During an important company meeting, Ed's colleague pointed out an error he had made in a report in front of the entire team.",Ed,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+178,en,Social-Self,Response,"Adam and I have developed a healthy work relationship and always respect each other. But yesterday, he just snapped at me for no apparent reason.",I,B,B,"```json
+    {
+    ""answer"": ""B""
+    }
+```",1
+179,en,Social-Self,Response,"I received a low grade on a test, and my classmates who all got high scores wanted to discuss our performance.",I,D,D,"```json
+    {
+    ""answer"": ""D""
+    }
+```",1
+180,en,Social-Self,Response,"Katie's study partner let her know last minute that they had to cancel, leaving her unprepared for the test tomorrow.",Katie,C,C,"```json
+    {
+    ""answer"": ""C""
+    }
+```",1
+181,en,Social-Self,Response,"Jacob's classmate just announced that she scored the highest in our recent exam, which Jacob had studied hard for but didn't perform that well.",Jacob,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+182,en,Social-Self,Response,My downstairs neighbor just came and knocked on my door to tell me my loud music was disturbing her study time.,I,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+183,en,Social-Self,Response,My coworker just informed me that she was promoted to a position that I deeply desired.,I,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+184,en,Social-Self,Response,Adam recently found out that he was turned down for a project proposal at work that he was very excited about.,Adam,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+185,en,Social-Self,Response,"Emma, who works at a law firm, received negative feedback from clients today, saying her work was disorganized and her strategy was confusing. But after the inspection, Emma found that many of the customer reviews had logical contradictions.",Emma,C,D,"```json
+    {
+    ""answer"": ""D""
+    }
+```",0
+186,en,Social-Self,Response,"My team leader at work just informed me that I need to work this weekend, but I already made plans that I was excited about.",I,C,C,"```json
+    {
+    ""answer"": ""C""
+    }
+```",1
+187,en,Social-Self,Response,My neighbor told me that she feels like she's failing as a mother because she's always tired and doesn't play with her kids as much.,I,A,A,"```json
+    {
+    ""answer"": ""A""
+    }
+```",1
+188,en,Social-Self,Response,Dani's supervisor has just given him a huge amount of work with a very short deadline,Dani,D,,"```json
+    {
+    ""answer"": ""B""
+    }",0
+189,en,Social-Self,Response,"My neighbor loves to organize weekly small gatherings. But due to my busy schedule, I haven't been able to attend recently. Today, she confronted me about it.",I,C,C,"```json
+    {
+    ""answer"": ""C""
+    }
+```",1
+190,en,Social-Self,Response,"Grant usually plays soccer with his classmate for fun. Last week, they decided to participate in a competition, and his classmate was shouting at him for every mistake during the game.",Grant,D,D,"```json
+    {
+    ""answer"": ""D""
+    }
+```",1
+191,en,Social-Self,Response,"During a meeting to discuss our project's progress, my colleague accused me of not working hard enough in front of the team.",I,A,D,"```json
+    {
+    ""answer"": ""D""
+    }
+```",0
+192,en,Social-Self,Response,"Dea is always embarrassed to speak in class and always keeps quiet. Recently, she was informed by her teacher that her class participation grades are low and she needs to be more active to pass.",Dea,B,D,"```json
+    {
+    ""answer"": ""D""
+    }
+```",0
+193,en,Social-Self,Response,"Yesterday, we handed in our project reports to the supervisor. I found out that a labmate scolded me in his report for a mistake that he believed I made, but it was actually his fault.",I,C,C,"```json
+    {
+    ""answer"": ""C""
+    }
+```",1
+194,en,Social-Self,Response,"Bob's teammate took over most of the final Q&A session for their group project and spoke over Bob, making Bob's contributions and understanding of the project seem insignificant.",Bob,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+195,en,Social-Self,Response,"Jane's neighbor has been spreading false rumors about her in the community, which heavily affects her reputation.",Jane,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+196,en,Social-Self,Response,"Karen was working when her manager called her to his office. He said that the company will be reducing her work hours next week, but she needs the extra money.",Karen,C,C,"```json
+    {
+    ""answer"": ""C""
+    }
+```",1
+197,en,Social-Self,Response,"After a project meeting, the TA pulled Ian aside to talk to him privately. She gave him some feedback about his presentation, which was not really helpful nor constructive.",Ian,A,A,"```json
+    {
+    ""answer"": ""A""
+    }
+```",1
+198,en,Social-Self,Response,"Frank and his team gave the proposal presentation today. While the teacher didn't have any comments, the teaching assistant gave them some feedback, which was not constructive criticism and they didn't find it helpful as it felt like he didn't understand their presentation.",Frank,A,A,"```json
+{
+    ""answer"": ""A""
+}
+```",1
+199,en,Social-Self,Response,"Kyle practiced his project plan with his labmate, Gary, and was heavily criticized. However, during the meeting when the supervisor was present, Gary started giving positive feedback on his plan.",Kyle,C,A,"```json
+    {
+    ""answer"": ""A""
+    }
+```",0
+200,en,Social-Self,Response,"Matt decided to participate in a hackathon. However, when it was time to start their team project, he became really busy with other projects and couldn't really contribute to the project.",Matt,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1

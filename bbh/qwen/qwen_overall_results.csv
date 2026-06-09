@@ -1,4 +1,5 @@
 dataset,average_score
+<<<<<<< HEAD
 boolean_expressions,0.992
 causal_judgement,0.615
 date_understanding,0.9
@@ -17,5 +18,8 @@ temporal_sequences,0.936
 tracking_shuffled_objects_five_objects,0.988
 tracking_shuffled_objects_seven_objects,0.868
 tracking_shuffled_objects_three_objects,0.908
+=======
+reasoning_about_colored_objects,0.952
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 web_of_lies,0.916
 word_sorting,0.86

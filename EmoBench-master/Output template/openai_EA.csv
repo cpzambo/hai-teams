@@ -1,0 +1,401 @@
+id,question,gold,prediction,attempts,score
+1,Sarah found out that her younger brother is being bullied at school but he begged her not to tell their parents.,Suggest her brother to talk to a teacher or a school counselor,A,"['A', 'A', 'A', 'C', 'C']",0
+2,"Natalie's friend has recently been going through a breakdown after a bad break-up and constantly calls Natalie throughout the day to talk about how she feels, which is overwhelming to Natalie",Suggest her friend to seek professional help like a therapist,A,"['C', 'A', 'A', 'A', 'B']",0
+3,"James' best friend has been acting distant and unresponsive recently. When James asked what was wrong, his friend mumbled something about coping with ""personal problems"".",Respect his friend's privacy but express his willingness to help when ready,A,"['A', 'B', 'C', 'B', 'A']",0
+4,Mike's teenage son was caught yesterday stealing videogames from the local store.,Arrange a meeting with the store owner for his son to apologize,NONE,"['A', 'NONE', 'NONE', 'NONE', 'NONE']",0
+5,Samantha's teenage daughter recently started hanging out with a group of friends who she believes are a bad influence.,Discuss her concerns with her daughter,C,"['C', 'C', 'A', 'C', 'C']",0
+6,"Robert had an old red t-shirt that he wanted to throw out. One day, his friend Andrew, asked to borrow the t-shirt for a party. The next day, Andrew came to Robert and apologetically told him that he lost the T-shirt.",Mention that it's okay as the t-shirt didn't have any value to him,A,"['A', 'A', 'B', 'A', 'B']",0
+7,Nick's younger brother lost his scholarship due to poor grades and now he doesn't know how to continue his education.,Help him find a part-time job,B,"['B', 'A', 'B', 'B', 'A']",0
+8,"On his way back from work, Adrian was stuck in traffic when a person started shouting at him for being a bad driver. Once he came out of the car to confront that person, he realized it was his dad.",Laugh it off and make a joke about the unexpected and coincidental nature of the situation,A,"['A', 'A', 'A', 'D', 'A']",0
+9,Regina's best friend recently broke up with her longtime partner and is texting Regina in the middle of the night expressing feelings of loneliness,Stay up and lend a listening ear to her friend,A,"['A', 'A', 'C', 'A', 'A']",0
+10,Patricia's best friend shares with her that she feels stuck in her relationship with her boyfriend because they are constantly fighting.,Encourage her friend to communicate openly with her boyfriend about their problems,B,"['B', 'B', 'B', 'B', 'B']",0
+11,Sarah's best friend confides in her about financial troubles she's experiencing; she's too shy to ask for help and prefers to deal with it privately.,Have a discussion with her about potential solutions and available resources,C,"['B', 'A', 'NONE', 'C', 'C']",0
+12,My friend lied to me about finishing the part of our group project that he was responsible for.,Acknowledge his mistake and discuss future plans,A,"['A', 'A', 'A', 'A', 'A']",0
+13,Andre moves away from the city his friends and family are in. He finds his friends make less effort to keep in contact than he thought they would.,Make an effort to contact them but also try to meet people in his new city,A,"['A', 'NONE', 'A', 'A', 'A']",0
+14,"Katerina takes a long time to turn on putting on a movie for the family movie night. Her sister says ""You idiot, how hard is it to put a movie on?"" Katerina is quite close to her sister and family.",Ask her sister to help do it,A,"['A', 'A', 'A', 'A', 'B']",0
+15,Benjiro's parents are in their late 80s and living interstate in a house by themselves. He is worried that they need some help but they angrily deny it any time he brings up the subject.,Frequently visit his family,A,"['A', 'A', 'A', 'A', 'A']",0
+16,Andie answers the phone and hears that her close relatives are in hospital critically ill.,"Speak to other family members to calm herself and find out what is happening, then visit the hospital",A,"['A', 'NONE', 'A', 'NONE', 'B']",0
+17,Evan's sister cooked food late at night when she was staying over at his place and she left a huge mess in the kitchen that Evan discovered at breakfast,Ask his sister to clean up the mess as soon as she has the time,A,"['A', 'B', 'B', 'A', 'A']",0
+18,"Gloria's housemates never buy essential non-food items when they are running low, relying on Gloria to buy them, which she resents. They know each other reasonably well, but have not yet discussed financial issues.",Introduce a new system for grocery shopping and sharing costs,A,"['A', 'A', 'A', 'A', 'A']",0
+19,Bella is overseas when she finds out that her father has passed away from an illness he has had in recent years.,Contact her close relatives for information and support,A,"['A', 'NONE', 'NONE', 'A', 'B']",0
+20,"Mina and her sister-in-law normally get along quite well, and the sister-in-law regularly baby-sits for her for a small fee. Lately she has also been cleaning away cobwebs, commenting on the mess, which Mina finds insulting.",Tell her sister-in-law these comments upset her,A,"['A', 'A', 'A', 'A', 'A']",0
+21,"Jerry has had several short-term jobs in the same industry, but is excited about starting a job in a different industry. His father casually remarks that he will probably last six months.",Prove him wrong by working hard to succeed at the new job,B,"['B', 'C', 'B', 'D', 'B']",0
+22,Michelle's friend Dara is moving overseas to live with her partner. They have been good friends for many years and Dara is unlikely to come back.,"Make sure she keeps in contact through email, phone or letter writing.",A,"['A', 'A', 'A', 'A', 'B']",0
+23,"Shania has not spoken to her nephew for months, whereas when he was younger they were very close. She rings him but he says he can only talk for five minutes.","Understand that relationships change, but keep calling him from time to time",A,"['A', 'A', 'C', 'B', 'A']",0
+24,Andrew's best friend confessed to him that he cheated on his wife and doesn't know what to do next.,Encourage his friend to talk to a relationship counselor,A,"['A', 'B', 'B', 'A', 'A']",0
+25,"Anita's best friend, Maya, has been feeling down lately due to a recent breakup and is finding hard to concentrate on her upcoming college project.",Help her find resources to deal with a breakup and keep an open line of communication.,B,"['B', 'A', 'B', 'B', 'A']",0
+26,"Eileen has been diagnosed with a terminal disease. She has been visiting different specialists to find a cure. Yesterday, she was eating dinner with her sister when she received a call from the hospital. The hospital told her that found a possible solution to her predicament. Eileen dropped her phone and sobbed into her hands. Seeing this, her sister immediately went to her side.","""Oh my god, what's wrong?""",A,"['A', 'A', 'A', 'A', 'A']",0
+27,My girlfriend told me that she has a painful stomachache after our lunch outside.,"""I will take care of you during this time""",B,"['B', 'A', 'D', 'B', 'A']",0
+28,"Jonas's younger brother confided in him that he did poorly on the college entrance examination, which he could only take once.","""The college entrance examination is not everything. Your future is in your hands.""",B,"['A', 'B', 'NONE', 'B', 'B']",0
+29,"My best friend tells me that her dog, which she has had for 10 years, just passed away.","""I am sure your dog was happy that you are his owner""",A,"['B', 'A', 'A', 'A', 'A']",0
+30,Iris' little sister reveals that she is upset about her weight gain.,"""How about we start working out together?""",C,"['C', 'C', 'B', 'C', 'B']",0
+31,My sister is crying because her best friend moved away unexpectedly.,"""You can always call her when both of you are free""",C,"['C', 'B', 'C', 'C', 'B']",0
+32,Sheila's best friend just told she that she failed her driving test for the third time.,"""Don't worry, just keep practicing and you'll pass next time""",A,"['A', 'A', 'A', 'B', 'A']",0
+33,Bobby's brother just confessed to Bobby that he accidentally backed into another car and left the scene without leaving a note.,"""You should take responsibility for your actions""",A,"['A', 'A', 'A', 'A', 'A']",0
+34,My close friend confided to me that she feels lonely and unhappy because all her other friends are getting into relationships.,"""I'm here for you, you are not alone""",B,"['B', 'A', 'B', 'B', 'B']",0
+35,Barbara's sister told her she is feeling overwhelmed with her new job and it's causing her a lot of stress.,"""I can see that you're really stressed, let's talk about it. Maybe we can figure things out together""",NONE,"['NONE', 'NONE', 'B', 'NONE', 'B']",0
+36,Lily's younger brother eagerly told her about a painting he made but she doesn't think it's any good.,"""I think you will improve more if you keep practicing""",A,"['A', 'B', 'A', 'B', 'A']",0
+37,My roommate just confessed that she cheated on her boyfriend.,"""I think you should be honest and tell him about it""",B,"['B', 'C', 'A', 'A', 'B']",0
+38,"Paula's daughter came crying yesterday, confessing to her mother she is pregnant. She is terrified because she doesn't know who the father is.","""Don't worry, you're not alone. We will figure this out together""",A,"['A', 'A', 'A', 'A', 'A']",0
+39,"Kevin's best friend told him that her husband, who had been treating her badly, passed away, and she had mixed emotions.","""Don't worry, you can talk to me, I will always be here to support you.""",C,"['C', 'A', 'C', 'C', 'C']",0
+40,My high school friend told me that she has a drinking problem and doesn't know what to do.,"""I appreciate you sharing this with me, let's work it out together""",A,"['A', 'A', 'A', 'A', 'A']",0
+41,"Rebecca told her sister, Rachel, that she's been feeling very down lately and has lost interest in things she used to love doing.","""Do you wanna try some new hobbies together?""",B,"['B', 'B', 'B', 'A', 'B']",0
+42,"Yesterday, Annie gave me the news to her mom that she is pregnant. She said she is terrified and does not feel ready to be a mother.","""Don't worry, you are not alone. We will figure this out together.""",A,"['A', 'B', 'A', 'A', 'A']",0
+43,"After weeks of going back and forth, Owen finally told his parents about his serious financial problems due to job loss.","""We can lend you some money until you get back on your two feet""",A,"['A', 'A', 'NONE', 'A', 'B']",0
+44,"Alice's best friend, Rose, tells her that she feels like she can't compete with other classmates in terms of grades and achievements.",“We can discover our shortcomings by comparing ourselves and working on those”,B,"['B', 'B', 'B', 'B', 'A']",0
+45,My father tells me that my mother has been unfaithful.,"""I think you should have a heart-to-heart discussion with mom and figure out the next step""",NONE,"['NONE', 'A', 'NONE', 'NONE', 'A']",0
+46,"Because of the recent acnes on her skin, Mary's roommate talks to her about how she has no confidence because of her appearance","""I can share my skincare tips with you to help with the acne""",A,"['A', 'A', 'B', 'A', 'B']",0
+47,"As a personal trainer, I have been training James for the past six months. Today, he expressed his frustration to me that he was not gaining any muscles after all our training.","""I think you should look at your progress and how far you have come""",A,"['A', 'A', 'A', 'A', 'A']",0
+48,"Timmy's son has been spending the last several weeks preparing for his thesis proposal. When the results came out, his son told him that he didn't pass.","""I think you are doing great! You can learn from your mistakes and create a better proposal""",A,"['A', 'A', 'A', 'A', 'NONE']",0
+49,Giada's son lost his soccer game and is feeling very upset because he blames himself for the team's defeat.,"""It's ok, son. We need to train harder for next time.""",B,"['B', 'B', 'B', 'B', 'B']",0
+50,Andre's mom shared with him that she thinks his dad has been constantly picking fights with her over trivial matters.,"""That's not fair to you mom, you should talk to him about it""",A,"['B', 'A', 'A', 'A', 'A']",0
+51,"Lee's workmate fails to deliver an important piece of information on time, causing Lee to fall behind schedule as well.",Explain the urgency of the situation to the workmate,B,"['B', 'B', 'B', 'B', 'A']",0
+52,Alexa and Connie have shared an office for years but Alexa gets a new job and Connie loses contact with her,"Contact Alexa and arrange to catch up, but also make friends with her replacement",A,"['A', 'A', 'A', 'C', 'A']",0
+53,"Alan helps Trudy, a peer he works with occasionally, with a difficult task. Trudy complains that Alan's work isn't very good, and Alan responds that Trudy should be grateful he is doing her a favor. They argue.",Take a break and discuss the issue later when both are calm,C,"['C', 'C', 'C', 'D', 'A']",0
+54,Helga's team has been performing very well. They receive poor-quality work from another team that they must incorporate into their own project.,Tell the project manager about the situation,A,"['A', 'A', 'A', 'A', 'A']",0
+55,"Mike has been working at a new part-time job while he studies. His boss changed his shift times for the week at the last minute, without asking him in advance.",See if there is some reasonable explanation for the shift changes,A,"['A', 'A', 'A', 'A', 'A']",0
+56,"Caroline found a restaurant online that had become famous for its rude customer service. She decided to go there for dinner. Once she sat down, instead of greeting, she was cursed by the waitress with many profanities.","Ignore the profanities and enjoy her meal, as she expected this type of behavior",A,"['A', 'B', 'A', 'A', 'B']",0
+57,"Marcus's colleague is constantly making personal calls at work, disregarding how it affects the work environment.",Give hints to the colleague on workplace etiquette,D,"['D', 'D', 'A', 'A', 'D']",0
+58,"Tonya's boss has been treating her unfairly and making her work life miserable. Despite multiple discussions with human resources, the situation doesn't seem to improve.",Start looking for a new job,B,"['B', 'B', 'B', 'B', 'B']",0
+59,Harper's colleague has been crying in the office and has been pushing others away when they try to approach her.,Ensure her that she is not alone and has her support,C,"['C', 'C', 'B', 'B', 'C']",0
+60,"Kevin, an office manager, notices workplace tension because two of his team members were in a heated altercation yesterday and haven't spoken to each other since.",Confront the two team members individually to understand their perspectives,C,"['A', 'C', 'C', 'A', 'C']",0
+61,"Neil's new classmate appears to be struggling with English assignments due to English being his second language, and often seems left out during group projects.",Offer to help his new classmate with English after class,B,"['B', 'B', 'B', 'B', 'B']",0
+62,Laura's team member disclosed to her in confidence that she is dealing with a personal crisis and struggles to focus on work. This is affecting the entire team's work efficiency.,Privately offer her some help and support,A,"['A', 'A', 'A', 'A', 'A']",0
+63,"Trevor's colleague always jokes about his heavy workloads and lack of sleep, but Trevor could see it was starting to affect his performance and health.",Give his colleague advice on work-life balance,A,"['A', 'A', 'A', 'B', 'B']",0
+64,Hannah's classmates always interrupts others to ask questions in class and makes fun of them.,Politely tell the classmate how her behavior affects other students,A,"['B', 'B', 'A', 'A', 'A']",0
+65,Jessica's colleague is consistently taking credit for her ideas during team meetings.,Address the issue directly with her colleague,C,"['C', 'B', 'C', 'C', 'B']",0
+66,"Max prided himself on his work being of the highest quality, and Max was warm-hearted. On a joint project with another team, his new teammates did a terrible job, thinking Max would fix their mistakes.",Contact someone on another team and point out their mistake and ask them to correct it,A,"['A', 'B', 'A', 'A', 'D']",0
+67,A junior employee making routine adjustments to some of Theo's equipment accuses him of causing the equipment malfunction.,Explain that malfunctions were not his fault,A,"['A', 'A', 'A', 'A', 'A']",0
+68,The woman who relieves Celia at the end of her shift is twenty minutes late without excuse or apology,Ask for an explanation of her lateness,A,"['A', 'A', 'NONE', 'A', 'A']",0
+69,Jason finds out that some members of his social sports team have been saying that he is not a very good player.,Do some extra training to try and improve,A,"['C', 'A', 'A', 'A', 'A']",0
+70,Joel has always dealt with one particular client but on a very complex job his boss gives the task to a co-worker instead. Joel wonders whether his boss thinks he can't handle the important jobs.,Do good work so that he will be given the complex tasks in future,A,"['A', 'A', 'A', 'A', 'A']",0
+71,"A demanding client takes up a lot of Jill's time and then asks to speak to Jill's boss about her performance. Jill's boss assures her that her performance is fine, which Jill does not trust.",Think that she has been successful in the past and this client being difficult is not her fault.,A,"['A', 'A', 'A', 'A', 'A']",0
+72,"Blair and Flynn usually go to a cafe after the working week and chat about what's going on in the company. After Blair's job is moved to a different section in the company, he stops coming to the cafe. Flynn misses these Friday talks.","Invite Blair again, maybe rescheduling for another time",A,"['A', 'A', 'A', 'A', 'A']",0
+73,Hannah's access to essential resources has been delayed by her coworkers and her work is way behind schedule. Her progress report makes no mention of the lack of resources.,Document the lack of resources in her progress report,A,"['A', 'A', 'A', 'C', 'A']",0
+74,"Janice is given an official warning for entering a restricted area. She was never informed that the area was restricted and would lose her job if she got two more warnings, which she thinks is unfair.",Explain that she didn't know it was restricted,A,"['A', 'A', 'A', 'B', 'A']",0
+75,"In a group project, Joseph found that one of her teammates is not contributing as much as everyone else, causing delays in the submission of the project.",Report the situation to the professor and ask for suggestions,A,"['A', 'A', 'B', 'A', 'A']",0
+76,Leo's colleague approaches him and tells him that he made a mistake in a report that will significantly impact the project timeline.,"""I think we need to inform our supervisor. Maybe you can get a chance to fix it""",C,"['C', 'B', 'C', 'C', 'C']",0
+77,Mia's colleague shared during lunch break that her work performance is decreasing due to her personal problems at home.,"""That sounds really tough. Do you want to talk about it?""",B,"['A', 'B', 'B', 'B', 'B']",0
+78,Kayla's co-workers are upset because she's been told her performance doesn't meet the company expectations and she's about to be fired.,"""That must be so hard! I'm sorry to hear that.""",A,"['A', 'NONE', 'A', 'A', 'A']",0
+79,Kira's teammate admitted to her that she intentionally missed the competition because she wanted to give the chance to another player.,"""I appreciate your generous gesture but you should have discussed it with the team beforehand""",A,"['B', 'A', 'A', 'B', 'A']",0
+80,Max's colleague arrived late for a team meeting and forgot to bring the crucial documents necessary for the discussion.,"""Everyone makes mistakes. Let's see how we can work around it.""",A,"['C', 'A', 'B', 'A', 'A']",0
+81,Diana's coworker confides in her that she is having difficulties dealing with the constant criticism from their boss.,"""I am here with you! Let's improve together!""",NONE,"['NONE', 'NONE', 'NONE', 'B', 'NONE']",0
+82,"Hours before the final exam, Arista's classmate reveals to her that she is struggling with the course material and is worried about failing the class.","""We all struggle sometimes. Would studying together help?""",B,"['B', 'B', 'B', 'B', 'B']",0
+83,"Jerry's colleague, Peter, expressed his frustration to him after one of Peter's team members openly criticized his idea for the new company project.","""I think you need to discuss to clarify any misunderstandings""",D,"['D', 'A', 'D', 'B', 'C']",0
+84,Maria's classmate confessed to her during lunch break that he had been cheating on tests because he couldn't understand what was being said in class.,"""I don't think cheating is the answer to the problem. You need to find a better study strategy.""",B,"['B', 'A', 'B', 'B', 'A']",0
+85,Lauren's classmate has been skipping classes and feels like he can't keep up with the assignment work. He is asking Lauren for help.,"""You can talk to the professor and ask for extensions for the assignments""",A,"['A', 'A', 'A', 'A', 'A']",0
+86,"Simon's colleague is constantly missing deadlines, causing a stressful work environment, and pushing her tasks onto others.","""We need to work together as a team so please communicate it with us if you have troubles""",B,"['C', 'B', 'B', 'A', 'A']",0
+87,Hailey's teammate was feeling out of place as he was the only person of a certain ethnic background on her team.,"""I understand your concerns, let's see how we can make the team more inclusive""",A,"['A', 'A', 'C', 'A', 'A']",0
+88,My boss told me that he has a painful stomachache after our lunch meeting today.,""" You should take some medications and try to get some rest today""",B,"['NONE', 'B', 'B', 'A', 'A']",0
+89,"At a company meeting, Sally got into an argument with a female coworker over a comment she made about her idea. After the meeting, she approached Sally and told her that her comments had been misinterpreted.","""No problem, let's discuss and resolve the misunderstanding between us""",A,"['NONE', 'A', 'A', 'A', 'A']",0
+90,"Antoine had noticed some things going on between his coworker and their boss. When asked, he found out that she has feelings for him, but he is married.","""You know, having feelings for someone is normal, but it's important to consider the consequences""",A,"['C', 'A', 'D', 'A', 'A']",0
+91,Sia's coworker burst into tears in the middle of a presentation meeting due to her public speaking phobia.,"""It's alright! Take a deep breath before continuing.""",B,"['B', 'B', 'B', 'B', 'B']",0
+92,My old neighbor invited me over for dinner tonight and we got to know each other better. She told me that she has been struggling with loneliness since her children moved out.,"""I can introduce you to some other neighbors""",A,"['C', 'A', 'A', 'C', 'A']",0
+93,"One of Erin's classmates is thought to be extremely introverted. Today, he approached Erin and told her he feels left out because no one invites him to hang out after school.","""Do you want to hang out together this Saturday?""",A,"['A', 'A', 'B', 'B', 'A']",0
+94,Cyrus' coworkers complained to him endlessly about their low wages and their boss's management style.,"""How about talking to the boss about this?""",A,"['A', 'A', 'A', 'A', 'A']",0
+95,Yasmin and her colleague were having lunch together when she disclosed to Yasmin that her mother recently passed away.,"""I'm so sorry for your loss, I'm here if you need anything""",A,"['A', 'B', 'NONE', 'A', 'A']",0
+96,Laurel and I work at a competitive sales company. She just shared with me that she didn't meet her sales target this month.,"""I understand your frustration. Is there any way I could assist you?""",C,"['C', 'C', 'C', 'C', 'C']",0
+97,"Andy's classmate, Kyle, seemed devasted. When Andy asked him about it, he said the essay he had been working on for weeks was accidentally deleted.","""That must be so frustrating for you! Maybe you can ask an IT technician if they can help""",A,"['A', 'A', 'B', 'A', 'A']",0
+98,"My coworker was really upset at work today. When I asked, he said its because he found out his wife is cheating on him.","""I'm really sorry to hear that. This must be hard on you, want to talk about it?""",B,"['A', 'B', 'B', 'B', 'A']",0
+99,Jaden's classmate started crying because she failed a test she studied very hard for. Jaden passed the test with a high mark.,"""Don't worry, let's work hard together next time and strive to achieve better results""",A,"['A', 'B', 'C', 'B', 'A']",0
+100,My coworker shared that he was being let go by the company due to the recent economy. He feels stressed and doesn't know what to do next.,"“This is not your fault, it's just the economic environment. I can help you prepare to find a new job.”",A,"['A', 'A', 'A', 'A', 'A']",0
+101,Clayton has been overseas for a long time and returns to visit his family. So much has changed that Clayton feels left out.,Tell his family he feels left out,C,"['C', 'A', 'C', 'C', 'C']",0
+102,Daniel was offered a prestigious position with a company located in another country. He decided the opportunity was worth moving to.,"Plan systematic contact methods, such as regular phone calls or emails every week",A,"['B', 'A', 'A', 'A', 'A']",0
+103,Dorian needs to have an immediate surgery and is quite scared about the process. He has heard that it is quite painful and has a low success rate.,Talk to his doctor about what will happen,A,"['A', 'A', 'A', 'A', 'A']",0
+104,"Julie hadn't seen Kevin for ages and was looking forward to their weekend trip. However, Kevin has changed a lot, and Julie finds that he is no longer an interesting traveling companion.",Understand that people will change. So move on and keep the good times in memories,B,"['B', 'B', 'B', 'A', 'A']",0
+105,Jacob is having a large family gathering to celebrate him moving into his new home. He wants the day to go smoothly and is a little nervous about it.,Prepare ahead of time so he has everything he needs available,A,"['A', 'A', 'A', 'A', 'A']",0
+106,"Alanna has been in a senior role at the company for several months. It is now stipulated that only long-term employees can fill these roles, and Alanna had not been around long enough to qualify.",Ask management if they can make exceptions,B,"['B', 'B', 'B', 'B', 'B']",0
+107,"Anna is suffering from anxiety due to her upcoming final exams. She is afraid that if she tells her parents about her condition, they might overreact and put more pressure on her.",Discuss her anxiety with her parents and ask for their understanding,C,"['NONE', 'C', 'C', 'B', 'C']",0
+108,"Concerned about her new job and managing her long-distance relationship, Felicity chooses work over her boyfriend. This makes her sad and distracts her from her new job.",Open up to a trusted good friend to share her feelings,A,"['A', 'A', 'A', 'A', 'B']",0
+109,"Recently, Amy had been struggling with her mental health issues and was unable to cope and wanted to try therapy, but she couldn't afford it. She wanted to borrow money from her friends but was worried about being judged by them.",Openly discuss her decision to receive therapy with her family and friends,A,"['A', 'A', 'C', 'NONE', 'B']",0
+110,"Lily has been in a long distance relationship with her boyfriend for the past five years. Recently, she has developed feelings for another person.",Discuss her feelings with her boyfriend,A,"['A', 'A', 'A', 'A', 'A']",0
+111,"Jenny's sister has been borrowing money from her to pay off her bills. Although Jenny wants to help, she is struggling to pay her own bills.",Assist in finding her sister a job and work together,A,"['A', 'A', 'A', 'A', 'A']",0
+112,Jamie has been thinking about breaking up with his girlfriend as he no longer feels attracted to her. But he also feels like he wouldn't find another partner and would be lonely after the break up.,"Spend time with friends and family, leaning on their support",A,"['A', 'A', 'A', 'A', 'A']",0
+113,"Jackson has been dating his girlfriend for two years and he's thinking about proposing, but is hesitant because his parents usually do not approve of his decisions.",Discuss his intentions with her parents first,A,"['A', 'A', 'A', 'A', 'C']",0
+114,Perry has recently discovered that he has an incurable disease that is going to debilitate him in the long term. He's struggling with how to reveal this information to his wife.,Look for an appropriate time and have a deep discussion on the matter,A,"['C', 'A', 'A', 'C', 'A']",0
+115,"After a long period of staying single, Ned has started dating someone he likes but is now has fear of becoming vulnerable.",Open up to the other person about this fear and seek comfort,A,"['B', 'A', 'A', 'A', 'A']",0
+116,Zoe's best friend has started dating someone whom Zoe knows has cheated in their past relationships. Her friend feels like she has found her soulmate.,Decide to keep quiet and not interfere in her friend's relationship,A,"['A', 'A', 'A', 'A', 'A']",0
+117,"Juliana has a month until her wedding day. While this is something she dreamt of ever since she was a child, she feels overwhelmed by the preparation and has doubts about the wedding.",Discuss and divide responsibilities with her fiancé,B,"['B', 'C', 'B', 'B', 'A']",0
+118,Laura has recently finished reading a book and realized she has differing political viewpoints from her close group of friends. She is worried about the potential conflict that might arise if she expresses her controversial opinions.,Ask her friends to share their opinions and have a conversation about it,A,"['A', 'A', 'A', 'A', 'A']",0
+119,"Ethan has been wanting to propose to his girlfriend for months now, but is feeling unsure due to the current unstable economic conditions resulting from a global crisis.",Express his concerns and feelings to his girlfriend,A,"['A', 'A', 'A', 'A', 'A']",0
+120,"Leah had a big fight with her best friend, and they haven't talked for two weeks now. She really misses her friend but she also feels hurt by things they said during the fight.",Ask for a conversation to discuss their feelings,A,"['A', 'A', 'A', 'A', 'A']",0
+121,Melissa often argues with her boyfriend about small topics and she feels like it is mentally draining her.,Express her feelings to her boyfriend,B,"['B', 'B', 'B', 'A', 'A']",0
+122,Greg just found out that his girlfriend cheated on him with his best friend. He is heartbroken and unsure of what to do.,Seek guidance from other trustworthy friends or family members,C,"['C', 'C', 'A', 'C', 'B']",0
+123,"Maria has been in a long-distance relationship for 1 year. She really loves her partner, but feels lonely and disconnected because of the distance.",Try to plan more activities together online,A,"['A', 'A', 'B', 'B', 'A']",0
+124,Analia has been diagnosed with chronic illness. She's afraid her boyfriend might leave her if she tells him about it because he might not want to deal with the emotional burden.,Discuss her illness with a close friend first to get guidance,A,"['A', 'A', 'A', 'A', 'A']",0
+125,"After a very tough breakup, Nathan is struggling to overcome feelings of sadness and loneliness, while facing serious financial issues. He finds it hard to focus on anything else.",Start exercising daily to get his mind off of the breakup,A,"['NONE', 'A', 'NONE', 'A', 'A']",0
+126,Ann's sister told her that she will miss her birthday party because she couldn't get days off from work.,"""I understand, it's unfortunate but we can always celebrate some other time""",A,"['A', 'NONE', 'A', 'B', 'A']",0
+127,"Julie noticed that her brother had lost a lot of weight. When she asked him about it, he informed her of his recently developed eating disorder.","""I think we should find a professional to talk to""",A,"['A', 'A', 'A', 'C', 'B']",0
+128,David's partner told him that she will not be able to attend the concert they had been planning to go together because she has to work late.,"""I completely understand, work can be demanding at times""",NONE,"['NONE', 'NONE', 'NONE', 'NONE', 'NONE']",0
+129,Amelia feels neglected by her long-term boyfriend since he started working on his PhD.,"""Can we discuss ways to spend more time together?""",A,"['NONE', 'A', 'A', 'NONE', 'A']",0
+130,"Carlos's neighbor called and told him that his dog, which Carlos was deeply attached to, has died due to an accident with a drunk driver.","""I appreciate you telling me this. It's really hard to be without him but I will find a way to cope.""",B,"['B', 'B', 'B', 'C', 'B']",0
+131,"I just found out my best friend has been talking behind my back. So, I decided to talk to him the next time we hung out.","“I heard you said bad things about me behind my back, can we have an honest conversation about why?”",A,"['A', 'A', 'A', 'A', 'A']",0
+132,"Yulia's husband told her that he doesn't enjoy the meal she cooked for dinner, which she spent hours preparing.","""I'm sorry to hear that, what do you not like about it?""",A,"['B', 'A', 'B', 'A', 'A']",0
+133,Samuel's dad tells him that he is disappointed with Sam's decision to quit his job and pursue a career in music.,"""I'm sorry you feel this way, but this is what makes me happy""",C,"['B', 'C', 'B', 'C', 'C']",0
+134,Michael's long-term friend admits to him that he was the one who accidentally scratched Mike's new car.,"""It's alright, mistakes happen. Please get it repaired""",A,"['A', 'A', 'A', 'A', 'A']",0
+135,"During their dinner together, Charlie's best friend points out a negative trait about him that he was not aware of before.","“Thank you for pointing this out, I will try my best to improve.”",A,"['A', 'A', 'A', 'A', 'NONE']",0
+136,Peter's best friend jokingly told him that he is the reason why their group of friends keep losing at video games.,"""Well, you're not exactly a pro either""",A,"['C', 'A', 'A', 'A', 'A']",0
+137,My twin brother told me that he's going to move to another country to pursue his dream job.,"""I am happy for you. This must be so exciting for you!""",A,"['A', 'A', 'A', 'NONE', 'A']",0
+138,Caleb found out that his closest friend has been gossiping about his personal issues to other friends.,"""While I'm very hurt by this, I would want to talk about why you would do this""",A,"['A', 'A', 'A', 'A', 'A']",0
+139,"Angela has been buried under the heavy workload of her PhD for the past few months, barely getting the time to do anything else. Today, her mom called and got angry at her for not dedicating time to her family and paying them a visit.","""Mom, I understand how you feel. My studies are demanding right now, but I promise I'll make it up to you once it eases a bit.""",A,"['A', 'A', 'A', 'A', 'A']",0
+140,"John's older brother teased him about his recent weight gain in front of his friends, something that he has been struggling about recently.","""I am aware of my weight, you don't need to embarrass me in front of everyone""",B,"['NONE', 'B', 'A', 'B', 'A']",0
+141,"I got a haircut today that I was really proud of. But when my girlfriend saw it, she thought it didn't suit me and laughed.","""I appreciate your honesty, but I really like it""",A,"['B', 'A', 'A', 'B', 'A']",0
+142,"Allen's little sister told him that her pet dog, whom Allen has grown up with and is also fond of, has become severely ill.","""I'm here for you during this trying time""",A,"['A', 'A', 'A', 'A', 'B']",0
+143,"Gavin's best friend told him that he feels Gavin is spending too much time with his new girlfriend, neglecting their friendship.","""I am sorry if you felt that way, we'll figure this out""",A,"['A', 'A', 'A', 'B', 'A']",0
+144,"Jack loved his girlfriend a lot and was heartbroken after the breakup. Today, Jack's best friend told him he's started dating his ex-girlfriend recently and wanted to see if that's ok with him.","""Wow, that's unexpected but I hope you're happy together""",D,"['D', 'D', 'A', 'A', 'D']",0
+145,"Ronaldo's best friend tells him that he intends to go on a road trip with his other friends, leaving him behind.","""That sounds fun, I hope you'll have a great time""",C,"['A', 'C', 'D', 'C', 'C']",0
+146,"William's close friend kept bragging that he got a much higher score on the same exam that he did poorly on. William studied really hard for the test, but couldn't perform well.","""I'm really happy for you, but could we talk about something else?""",A,"['NONE', 'A', 'A', 'B', 'C']",0
+147,"Earlier in the day, Oliver accidentally broke his little brother's toy while he was not around. His brother just came back from school and hasn't seen the toy yet.","""I'm sorry but I broke your toy, it was an accident""",A,"['A', 'A', 'A', 'B', 'A']",0
+148,Martin's mother tells him that she doesn't like his new romantic partner and thinks he can do way better.,"""I value your opinion, but I'm happy with my partner""",NONE,"['NONE', 'B', 'NONE', 'A', 'B']",0
+149,"Aaron's brother asked him for a significant amount of money loan to start a business. While Aaron can afford it, he's not sure about his brother's business skills.","""Let's first take a look at your business plan together""",D,"['D', 'D', 'D', 'D', 'D']",0
+150,"Sean's mother just told him he needs to move out of the house, because he is all grown up and needs to work, while she needs more space.","“I understand, I'll start looking for a place to move out”",A,"['B', 'A', 'A', 'A', 'A']",0
+151,"Martina is accepted for a highly sought after contract, but has to fly to the location. Martina has a phobia of flying.",Find alternative travel arrangements,A,"['C', 'A', 'A', 'A', 'A']",0
+152,"Manual is only a few years from retirement when he finds out his position will no longer exist, although he will still have a job with a less prestigious role.",Carefully consider his options and discuss it with his family,A,"['A', 'A', 'NONE', 'NONE', 'A']",0
+153,"Rhea has left her job to be a full-time mother, which she loves, but she misses the company and companionship of her workmates.",Join a playgroup or social group of new mothers,A,"['B', 'A', 'A', 'A', 'B']",0
+154,Pete has specific skills that his workmates do not and he feels that his workload is higher because of it.,Speak to his boss about his heavier workload,A,"['A', 'B', 'A', 'B', 'A']",0
+155,Surbhi starts a new job where he doesn't know anyone and finds that no one is particularly friendly.,Make an effort to know people and be friendly,A,"['A', 'A', 'A', 'A', 'A']",0
+156,"Darla is nervous about presenting her work to a group of seniors who might not understand it, as they don't know much about her area.","Work on her presentation, simplifying the explanations",NONE,"['NONE', 'B', 'NONE', 'A', 'A']",0
+157,"Upon entering full-time study, Vincent cannot afford the time or money he used to spend on waterpolo training, which he was quite good at. Although he enjoys full-time study, he misses training","Set aside a certain amount of time each week to play water polo, and spend the remaining time on classes",A,"['A', 'B', 'A', 'B', 'A']",0
+158,Greg has just gone back to university after a lapse of several years. He is surrounded by younger students who seem very confident about their ability and he is unsure whether he can compete with them.,Study hard and attend all the lectures,A,"['A', 'A', 'A', 'A', 'A']",0
+159,"Chris is nervous about acting a scene when there are a lot of very experienced actors in the crowd, and he doesn't have enough time to prepare more.",Believe in himself and know it will be fine,B,"['B', 'B', 'A', 'B', 'B']",0
+160,Mark is fairly sure his company is going down and his job is under threat. It is a large company and nothing official has been said.,Start applying for other jobs,A,"['A', 'A', 'A', 'B', 'A']",0
+161,"Mallory moves from a small company to a very large one, where there is little personal contact and not a lot of gathering going on, which she misses.","Talk to her workmates, try to create social contacts and make friends",B,"['B', 'B', 'B', 'B', 'B']",0
+162,"Ethan is feeling overwhelmed and stressed due to the demands of his college courses, while also working a part-time job. He enjoys both but is finding it hard to balance the commitments.",Create a detailed schedule to better manage his time,B,"['B', 'B', 'A', 'B', 'B']",0
+163,Emily is consistently overlooked for leadership roles at her local community because she is seen as too quiet and reserved. She really wants to contribute and grow her leadership skills in this environment.,Start asserting herself more in community activities to change people's perceptions.,A,"['A', 'A', 'A', 'A', 'A']",0
+164,"Matilda has just started a new job and is trying to fit in, but she finds that her coworkers often engage in negative gossip about others at the office.",Approach her coworkers first and discuss this problem,A,"['A', 'A', 'A', 'A', 'A']",0
+165,Alex is a project manager and his team is falling behind on their work due to communication issues.,Implement training sessions to improve teamwork and communication skills,A,"['A', 'A', 'A', 'A', 'A']",0
+166,"Due to her expertise in the field, Naomi has been tasked to lead an important project at work. However, the project does not align with her experiences and she feels unsure about how to approach it.",Request her supervisor to reassess the situation,A,"['A', 'A', 'A', 'A', 'A']",0
+167,"Tom, a PhD student, has been given a piece of research work by his supervisor. While his labmates seem to find the task easy, he finds it challenging and cannot comprehend it completely.",Find a labmate who can help him understand the task,A,"['A', 'A', 'A', 'A', 'A']",0
+168,I recently received a work email from my boss criticizing a project that I've put a great amount of effort into. I feel like the criticism is unfair and not constructive.,Reply to the email explaining the possible misunderstanding,A,"['A', 'A', 'A', 'A', 'A']",0
+169,"Isabella finds out that her coworker, who started at the same time as her, is earning a higher salary for doing the same job.",Schedule a time and discuss the matter with her boss,A,"['A', 'A', 'A', 'NONE', 'A']",0
+170,Alec has been asked to give a speech at an upcoming conference. He has never spoken to such a large audience before.,Spend time practicing and honing his public speaking skills,A,"['A', 'A', 'A', 'A', 'A']",0
+171,Patel just got promoted to the manager position at his office. He has to oversee close friends whom he was previously equal with and is unsure about setting boundaries and how this affects their relationship.,Keep professional matters strictly in the office and social matters outside,A,"['A', 'A', 'A', 'A', 'A']",0
+172,"Connor is part of a group project at his university, but he is finding it difficult to collaborate with a teammate who always dismisses his ideas.",Try to understand the teammate's point of view and find a compromise,A,"['B', 'A', 'A', 'C', 'C']",0
+173,"Jess is going to graduate soon and has been job hunting for the past weeks. She doesn't want to continue in academia but due to the intense job market, she has been finding it hard to find a job.",Reassess her job search strategy and improve her application materials,B,"['B', 'A', 'C', 'B', 'B']",0
+174,"Ruby was just offered the job of her dreams in an outstanding company, but the position is in a different city, and moving would mean leaving her family and close friends behind.",Try discussing with her friends the situation she is facing now,A,"['A', 'A', 'A', 'A', 'A']",0
+175,It's Paolo's first time attending a conference and he came with some of his labmates. He wants to make new connections but is struggling to do so due to his introverted nature.,Start by joining some smaller group discussions or workshops and meeting people there,A,"['A', 'B', 'B', 'A', 'A']",0
+176,Sana's boss tells her she didn't get the promotion she worked so hard for.,"“It's okay, I will continue to work hard”",A,"['A', 'NONE', 'B', 'NONE', 'A']",0
+177,"During an important company meeting, Ed's colleague pointed out an error he had made in a report in front of the entire team.","“I promise I won't make the same mistake again, thank you for pointing it out”",A,"['A', 'A', 'A', 'A', 'B']",0
+178,"Adam and I have developed a healthy work relationship and always respect each other. But yesterday, he just snapped at me for no apparent reason.","""Is there something bothering you? You seem upset""",A,"['A', 'A', 'A', 'A', 'A']",0
+179,"I received a low grade on a test, and my classmates who all got high scores wanted to discuss our performance.","""Wow, you guys did really well, congrats!""",A,"['A', 'A', 'A', 'A', 'A']",0
+180,"Katie's study partner let her know last minute that they had to cancel, leaving her unprepared for the test tomorrow.","""This is a difficult situation, we can work together to avoid this situation in the future""",A,"['A', 'A', 'A', 'A', 'A']",0
+181,"Jacob's classmate just announced that she scored the highest in our recent exam, which Jacob had studied hard for but didn't perform that well.","""I'm happy for you, maybe you can give me some tips for the next one?""",B,"['C', 'B', 'B', 'A', 'B']",0
+182,My downstairs neighbor just came and knocked on my door to tell me my loud music was disturbing her study time.,"""I'm sorry I didn't notice, I'll try to be more considerate""",A,"['A', 'A', 'A', 'A', 'A']",0
+183,My coworker just informed me that she was promoted to a position that I deeply desired.,"""Although I wish I could get this position, I'm happy for you. Let's work hard together.""",A,"['A', 'A', 'A', 'A', 'A']",0
+184,Adam recently found out that he was turned down for a project proposal at work that he was very excited about.,"""I need to ask for feedback so I can make improvements next time""",A,"['A', 'NONE', 'NONE', 'A', 'A']",0
+185,"Emma, who works at a law firm, received negative feedback from clients today, saying her work was disorganized and her strategy was confusing. But after the inspection, Emma found that many of the customer reviews had logical contradictions.","""I'm sorry you feel that way, can we talk about this when you have time?""",A,"['A', 'A', 'A', 'A', 'A']",0
+186,"My team leader at work just informed me that I need to work this weekend, but I already made plans that I was excited about.","""I understand the situation. Can we find a compromise?""",A,"['A', 'A', 'A', 'A', 'A']",0
+187,My neighbor told me that she feels like she's failing as a mother because she's always tired and doesn't play with her kids as much.,"""It's a normal reaction since taking care of kids is hard. Remember to take care of yourself too""",B,"['A', 'A', 'B', 'B', 'B']",0
+188,Dani's supervisor has just given him a huge amount of work with a very short deadline,"""I think it might be a bit difficult. Is there anyone else that can help?""",B,"['A', 'B', 'B', 'B', 'B']",0
+189,"My neighbor loves to organize weekly small gatherings. But due to my busy schedule, I haven't been able to attend recently. Today, she confronted me about it.","""I'm sorry. I have been swamped with work lately. Let's try matching our schedules, shall we?""",A,"['NONE', 'NONE', 'A', 'A', 'A']",0
+190,"Grant usually plays soccer with his classmate for fun. Last week, they decided to participate in a competition, and his classmate was shouting at him for every mistake during the game.","""I think you can tell me instead of yellling. We are a team and we should support each other""",A,"['A', 'B', 'A', 'A', 'A']",0
+191,"During a meeting to discuss our project's progress, my colleague accused me of not working hard enough in front of the team.","""While I appreciate your input, the division of work has been made and I am working hard on my part""",A,"['A', 'A', 'A', 'A', 'A']",0
+192,"Dea is always embarrassed to speak in class and always keeps quiet. Recently, she was informed by her teacher that her class participation grades are low and she needs to be more active to pass.","""Can I contribute in other ways than being active in class?""",A,"['B', 'A', 'C', 'A', 'A']",0
+193,"Yesterday, we handed in our project reports to the supervisor. I found out that a labmate scolded me in his report for a mistake that he believed I made, but it was actually his fault.","""Let's go through the situation together again to clarify the misunderstanding""",A,"['A', 'A', 'A', 'A', 'B']",0
+194,"Bob's teammate took over most of the final Q&A session for their group project and spoke over Bob, making Bob's contributions and understanding of the project seem insignificant.","""Great point, but I have some additional input that I would like to say""",B,"['C', 'B', 'B', 'A', 'A']",0
+195,"Jane's neighbor has been spreading false rumors about her in the community, which heavily affects her reputation.","""That was out of line. If you have any problems with me, you can bring it up to me and we can figure things out""",A,"['A', 'A', 'NONE', 'NONE', 'A']",0
+196,"Karen was working when her manager called her to his office. He said that the company will be reducing her work hours next week, but she needs the extra money.","""I understand, is there any way that I can pick up some more extra shifts?""",B,"['D', 'B', 'C', 'B', 'B']",0
+197,"After a project meeting, the TA pulled Ian aside to talk to him privately. She gave him some feedback about his presentation, which was not really helpful nor constructive.","""Thank you for your comments However, I think there might be some misunderstandings that we could clarify""",A,"['A', 'A', 'A', 'A', 'A']",0
+198,"Frank and his team gave the proposal presentation today. While the teacher didn't have any comments, the teaching assistant gave them some feedback, which was not constructive criticism and they didn't find it helpful as it felt like he didn't understand their presentation.","""We appreciate your feedback, is there any chance we could discuss further?""",D,"['D', 'D', 'D', 'D', 'D']",0
+199,"Kyle practiced his project plan with his labmate, Gary, and was heavily criticized. However, during the meeting when the supervisor was present, Gary started giving positive feedback on his plan.","""Thank you for your feedback. Our earlier discussion gave me a different impression. Can we go over these points again?""",C,"['C', 'C', 'C', 'C', 'A']",0
+200,"Matt decided to participate in a hackathon. However, when it was time to start their team project, he became really busy with other projects and couldn't really contribute to the project.","""I'm so sorry, I've been really busy with other projects and didn't have time to complete it""",B,"['B', 'B', 'B', 'B', 'A']",0
+1,萨拉发现自己的弟弟在学校受欺负了，但他恳求她不要告诉爸妈。,建议弟弟和老师或者辅导员聊聊,A,"['C', 'A', 'A', 'A', 'A']",0
+2,娜塔的朋友最近因为一次糟糕的分手崩溃了，整天不停地给娜塔打电话倾诉感情，搞的娜塔不堪重负。,建议她的朋友向心理咨询师寻求专业帮助,B,"['B', 'NONE', 'B', 'C', 'C']",0
+3,詹姆斯的好友最近行为冷淡，对人不理不睬。詹姆斯问他发生了什么事，他含糊其辞地说只是在处理一些“个人问题”。,尊重朋友隐私但表达随时可以帮助的意愿,A,"['A', 'B', 'A', 'A', 'A']",0
+4,迈克十几岁的儿子昨天被抓到在商店偷视频游戏。,安排和店主会面来让儿子当面道歉,A,"['A', 'A', 'A', 'A', 'A']",0
+5,萨曼莎十几岁的女儿最近开始和一群她觉得会影响不好的朋友混在一起。,和女儿讨论她的担忧,B,"['B', 'A', 'B', 'B', 'B']",0
+6,罗伯有一件旧的红色t恤，他想扔掉。一天，他的朋友安德鲁向他借这件t恤参加一个聚会。第二天，安德鲁来找罗伯，很抱歉地告诉他，他把t恤弄丢了。,说明这是没关系的，因为这件t恤对他没有任何价值,NONE,"['NONE', 'B', 'A', 'NONE', 'A']",0
+7,尼克的弟弟因为成绩不好失去了奖学金，现在他不知道该如何继续他的学业了。,帮他找一个兼职,A,"['A', 'A', 'A', 'A', 'A']",0
+8,在阿德里安下班回家的路上，他被堵在了路上，这时一个人开始对他大喊大叫，说他开车不好。当他从车里出来面对那个人时，他意识到那是他的父亲。,一笑置之，对意外和巧合开个玩笑,B,"['B', 'A', 'B', 'A', 'B']",0
+9,丽吉娜最好的朋友最近和她长期的伴侣分手了，并在半夜给丽吉娜发短信，表达她的孤独感。,熬夜倾听朋友的倾诉,A,"['A', 'A', 'A', 'B', 'A']",0
+10,帕特里夏最好的朋友和她分享，她觉得自己在和男友的关系中感到困顿，因为他们不断地吵架。,鼓励她的朋友和她男朋友开诚布公地交流他们的问题,B,"['A', 'B', 'B', 'C', 'B']",0
+11,萨拉最好的朋友向她吐露自己正在经历财务困难；她羞于求助，更愿意私下解决。,与她讨论潜在的解决方案和可用的资源,B,"['NONE', 'B', 'A', 'A', 'B']",0
+12,我的朋友对我撒谎，他说他负责的那部分小组项目已经完成了。,指出他的错误并讨论未来的计划,A,"['A', 'B', 'D', 'A', 'C']",0
+13,安德烈搬离了他的朋友和家人所在的城市。他发现他的朋友们并不像他想象的那样与他努力保持联系。,他应该努力联系他们，但也尝试在新城市结识新朋友,A,"['A', 'A', 'A', 'A', 'A']",0
+14,卡特琳娜花了很长时间才开始为家庭电影之夜放映一部电影。 她妹妹说：“你个白痴，放电影有多难？” 卡特琳娜与她的姐姐和家人关系非常密切。,让她的妹妹帮忙或去做,A,"['A', 'A', 'A', 'A', 'A']",0
+15,辨治郎的父母已经 80 多岁了，独自住在州际公路上的一所房子里。 他担心他们需要帮助，但每当他提起这个话题时，他们都会愤怒地否认。,经常和家人拜访,NONE,"['NONE', 'B', 'NONE', 'A', 'A']",0
+16,安迪接了电话，听说她的近亲病得很重，现在在医院里。,跟家里人多聊聊，安慰一下自己，了解一下情况，然后去医院看看,A,"['A', 'A', 'A', 'A', 'B']",0
+17,埃文的妹妹在他家过夜的时候，深夜做了饭，厨房里留下了一团糟，埃文早餐的时候发现了。,让他妹妹有时间就尽快清理厨房,A,"['A', 'A', 'A', 'B', 'A']",0
+18,格洛丽亚的室友们从来不在生活必需品快用完的时候买，总是指望格洛丽亚去买，这让她很不爽。他们彼此相当了解，但还没有讨论过财务问题。,提出一个新的购物分担费用的系统,A,"['A', 'A', 'A', 'A', 'B']",0
+19,贝拉在国外时得知她的父亲因为近年来的疾病去世了。,联系她的近亲了解情况并寻求支持,A,"['A', 'A', 'A', 'A', 'A']",0
+20,米娜和她嫂子平时相处得很好，嫂子定期为她照看孩子并收一点钱。最近，她嫂子在帮忙清理蜘蛛网，并评论说乱七八糟的，这让米娜觉得很没礼貌。,告诉她的嫂子这些评价让她难过,A,"['A', 'C', 'D', 'A', 'C']",0
+21,杰瑞曾在同一行业做过几份短期工作，但现在他对在其他行业找一份工作感到兴奋。他的父亲随口说他最多做六个月。,通过努力在新工作中取得成功来证明他错了,A,"['A', 'A', 'A', 'A', 'A']",0
+22,米歇尔的朋友达拉要搬到海外和她的伴侣住在一起。他们是多年的好朋友，并且达拉不太可能再回来了。,确保她通过电子邮件，电话或写信保持联系,A,"['A', 'B', 'A', 'A', 'A']",0
+23,莎妮娅已经好几个月没有和她的侄子说话了，而在他小的时候，他们非常亲密。现在她打电话给他，但他说他只能说五分钟。,明白关系会改变，但要不时地给他打电话,B,"['B', 'A', 'B', 'B', 'A']",0
+24,安德鲁最好的朋友向他坦白，他对自己的妻子不忠，不知道下一步该怎么办。,鼓励他的朋友和情感咨询师谈谈,C,"['C', 'A', 'C', 'D', 'D']",0
+25,安妮塔最好的朋友玛雅最近因为分手而情绪低落，很难集中精力完成即将到来的大学作业。,帮助她找到解决分手影响的方法，并保持开放的交流,B,"['B', 'A', 'B', 'A', 'B']",0
+26,昨天，她和她的妹妹在吃晚餐时，接到了医院的电话。医生告诉她他们找到了可能的解决方案。艾琳的手机掉在地上，她抽泣着捂住了脸。看到这一幕，她的妹妹立刻走到她身边。,“天呐，出什么事了？”,B,"['B', 'B', 'B', 'B', 'B']",0
+27,我的女朋友告诉我，我们在外面吃完午饭后，她的胃痛得厉害。,“这段时间我会照顾你的”,A,"['A', 'A', 'A', 'A', 'NONE']",0
+28,乔纳斯的弟弟向乔纳斯吐露，他仅此一次的高考考得很差。,“高考不是一切，你的生活由你自己决定。”,NONE,"['NONE', 'NONE', 'NONE', 'A', 'NONE']",0
+29,我最好的朋友告诉我，她养了10年的狗刚刚去世了。,“我很确定你的狗会很开心他的主人是你的”,A,"['A', 'A', 'A', 'A', 'A']",0
+30,艾瑞斯的妹妹透露，她因为体重增加感到不开心,“咱们开始一起健身怎么样？”,B,"['B', 'B', 'NONE', 'NONE', 'B']",0
+31,我的妹妹正在哭泣，因为她最好的朋友突然就搬走了。,“你们闲时你总能给她打电话的”,B,"['B', 'B', 'B', 'B', 'A']",0
+32,希拉的最好朋友刚告诉希拉，她第三次驾驶考试还是没通过。,“别担心，继续练习下次一定能过”,B,"['B', 'A', 'B', 'C', 'C']",0
+33,鲍比的哥哥刚向鲍比承认，他不小心倒车撞到了另一辆车，然后没有留下字条就离开了现场。,“你应该对自己的行为负责”,A,"['B', 'A', 'A', 'A', 'A']",0
+34,我亲密的朋友向我吐露，她感到孤独和不快乐，因为她的所有其他朋友都开始了恋爱关系。,“我在你身边，你并不孤单”,C,"['C', 'C', 'C', 'C', 'B']",0
+35,芭芭拉的妹妹向芭芭拉吐露，她觉得新工作让她应接不暇，这给她造成了很大的压力。,“我看得出你真的很有压力，我们来谈谈吧。也许我们可以一起解决问题”,NONE,"['NONE', 'NONE', 'B', 'NONE', 'NONE']",0
+36,莉莉的弟弟热切地告诉莉莉他画了一幅画，但莉莉认为那画并不好,“我认为如果你继续练习，你会提高更多”,B,"['B', 'B', 'C', 'B', 'C']",0
+37,我的室友刚承认她对她的男朋友不忠。,“我认为你应该诚实，告诉他这件事”,A,"['B', 'A', 'A', 'A', 'B']",0
+38,昨天，宝拉的女儿哭着来找她，向母亲坦白自己怀孕了。她非常害怕，因为她不知道孩子的父亲是谁。,"""别担心，你不是一个人。我们会一起解决这个问题""",A,"['A', 'A', 'A', 'A', 'B']",0
+39,凯文最好的朋友告诉他，一直家暴她的丈夫去世了，她的心情很复杂。,“不要担心，你可以和我一起聊聊，我会一直在这里。”,A,"['A', 'A', 'A', 'A', 'A']",0
+40,我高中的朋友告诉我，她有酗酒的问题，不知道该怎么办。,“我很感激你跟我分享这些，我们一起来解决吧”,A,"['A', 'A', 'A', 'A', 'A']",0
+41,丽贝卡告诉她的妹妹雷切尔，最近她一直感到很沮丧，对她以前喜欢做的事情都失去了兴趣。,"""你想不想我们一起尝试一些新的爱好？""",B,"['A', 'B', 'B', 'B', 'A']",0
+42,昨天，安妮告诉她妈妈她怀孕了。她说她感到害怕，觉得自己还没有准备好当母亲。,“别担心，你不是一个人。我们会一起解决这个问题。”,A,"['A', 'A', 'B', 'B', 'A']",0
+43,经过几周的犹豫不决，欧文最终告诉了他的父母，由于失业，他遇到了严重的财务问题。,"""我们可以借给你一些钱，直到你再次站稳脚跟""",A,"['C', 'B', 'A', 'D', 'A']",0
+44,爱丽丝最好的朋友罗斯告诉她，她觉得自己在成绩和成就方面无法与其他同学竞争。,“我们可以从比较中发现自己的短板并努力改正”,A,"['A', 'A', 'A', 'A', 'A']",0
+45,我父亲告诉我，我母亲不忠。,“我觉得你应该和妈妈好好谈谈，想想下一步该怎么做。”,A,"['A', 'A', 'A', 'A', 'A']",0
+46,因为最近皮肤上长痘痘，玛丽的室友跟她说她因为自己的外表所以没有信心。,“我可以和你分享我的护肤秘诀来帮你祛痘。”,A,"['A', 'NONE', 'A', 'A', 'A']",0
+47,作为一名私人教练，我在过去的六个月里一直在训练詹姆斯。今天，他向我表达了他的沮丧，因为在我们所有的训练之后，他没有增加任何肌肉。,“我认为你应该看看你的进步，看看你已经走了多远”,D,"['D', 'D', 'B', 'D', 'D']",0
+48,蒂米的儿子在过去的几个星期里一直在准备他的论文提案。当结果出来时，他的儿子告诉他没有通过。,“我认为你做得很好!你可以从错误中吸取教训，写出更好的提案。”,B,"['A', 'B', 'A', 'B', 'B']",0
+49,"贾达的儿子输了足球比赛,因为他自责输球是自己的责任,感到非常难过。","""没关系，儿子。我们需要更加努力地训练下一次。""",A,"['B', 'A', 'A', 'A', 'B']",0
+50,安德烈的妈妈告诉他，她认为他的爸爸经常因为一些小事和她打架。,“这对你不公平，妈妈，你应该和他谈谈”,A,"['A', 'A', 'A', 'A', 'A']",0
+51,小李的同事没能及时传达一条重要信息，导致小李进度也落后了。,向同事解释情况的急迫性,C,"['C', 'C', 'C', 'A', 'A']",0
+52,艾拉和康妮已经共处一个办公室几年了。但艾拉换了工作后，康妮就和她失去了联络。,联系艾拉安排相聚，同时也找替代她的新朋友,C,"['A', 'C', 'C', 'C', 'C']",0
+53,艾伦帮一个偶尔一起工作的同事图蒂完成一个困难的任务。图蒂却抱怨艾伦做的不够好，艾伦则回应说她应该对他的帮助感到感激。他们因此发生了争执。,休息一下，等双方都冷静下来再讨论这个问题,D,"['A', 'D', 'D', 'D', 'D']",0
+54,赫加的团队表现非常出色。但他们收到了另一个团队的质量不佳的工作成果，还必须将其融入到自己的项目中。,向项目管理者告知情况,A,"['A', 'A', 'D', 'A', 'B']",0
+55,迈克一边学习一边兼职。他老板在截止前更改了他的轮班时间，却没有事先征求他的意见。,调查新轮班是否有什么合理的解释,A,"['A', 'A', 'A', 'A', 'A']",0
+56,卡洛琳在网上找到了一个因其粗鲁的客户服务而出名的餐厅。她打算去那里吃晚饭。她刚坐下，不仅没有受到迎接，还就被服务生用很多粗鲁的语言咒骂了。,无视服务员的行为享受饭菜，因为她本就预想到了这种服务,A,"['A', 'B', 'A', 'B', 'A']",0
+57,马库斯的同事在工作时不断地打私人电话，不顾这对工作环境的影响。,给同事关于职场礼仪的提示,A,"['A', 'A', 'A', 'A', 'A']",0
+58,托尼娅的老板对她不公平，让她的工作生活很痛苦。尽管与人力资源部门进行了多次讨论，情况似乎没有改善。,开始寻找新的工作,B,"['B', 'C', 'B', 'B', 'B']",0
+59,哈珀的同事在办公室里哭泣，并且当别人试图接近她时，她会推开他们。,向她保证她并不孤单，自己会支持她,C,"['C', 'C', 'C', 'B', 'A']",0
+60,办公室经理凯文注意到工作场所的紧张气氛，因为他的两名团队成员昨天发生了激烈的争吵，从那以后他们就没有再说话。,单独面对两名团队成员以了解他们的观点。,A,"['A', 'A', 'D', 'A', 'A']",0
+61,尼尔的新同学在英语作业上似乎有困难，因为英语是他的第二语言，他在小组项目中经常感到被忽视。,课后提供帮助新同学学习英语,A,"['NONE', 'A', 'NONE', 'A', 'A']",0
+62,劳拉的团队成员私下告诉她，她正在处理个人危机，难以集中精力工作。这影响了整个团队的工作效率。,私下提供给她一些帮助和支持,B,"['B', 'B', 'A', 'B', 'B']",0
+63,特雷弗的同事总是拿他们繁重的工作量和缺乏睡眠开玩笑，但特雷弗看出这开始影响到他们的工作表现和健康了。,给同事关于工作和生活平衡的建议,A,"['B', 'A', 'NONE', 'C', 'A']",0
+64,汉娜的同学总是在课堂上打断别人提问，还取笑他们。,礼貌地告诉这位同学她的行为是如何影响其他学生的,A,"['A', 'A', 'NONE', 'A', 'NONE']",0
+65,杰西卡的同事在团队会议中总是把她的想法据为己有。,直接跟同事讨论这个问题,B,"['B', 'B', 'B', 'B', 'B']",0
+66,马克斯为自己的工作质量最高而自豪，而且马克思很热心肠。在与另一个团队的联合项目中，他的新队友做得很糟糕，以为马克斯会修正他们的错误。,联系另一个团队的人，指出他们的错误，并要求他们改正,A,"['D', 'A', 'A', 'A', 'A']",0
+67,一个负责日常调整设备的初级员工指责西奥造成了设备的故障。,解释故障不是他的错,A,"['A', 'A', 'A', 'A', 'A']",0
+68,接替西利亚的女士迟到了二十分钟，没有任何借口或道歉。,要求她解释迟到的原因,A,"['B', 'A', 'A', 'A', 'A']",0
+69,杰森发现他的社交运动队的一些成员一直说他不是一个很好的球员。,做一些额外的训练来尝试提高,A,"['A', 'A', 'A', 'A', 'A']",0
+70,乔尔总是和一个特定的客户打交道，但在一项非常复杂的工作上，他的老板把任务交给了同事。乔尔怀疑他的老板是否认为他不能胜任重要的工作。,做好工作，这样将来复杂的任务将被交给他,A,"['D', 'A', 'A', 'A', 'A']",0
+71,一个要求很高的客户占用了吉尔很多时间，并且要求和吉尔的老板谈谈她的表现。吉尔的老板向她保证她的表现很好，但吉尔并不相信。,想想她过去一直很成功，这个客户很难相处不是她的错。,A,"['A', 'B', 'A', 'A', 'A']",0
+72,布莱尔和弗林通常在工作周结束后去咖啡馆聊天，聊聊公司里发生的事情。在布莱尔的工作被调到公司的另一个部门后，他不再来咖啡馆了。弗林怀念那些在周五的会谈。,再次邀请布莱尔，也许可以改天再约,A,"['NONE', 'A', 'NONE', 'A', 'A']",0
+73,汉娜获得必要资源的时间被她的同事耽误了，她的工作也远远落后于计划。她的进度报告没有提到缺乏资源这件事。,在她的进度报告中记录缺乏资源这件事,A,"['A', 'A', 'A', 'A', 'A']",0
+74,珍妮丝因进入禁区而受到正式警告。她从未被告知该区域是禁区，并且如果她再得到两次警告，她将失去工作，她认为这是不公平的。,解释她不知道那里是禁区,A,"['A', 'B', 'A', 'A', 'A']",0
+75,在一个小组项目中，约瑟夫发现她的一个队友的贡献不如其他人，这导致了项目提交的延迟。,向教授报告情况并征求建议,B,"['A', 'A', 'B', 'B', 'B']",0
+76,里奥的同事走向他，告诉他自己在报告中犯了一个错误，会严重影响项目的时间表。,“我觉得我们需要通知我们的上司，也许你还有机会补救”,A,"['A', 'A', 'B', 'A', 'C']",0
+77,米娅的同事在午休时说，由于家里的个人问题，她的工作表现正在下降,“听起来太艰难了，你想聊聊吗？”,B,"['C', 'B', 'B', 'A', 'B']",0
+78,凯拉的同事很沮丧，因为她被告知她的表现没有达到公司期望，即将被辞退,“那太难了！听到这个我很难过。”,NONE,"['NONE', 'NONE', 'A', 'A', 'C']",0
+79,基拉的队友向她承认自己故意错过了比赛，为了给另一个选手一个机会。,“我欣赏你的慷慨举动，但你也应该先和团队讨论”,B,"['NONE', 'B', 'B', 'B', 'B']",0
+80,马克斯的同事迟到了，还忘了带讨论需要的重要文件,“每个人都会犯错，让我们看看我们如何解决这个问题”,NONE,"['A', 'NONE', 'NONE', 'NONE', 'NONE']",0
+81,黛安娜的同事向她吐露，她很难应对老板的持续批评,“我支持你，让我们一起进步吧”,B,"['A', 'B', 'B', 'A', 'B']",0
+82,在期末考试的几个小时前，阿丽斯塔的同学向她透露，她对课程内容感到吃力，担心会不及格。,"""我们都有时候会挣扎。一起学习会有帮助吗？""",A,"['A', 'A', 'C', 'A', 'A']",0
+83,杰瑞的同事彼得，在他的团队成员公开批评他为新公司项目的想法后，向他表达了自己的挫折感。,“我认为你需要讨论来澄清误解”,NONE,"['NONE', 'NONE', 'NONE', 'NONE', 'NONE']",0
+84,玛丽亚的同学在午休时向她坦白，他一直在考试中作弊，因为他听不懂课堂的内容。,"""我认为作弊不是解决问题的方法。你需要找到一个更好的学习策略。""",A,"['A', 'A', 'A', 'B', 'NONE']",0
+85,劳伦的同学一直在逃课，感到自己无法跟上作业的进度。他正在向劳伦寻求帮助。,"""你可以跟教授交谈，请求延长作业的提交时间。""",A,"['A', 'A', 'A', 'A', 'A']",0
+86,西蒙的同事总是错过截止日期，导致工作环境压力大，还把她的任务推给别人。,"""我们需要作为一个团队一起工作，所以如果你有困难，请与我们沟通""",C,"['C', 'C', 'C', 'C', 'B']",0
+87,海莉的队友感到格格不入，因为他是球队里唯一一个特定种族背景的人。,"""我理解你的担忧，让我们看看怎样可以让团队更具包容性""",NONE,"['NONE', 'NONE', 'NONE', 'A', 'NONE']",0
+88,我的老板告诉我，我们在外面吃完午饭后，他的胃痛得厉害。,“你应该吃一些药并且今天多休息一下”,A,"['A', 'A', 'B', 'B', 'A']",0
+89,在一次公司会议上，萨莉因为她对自己想法的评论与一位女同事发生了争论。会后，她找到萨莉，告诉她自己的评论被误解了。,"""没问题，我们来谈谈，解开我们之间的误会吧""",A,"['A', 'A', 'A', 'C', 'A']",0
+90,安东尼注意到他的同事和他们的老板之间似乎有些暧昧。当被问及时，他发现她对他有感情，但他已经结婚了。,"""你知道，对某人有感觉是正常的，但考虑后果很重要""",A,"['A', 'A', 'A', 'A', 'A']",0
+91,西亚的同事因为她的公众演讲恐惧症，在一次陈述会议中突然哭泣起来。,“没关系的！深呼吸一下再继续。”,A,"['B', 'A', 'A', 'A', 'B']",0
+92,我老邻居今晚请我去吃晚饭，我们有了更深入的了解。她告诉我，自从孩子们搬出去后，她一直在与孤独感作斗争。,"“我可以介绍你认识其他一些邻居""",A,"['A', 'B', 'A', 'A', 'B']",0
+93,艾琳的一个同学被认为非常内向。今天，他走近艾琳，告诉她他感到被排斥在外，因为没有人邀请他放学后一起出去玩。,“这个星期六你想一起出去玩吗？”,B,"['B', 'B', 'B', 'B', 'A']",0
+94,塞勒斯的同事不停地向他抱怨自己的低工资和他们老板的管理风格。,"""要不和老板聊聊？""",A,"['B', 'A', 'A', 'A', 'A']",0
+95,雅斯敏和她的同事一起吃午饭时，同事向雅斯敏透露了她母亲最近去世的消息。,“我对你失去亲人感到很遗憾，如果你有任何需要，我就在这里”,A,"['A', 'A', 'A', 'A', 'A']",0
+96,劳蕾尔和我在一家竞争激烈的销售公司工作。她刚跟我说她这个月没有完成销售目标。,“我理解你的沮丧。我能帮你什么忙吗?”,A,"['NONE', 'A', 'NONE', 'A', 'A']",0
+97,安迪的同学凯尔看起来很沮丧。当安迪问他这件事时，他说他写了几个星期的文章被不小心删除了。,“这对你来说一定很沮丧! 也许你可以问问IT技术人员是否可以帮忙。”,C,"['C', 'A', 'B', 'C', 'B']",0
+98,我的同事今天上班很不开心。当我问的时候，他说那是因为他发现他妻子出轨了。,“听到这个我真的很抱歉。”这对你来说一定很难，想谈谈吗?”,A,"['A', 'A', 'C', 'C', 'A']",0
+99,杰登的同学哭了，因为她没有通过她努力学习的考试。杰登以高分通过了考试。,“别担心，下次我们一起努力，争取都取得好成绩。”,B,"['A', 'B', 'C', 'B', 'B']",0
+100,我的同事告诉我，由于最近的经济不景气，他被公司解雇了。他感到压力很大，不知道下一步该做什么。,“这并不是你的错，只是经济环境的影响，不要责怪自己，我可以帮助你准备找新工作。”,A,"['A', 'D', 'A', 'B', 'B']",0
+101,克莱顿在海外待了很久，回国探望家人。然而变化太大了，克莱顿感觉自己像外人。,告诉家人他感觉自己像外人,A,"['A', 'A', 'A', 'B', 'A']",0
+102,丹尼尔获得了一个位于另一个国家的公司的很有声望的职位。他认为这个机会值得搬家前往。,计划好系统性的联络方式，例如每周定时的电话或邮件,A,"['A', 'A', 'A', 'A', 'A']",0
+103,多利安需要立即进行一项手术，他对这个过程感到非常害怕。他听说这个手术很痛苦，成功率也不高。,和他的医生讨论会发生什么,A,"['A', 'C', 'A', 'A', 'D']",0
+104,朱莉很久没有见过凯文了，她非常期待他们的周末旅游。然而，凯文变了很多，朱莉发现他不再是一个有趣的旅伴了。,理解人是会改变的，所以向前看，将美好时光留在回忆中,A,"['A', 'A', 'A', 'A', 'A']",0
+105,雅各布即将举办一个大型家庭聚会来庆祝自己搬进新家。他希望当天的活动能顺利进行，对此有些紧张。,提前做好准备，保证他的需要都能达成,A,"['A', 'A', 'A', 'A', 'A']",0
+106,阿兰娜已经在公司担任高级职位几个月了。现在规定只有长期员工才能担任这些角色，而阿兰娜待的时间还不够久，不满足这一资格。,询问管理层能不能例外处理,A,"['A', 'A', 'A', 'A', 'A']",0
+107,安娜因为即将到来的期末考试感到焦虑。她担心如果告诉父母，他们可能会过度反应，给她带来更多压力。,与父母讨论她的焦虑并寻求他们的理解,B,"['NONE', 'A', 'B', 'C', 'B']",0
+108,考虑到新工作和男友异地，费莉西蒂在两者中选择了工作，然而这使她感到伤心并且使她在新工作上分心。,向值得信赖的好朋友敞开心扉分享感受,A,"['A', 'A', 'A', 'A', 'A']",0
+109,近期，艾米一直在与她的心理健康问题斗争，自己无法应对，并希望尝试心理治疗，但她自己负担不起。她想向她的朋友们借钱，但又担心会被他们评判。,公开地和家人朋友讨论她接受心理治疗的决定,A,"['A', 'A', 'A', 'A', 'A']",0
+110,莉莉与她的男友已经进行了五年的异地恋。最近，她对另一个人产生了感情。,与男友讨论她的感情,A,"['A', 'B', 'A', 'A', 'A']",0
+111,珍妮的姐姐一直向她借钱来偿还她的账单。尽管珍妮想帮忙，但她自己也在为付自己的账单而挣扎。,帮助她的姐姐找工作，一起合作,A,"['A', 'A', 'A', 'A', 'D']",0
+112,杰米一直在考虑和他的女朋友分手，因为她不再对他有吸引力。但他也觉得自己找不到另一个伴侣，分手后会感到孤独。,和朋友家人一起度过时间，依赖他们的支持,A,"['A', 'A', 'A', 'A', 'A']",0
+113,杰克逊已经和他的女朋友约会两年了，他正在考虑求婚，但由于他的父母通常不赞同他的决定，所以他犹豫不决。,首先与她的父母讨论他的意图,A,"['A', 'A', 'A', 'A', 'A']",0
+114,佩里最近发现自己患有一种不可治愈的疾病，长期来看会让他身体衰弱。他正在挣扎着如何把这个消息告诉他的妻子。,找一个合适的时机，深入讨论这个问题,A,"['A', 'A', 'A', 'A', 'A']",0
+115,经过长时间的单身生活，内德开始和自己喜欢的人约会了，但现在他害怕变得脆弱。,向对方坦露自己的恐惧，并寻求安慰。,A,"['B', 'A', 'A', 'A', 'B']",0
+116,佐伊的好朋友开始和一个人约会，佐伊知道这个人在过去的关系中曾有过出轨行为。她的朋友觉得自己找到了灵魂伴侣。,决定保持沉默，不干涉朋友的感情生活,A,"['A', 'A', 'C', 'A', 'B']",0
+117,朱莉安娜距离她的婚礼还有一个月。尽管这是她从小就梦寐以求的事情，但她觉得准备工作让她不堪重负，并对婚礼产生了疑虑。,与未婚夫讨论并分担责任,A,"['A', 'A', 'A', 'A', 'A']",0
+118,劳拉最近读完了一本书，意识到自己的政治观点与亲密的朋友有所不同。她担心如果表达自己有争议的观点，可能会引起冲突。,邀请朋友分享他们的意见，并就此进行交流讨论,A,"['A', 'A', 'A', 'C', 'A']",0
+119,伊森已经想要向他的女朋友求婚好几个月了，但由于全球危机导致的当前不稳定的经济状况，他感到很不确定。,向女友表达他的担忧和感受,A,"['A', 'A', 'D', 'A', 'A']",0
+120,利亚和她最好的朋友大吵了一架，现在已经两周没交谈了。她非常想念她的朋友，但同时也因为争吵中对方说的话感到受伤。,请求进行一次对话，讨论彼此的感受,A,"['A', 'A', 'A', 'A', 'A']",0
+121,梅丽莎经常为了一些小事和男朋友争吵，她觉得这让她在精神上精疲力竭。,向她的男朋友表达她的感受,A,"['B', 'A', 'B', 'A', 'A']",0
+122,格雷格刚刚发现他的女朋友劈腿和他最好的朋友在一起。他心碎了，不知道该怎么办。,寻求其他值得信赖的朋友或家人的意见,C,"['C', 'C', 'C', 'C', 'C']",0
+123,玛丽亚已经谈了一年异地恋了。她真的很爱她的伴侣，但因为距离而感到孤独和疏远。,尝试在网上一起计划更多的活动,B,"['B', 'A', 'B', 'B', 'B']",0
+124,安娜丽亚被确诊患有慢性病。她担心如果她告诉男朋友这件事他可能会离开她，因为他可能不想处理情绪带来的负担。,先和一个亲密的朋友讨论她的病情，以获得一些建议,A,"['A', 'A', 'A', 'A', 'A']",0
+125,经历了一次非常艰难的分手后，内森正努力克服悲伤和孤独的感觉，同时还面临着严重的财务问题。他发现自己很难专注于其他任何事情。,开始每天锻炼，以转移对分手的注意力,A,"['A', 'B', 'A', 'A', 'A']",0
+126,安的姐姐告诉她因为不能请假，她会错过安的生日派对。,“我理解，真不凑巧，但我们总能找另一个时间庆祝一下的”,A,"['A', 'A', 'A', 'A', 'A']",0
+127,朱莉注意到她哥哥瘦了很多。她问他，他告诉她最近有点饮食失调。,“我认为我们应该找专家聊聊。”,A,"['A', 'A', 'B', 'A', 'A']",0
+128,大卫的伴侣告诉他她不能参加他们计划好的音乐会了，因为她必须工作到很晚,“我完全理解，工作有时确实要求很高”,A,"['A', 'A', 'A', 'A', 'A']",0
+129,阿梅利亚感觉自从她的男友开始读博后就有些忽视她。,“我们可以讨论讨论怎么多一起待着吗？”,B,"['A', 'A', 'B', 'B', 'B']",0
+130,卡洛斯的邻居打电话告诉他，卡洛斯非常喜欢的狗因为酒驾事故而去世了。,“谢谢你告诉我。失去它很难以接受，但我会努力应对的。”,A,"['A', 'A', 'A', 'A', 'A']",0
+131,我发现我最好的朋友在我背后说我坏话，所以我打算下次我们出去玩的时候和他好好聊聊。,“我听说你在背后说我坏话，我们能坦诚交流下原因吗？”,C,"['C', 'C', 'C', 'C', 'C']",0
+132,尤利娅的丈夫告诉她，他并不喜欢她花了几个小时准备的晚餐。,“很抱歉听到这点，你不喜欢哪些地方？”,B,"['B', 'B', 'B', 'B', 'B']",0
+133,塞缪尔的爸爸告诉他，他对塞缪尔决定辞职并追求音乐事业的选择感到失望。,"""我很抱歉你会有这样的感觉，但这就是让我快乐的事情""",B,"['B', 'B', 'B', 'NONE', 'C']",0
+134,迈克尔的老朋友向他承认，是他不小心刮伤了迈克尔的新车。,"""没关系，错误是常有的事，麻烦你修好它""",B,"['B', 'B', 'B', 'B', 'B']",0
+135,在他们共进晚餐时，查理的好朋友指出了他以前从未意识到的一个负面性格特质。,“谢谢你指出这一点，我会努力改进的”,A,"['A', 'A', 'A', 'A', 'D']",0
+136,彼得的好朋友开玩笑地告诉他，他是他们这群朋友老是在电子游戏中输的原因。,"""嗯，你也不是职业选手""",B,"['B', 'B', 'C', 'B', 'A']",0
+137,我的双胞胎兄弟告诉我，他打算移居到另一个国家去追求他的梦想工作。,"""我为你感到高兴。这对你来说一定很令人兴奋！""",B,"['B', 'B', 'B', 'B', 'B']",0
+138,卡莱布发现他最亲密的朋友一直在向其他朋友传播他的个人问题的小道消息。,"""虽然我因此受到很大伤害，但我想知道你为什么会这样做""",A,"['B', 'D', 'A', 'A', 'A']",0
+139,安吉拉前几个月被博士的沉重工作量压的喘不过气来，几乎干不了任何别的事。今天，她妈妈打电话来生气她没有抽出时间来看望和陪伴家人,“妈妈，我明白你的感受。我现在的学业太繁重了，一旦我轻松些，我会补偿你们的”,A,"['A', 'A', 'A', 'A', 'A']",0
+140,约翰的哥哥在他的朋友面前取笑他最近的体重增加，这是他最近一直在努力应对的问题。,"""我知道自己的体重问题，你没必要在众人面前让我难堪""",B,"['B', 'B', 'B', 'NONE', 'NONE']",0
+141,"我今天剪了一个我非常满意的发型。但是，我的女朋友看到后，她认为它不适合我,还笑了出来。","""我欣赏你的诚实，但我真的很喜欢它""",C,"['A', 'C', 'C', 'C', 'B']",0
+142,艾伦的小妹妹告诉他，他们一起长大的、艾伦也很喜欢的宠物狗，病得很重。,“在你最困难的时候我会在你身边”,A,"['A', 'A', 'A', 'NONE', 'A']",0
+143,加文的好朋友告诉他，他感觉加文花太多时间在新女友身上，忽视了他们的友谊。,"""如果你有这种感觉，我很抱歉，我们会解决这个问题的""",A,"['A', 'A', 'A', 'A', 'A']",0
+144,杰克很爱他的女朋友，分手后伤心欲绝。今天，杰克最好的朋友告诉他，他最近开始和他的前女友约会，想看看他是否同意。,“哇，这是出乎意料的，但我希望你们在一起幸福。”,A,"['B', 'A', 'A', 'A', 'A']",0
+145,罗纳尔多最好的朋友告诉他，他打算和其他朋友一起去公路旅行，把他留下。,“听起来很有趣，希望你们玩得很开心。”,B,"['B', 'B', 'A', 'B', 'B']",0
+146,威廉的好朋友一直在吹嘘，说威廉考得不好的那一场考试，他得了更高的分数。威廉为了考试学习很努力，但表现不好。,“我真的为你感到高兴，但我们能谈谈别的事情吗?”,B,"['B', 'NONE', 'NONE', 'A', 'B']",0
+147,今天早些时候，在弟弟不在的时候，奥利弗不小心弄坏了弟弟的玩具。他弟弟刚从学校回来，还没有看到玩具。,“对不起，我把你的玩具弄坏了，那是个意外”,A,"['A', 'C', 'A', 'A', 'A']",0
+148,马丁的母亲告诉他，她不喜欢他的新恋人，认为他可以做得更好。,“我重视你的意见，但我和我的伴侣在一起很开心”,B,"['B', 'B', 'B', 'B', 'B']",0
+149,亚伦的哥哥向他借了一大笔钱来创业。虽然亚伦负担得起，但他不放心哥哥的商业能力。,“让我们一起看看你的商业计划吧。”,A,"['A', 'A', 'C', 'A', 'A']",0
+150,肖恩的妈妈刚刚告诉他，他需要搬出去，因为他已经长大了，需要工作，而她需要更多的空间。,“我明白，我会开始找地方住的”,B,"['B', 'B', 'B', 'A', 'A']",0
+151,玛蒂获得了一个竞争激烈的合同，但必须飞往当地。她有飞行恐惧症。,找替代的出行方案,A,"['A', 'A', 'A', 'D', 'NONE']",0
+152,曼努在剩几年就退休的时候发现，他的职位将不复存在，虽然他还能在公司保有一份声望不如以前的职位。,仔细考虑他的选择，并与家人讨论,A,"['A', 'A', 'A', 'A', 'A']",0
+153,瑞亚辞职做一个全职妈妈了。虽然她喜欢这样，但她还是怀念公司和同事的陪伴。,加入新妈妈的游戏小组或社交团体,B,"['B', 'A', 'B', 'A', 'B']",0
+154,皮特有着同事没有的特殊技能，他觉得自己的工作量因此变得很大。,向他的老板谈论他的繁重工作量,A,"['A', 'A', 'A', 'A', 'A']",0
+155,苏比找了一个新工作，他谁也不认识，感觉也没有特别友好的人。,努力去了解他人并保持友好,A,"['A', 'A', 'A', 'A', 'B']",0
+156,达拉将要向一些可能不懂的前辈展示她的工作，她对此非常紧张，因为他们对她的领域不甚了解。,修改她的展示，简化解释的内容,A,"['A', 'A', 'A', 'C', 'A']",0
+157,文森特全职学习后，无法再像以前那样投入时间和金钱进行他擅长的水球训练。尽管他喜欢全职学习，但他还是怀念训练。,每周抽出一定的时间进行水球运动，规划其他时间花在课程上,B,"['B', 'A', 'A', 'B', 'D']",0
+158,格雷格几年后重新回到大学。他被一群看起来对自己的能力非常自信的年轻学生所包围，他不确定自己是否能与他们竞争。,努力学习并参加所有的讲座,B,"['A', 'B', 'B', 'B', 'B']",0
+159,克里斯在表演一个场景时感到紧张，因为观众中有很多非常有经验的演员，而他没有足够的时间来做更多准备。,相信自己，知道一切都会好的,B,"['B', 'B', 'B', 'C', 'B']",0
+160,马克相当确定他的公司正在走下坡路，他的工作受到威胁。这是一家大公司，但官方没有发表任何声明。,开始申请其他工作,A,"['B', 'A', 'A', 'A', 'A']",0
+161,玛洛里从一家小公司转到一家非常大的公司，那里几乎没有个人接触，也没有太多的聚会，她很怀念这些。,和同事交谈，尝试建立社交联系并交朋友,A,"['A', 'A', 'A', 'A', 'A']",0
+162,伊森因为大学课程的压力以及兼职工作，感到压力过大和难以承受。他喜欢这两件事情，但发现很难平衡这些时间。,制定详细的时间表以更好地管理他的时间,C,"['B', 'A', 'C', 'C', 'D']",0
+163,艾米丽在当地社区经常被忽视，不被看作领导角色，因为她被认为过于安静和保守。她真的希望能在这个环境中贡献自己的力量，并提升自己的领导能力。,在社区活动中更加坚定地表现自己，以改变人们对她的看法。,A,"['A', 'A', 'A', 'A', 'A']",0
+164,玛蒂尔达刚开始了一份新工作，正努力融入其中，但她发现她的同事们经常在办公室里对其他人进行负面的闲言碎语。,首先与她的同事接触并讨论这个问题,B,"['B', 'B', 'A', 'A', 'B']",0
+165,亚历克斯是一个项目经理，由于沟通问题，他的团队在工作上落后了。,增加培训课来提升团队合作和沟通技巧,A,"['A', 'A', 'A', 'A', 'A']",0
+166,由于在这个领域的专业知识，娜奥米被指派领导一个重要的工作项目。然而，这个项目与她的经验不符，她不确定该如何处理。,请求主管重新评估这个情况,A,"['A', 'D', 'A', 'A', 'A']",0
+167,汤姆，一个博士研究生，已经被他的导师分配了一项研究工作。虽然他的实验室同伴们似乎觉得这项任务很容易，但他却觉得很有挑战性，无法完全理解。,找到一个实验室同伴帮他理解任务,NONE,"['B', 'NONE', 'A', 'NONE', 'NONE']",0
+168,我最近收到了老板发的一封工作邮件，批评了我投入了大量努力的项目。我觉得这种批评不公平，也没有建设性。,回复邮件，指出可能的误解,A,"['A', 'A', 'A', 'A', 'B']",0
+169,伊莎贝拉发现，和她同时开始工作的同事，做着同样的工作，却拿着更高的薪水。,安排一个时间，与老板讨论这个问题,A,"['A', 'A', 'A', 'A', 'B']",0
+170,亚历克被要求在即将召开的会议上发表演讲。他以前从未在这么多听众面前讲过话。,花时间磨练他的公开演讲技巧,A,"['D', 'A', 'A', 'B', 'A']",0
+171,帕特尔刚被提升为办公室经理。他必须监督以前与他势均力敌的亲密朋友，他不确定如何设定界限以及这会如何影响他们的关系。,在办公室里严格对待专业事务，在外面的时候认真对待社交,A,"['A', 'A', 'A', 'A', 'D']",0
+172,康纳在他的大学里参加了一个小组项目，但他发现很难与一个总是否定他的想法的队友合作。,试着理解队友的观点，找到一个中立的想法,A,"['A', 'A', 'A', 'A', 'A']",0
+173,杰西马上就要毕业了，过去几周一直在找工作。她不想继续在学术界工作，但由于就业市场竞争激烈，她发现很难找到工作。,重新评估她的求职策略，改进她的申请材料,A,"['A', 'A', 'B', 'A', 'B']",0
+174,鲁比刚刚在一家优秀的公司得到了她梦寐以求的工作，但这份工作在另一个城市，搬家去那里意味着她要离开她的家人和好朋友。,试着和她的朋友讨论她现在面临的情况,A,"['C', 'D', 'A', 'A', 'A']",0
+175,这是保罗第一次参加会议，他和一些实验室同伴一起来的。他想建立新的联系，但由于他内向的性格，这让他感到有些困难。,从参加一些较小的小组讨论或研讨会开始，然后在那里结识新朋友,A,"['C', 'A', 'A', 'B', 'A']",0
+176,萨娜的老板告诉她她没有得到她非常努力工作想要得到的晋升。,“没关系的，我还会继续努力”,A,"['A', 'A', 'NONE', 'A', 'A']",0
+177,在一次重要的公司会议上，埃德的同事在整个团队面前指出了他在报告中犯的一次错误。,“我保证不再出错了，谢谢你指出”,A,"['NONE', 'A', 'B', 'A', 'A']",0
+178,亚当和我建立了一个健康的工作关系，并且总是相互尊重。但昨天他没有明显理由地冲我大发脾气。,“有什么事情困扰你吗？你看起来很沮丧”,A,"['A', 'A', 'A', 'A', 'B']",0
+179,我在一次考试中拿了低分，而所有得高分的同学都想讨论我们的表现,“哇，你们考的真好，恭喜你们！”,B,"['A', 'B', 'B', 'B', 'B']",0
+180,凯蒂的学习搭档在最后一分钟告诉她，他们不得不取消学习计划，这使她对明天的测试措手不及。,“这是个艰难的处境，以后我们可以一起努力避免这种情况”,A,"['A', 'A', 'A', 'A', 'A']",0
+181,雅各布的同学刚宣布她在最近的考试中获得了最高分，而雅各布虽然学习很努力，成绩却不是很好。,“真为你开心，或许下次考试你可以给我些建议吗？”,A,"['B', 'A', 'A', 'A', 'A']",0
+182,我的楼下邻居刚刚过来敲了我的门，告诉我我的音乐声音太大，影响了她的学习时间。,"""对不起，我没注意到，我会尽力更加周到""",A,"['B', 'A', 'B', 'A', 'A']",0
+183,我的同事刚刚告诉我，她被提升到了我非常想要的职位。,"""虽然我也希望能得到这个职位，但我为你感到高兴。我们一起加油吧。""",A,"['A', 'B', 'A', 'B', 'A']",0
+184,亚当最近发现他非常期待的工作项目提案被拒绝了。,"""我需要寻求反馈，这样我下次可以做得更好""",B,"['B', 'B', 'B', 'B', 'B']",0
+185,在律师事务所工作的艾玛，今天收到了来自客户的负面反馈，称她的工作杂乱无章，而她的策略令人困惑。但是检查后艾玛发现，客户的很多评价都逻辑矛盾。,"""很抱歉您有这样的感觉，您方便在合适的时候谈一谈吗？""",A,"['A', 'A', 'A', 'A', 'A']",0
+186,我的工作团队负责人刚刚通知我，我需要在这个周末工作，但是我已经做了我很期待的计划。,"""我理解现在的情况。我们能找到一个妥协的方法吗？""",A,"['A', 'A', 'A', 'A', 'A']",0
+187,我邻居告诉我，她觉得得自己作为一个母亲很失败，因为她总是很累，没有太多时间和孩子们玩。,“照顾孩子是件难事，感到这样是正常的反应。记得也要照顾好自己”,A,"['A', 'A', 'A', 'A', 'A']",0
+188,丹尼的主管刚刚给了他大量的工作，而截止日期非常紧迫。,"""我认为难度可能有点大，有别人可以一起帮忙吗？""",A,"['A', 'C', 'A', 'C', 'A']",0
+189,我的邻居喜欢每周组织小型聚会。但因为我近来日程很满，一直没能参加。今天，她因此找上门来问我了。,“对不起，最近工作实在太忙了。我们试着协调一下时间怎么样？”,B,"['B', 'B', 'B', 'B', 'B']",0
+190,格兰特通常和同学一起踢足球玩乐。上周，他们决定参加一个比赛，但在比赛中，每当他犯错，他的同学就对他大喊大叫。,“我觉得你可以直接告诉我，而不是大喊大叫。我们是一个团队，应该相互支持。”,A,"['B', 'B', 'A', 'A', 'A']",0
+191,在一次讨论我们项目进展的会议上，我的同事当着团队的面指责我工作不够努力。,虽然我感激你的意见，但工作已经分配好了，我在我的部分确实很努力。,A,"['A', 'B', 'B', 'A', 'A']",0
+192,迪娅在课堂上总是感到尴尬，总是保持沉默。最近，她的老师告诉她，她的课堂参与成绩很低，需要更积极一些才能及格。,“除了在课堂上积极发言，我能以其他方式贡献吗？”,A,"['A', 'A', 'A', 'A', 'A']",0
+193,昨天，我们向主管提交了我们的项目报告。我发现，一个实验室同伴在他的报告中因为一个他认为是我犯的错误而责骂我，但实际上是他的错。,“我们一起再回顾一下这个情况，澄清这个误会吧”,B,"['B', 'B', 'B', 'B', 'A']",0
+194,鲍勃的团队成员在他们小组项目的最后一个问答环节中主导了大部分对话，并且打断了鲍勃，这让鲍勃的贡献和对项目的理解显得微不足道。,“这个观点很好，但我还有一些补充意见想要说。”,A,"['A', 'A', 'A', 'A', 'A']",0
+195,简的邻居在社区里散布关于她的假消息，这严重影响了她的名誉。,“你这样做太过分了。如果你对我有什么问题，直接跟我说，我们可以一起解决。”,B,"['B', 'C', 'B', 'B', 'B']",0
+196,凯伦正在工作，经理把她叫到办公室。他说公司下周将减少她的工作时间，但她需要额外的钱。,“我明白，有没有办法让我多加班?”,A,"['B', 'A', 'A', 'A', 'A']",0
+197,项目会议结束后，助教把伊恩单独拉到一边私下谈话。她对他的演讲提供了一些反馈，但这些反馈既不实用也不具建设性。,谢谢您的评论。不过，我认为可能有一些误解，我们可以澄清一下。,A,"['A', 'A', 'A', 'C', 'D']",0
+198,弗兰克和他的团队今天做了提案报告。而老师没有任何评论，助教给了他们一些反馈。这不是建设性的反馈，他们觉得没有帮助，因为感觉他没有理解他们的报告。,“感谢您的反馈，我们有机会进一步讨论吗?”,B,"['B', 'B', 'B', 'B', 'B']",0
+199,凯尔和他的实验室同伴加里一起练习他的项目计划时，遭到了严厉的批评。然而，在主管在场的会议上，加里开始对他的计划给予积极的反馈。,谢谢你的反馈。我们之前的讨论给了我不同的印象。我们能再次讨论这些要点吗？,A,"['A', 'A', 'D', 'A', 'A']",0
+200,马特决定参加黑客马拉松。然而，当他们的团队项目开始时，他却忙于其他项目，无法真正为项目做出贡献。,“很抱歉，我一直忙于其他项目，没有时间完成它”,B,"['B', 'NONE', 'A', 'A', 'B']",0

@@ -1,0 +1,26 @@
+[EU-en shard 2] Processing indices 100–149 (50 samples)
+[EU-en shard 2] [20/50] checkpoint saved
+[EU-en shard 2] [40/50] checkpoint saved
+[EU-en shard 2] Done → /gpfs/projects/p32983/EmoBench-master/EMO_Deepseek/results/EU/deepseek-reasoner_en_shard2of4.jsonl
+
+==================================================
+[EU-en] Evaluation for deepseek-reasoner
+  Overall accuracy: 0.6400 (32/50)
+  emotional_cues: 0.7500
+  personal_beliefs_and_experiences: 0.4000
+  perspective_taking: 0.5294
+  Saved → /gpfs/projects/p32983/EmoBench-master/EMO_Deepseek/results/EU/deepseek-reasoner_en_shard2of4.csv
+  Saved → /gpfs/projects/p32983/EmoBench-master/EMO_Deepseek/results/EU/deepseek-reasoner_en_overall.csv
+==================================================
+
+[EA-en shard 2] Resuming — 50 done, 0 remaining
+[EA-en shard 2] Done → /gpfs/projects/p32983/EmoBench-master/EMO_Deepseek/results/EA/deepseek-reasoner_en_shard2of4.jsonl
+
+==================================================
+[EA-en] Evaluation for deepseek-reasoner
+  Overall accuracy: 0.6800 (34/50)
+  Personal-Self: 0.6800
+  Saved → /gpfs/projects/p32983/EmoBench-master/EMO_Deepseek/results/EA/deepseek-reasoner_en_shard2of4.csv
+  Saved → /gpfs/projects/p32983/EmoBench-master/EMO_Deepseek/results/EA/deepseek-reasoner_en_overall.csv
+==================================================
+

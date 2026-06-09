@@ -97,4 +97,8 @@ for split in splits:
 
 overall_df = pd.DataFrame(overall_results)
 overall_df.to_csv("gemini_overall_results.csv", index=False)
+<<<<<<< HEAD
 print("\nDone. gemini_overall_results.csv updated.")
+=======
+print("\nDone. gemini_overall_results.csv updated.")
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2

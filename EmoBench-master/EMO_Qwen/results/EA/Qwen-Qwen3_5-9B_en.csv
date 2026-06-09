@@ -1,0 +1,985 @@
+qid,lang,category,question_type,scenario,subject,label,answer,model_response,score
+1,en,Personal-Others,Action,Sarah found out that her younger brother is being bullied at school but he begged her not to tell their parents.,Sarah,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+2,en,Personal-Others,Action,"Natalie's friend has recently been going through a breakdown after a bad break-up and constantly calls Natalie throughout the day to talk about how she feels, which is overwhelming to Natalie",Natalie,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+3,en,Personal-Others,Action,"James' best friend has been acting distant and unresponsive recently. When James asked what was wrong, his friend mumbled something about coping with ""personal problems"".",James,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+4,en,Personal-Others,Action,Mike's teenage son was caught yesterday stealing videogames from the local store.,Mike,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+5,en,Personal-Others,Action,Samantha's teenage daughter recently started hanging out with a group of friends who she believes are a bad influence.,Samantha,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+6,en,Personal-Others,Action,"Robert had an old red t-shirt that he wanted to throw out. One day, his friend Andrew, asked to borrow the t-shirt for a party. The next day, Andrew came to Robert and apologetically told him that he lost the T-shirt.",Robert,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+7,en,Personal-Others,Action,Nick's younger brother lost his scholarship due to poor grades and now he doesn't know how to continue his education.,Nick,A,B,"```json
+{
+""answer"": ""B""
+}
+```",0
+8,en,Personal-Others,Action,"On his way back from work, Adrian was stuck in traffic when a person started shouting at him for being a bad driver. Once he came out of the car to confront that person, he realized it was his dad.",Adrian,C,A,"```json
+{
+    ""answer"": ""A""
+}
+```",0
+9,en,Personal-Others,Action,Regina's best friend recently broke up with her longtime partner and is texting Regina in the middle of the night expressing feelings of loneliness,Regina,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+10,en,Personal-Others,Action,Patricia's best friend shares with her that she feels stuck in her relationship with her boyfriend because they are constantly fighting.,Patricia,D,C,"```json
+{
+    ""answer"": ""C""
+}
+```",0
+11,en,Personal-Others,Action,Sarah's best friend confides in her about financial troubles she's experiencing; she's too shy to ask for help and prefers to deal with it privately.,Sarah,B,A,"```json
+{
+""answer"": ""A""
+}
+```",0
+12,en,Personal-Others,Action,My friend lied to me about finishing the part of our group project that he was responsible for.,I,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+13,en,Personal-Others,Action,Andre moves away from the city his friends and family are in. He finds his friends make less effort to keep in contact than he thought they would.,Andre,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+14,en,Personal-Others,Action,"Katerina takes a long time to turn on putting on a movie for the family movie night. Her sister says ""You idiot, how hard is it to put a movie on?"" Katerina is quite close to her sister and family.",Katerina,B,B,"```json
+{
+""answer"": ""B""
+}
+```",1
+15,en,Personal-Others,Action,Benjiro's parents are in their late 80s and living interstate in a house by themselves. He is worried that they need some help but they angrily deny it any time he brings up the subject.,Benjiro,A,A,"```json
+    {
+    ""answer"": ""A""
+    }
+```",1
+16,en,Personal-Others,Action,Andie answers the phone and hears that her close relatives are in hospital critically ill.,Andie,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+17,en,Personal-Others,Action,Evan's sister cooked food late at night when she was staying over at his place and she left a huge mess in the kitchen that Evan discovered at breakfast,Evan,B,C,"```json
+{
+    ""answer"": ""C""
+}
+```",0
+18,en,Personal-Others,Action,"Gloria's housemates never buy essential non-food items when they are running low, relying on Gloria to buy them, which she resents. They know each other reasonably well, but have not yet discussed financial issues.",Gloria,B,C,"```json
+{
+    ""answer"": ""C""
+}
+```",0
+19,en,Personal-Others,Action,Bella is overseas when she finds out that her father has passed away from an illness he has had in recent years.,Bella,A,A,"```json
+{
+    ""answer"": ""A""
+}
+```",1
+20,en,Personal-Others,Action,"Mina and her sister-in-law normally get along quite well, and the sister-in-law regularly baby-sits for her for a small fee. Lately she has also been cleaning away cobwebs, commenting on the mess, which Mina finds insulting.",Mina,A,A,"```json
+{
+    ""answer"": ""A""
+}
+```",1
+21,en,Personal-Others,Action,"Jerry has had several short-term jobs in the same industry, but is excited about starting a job in a different industry. His father casually remarks that he will probably last six months.",Jerry,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+22,en,Personal-Others,Action,Michelle's friend Dara is moving overseas to live with her partner. They have been good friends for many years and Dara is unlikely to come back.,Michelle,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+23,en,Personal-Others,Action,"Shania has not spoken to her nephew for months, whereas when he was younger they were very close. She rings him but he says he can only talk for five minutes.",Shania,C,A,"```json
+    {
+    ""answer"": ""A""
+    }
+```",0
+24,en,Personal-Others,Action,Andrew's best friend confessed to him that he cheated on his wife and doesn't know what to do next.,Andrew,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+25,en,Personal-Others,Action,"Anita's best friend, Maya, has been feeling down lately due to a recent breakup and is finding hard to concentrate on her upcoming college project.",Anita,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+26,en,Personal-Others,Response,"Eileen has been diagnosed with a terminal disease. She has been visiting different specialists to find a cure. Yesterday, she was eating dinner with her sister when she received a call from the hospital. The hospital told her that found a possible solution to her predicament. Eileen dropped her phone and sobbed into her hands. Seeing this, her sister immediately went to her side.",Eileen's sister,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+27,en,Personal-Others,Response,My girlfriend told me that she has a painful stomachache after our lunch outside.,I,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+28,en,Personal-Others,Response,"Jonas's younger brother confided in him that he did poorly on the college entrance examination, which he could only take once.",Jonas,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+29,en,Personal-Others,Response,"My best friend tells me that her dog, which she has had for 10 years, just passed away.",I,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+30,en,Personal-Others,Response,Iris' little sister reveals that she is upset about her weight gain.,Iris,C,D,"{
+    ""answer"": ""D""
+}",0
+31,en,Personal-Others,Response,My sister is crying because her best friend moved away unexpectedly.,I,A,C,"```json
+{
+    ""answer"": ""C""
+}
+```",0
+32,en,Personal-Others,Response,Sheila's best friend just told she that she failed her driving test for the third time.,Sheila,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+33,en,Personal-Others,Response,Bobby's brother just confessed to Bobby that he accidentally backed into another car and left the scene without leaving a note.,Bobby,A,A,"```json
+    {
+    ""answer"": ""A""
+    }
+```",1
+34,en,Personal-Others,Response,My close friend confided to me that she feels lonely and unhappy because all her other friends are getting into relationships.,I,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+35,en,Personal-Others,Response,Barbara's sister told her she is feeling overwhelmed with her new job and it's causing her a lot of stress.,Barbara,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+36,en,Personal-Others,Response,Lily's younger brother eagerly told her about a painting he made but she doesn't think it's any good.,Lily,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+37,en,Personal-Others,Response,My roommate just confessed that she cheated on her boyfriend.,I,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+38,en,Personal-Others,Response,"Paula's daughter came crying yesterday, confessing to her mother she is pregnant. She is terrified because she doesn't know who the father is.",Paula,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+39,en,Personal-Others,Response,"Kevin's best friend told him that her husband, who had been treating her badly, passed away, and she had mixed emotions.",Kevin,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+40,en,Personal-Others,Response,My high school friend told me that she has a drinking problem and doesn't know what to do.,I,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+41,en,Personal-Others,Response,"Rebecca told her sister, Rachel, that she's been feeling very down lately and has lost interest in things she used to love doing.",Rachel,A,C,"```json
+{
+    ""answer"": ""C""
+}
+```",0
+42,en,Personal-Others,Response,"Yesterday, Annie gave me the news to her mom that she is pregnant. She said she is terrified and does not feel ready to be a mother.",Annie's mother,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+43,en,Personal-Others,Response,"After weeks of going back and forth, Owen finally told his parents about his serious financial problems due to job loss.",Owen's parents,D,C,"```json
+{
+    ""answer"": ""C""
+}
+```",0
+44,en,Personal-Others,Response,"Alice's best friend, Rose, tells her that she feels like she can't compete with other classmates in terms of grades and achievements.",Alice,B,D,"```json
+{
+    ""answer"": ""D""
+}
+```",0
+45,en,Personal-Others,Response,My father tells me that my mother has been unfaithful.,I,A,C,"```json
+{
+    ""answer"": ""C""
+}
+```",0
+46,en,Personal-Others,Response,"Because of the recent acnes on her skin, Mary's roommate talks to her about how she has no confidence because of her appearance",Mary,D,C,"```json
+{
+    ""answer"": ""C""
+}
+```",0
+47,en,Personal-Others,Response,"As a personal trainer, I have been training James for the past six months. Today, he expressed his frustration to me that he was not gaining any muscles after all our training.",I,C,A,"{
+    ""answer"": ""A""
+}",0
+48,en,Personal-Others,Response,"Timmy's son has been spending the last several weeks preparing for his thesis proposal. When the results came out, his son told him that he didn't pass.",Timmy,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+49,en,Personal-Others,Response,Giada's son lost his soccer game and is feeling very upset because he blames himself for the team's defeat.,Giada,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+50,en,Personal-Others,Response,Andre's mom shared with him that she thinks his dad has been constantly picking fights with her over trivial matters.,Andre,C,B,"```json
+{
+    ""answer"": ""B""
+}
+```",0
+51,en,Social-Others,Action,"Lee's workmate fails to deliver an important piece of information on time, causing Lee to fall behind schedule as well.",Lee,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+52,en,Social-Others,Action,Alexa and Connie have shared an office for years but Alexa gets a new job and Connie loses contact with her,Connie,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+53,en,Social-Others,Action,"Alan helps Trudy, a peer he works with occasionally, with a difficult task. Trudy complains that Alan's work isn't very good, and Alan responds that Trudy should be grateful he is doing her a favor. They argue.",Alan,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+54,en,Social-Others,Action,Helga's team has been performing very well. They receive poor-quality work from another team that they must incorporate into their own project.,Helga,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+55,en,Social-Others,Action,"Mike has been working at a new part-time job while he studies. His boss changed his shift times for the week at the last minute, without asking him in advance.",Mike,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+56,en,Social-Others,Action,"Caroline found a restaurant online that had become famous for its rude customer service. She decided to go there for dinner. Once she sat down, instead of greeting, she was cursed by the waitress with many profanities.",Caroline,C,B,"```json
+{
+    ""answer"": ""B""
+}
+```",0
+57,en,Social-Others,Action,"Marcus's colleague is constantly making personal calls at work, disregarding how it affects the work environment.",Marcus,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+58,en,Social-Others,Action,"Tonya's boss has been treating her unfairly and making her work life miserable. Despite multiple discussions with human resources, the situation doesn't seem to improve.",Tonya,C,D,"```json
+{
+    ""answer"": ""D""
+}
+```",0
+59,en,Social-Others,Action,Harper's colleague has been crying in the office and has been pushing others away when they try to approach her.,Harper,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+60,en,Social-Others,Action,"Kevin, an office manager, notices workplace tension because two of his team members were in a heated altercation yesterday and haven't spoken to each other since.",Kevin,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+61,en,Social-Others,Action,"Neil's new classmate appears to be struggling with English assignments due to English being his second language, and often seems left out during group projects.",Neil,A,A,"```json
+{
+    ""answer"": ""A""
+}
+```",1
+62,en,Social-Others,Action,Laura's team member disclosed to her in confidence that she is dealing with a personal crisis and struggles to focus on work. This is affecting the entire team's work efficiency.,Laura,A,A,"```json
+{
+    ""answer"": ""A""
+}
+```",1
+63,en,Social-Others,Action,"Trevor's colleague always jokes about his heavy workloads and lack of sleep, but Trevor could see it was starting to affect his performance and health.",Trevor,B,D,"```json
+{
+    ""answer"": ""D""
+}
+```",0
+64,en,Social-Others,Action,Hannah's classmates always interrupts others to ask questions in class and makes fun of them.,Hannah,C,D,"```json
+{
+    ""answer"": ""D""
+}
+```",0
+65,en,Social-Others,Action,Jessica's colleague is consistently taking credit for her ideas during team meetings.,Jessica,A,A,"```json
+{
+    ""answer"": ""A""
+}
+```",1
+66,en,Social-Others,Action,"Max prided himself on his work being of the highest quality, and Max was warm-hearted. On a joint project with another team, his new teammates did a terrible job, thinking Max would fix their mistakes.",Max,D,C,"```json
+{
+    ""answer"": ""C""
+}
+```",0
+67,en,Social-Others,Action,A junior employee making routine adjustments to some of Theo's equipment accuses him of causing the equipment malfunction.,Theo,C,C,"```json
+    {
+    ""answer"": ""C""
+    }
+```",1
+68,en,Social-Others,Action,The woman who relieves Celia at the end of her shift is twenty minutes late without excuse or apology,Celia,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+69,en,Social-Others,Action,Jason finds out that some members of his social sports team have been saying that he is not a very good player.,Jason,C,D,"```json
+{
+    ""answer"": ""D""
+}
+```",0
+70,en,Social-Others,Action,Joel has always dealt with one particular client but on a very complex job his boss gives the task to a co-worker instead. Joel wonders whether his boss thinks he can't handle the important jobs.,Joel,B,A,"```json
+{
+    ""answer"": ""A""
+}
+```",0
+71,en,Social-Others,Action,"A demanding client takes up a lot of Jill's time and then asks to speak to Jill's boss about her performance. Jill's boss assures her that her performance is fine, which Jill does not trust.",Jill,D,C,"```json
+{
+    ""answer"": ""C""
+}
+```",0
+72,en,Social-Others,Action,"Blair and Flynn usually go to a cafe after the working week and chat about what's going on in the company. After Blair's job is moved to a different section in the company, he stops coming to the cafe. Flynn misses these Friday talks.",Flynn,D,A,"```json
+{
+    ""answer"": ""A""
+}
+```",0
+73,en,Social-Others,Action,Hannah's access to essential resources has been delayed by her coworkers and her work is way behind schedule. Her progress report makes no mention of the lack of resources.,Hannah,C,A,"```json
+{
+    ""answer"": ""A""
+}
+```",0
+74,en,Social-Others,Action,"Janice is given an official warning for entering a restricted area. She was never informed that the area was restricted and would lose her job if she got two more warnings, which she thinks is unfair.",Janice,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+75,en,Social-Others,Action,"In a group project, Joseph found that one of her teammates is not contributing as much as everyone else, causing delays in the submission of the project.",Joseph,C,A,"```json
+{
+    ""answer"": ""A""
+}
+```",0
+76,en,Social-Others,Response,Leo's colleague approaches him and tells him that he made a mistake in a report that will significantly impact the project timeline.,Leo,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+77,en,Social-Others,Response,Mia's colleague shared during lunch break that her work performance is decreasing due to her personal problems at home.,Mia,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+78,en,Social-Others,Response,Kayla's co-workers are upset because she's been told her performance doesn't meet the company expectations and she's about to be fired.,Kayla,A,C,"```json
+{
+    ""answer"": ""C""
+}
+```",0
+79,en,Social-Others,Response,Kira's teammate admitted to her that she intentionally missed the competition because she wanted to give the chance to another player.,Kira,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+80,en,Social-Others,Response,Max's colleague arrived late for a team meeting and forgot to bring the crucial documents necessary for the discussion.,Max,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+81,en,Social-Others,Response,Diana's coworker confides in her that she is having difficulties dealing with the constant criticism from their boss.,Diana,B,C,"```json
+{
+    ""answer"": ""C""
+}
+```",0
+82,en,Social-Others,Response,"Hours before the final exam, Arista's classmate reveals to her that she is struggling with the course material and is worried about failing the class.",Arista,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+83,en,Social-Others,Response,"Jerry's colleague, Peter, expressed his frustration to him after one of Peter's team members openly criticized his idea for the new company project.",Jerry,D,A,"```json
+{
+    ""answer"": ""A""
+}
+```",0
+84,en,Social-Others,Response,Maria's classmate confessed to her during lunch break that he had been cheating on tests because he couldn't understand what was being said in class.,Maria,C,B,"```json
+{
+    ""answer"": ""B""
+}
+```",0
+85,en,Social-Others,Response,Lauren's classmate has been skipping classes and feels like he can't keep up with the assignment work. He is asking Lauren for help.,Lauren,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+86,en,Social-Others,Response,"Simon's colleague is constantly missing deadlines, causing a stressful work environment, and pushing her tasks onto others.",Simon,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+87,en,Social-Others,Response,Hailey's teammate was feeling out of place as he was the only person of a certain ethnic background on her team.,Hailey,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+88,en,Social-Others,Response,My boss told me that he has a painful stomachache after our lunch meeting today.,I,C,D,"```json
+{
+    ""answer"": ""D""
+}
+```",0
+89,en,Social-Others,Response,"At a company meeting, Sally got into an argument with a female coworker over a comment she made about her idea. After the meeting, she approached Sally and told her that her comments had been misinterpreted.",Sally,A,A,"```json
+{
+    ""answer"": ""A""
+}
+```",1
+90,en,Social-Others,Response,"Antoine had noticed some things going on between his coworker and their boss. When asked, he found out that she has feelings for him, but he is married.",Antoine,C,C,"```json
+    {
+    ""answer"": ""C""
+    }
+```",1
+91,en,Social-Others,Response,Sia's coworker burst into tears in the middle of a presentation meeting due to her public speaking phobia.,Sia,C,D,"```json
+{
+    ""answer"": ""D""
+}
+```",0
+92,en,Social-Others,Response,My old neighbor invited me over for dinner tonight and we got to know each other better. She told me that she has been struggling with loneliness since her children moved out.,I,B,C,"```json
+{
+    ""answer"": ""C""
+}
+```",0
+93,en,Social-Others,Response,"One of Erin's classmates is thought to be extremely introverted. Today, he approached Erin and told her he feels left out because no one invites him to hang out after school.",Erin,A,B,"```json
+{
+    ""answer"": ""B""
+}
+```",0
+94,en,Social-Others,Response,Cyrus' coworkers complained to him endlessly about their low wages and their boss's management style.,Cyrus,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+95,en,Social-Others,Response,Yasmin and her colleague were having lunch together when she disclosed to Yasmin that her mother recently passed away.,Yasmin,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+96,en,Social-Others,Response,Laurel and I work at a competitive sales company. She just shared with me that she didn't meet her sales target this month.,Laurel,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+97,en,Social-Others,Response,"Andy's classmate, Kyle, seemed devasted. When Andy asked him about it, he said the essay he had been working on for weeks was accidentally deleted.",Andy,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+98,en,Social-Others,Response,"My coworker was really upset at work today. When I asked, he said its because he found out his wife is cheating on him.",I,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+99,en,Social-Others,Response,Jaden's classmate started crying because she failed a test she studied very hard for. Jaden passed the test with a high mark.,Jaden,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+100,en,Social-Others,Response,My coworker shared that he was being let go by the company due to the recent economy. He feels stressed and doesn't know what to do next.,I,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+101,en,Personal-Self,Action,Clayton has been overseas for a long time and returns to visit his family. So much has changed that Clayton feels left out.,Clayton,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+102,en,Personal-Self,Action,Daniel was offered a prestigious position with a company located in another country. He decided the opportunity was worth moving to.,Daniel,B,C,"```json
+{
+    ""answer"": ""C""
+}
+```",0
+103,en,Personal-Self,Action,Dorian needs to have an immediate surgery and is quite scared about the process. He has heard that it is quite painful and has a low success rate.,Dorian,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+104,en,Personal-Self,Action,"Julie hadn't seen Kevin for ages and was looking forward to their weekend trip. However, Kevin has changed a lot, and Julie finds that he is no longer an interesting traveling companion.",Julie,C,D,"```json
+{
+    ""answer"": ""D""
+}
+```",0
+105,en,Personal-Self,Action,Jacob is having a large family gathering to celebrate him moving into his new home. He wants the day to go smoothly and is a little nervous about it.,Jacob,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+106,en,Personal-Self,Action,"Alanna has been in a senior role at the company for several months. It is now stipulated that only long-term employees can fill these roles, and Alanna had not been around long enough to qualify.",Alanna,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+107,en,Personal-Self,Action,"Anna is suffering from anxiety due to her upcoming final exams. She is afraid that if she tells her parents about her condition, they might overreact and put more pressure on her.",Anna,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+108,en,Personal-Self,Action,"Concerned about her new job and managing her long-distance relationship, Felicity chooses work over her boyfriend. This makes her sad and distracts her from her new job.",Felicity,B,A,"```json
+{
+    ""answer"": ""A""
+}
+```",0
+109,en,Personal-Self,Action,"Recently, Amy had been struggling with her mental health issues and was unable to cope and wanted to try therapy, but she couldn't afford it. She wanted to borrow money from her friends but was worried about being judged by them.",Amy,D,C,"```json
+    {
+    ""answer"": ""C""
+    }
+```",0
+110,en,Personal-Self,Action,"Lily has been in a long distance relationship with her boyfriend for the past five years. Recently, she has developed feelings for another person.",Lily,A,B,"```json
+{
+    ""answer"": ""B""
+}
+```",0
+111,en,Personal-Self,Action,"Jenny's sister has been borrowing money from her to pay off her bills. Although Jenny wants to help, she is struggling to pay her own bills.",Jenny,B,D,"```json
+{
+    ""answer"": ""D""
+}
+```",0
+112,en,Personal-Self,Action,Jamie has been thinking about breaking up with his girlfriend as he no longer feels attracted to her. But he also feels like he wouldn't find another partner and would be lonely after the break up.,Jamie,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+113,en,Personal-Self,Action,"Jackson has been dating his girlfriend for two years and he's thinking about proposing, but is hesitant because his parents usually do not approve of his decisions.",Jackson,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+114,en,Personal-Self,Action,Perry has recently discovered that he has an incurable disease that is going to debilitate him in the long term. He's struggling with how to reveal this information to his wife.,Perry,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+115,en,Personal-Self,Action,"After a long period of staying single, Ned has started dating someone he likes but is now has fear of becoming vulnerable.",Ned,C,C,"```json
+    {
+    ""answer"": ""C""
+    }
+```",1
+116,en,Personal-Self,Action,Zoe's best friend has started dating someone whom Zoe knows has cheated in their past relationships. Her friend feels like she has found her soulmate.,Zoe,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+117,en,Personal-Self,Action,"Juliana has a month until her wedding day. While this is something she dreamt of ever since she was a child, she feels overwhelmed by the preparation and has doubts about the wedding.",Juliana,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+118,en,Personal-Self,Action,Laura has recently finished reading a book and realized she has differing political viewpoints from her close group of friends. She is worried about the potential conflict that might arise if she expresses her controversial opinions.,Laura,D,C,"```json
+{
+    ""answer"": ""C""
+}
+```",0
+119,en,Personal-Self,Action,"Ethan has been wanting to propose to his girlfriend for months now, but is feeling unsure due to the current unstable economic conditions resulting from a global crisis.",Ethan,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+120,en,Personal-Self,Action,"Leah had a big fight with her best friend, and they haven't talked for two weeks now. She really misses her friend but she also feels hurt by things they said during the fight.",Leah,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+121,en,Personal-Self,Action,Melissa often argues with her boyfriend about small topics and she feels like it is mentally draining her.,Melissa,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+122,en,Personal-Self,Action,Greg just found out that his girlfriend cheated on him with his best friend. He is heartbroken and unsure of what to do.,Greg,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+123,en,Personal-Self,Action,"Maria has been in a long-distance relationship for 1 year. She really loves her partner, but feels lonely and disconnected because of the distance.",Maria,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+124,en,Personal-Self,Action,Analia has been diagnosed with chronic illness. She's afraid her boyfriend might leave her if she tells him about it because he might not want to deal with the emotional burden.,Analia,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+125,en,Personal-Self,Action,"After a very tough breakup, Nathan is struggling to overcome feelings of sadness and loneliness, while facing serious financial issues. He finds it hard to focus on anything else.",Nathan,A,C,"```json
+{
+    ""answer"": ""C""
+}
+```",0
+126,en,Personal-Self,Response,Ann's sister told her that she will miss her birthday party because she couldn't get days off from work.,Ann,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+127,en,Personal-Self,Response,"Julie noticed that her brother had lost a lot of weight. When she asked him about it, he informed her of his recently developed eating disorder.",Julie,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+128,en,Personal-Self,Response,David's partner told him that she will not be able to attend the concert they had been planning to go together because she has to work late.,David,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+129,en,Personal-Self,Response,Amelia feels neglected by her long-term boyfriend since he started working on his PhD.,Amelia,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+130,en,Personal-Self,Response,"Carlos's neighbor called and told him that his dog, which Carlos was deeply attached to, has died due to an accident with a drunk driver.",Carlos,A,A,"```json
+{
+    ""answer"": ""A""
+}
+```",1
+131,en,Personal-Self,Response,"I just found out my best friend has been talking behind my back. So, I decided to talk to him the next time we hung out.",I,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+132,en,Personal-Self,Response,"Yulia's husband told her that he doesn't enjoy the meal she cooked for dinner, which she spent hours preparing.",Yulia,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+133,en,Personal-Self,Response,Samuel's dad tells him that he is disappointed with Sam's decision to quit his job and pursue a career in music.,Samuel,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+134,en,Personal-Self,Response,Michael's long-term friend admits to him that he was the one who accidentally scratched Mike's new car.,Michael,B,B,"```json
+    {
+    ""answer"": ""B""
+    }
+```",1
+135,en,Personal-Self,Response,"During their dinner together, Charlie's best friend points out a negative trait about him that he was not aware of before.",Charlie,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+136,en,Personal-Self,Response,Peter's best friend jokingly told him that he is the reason why their group of friends keep losing at video games.,Peter,D,C,"```json
+{
+    ""answer"": ""C""
+}
+```",0
+137,en,Personal-Self,Response,My twin brother told me that he's going to move to another country to pursue his dream job.,I,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+138,en,Personal-Self,Response,Caleb found out that his closest friend has been gossiping about his personal issues to other friends.,Caleb,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+139,en,Personal-Self,Response,"Angela has been buried under the heavy workload of her PhD for the past few months, barely getting the time to do anything else. Today, her mom called and got angry at her for not dedicating time to her family and paying them a visit.",Angela,B,C,"```json
+{
+    ""answer"": ""C""
+}
+```",0
+140,en,Personal-Self,Response,"John's older brother teased him about his recent weight gain in front of his friends, something that he has been struggling about recently.",John,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+141,en,Personal-Self,Response,"I got a haircut today that I was really proud of. But when my girlfriend saw it, she thought it didn't suit me and laughed.",I,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+142,en,Personal-Self,Response,"Allen's little sister told him that her pet dog, whom Allen has grown up with and is also fond of, has become severely ill.",Allen,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+143,en,Personal-Self,Response,"Gavin's best friend told him that he feels Gavin is spending too much time with his new girlfriend, neglecting their friendship.",Gavin,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+144,en,Personal-Self,Response,"Jack loved his girlfriend a lot and was heartbroken after the breakup. Today, Jack's best friend told him he's started dating his ex-girlfriend recently and wanted to see if that's ok with him.",Jack,B,D,"```json
+{
+    ""answer"": ""D""
+}
+```",0
+145,en,Personal-Self,Response,"Ronaldo's best friend tells him that he intends to go on a road trip with his other friends, leaving him behind.",Ronaldo,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+146,en,Personal-Self,Response,"William's close friend kept bragging that he got a much higher score on the same exam that he did poorly on. William studied really hard for the test, but couldn't perform well.",William,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+147,en,Personal-Self,Response,"Earlier in the day, Oliver accidentally broke his little brother's toy while he was not around. His brother just came back from school and hasn't seen the toy yet.",Oliver,A,A,"```json
+{
+    ""answer"": ""A""
+}
+```",1
+148,en,Personal-Self,Response,Martin's mother tells him that she doesn't like his new romantic partner and thinks he can do way better.,Martin,A,A,"```json
+{
+    ""answer"": ""A""
+}
+```",1
+149,en,Personal-Self,Response,"Aaron's brother asked him for a significant amount of money loan to start a business. While Aaron can afford it, he's not sure about his brother's business skills.",Aaron,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+150,en,Personal-Self,Response,"Sean's mother just told him he needs to move out of the house, because he is all grown up and needs to work, while she needs more space.",Sean,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+151,en,Social-Self,Action,"Martina is accepted for a highly sought after contract, but has to fly to the location. Martina has a phobia of flying.",Martina,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+152,en,Social-Self,Action,"Manual is only a few years from retirement when he finds out his position will no longer exist, although he will still have a job with a less prestigious role.",Manual,A,A,"```json
+{
+    ""answer"": ""A""
+}
+```",1
+153,en,Social-Self,Action,"Rhea has left her job to be a full-time mother, which she loves, but she misses the company and companionship of her workmates.",Rhea,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+154,en,Social-Self,Action,Pete has specific skills that his workmates do not and he feels that his workload is higher because of it.,Pete,A,A,"```json
+{
+    ""answer"": ""A""
+}
+```",1
+155,en,Social-Self,Action,Surbhi starts a new job where he doesn't know anyone and finds that no one is particularly friendly.,Surbhi,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+156,en,Social-Self,Action,"Darla is nervous about presenting her work to a group of seniors who might not understand it, as they don't know much about her area.",Darla,C,C,"```json
+    {
+    ""answer"": ""C""
+    }
+```",1
+157,en,Social-Self,Action,"Upon entering full-time study, Vincent cannot afford the time or money he used to spend on waterpolo training, which he was quite good at. Although he enjoys full-time study, he misses training",Vincent,A,B,"{
+""answer"": ""B""
+}",0
+158,en,Social-Self,Action,Greg has just gone back to university after a lapse of several years. He is surrounded by younger students who seem very confident about their ability and he is unsure whether he can compete with them.,Greg,B,D,"```json
+{
+    ""answer"": ""D""
+}
+```",0
+159,en,Social-Self,Action,"Chris is nervous about acting a scene when there are a lot of very experienced actors in the crowd, and he doesn't have enough time to prepare more.",Chris,C,B,"```json
+{
+    ""answer"": ""B""
+}
+```",0
+160,en,Social-Self,Action,Mark is fairly sure his company is going down and his job is under threat. It is a large company and nothing official has been said.,Mark,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+161,en,Social-Self,Action,"Mallory moves from a small company to a very large one, where there is little personal contact and not a lot of gathering going on, which she misses.",Mallory,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+162,en,Social-Self,Action,"Ethan is feeling overwhelmed and stressed due to the demands of his college courses, while also working a part-time job. He enjoys both but is finding it hard to balance the commitments.",Ethan,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+163,en,Social-Self,Action,Emily is consistently overlooked for leadership roles at her local community because she is seen as too quiet and reserved. She really wants to contribute and grow her leadership skills in this environment.,Emily,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+164,en,Social-Self,Action,"Matilda has just started a new job and is trying to fit in, but she finds that her coworkers often engage in negative gossip about others at the office.",Matilda,B,D,"```json
+{
+    ""answer"": ""D""
+}
+```",0
+165,en,Social-Self,Action,Alex is a project manager and his team is falling behind on their work due to communication issues.,Alex,A,C,"```json
+{
+    ""answer"": ""C""
+}
+```",0
+166,en,Social-Self,Action,"Due to her expertise in the field, Naomi has been tasked to lead an important project at work. However, the project does not align with her experiences and she feels unsure about how to approach it.",Naomi,B,C,"```json
+{
+    ""answer"": ""C""
+}
+```",0
+167,en,Social-Self,Action,"Tom, a PhD student, has been given a piece of research work by his supervisor. While his labmates seem to find the task easy, he finds it challenging and cannot comprehend it completely.",Tom,C,,,0
+168,en,Social-Self,Action,I recently received a work email from my boss criticizing a project that I've put a great amount of effort into. I feel like the criticism is unfair and not constructive.,I,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+169,en,Social-Self,Action,"Isabella finds out that her coworker, who started at the same time as her, is earning a higher salary for doing the same job.",Isabella,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+170,en,Social-Self,Action,Alec has been asked to give a speech at an upcoming conference. He has never spoken to such a large audience before.,Alec,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+171,en,Social-Self,Action,Patel just got promoted to the manager position at his office. He has to oversee close friends whom he was previously equal with and is unsure about setting boundaries and how this affects their relationship.,Patel,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+172,en,Social-Self,Action,"Connor is part of a group project at his university, but he is finding it difficult to collaborate with a teammate who always dismisses his ideas.",Connor,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+173,en,Social-Self,Action,"Jess is going to graduate soon and has been job hunting for the past weeks. She doesn't want to continue in academia but due to the intense job market, she has been finding it hard to find a job.",Jess,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+174,en,Social-Self,Action,"Ruby was just offered the job of her dreams in an outstanding company, but the position is in a different city, and moving would mean leaving her family and close friends behind.",Ruby,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+175,en,Social-Self,Action,It's Paolo's first time attending a conference and he came with some of his labmates. He wants to make new connections but is struggling to do so due to his introverted nature.,Pablo,C,D,"```json
+{
+    ""answer"": ""D""
+}
+```",0
+176,en,Social-Self,Response,Sana's boss tells her she didn't get the promotion she worked so hard for.,Sana,B,A,"```json
+{
+    ""answer"": ""A""
+}
+```",0
+177,en,Social-Self,Response,"During an important company meeting, Ed's colleague pointed out an error he had made in a report in front of the entire team.",Ed,B,B,"```json
+    {
+    ""answer"": ""B""
+    }
+```",1
+178,en,Social-Self,Response,"Adam and I have developed a healthy work relationship and always respect each other. But yesterday, he just snapped at me for no apparent reason.",I,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+179,en,Social-Self,Response,"I received a low grade on a test, and my classmates who all got high scores wanted to discuss our performance.",I,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+180,en,Social-Self,Response,"Katie's study partner let her know last minute that they had to cancel, leaving her unprepared for the test tomorrow.",Katie,C,A,"{
+""answer"": ""A""
+}",0
+181,en,Social-Self,Response,"Jacob's classmate just announced that she scored the highest in our recent exam, which Jacob had studied hard for but didn't perform that well.",Jacob,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+182,en,Social-Self,Response,My downstairs neighbor just came and knocked on my door to tell me my loud music was disturbing her study time.,I,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+183,en,Social-Self,Response,My coworker just informed me that she was promoted to a position that I deeply desired.,I,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+184,en,Social-Self,Response,Adam recently found out that he was turned down for a project proposal at work that he was very excited about.,Adam,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+185,en,Social-Self,Response,"Emma, who works at a law firm, received negative feedback from clients today, saying her work was disorganized and her strategy was confusing. But after the inspection, Emma found that many of the customer reviews had logical contradictions.",Emma,C,B,"```json
+{
+    ""answer"": ""B""
+}
+```",0
+186,en,Social-Self,Response,"My team leader at work just informed me that I need to work this weekend, but I already made plans that I was excited about.",I,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+187,en,Social-Self,Response,My neighbor told me that she feels like she's failing as a mother because she's always tired and doesn't play with her kids as much.,I,A,A,"```json
+{
+    ""answer"": ""A""
+}
+```",1
+188,en,Social-Self,Response,Dani's supervisor has just given him a huge amount of work with a very short deadline,Dani,D,B,"```json
+{
+    ""answer"": ""B""
+}
+```",0
+189,en,Social-Self,Response,"My neighbor loves to organize weekly small gatherings. But due to my busy schedule, I haven't been able to attend recently. Today, she confronted me about it.",I,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+190,en,Social-Self,Response,"Grant usually plays soccer with his classmate for fun. Last week, they decided to participate in a competition, and his classmate was shouting at him for every mistake during the game.",Grant,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+191,en,Social-Self,Response,"During a meeting to discuss our project's progress, my colleague accused me of not working hard enough in front of the team.",I,A,D,"```json
+{
+    ""answer"": ""D""
+}
+```",0
+192,en,Social-Self,Response,"Dea is always embarrassed to speak in class and always keeps quiet. Recently, she was informed by her teacher that her class participation grades are low and she needs to be more active to pass.",Dea,B,B,"```json
+{
+""answer"": ""B""
+}
+```",1
+193,en,Social-Self,Response,"Yesterday, we handed in our project reports to the supervisor. I found out that a labmate scolded me in his report for a mistake that he believed I made, but it was actually his fault.",I,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+194,en,Social-Self,Response,"Bob's teammate took over most of the final Q&A session for their group project and spoke over Bob, making Bob's contributions and understanding of the project seem insignificant.",Bob,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+195,en,Social-Self,Response,"Jane's neighbor has been spreading false rumors about her in the community, which heavily affects her reputation.",Jane,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+196,en,Social-Self,Response,"Karen was working when her manager called her to his office. He said that the company will be reducing her work hours next week, but she needs the extra money.",Karen,C,B,"{
+""answer"": ""B""
+}",0
+197,en,Social-Self,Response,"After a project meeting, the TA pulled Ian aside to talk to him privately. She gave him some feedback about his presentation, which was not really helpful nor constructive.",Ian,A,A,"{
+    ""answer"": ""A""
+}",1
+198,en,Social-Self,Response,"Frank and his team gave the proposal presentation today. While the teacher didn't have any comments, the teaching assistant gave them some feedback, which was not constructive criticism and they didn't find it helpful as it felt like he didn't understand their presentation.",Frank,A,B,"```json
+{
+    ""answer"": ""B""
+}
+```",0
+199,en,Social-Self,Response,"Kyle practiced his project plan with his labmate, Gary, and was heavily criticized. However, during the meeting when the supervisor was present, Gary started giving positive feedback on his plan.",Kyle,C,B,"```json
+{
+    ""answer"": ""B""
+}
+```",0
+200,en,Social-Self,Response,"Matt decided to participate in a hackathon. However, when it was time to start their team project, he became really busy with other projects and couldn't really contribute to the project.",Matt,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1

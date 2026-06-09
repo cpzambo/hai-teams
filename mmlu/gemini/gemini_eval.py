@@ -46,6 +46,7 @@ def score_response(model_response, gold_answer):
     return int(final_answer.lower().strip() == gold_answer.lower().strip())
 
 overall_results = []
+<<<<<<< HEAD
 splits = ["Business_ethics",
           "Econometrics",
           "Elementary_math",
@@ -59,6 +60,9 @@ splits = ["Business_ethics",
           "Moral_scenarios",
           "Philosophy",
           "Professional_accounting"]
+=======
+splits = ["Moral_disputes"]
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 
 for split in splits:
     try: 
@@ -106,4 +110,8 @@ for split in splits:
 
 # save the overall results
 overall_df = pd.DataFrame(overall_results)
+<<<<<<< HEAD
 overall_df.to_csv("gemini_overall_results.csv", index=False)
+=======
+overall_df.to_csv("gemini_overall_results.csv", index=False)
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2

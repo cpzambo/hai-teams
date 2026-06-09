@@ -85,6 +85,7 @@ def score_response(model_response, gold_answer, question=""):
 
 # start with an empty list for the overall scores and the list of splits to evaluate
 overall_results = []
+<<<<<<< HEAD
 splits = ["logical_deduction_five_objects",
           "logical_deduction_seven_objects",
           "logical_deduction_three_objects",
@@ -96,6 +97,9 @@ splits = ["logical_deduction_five_objects",
           "temporal_sequences",
           "tracking_shuffled_objects_five_objects",
           "tracking_shuffled_objects_seven_objects",
+=======
+splits = ["tracking_shuffled_objects_seven_objects",
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
           "tracking_shuffled_objects_three_objects",
           "web_of_lies",
           "word_sorting"]
@@ -146,4 +150,8 @@ for split in splits:
 
 # save the overall results
 overall_df = pd.DataFrame(overall_results)
+<<<<<<< HEAD
 overall_df.to_csv("gemma_overall_results.csv", index=False)
+=======
+overall_df.to_csv("gemma_overall_results.csv", index=False)
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2

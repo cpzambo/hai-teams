@@ -1,0 +1,251 @@
+qid,lang,category,question_type,scenario,subject,label,answer,model_response,score
+51,zh,Social-Others,Action,小李的同事没能及时传达一条重要信息，导致小李进度也落后了。,小李,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+52,zh,Social-Others,Action,艾拉和康妮已经共处一个办公室几年了。但艾拉换了工作后，康妮就和她失去了联络。,康妮,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+53,zh,Social-Others,Action,艾伦帮一个偶尔一起工作的同事图蒂完成一个困难的任务。图蒂却抱怨艾伦做的不够好，艾伦则回应说她应该对他的帮助感到感激。他们因此发生了争执。,艾伦,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+54,zh,Social-Others,Action,赫加的团队表现非常出色。但他们收到了另一个团队的质量不佳的工作成果，还必须将其融入到自己的项目中。,赫加,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+55,zh,Social-Others,Action,迈克一边学习一边兼职。他老板在截止前更改了他的轮班时间，却没有事先征求他的意见。,迈克,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+56,zh,Social-Others,Action,卡洛琳在网上找到了一个因其粗鲁的客户服务而出名的餐厅。她打算去那里吃晚饭。她刚坐下，不仅没有受到迎接，还就被服务生用很多粗鲁的语言咒骂了。,卡洛琳,C,B,"```json
+{
+    ""answer"": ""B""
+}
+```",0
+57,zh,Social-Others,Action,马库斯的同事在工作时不断地打私人电话，不顾这对工作环境的影响。,马库斯,C,B,"```json
+{
+    ""answer"": ""B""
+}
+```",0
+58,zh,Social-Others,Action,托尼娅的老板对她不公平，让她的工作生活很痛苦。尽管与人力资源部门进行了多次讨论，情况似乎没有改善。,托尼娅,C,D,"```json
+{
+    ""answer"": ""D""
+}
+```",0
+59,zh,Social-Others,Action,哈珀的同事在办公室里哭泣，并且当别人试图接近她时，她会推开他们。,哈珀,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+60,zh,Social-Others,Action,办公室经理凯文注意到工作场所的紧张气氛，因为他的两名团队成员昨天发生了激烈的争吵，从那以后他们就没有再说话。,凯文,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+61,zh,Social-Others,Action,尼尔的新同学在英语作业上似乎有困难，因为英语是他的第二语言，他在小组项目中经常感到被忽视。,尼尔,A,A,"```json
+{
+    ""answer"": ""A""
+}
+```",1
+62,zh,Social-Others,Action,劳拉的团队成员私下告诉她，她正在处理个人危机，难以集中精力工作。这影响了整个团队的工作效率。,劳拉,A,A,"```json
+{
+    ""answer"": ""A""
+}
+```",1
+63,zh,Social-Others,Action,特雷弗的同事总是拿他们繁重的工作量和缺乏睡眠开玩笑，但特雷弗看出这开始影响到他们的工作表现和健康了。,特雷弗,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+64,zh,Social-Others,Action,汉娜的同学总是在课堂上打断别人提问，还取笑他们。,汉娜,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+65,zh,Social-Others,Action,杰西卡的同事在团队会议中总是把她的想法据为己有。,杰西卡,A,A,"```json
+{
+    ""answer"": ""A""
+}
+```",1
+66,zh,Social-Others,Action,马克斯为自己的工作质量最高而自豪，而且马克思很热心肠。在与另一个团队的联合项目中，他的新队友做得很糟糕，以为马克斯会修正他们的错误。,马克斯,D,C,"```json
+{
+    ""answer"": ""C""
+}
+```",0
+67,zh,Social-Others,Action,一个负责日常调整设备的初级员工指责西奥造成了设备的故障。,西奥,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+68,zh,Social-Others,Action,接替西利亚的女士迟到了二十分钟，没有任何借口或道歉。,西利亚,C,D,"```json
+{
+    ""answer"": ""D""
+}
+```",0
+69,zh,Social-Others,Action,杰森发现他的社交运动队的一些成员一直说他不是一个很好的球员。,杰森,C,D,"```json
+{
+    ""answer"": ""D""
+}
+```",0
+70,zh,Social-Others,Action,乔尔总是和一个特定的客户打交道，但在一项非常复杂的工作上，他的老板把任务交给了同事。乔尔怀疑他的老板是否认为他不能胜任重要的工作。,乔尔,B,A,"```json
+{
+    ""answer"": ""A""
+}
+```",0
+71,zh,Social-Others,Action,一个要求很高的客户占用了吉尔很多时间，并且要求和吉尔的老板谈谈她的表现。吉尔的老板向她保证她的表现很好，但吉尔并不相信。,吉尔,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+72,zh,Social-Others,Action,布莱尔和弗林通常在工作周结束后去咖啡馆聊天，聊聊公司里发生的事情。在布莱尔的工作被调到公司的另一个部门后，他不再来咖啡馆了。弗林怀念那些在周五的会谈。,弗林,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+73,zh,Social-Others,Action,汉娜获得必要资源的时间被她的同事耽误了，她的工作也远远落后于计划。她的进度报告没有提到缺乏资源这件事。,汉娜,C,A,"```json
+{
+    ""answer"": ""A""
+}
+```",0
+74,zh,Social-Others,Action,珍妮丝因进入禁区而受到正式警告。她从未被告知该区域是禁区，并且如果她再得到两次警告，她将失去工作，她认为这是不公平的。,珍妮丝,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+75,zh,Social-Others,Action,在一个小组项目中，约瑟夫发现她的一个队友的贡献不如其他人，这导致了项目提交的延迟。,约瑟夫,C,B,"```json
+{
+    ""answer"": ""B""
+}
+```",0
+76,zh,Social-Others,Response,里奥的同事走向他，告诉他自己在报告中犯了一个错误，会严重影响项目的时间表。,里奥,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+77,zh,Social-Others,Response,米娅的同事在午休时说，由于家里的个人问题，她的工作表现正在下降,米娅,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+78,zh,Social-Others,Response,凯拉的同事很沮丧，因为她被告知她的表现没有达到公司期望，即将被辞退,凯拉,A,C,"```json
+{
+    ""answer"": ""C""
+}
+```",0
+79,zh,Social-Others,Response,基拉的队友向她承认自己故意错过了比赛，为了给另一个选手一个机会。,基拉,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+80,zh,Social-Others,Response,马克斯的同事迟到了，还忘了带讨论需要的重要文件,马克斯,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+81,zh,Social-Others,Response,黛安娜的同事向她吐露，她很难应对老板的持续批评,黛安娜,B,C,"```json
+{
+    ""answer"": ""C""
+}
+```",0
+82,zh,Social-Others,Response,在期末考试的几个小时前，阿丽斯塔的同学向她透露，她对课程内容感到吃力，担心会不及格。,阿丽斯塔,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+83,zh,Social-Others,Response,杰瑞的同事彼得，在他的团队成员公开批评他为新公司项目的想法后，向他表达了自己的挫折感。,杰瑞,D,A,"```json
+{
+    ""answer"": ""A""
+}
+```",0
+84,zh,Social-Others,Response,玛丽亚的同学在午休时向她坦白，他一直在考试中作弊，因为他听不懂课堂的内容。,玛丽亚,C,B,"```json
+{
+    ""answer"": ""B""
+}
+```",0
+85,zh,Social-Others,Response,劳伦的同学一直在逃课，感到自己无法跟上作业的进度。他正在向劳伦寻求帮助。,劳伦,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+86,zh,Social-Others,Response,西蒙的同事总是错过截止日期，导致工作环境压力大，还把她的任务推给别人。,西蒙,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+87,zh,Social-Others,Response,海莉的队友感到格格不入，因为他是球队里唯一一个特定种族背景的人。,海莉,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+88,zh,Social-Others,Response,我的老板告诉我，我们在外面吃完午饭后，他的胃痛得厉害。,我,C,B,"```json
+{
+    ""answer"": ""B""
+}
+```",0
+89,zh,Social-Others,Response,在一次公司会议上，萨莉因为她对自己想法的评论与一位女同事发生了争论。会后，她找到萨莉，告诉她自己的评论被误解了。,萨莉,A,A,"```json
+{
+    ""answer"": ""A""
+}
+```",1
+90,zh,Social-Others,Response,安东尼注意到他的同事和他们的老板之间似乎有些暧昧。当被问及时，他发现她对他有感情，但他已经结婚了。,安东尼,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+91,zh,Social-Others,Response,西亚的同事因为她的公众演讲恐惧症，在一次陈述会议中突然哭泣起来。,西亚,C,B,"```json
+{
+    ""answer"": ""B""
+}
+```",0
+92,zh,Social-Others,Response,我老邻居今晚请我去吃晚饭，我们有了更深入的了解。她告诉我，自从孩子们搬出去后，她一直在与孤独感作斗争。,我,B,A,"```json
+{
+    ""answer"": ""A""
+}
+```",0
+93,zh,Social-Others,Response,艾琳的一个同学被认为非常内向。今天，他走近艾琳，告诉她他感到被排斥在外，因为没有人邀请他放学后一起出去玩。,艾琳,A,A,"```json
+{
+    ""answer"": ""A""
+}
+```",1
+94,zh,Social-Others,Response,塞勒斯的同事不停地向他抱怨自己的低工资和他们老板的管理风格。,赛勒斯,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+95,zh,Social-Others,Response,雅斯敏和她的同事一起吃午饭时，同事向雅斯敏透露了她母亲最近去世的消息。,雅斯敏,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+96,zh,Social-Others,Response,劳蕾尔和我在一家竞争激烈的销售公司工作。她刚跟我说她这个月没有完成销售目标。,劳蕾尔,C,C,"```json
+{
+    ""answer"": ""C""
+}
+```",1
+97,zh,Social-Others,Response,安迪的同学凯尔看起来很沮丧。当安迪问他这件事时，他说他写了几个星期的文章被不小心删除了。,安迪,B,B,"```json
+{
+    ""answer"": ""B""
+}
+```",1
+98,zh,Social-Others,Response,我的同事今天上班很不开心。当我问的时候，他说那是因为他发现他妻子出轨了。,我,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1
+99,zh,Social-Others,Response,杰登的同学哭了，因为她没有通过她努力学习的考试。杰登以高分通过了考试。,杰登,D,A,"```json
+{
+    ""answer"": ""A""
+}
+```",0
+100,zh,Social-Others,Response,我的同事告诉我，由于最近的经济不景气，他被公司解雇了。他感到压力很大，不知道下一步该做什么。,我,D,D,"```json
+{
+    ""answer"": ""D""
+}
+```",1

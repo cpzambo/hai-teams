@@ -1,0 +1,313 @@
+qid,lang,coarse_category,finegrained_category,scenario,subject,emo_label,emo_answer,cause_label,cause_answer,model_response,score
+51,zh,personal_beliefs_and_experiences,cultural_value,为了庆祝他搬进新家，小钟主持了乔迁派对并且邀请了他最好的一个朋友，小利。大概下午6点时，小利到达了小钟的家并且进屋时没有脱鞋。见此情景，小钟要求他脱鞋并且给了他一双拖鞋在室内用。,小利,A,C,A,A,"```json
+{
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""A""
+}
+```",0
+52,zh,personal_beliefs_and_experiences,cultural_value,小萨和艾米决定一起去印度餐厅吃晚饭。艾米是美国人，从来没吃过印餐。他们来了这个餐厅因为小萨希望艾米尝试她的文化和食物。 餐品一上，小萨就开始用手吃饭，并且谈起这顿饭如何让她想起来妈妈做的饭菜。,艾米,D,C,C,C,"```json
+{
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""C""
+}
+```",0
+53,zh,personal_beliefs_and_experiences,cultural_value,小萨和艾米决定一起去印度餐厅吃晚饭。艾米是美国人，从来没吃过印餐。他们来了这个餐厅因为小萨希望艾米尝试她的文化和食物。 餐品一上，小萨就开始用手吃饭，并且谈起这顿饭如何让她想起来妈妈做的饭菜。,小萨,A,D,A,A,"```json
+{
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""A""
+}
+```",0
+54,zh,personal_beliefs_and_experiences,cultural_value,在去日本的旅行过程中，小洁去了一家好评很多的寿司餐厅。她给自己点了很多菜，吃到很饱。她要了发票并且给了慷慨地一笔20美元的小费。但服务员看到小费后把它还给了小洁,小洁,F,F,B,B,"```json
+{
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""B""
+}
+```",1
+55,zh,personal_beliefs_and_experiences,cultural_value,在去日本的旅行过程中，小洁去了一家好评很多的寿司餐厅。她给自己点了很多菜，吃到很饱。她要了发票并且给了慷慨地一笔20美元的小费。但服务员看到小费后把它还给了小洁,服务员,E,D,A,A,"```json
+{
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""A""
+}
+```",0
+56,zh,personal_beliefs_and_experiences,cultural_value,小薇最近从中国来了德国当交换生。今天早上，阿飒，她的德国同班同学，邀请她去看一个电影，电影7点半开始。在欧洲，不像在中国，电影通常晚20到30分钟开始播放。小薇8点才到，不过阿飒什么也没说。,小薇,C,C,A,C,"```json
+{
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""C""
+}
+```",0
+57,zh,personal_beliefs_and_experiences,cultural_value,小薇最近从中国来了德国当交换生。今天早上，阿飒，她的德国同班同学，邀请她去看一个电影，电影7点半开始。在欧洲，不像在中国，电影通常晚20到30分钟开始播放。小薇8点才到，不过阿飒什么也没说。,阿飒,A,A,A,A,"```json
+{
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""A""
+}
+```",1
+58,zh,personal_beliefs_and_experiences,cultural_value,来自中国的高小峰和朋友们吃饭一般都不会走AA制，而是让其中一个人买单。有一天他带了一个美国的朋友参加饭局。饭后，美国的朋友自然而然地掏出了信用卡，准备AA。高小峰笑着拒绝了。,高小峰,B,D,A,A,"```json
+{
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""A""
+}
+```",0
+59,zh,personal_beliefs_and_experiences,cultural_value,来自中国的高小峰和朋友们吃饭一般都不会走AA制，而是让其中一个人买单。有一天他带了一个美国的朋友参加饭局。饭后，美国的朋友自然而然地掏出了信用卡，准备AA。高小峰笑着拒绝了。,亨利,F,F,A,B,"```json
+{
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""B""
+}
+```",0
+60,zh,personal_beliefs_and_experiences,cultural_value,比尔正在向他的中国朋友萧学习如何使用筷子。经过几次尝试，比尔终于成功地用筷子夹起了一把饭，吃完饭后，他将筷子直立放在饭碗里。萧立刻取出筷子，放在筷子架上。,比尔,F,F,A,A,"```json
+{
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""A""
+}
+```",1
+61,zh,personal_beliefs_and_experiences,cultural_value,比尔正在向他的中国朋友萧学习如何使用筷子。经过几次尝试，比尔终于成功地用筷子夹起了一把饭，吃完饭后，他将筷子直立放在饭碗里。萧立刻取出筷子，放在筷子架上。,萧,B,D,F,F,"```json
+{
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""F""
+}
+```",0
+62,zh,personal_beliefs_and_experiences,cultural_value,阿蕾与她的中国的导师李开了一个会议。在这次会议上，她直接指出了李报告中的缺陷，并告诉她的错误。,李,D,C,A,A,"```json
+{
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""A""
+}
+```",0
+63,zh,personal_beliefs_and_experiences,cultural_value,"菲是一名在美国学习的伊朗学生，她邀请了她的同学金尼斯来家里吃午饭。按照伊朗的传统，菲立刻给金尼斯提供了屋内穿的拖鞋，但金尼斯礼貌地拒绝了，说她更喜欢穿自己的鞋子。
+
+
+
+
+
+",菲,D,A,A,A,"```json
+{
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""A""
+}
+```",0
+64,zh,personal_beliefs_and_experiences,cultural_value,"菲是一名在美国学习的伊朗学生，她邀请了她的同学金尼斯来家里吃午饭。按照伊朗的传统，菲立刻给金尼斯提供了屋内穿的拖鞋，但金尼斯礼貌地拒绝了，说她更喜欢穿自己的鞋子。
+
+
+
+
+
+",金尼斯,A,F,D,D,"```json
+{
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""D""
+}
+```",0
+65,zh,personal_beliefs_and_experiences,cultural_value,在沙特阿拉伯的一次商务会议上，美国企业家马克主动与沙特商业女性阿雅握手。然而，阿雅只是点了点头，然后把手放在了心口上。,马克,D,D,A,A,"```json
+{
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""A""
+}
+```",1
+66,zh,personal_beliefs_and_experiences,cultural_value,在沙特阿拉伯的一次商务会议上，美国企业家马克主动与沙特商业女性阿雅握手。然而，阿雅只是点了点头，然后把手放在了心口上。,阿雅,E,E,A,A,"```json
+{
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""A""
+}
+```",1
+67,zh,personal_beliefs_and_experiences,cultural_value,来自美国的路西在访问中国期间，被她的新中国同事凌邀请去与朋友们共进晚餐。点餐时，凌为整张桌子点了菜，直接就还了菜单，没让路西看。食物上桌后，路西看着菜肴，然后说：“我可以吃这个”，选了一个菜吃。,路西,B,B,E,E,"```json
+{
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""E""
+}
+```",1
+68,zh,personal_beliefs_and_experiences,cultural_value,来自美国的路西在访问中国期间，被她的新中国同事凌邀请去与朋友们共进晚餐。点餐时，凌为整张桌子点了菜，直接就还了菜单，没让路西看。食物上桌后，路西看着菜肴，然后说：“我可以吃这个”，选了一个菜吃。,凌,B,A,C,C,"```json
+{
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""C""
+}
+```",0
+69,zh,personal_beliefs_and_experiences,cultural_value,因为更高的薪酬，林肯在斋月从美国搬到了迪拜。在他上班的第一天，他建议新同事阿里一起吃午饭来更好地了解彼此。然而，阿里直接回答了“不”，并且没有进一步解释。,林肯,D,B,A,A,"```json
+{
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""A""
+}
+```",0
+70,zh,personal_beliefs_and_experiences,cultural_value,因为更高的薪酬，林肯在斋月从美国搬到了迪拜。在他上班的第一天，他建议新同事阿里一起吃午饭来更好地了解彼此。然而，阿里直接回答了“不”，并且没有进一步解释。,阿里,B,D,C,C,"```json
+{
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""C""
+}
+```",0
+71,zh,personal_beliefs_and_experiences,cultural_value,在访问印度期间，索菲亚和她的同事莱拉建立了密切的关系，并被邀请参加她的生日派对。因为想要与众不同一点，她穿了她最喜欢的白色连衣裙。当莱拉看到索菲亚时，她告诉了她她的裙子表达的含义。,索菲亚,A,B,C,C,"```json
+{
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""C""
+}
+```",0
+72,zh,personal_beliefs_and_experiences,cultural_value,在访问印度期间，索菲亚和她的同事莱拉建立了密切的关系，并被邀请参加她的生日派对。因为想要与众不同一点，她穿了她最喜欢的白色连衣裙。当莱拉看到索菲亚时，她告诉了她她的裙子表达的含义。,莱拉,E,A,C,C,"```json
+{
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""C""
+}
+```",0
+73,zh,personal_beliefs_and_experiences,sentimental_value,小马的奶奶在去世前给了他一个家族祖传的戒指。她嘱咐他要继续向下一代传递下去。昨天，小马的朋友，小杰借了这枚戒指，将其纳入家族价值观和遗产介绍中。介绍之后，他找不到戒指了，不论如何也找不到。于是，他提出给小马买一个类似的还回来。,小杰,A,A,A,A,"```json
+{
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""A""
+}
+```",1
+74,zh,personal_beliefs_and_experiences,sentimental_value,小马的奶奶在去世前给了他一个家族祖传的戒指。她嘱咐他要继续向下一代传递下去。昨天，小马的朋友，小杰借了这枚戒指，将其纳入家族价值观和遗产介绍中。介绍之后，他找不到戒指了，不论如何也找不到。于是，他提出给小马买一个类似的还回来。,小马,E,E,B,B,"```json
+{
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""B""
+}
+```",1
+75,zh,personal_beliefs_and_experiences,sentimental_value,上周，我特别想要一件正式的衬衫去赴一个约。我问了小治能否借他的。他借给我他最爱的衬衫，一件他认为无可替代的，妈妈送给他的衬衫。约会期间，我弄了一些蛋糕在衬衫上而且洗不掉。我查了一下，结果我用几块钱就能买到同样的衬衫。所以，我决定就给他买一件新衬衫来替换。我打赌他不会介意的。,我,F,A,A,D,"```json
+{
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""D""
+}
+```",0
+76,zh,personal_beliefs_and_experiences,sentimental_value,上周，我特别想要一件正式的衬衫去赴一个约。我问了小治能否借他的。他借给我他最爱的衬衫，一件他认为无可替代的，妈妈送给他的衬衫。约会期间，我弄了一些蛋糕在衬衫上而且洗不掉。我查了一下，结果我用几块钱就能买到同样的衬衫。所以，我决定就给他买一件新衬衫来替换。我打赌他不会介意的。,小治,E,E,A,A,"```json
+{
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""A""
+}
+```",1
+77,zh,personal_beliefs_and_experiences,sentimental_value,昨天考试之前，我意识到我没带笔就来参加考试。我问了我的朋友小凯是否能借他的。他给了我一支笔，并且说考完了也可以继续拿着用，因为他有很多支笔。考试完回家后，我发现我把他的笔弄丢了。我到处寻找也找不到。今天我见到小凯，我问他他花了多少钱买的笔，所以我能赔付给他相应的钱。,我,B,C,A,A,"```json
+{
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""A""
+}
+```",0
+78,zh,personal_beliefs_and_experiences,sentimental_value,昨天考试之前，我意识到我没带笔就来参加考试。我问了我的朋友小凯是否能借他的。他给了我一支笔，并且说考完了也可以继续拿着用，因为他有很多支笔。考试完回家后，我发现我把他的笔弄丢了。我到处寻找也找不到。今天我见到小凯，我问他他花了多少钱买的笔，所以我能赔付给他相应的钱。,小凯,A,B,B,F,"```json
+{
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""F""
+}
+```",0
+79,zh,personal_beliefs_and_experiences,sentimental_value,汉娜是后街男孩的铁杆粉丝。她在房间里的墙上挂了一张签名海报，签名是在粉丝见面会上要到的。有一天，汉娜和她的姐姐一起在她的房间学习。意外地，她的姐姐划破了海报。她姐姐以为这就是一张寻常的海报，于是说给她买张新的。,汉娜,D,D,E,E,"```json
+{
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""E""
+}
+```",1
+80,zh,personal_beliefs_and_experiences,sentimental_value,汉娜是后街男孩的铁杆粉丝。她在房间里的墙上挂了一张签名海报，签名是在粉丝见面会上要到的。有一天，汉娜和她的姐姐一起在她的房间学习。意外地，她的姐姐划破了海报。她姐姐以为这就是一张寻常的海报，于是说给她买张新的。,汉娜的姐姐,F,E,A,A,"```json
+{
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""A""
+}
+```",0
+81,zh,personal_beliefs_and_experiences,sentimental_value,我来自一个贫困的家庭。接收到大学的录取通知后的某一天，我的家人一起来祝贺我，并且给了我一个包作为第一个礼物。9年以后，我的丈夫和我结婚后搬家。打包时，他发现了一个又脏又旧的包。那个包是我的父母为了祝贺我被梦校录取的礼物。他想把包扔了，并且说这个包没用了我不需要它。,我,F,B,D,D,"```json
+{
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""D""
+}
+```",0
+82,zh,personal_beliefs_and_experiences,sentimental_value,我来自一个贫困的家庭。接收到大学的录取通知后的某一天，我的家人一起来祝贺我，并且给了我一个包作为第一个礼物。9年以后，我的丈夫和我结婚后搬家。打包时，他发现了一个又脏又旧的包。那个包是我的父母为了祝贺我被梦校录取的礼物。他想把包扔了，并且说这个包没用了我不需要它。,我的丈夫,C,F,C,C,"```json
+{
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""C""
+}
+```",0
+83,zh,personal_beliefs_and_experiences,sentimental_value,经过50年的辛勤工作，詹先生退休了，他是他们以前高中的一位受人爱戴的历史老师。为了纪念这一时刻，他所有之前和现在的学生决定聚在一起举办一个惊喜派对。他们翻出了这些年来詹老师给他们的所有历史笔记，信件，甚至成绩单。他们用这些东西创作了一幅丰富多彩的壁画，讲述了他对他们生活的影响。,詹先生,E,B,A,A,"```json
+{
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""A""
+}
+```",0
+84,zh,personal_beliefs_and_experiences,sentimental_value,打扫完阁楼后，乔希无意中发现了一块在他小时候父亲戴过的旧手表。这个手表很普通，虽然有划痕和磨损，但乔希决定不扔掉它。,乔希,A,A,A,A,"```json
+{
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""A""
+}
+```",1
+85,zh,personal_beliefs_and_experiences,sentimental_value,尼克已经很久没有去过童年总去的那个公园了。因此他打算带上年幼的儿子菲尔一起去一次。路上他们路过了尼克经常与朋友们玩耍的那颗老树。他注意到儿子正瞪大眼睛看着树上刻的首字母。,尼克,A,A,A,A,"```json
+{
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""A""
+}
+```",1
+86,zh,personal_beliefs_and_experiences,sentimental_value,尼克已经很久没有去过童年总去的那个公园了。因此他打算带上年幼的儿子菲尔一起去一次。路上他们路过了尼克经常与朋友们玩耍的那颗老树。他注意到儿子正瞪大眼睛看着树上刻的首字母。,菲尔,D,F,A,A,"```json
+{
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""A""
+}
+```",0
+87,zh,personal_beliefs_and_experiences,sentimental_value,艾伦不小心把他儿子最喜欢的毛绒玩具落在公园里了。他没有去商场买一个新的，而是匆忙赶回去取，尽管那只是一个破旧的兔子玩具。,艾伦,C,C,A,A,"```json
+{
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""A""
+}
+```",1
+88,zh,personal_beliefs_and_experiences,sentimental_value,分手后，小娜不想让人想起她的前任。在打扫房间的时候，她在垃圾桶里发现了一封信的碎片，就问妈妈这是怎么回事。她妈妈告诉她这封信是她的前任写的，她决定把它撕了扔掉。,小娜,B,D,A,A,"```json
+{
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""A""
+}
+```",0
+89,zh,personal_beliefs_and_experiences,persona,露娜总是回避看见各种孔状物，因为他有密集恐惧症。有一天，露娜和她的家人去了一家餐厅吃午餐。他们下单后，服务员给她上了一杯带有吸管的饮料。,露娜,A,C,A,B,"```json
+{
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""B""
+}
+```",0
+90,zh,personal_beliefs_and_experiences,persona,自打我是个孩子的时候，我就非常害怕蜘蛛，讨厌去动物园里有这些小动物的区域。今天，我和我最好的朋友们吃了一顿很棒的晚餐，然后一起看了新的蜘蛛侠电影。,我,A,C,A,D,"```json
+{
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""D""
+}
+```",0
+91,zh,personal_beliefs_and_experiences,persona,自从小时候，我就有恐高症。今天工作时，电梯出了故障，我不得不爬楼梯去我的办公室。因为我最近没有太多时间进行锻炼，所以我把它看作是一次小小的锻炼。我的办公室在这栋高大建筑的最顶层。,我,A,D,A,B,"```json
+{
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""B""
+}
+```",0
+92,zh,personal_beliefs_and_experiences,persona,我很难与人打交道，十分厌恶社交。与他人交谈很容易让我倍感压力。今晚下班后，我独自一人看电影，度过了孤独的夜晚。,我,B,F,A,D,"```json
+{
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""D""
+}
+```",0
+93,zh,personal_beliefs_and_experiences,persona,上一次安德鲁去迪士尼乐园，在去最喜欢的游乐设施的路上，他跑上台阶，粗心大意地摔断了腿。今天，在他女朋友的多次央求下，他们又去了迪士尼乐园，并且去排队等上次那个游乐设施。,安德鲁,C,B,A,B,"```json
+{
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""B""
+}
+```",0
+94,zh,personal_beliefs_and_experiences,persona,林琳有一天晚上回家碰到一个企图骚扰她的变态，幸好她跑开了。她记不清那个坏蛋的全部长相，但记得他的眉心有一颗大痣。一周后，她在公司酒会上遇到一个眉心有一个大痣的男客户。,林琳,D,D,A,A,"```json
+{
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""A""
+}
+```",1
+95,zh,personal_beliefs_and_experiences,persona,泰德已经连续七年赢得扳手腕比赛冠军了。瑞奇是比赛新手，尽管他知道自己会输，但他还是决定尝试一下挑战泰德。瑞奇失败了。,泰德,C,E,A,A,"```json
+{
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""A""
+}
+```",0
+96,zh,personal_beliefs_and_experiences,persona,泰德已经连续七年赢得扳手腕比赛冠军了。瑞奇是比赛新手，尽管他知道自己会输，但他还是决定尝试一下挑战泰德。瑞奇失败了。,瑞奇,C,C,A,A,"```json
+{
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""A""
+}
+```",1
+97,zh,personal_beliefs_and_experiences,persona,安其拉有蜜蜂恐惧症，当蜜蜂飞来飞去的时候，她会非常紧张。今天，我送给她一瓶蜂蜜。,安其拉,E,B,A,D,"```json
+{
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""D""
+}
+```",0
+98,zh,personal_beliefs_and_experiences,persona,由于恐夜症，莫莉一直害怕黑暗。她避开所有没有光的地方和活动，以感到轻松。今天晚上，莫利和她的同学被分配了一个天文学项目，要求他们在下午观察撒哈拉沙漠的星星。,莫莉,D,B,A,C,"```json
+{
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""C""
+}
+```",0
+99,zh,personal_beliefs_and_experiences,persona,苏菲一直很内向，从不喜欢大型派对或聚会。她经常对噪音感到不知所措，更喜欢在家里安静地活动。今天，她最好的朋友说服她和她一起去上萨尔萨舞课。在那堂课上，每个人都被要求每五分钟换一次舞伴，以便与不同的人见面和跳舞。,苏菲,B,B,A,A,"```json
+{
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""A""
+}
+```",1
+100,zh,personal_beliefs_and_experiences,persona,亚当有幽闭恐惧症，在狭小或拥挤的空间里会感到非常不舒服。昨晚，他的朋友邀请他到他宽敞的花园家中吃烧烤晚餐。,亚当,C,C,B,B,"```json
+{
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""B""
+}
+```",1

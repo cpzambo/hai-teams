@@ -1,3 +1,4 @@
+import argparse
 import pandas as pd
 from openai import OpenAI
 import re
@@ -10,6 +11,12 @@ import time
 load_dotenv()
 api_key = os.getenv('OPENAI_API_KEY')
 client = OpenAI(api_key=api_key)
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--shard", type=int, default=0, help="0-indexed shard number")
+parser.add_argument("--total-shards", type=int, default=1, help="total number of shards")
+parser.add_argument("--save-every", type=int, default=50, help="save checkpoint every N examples")
+args = parser.parse_args()
 
 DATA_PATH = "./docvqa_output/docvqa_validation.json"
 # path to the repo root so image_path resolves correctly
@@ -27,7 +34,7 @@ def get_model_response(question: str, image_path: str) -> str | None:
         b64 = encode_image(image_path)
     except FileNotFoundError:
         print(f"Image not found: {image_path}")
-        return None
+        return "IMAGE_NOT_FOUND"
 
     prompt = (
         "You are reading a document image. Answer the question below using only "
@@ -37,7 +44,7 @@ def get_model_response(question: str, image_path: str) -> str | None:
         'End your response with: "Final Answer: <your answer here>"'
     )
 
-    for attempt in range(5):
+    for attempt in range(3):
         try:
             completion = client.chat.completions.create(
                 model="gpt-4o-mini",
@@ -58,11 +65,24 @@ def get_model_response(question: str, image_path: str) -> str | None:
                 ],
                 temperature=0,
                 max_tokens=256,
+                timeout=60,  # images take longer to process; 30s was too tight
             )
+            time.sleep(2.5)  # 5 shards × 1050 tokens / 2.5s ≈ 126k TPM, safely under 200k limit
             return completion.choices[0].message.content.strip()
         except Exception as e:
-            wait = 2 ** attempt
-            print(f"API error (attempt {attempt+1}/5, retrying in {wait}s): {e}")
+            err = str(e)
+            print(f"API error (attempt {attempt+1}/3): {e}")
+            if 'insufficient_quota' in err:
+                raise SystemExit("OpenAI quota exhausted — top up billing at platform.openai.com and retry.")
+            if 'requests per day' in err:
+                print("RPD limit exhausted — stopping to preserve quota for resume.")
+                return None  # Do not retry, directly go back
+            wait = 5
+            m = re.search(r'try again in ([\d.]+)(ms|s)', err)
+            if m:
+                wait = float(m.group(1)) / 1000 if m.group(2) == 'ms' else float(m.group(1))
+                wait = max(wait + 1, 1)
+            print(f"Retrying in {wait:.1f}s...")
             time.sleep(wait)
     return None
 
@@ -138,11 +158,37 @@ def score_response(model_output: str, gold_answers: list[str]) -> int:
 
 
 with open(DATA_PATH, "r") as f:
-    data = json.load(f)
+    full_data = json.load(f)
 
+# slice this shard's contiguous chunk
+total = len(full_data)
+shard_size = (total + args.total_shards - 1) // args.total_shards
+start = args.shard * shard_size
+end = min(start + shard_size, total)
+data = full_data[start:end]
+
+shard_tag = f"_shard{args.shard}of{args.total_shards}" if args.total_shards > 1 else ""
+out_csv = f"openai_docvqa_results{shard_tag}.csv"
+print(f"Shard {args.shard}/{args.total_shards}: processing indices {start}–{end-1} ({len(data)} examples)")
+
+# Resume: load already-finished questionIds from existing checkpoint
+done_ids = set()
 results = []
+if os.path.exists(out_csv):
+    existing = pd.read_csv(out_csv)
+    existing = existing[existing["model_response"].notna() & (existing["model_response"].astype(str).str.strip() != "")]
+    done_ids = set(str(x) for x in existing["questionId"].tolist())
+    results = existing.to_dict("records")
+    print(f"[shard {args.shard}] Resuming — {len(done_ids)} already done, {len(data) - len(done_ids)} remaining")
+
+def save_checkpoint(rows):
+    pd.DataFrame(rows).to_csv(out_csv, index=False)
+
 for i, example in enumerate(data):
     qid = example["questionId"]
+    if str(qid) in done_ids:
+        continue
+
     question = example["question"]
     gold_answers = example["answers"]
     image_path = example["image_path"]
@@ -165,19 +211,16 @@ for i, example in enumerate(data):
         "anls": anls,
     })
 
-    if (i + 1) % 100 == 0:
-        print(f"[{i+1}/{len(data)}] running accuracy: {sum(r['score'] for r in results) / len(results):.3f}")
+    completed = len(results)
+    if completed % args.save_every == 0:
+        save_checkpoint(results)
+        acc = sum(r["score"] for r in results) / completed
+        print(f"[shard {args.shard}] [{completed}/{len(data)}] acc={acc:.3f} — checkpoint saved")
 
+save_checkpoint(results)
 results_df = pd.DataFrame(results)
-results_df.to_csv("openai_docvqa_results.csv", index=False)
-
 overall_accuracy = results_df["score"].mean()
 overall_anls = results_df["anls"].mean()
-print(f"\nFinal accuracy: {overall_accuracy:.4f} ({results_df['score'].sum()}/{len(results_df)})")
-print(f"Final ANLS:     {overall_anls:.4f}")
-
-pd.DataFrame([{
-    "dataset": "docvqa_validation",
-    "accuracy": overall_accuracy,
-    "anls": overall_anls,
-}]).to_csv("openai_docvqa_overall.csv", index=False)
+print(f"\n[shard {args.shard}] Final accuracy: {overall_accuracy:.4f} ({results_df['score'].sum()}/{len(results_df)})")
+print(f"[shard {args.shard}] Final ANLS:     {overall_anls:.4f}")
+print(f"[shard {args.shard}] Saved → {out_csv}")

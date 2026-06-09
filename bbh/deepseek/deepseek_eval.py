@@ -1,14 +1,27 @@
 import pandas as pd
+<<<<<<< HEAD
+from together import Together
+=======
 from openai import OpenAI
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 import re
 from dotenv import load_dotenv
 import os
 import json
+<<<<<<< HEAD
+import time
+
+# load in the api key and set up the client
+load_dotenv()
+api_key = os.getenv('TOGETHER_API_KEY')
+client = Together(api_key=api_key)
+=======
 
 # load in the api key and set up the client
 load_dotenv()
 api_key = os.getenv('DEEPSEEK_API_KEY')
-client = OpenAI(api_key=api_key, base_url="https://api.deepseek.com")
+client = OpenAI(api_key=api_key, timeout=7200, base_url="https://api.deepseek.com")
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 
 # generate the model's response
 def get_model_response(question):
@@ -22,18 +35,26 @@ def get_model_response(question):
     """
 
     # create the response
-    try:
-        completion = client.chat.completions.create(
-            model="deepseek-reasoner", 
-            messages=[{"role": "user", "content": prompt}],
-            temperature=0,
-            stream=False
-        )
-        return completion.choices[0].message.content.strip()
-    except Exception as e:
-        print("Error:", e)
-        return None
-
+<<<<<<< HEAD
+    for attempt in range(5):
+        try:
+            completion = client.chat.completions.create(
+                model="google/gemma-4-31B-it", 
+                messages=[{"role": "user", "content": prompt}],
+                temperature=0,
+                max_tokens=12500,
+                stream=False
+            )
+            response = completion.choices[0].message.content.strip()
+            if response != "":
+                return response
+            time.sleep(5)
+        except Exception as e:
+            print("Error:", e)
+            return None
+    
+    return ""
+    
 # get the model's answer
 def extract_final_answer(model_output):
     match = re.search(r"Final Answer:\s*(.*)", model_output, re.IGNORECASE)
@@ -77,23 +98,37 @@ def score_response(model_response, gold_answer, question=""):
 
 # start with an empty list for the overall scores and the list of splits to evaluate
 overall_results = []
-splits = ["boolean_expressions",
-          "causal_judgement",
-          "date_understanding",
-          "dyck_languages",
-          "formal_fallacies",
-          "geometric_shapes",
-          "logical_deduction_five_objects",
-          "logical_deduction_seven_objects",
-          "logical_deduction_three_objects",
-          "multistep_arithmetic_two",
-          "navigate",
-          "object_counting",
-          "penguins_in_a_table",
-          "reasoning_about_colored_objects",
-          "temporal_sequences",
-          "tracking_shuffled_objects_five_objects",
+splits = ["tracking_shuffled_objects_seven_objects",
+=======
+    try:
+        completion = client.chat.completions.create(
+            model="deepseek-reasoner", 
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0,
+            stream=False
+        )
+        return completion.choices[0].message.content.strip()
+    except Exception as e:
+        print("Error:", e)
+        return None
+
+# get the model's answer
+def extract_final_answer(model_output):
+    match = re.search(r"Final Answer:\s*(.*)", model_output, re.IGNORECASE)
+    return match.group(1).strip() if match else model_output.strip()
+
+# check if the final answer matches the gold
+def score_response(model_response, gold_answer):
+    final_answer = extract_final_answer(model_response)
+    if final_answer is None:
+        return 0
+    return int(final_answer.lower().strip() == gold_answer.lower().strip())
+
+# start with an empty list for the overall scores and the list of splits to evaluate
+overall_results = []
+splits = ["logical_deduction_seven_objects",
           "tracking_shuffled_objects_seven_objects",
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
           "tracking_shuffled_objects_three_objects",
           "web_of_lies",
           "word_sorting"]
@@ -113,7 +148,14 @@ for split in splits:
             gold = example["target"]
             # generate and score the response
             model_resp = get_model_response(q)
+<<<<<<< HEAD
+
+            if model_resp == "":
+                print(f"Empty response on {split}!")
             score = score_response(model_resp, gold, q)
+=======
+            score = score_response(model_resp, gold)
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 
             # append to the results csv for this split
             results.append({
@@ -122,23 +164,43 @@ for split in splits:
                 "model_response": model_resp,
                 "score": score
             })
+<<<<<<< HEAD
+            time.sleep(1)
+=======
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
 
         results_df = pd.DataFrame(results)
 
         # save the results on this split
+<<<<<<< HEAD
+        results_df.to_csv(f"gemma_{split}.csv", index=False)
+        # append the average score on this split to the overall results
+        avg = results_df["score"].mean()
+        overall_results.append({"dataset": split, "average_score": round(avg, 3)})
+        print(f"{split}: {avg:.3f}")
+=======
         results_df.to_csv(f"deepseek_{split}.csv", index=False)
         # append the average score on this split to the overall results
         overall_results.append({
             "dataset": split,
-            "average_score": round(results_df["score"].mean(), 3)
+            "average_score": results_df["score"].mean()
         })
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
     except Exception as e:
         print("Error:", e)
         print("Happened on split:", split)
         # save the overall results
         overall_df = pd.DataFrame(overall_results)
+<<<<<<< HEAD
+        overall_df.to_csv("gemma_overall_results.csv", index=False)
+
+# save the overall results
+overall_df = pd.DataFrame(overall_results)
+overall_df.to_csv("gemma_overall_results.csv", index=False)
+=======
         overall_df.to_csv("deepseek_overall_results.csv", index=False)
 
 # save the overall results
 overall_df = pd.DataFrame(overall_results)
 overall_df.to_csv("deepseek_overall_results.csv", index=False)
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2

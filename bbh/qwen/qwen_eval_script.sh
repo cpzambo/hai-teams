@@ -15,4 +15,8 @@ eval "$(conda shell.bash hook)"
 
 conda activate /projects/p32983/pythonenvs/hai-teams
 
+<<<<<<< HEAD
 python qwen_eval.py
+=======
+python qwen_finish.py
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2

@@ -1,0 +1,241 @@
+qid,lang,coarse_category,finegrained_category,scenario,subject,emo_label,emo_answer,cause_label,cause_answer,model_response,score
+51,en,personal_beliefs_and_experiences,cultural_value,"To celebrate moving into his new house, Zhongli hosted a housewarming party and invited one of his best friends, Ollie. Around 6 p.m., Ollie arrived at Zhongli's house and entered without taking off his shoes. Seeing this, Zhongli told him to take off his shoes and offered a pair of slippers to use inside the house.",Ollie,A,A,B,B,"```json
+{
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""B""
+}
+```",1
+52,en,personal_beliefs_and_experiences,cultural_value,"Samira and Amy decided to get dinner together at an Indian restaurant. Amy is American and has never had Indian Food. They came to this restaurant because Samira wanted Amy to try her culture and food. Once the food arrived, Samira started eating with her hands and mentioned how it reminded her of her mom's cooking.",Amy,E,E,B,B,"{
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""B""
+}",1
+53,en,personal_beliefs_and_experiences,cultural_value,"Samira and Amy decided to get dinner together at an Indian restaurant. Amy is American and has never had Indian Food. They came to this restaurant because Samira wanted Amy to try her culture and food. Once the food arrived, Samira started eating with her hands and mentioned how it reminded her of her mom's cooking.",Samira,A,A,D,D,"```json
+{
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""D""
+}
+```",1
+54,en,personal_beliefs_and_experiences,cultural_value,"On her trip to Japan, Jessica visited a sushi place with many good reviews. She ordered many items on the menu for herself and enjoyed her dinner to the fullest. Then, she asked for the receipt and put in a generous twenty-dollar tip. After noticing the tip, the waitress took it and returned it to Jessica.",Jessica,B,B,F,F,"{
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""F""
+}",1
+55,en,personal_beliefs_and_experiences,cultural_value,"On her trip to Japan, Jessica visited a sushi place with many good reviews. She ordered many items on the menu for herself and enjoyed her dinner to the fullest. Then, she asked for the receipt and put in a generous twenty-dollar tip. After noticing the tip, the waitress took it and returned it to Jessica.",the waitress,E,D,C,C,"{
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""C""
+}",0
+56,en,personal_beliefs_and_experiences,cultural_value,"Weili recently came over to Germany from China for a student exchange program. Earlier today, Samantha, her German classmate, invited her to a movie that started at half past seven. In Europe, unlike China, movies usually start twenty to thirty minutes late. Weili showed up at the cinema at around eight but Samantha didn't mention anything about it.",Weili,C,A,A,B,"```json
+{
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""B""
+}
+```",0
+57,en,personal_beliefs_and_experiences,cultural_value,"Weili recently came over to Germany from China for a student exchange program. Earlier today, Samantha, her German classmate, invited her to a movie that started at half past seven. In Europe, unlike China, movies usually start twenty to thirty minutes late. Weili showed up at the cinema at around eight but Samantha didn't mention anything about it.",Samantha,A,A,C,C,"```json
+{
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""C""
+}
+```",1
+58,en,personal_beliefs_and_experiences,cultural_value,"Xiaofeng, who is from China, and his friends usually don't go Dutch when eating out and instead have one of them pay the bill. One day, he brought Henry, his American friend, to a dinner party. After the meal, Henry naturally took out his credit card and prepared to split the bill. Xiaofeng smiled and refused.",Xiaofeng,B,B,B,B,"{
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""B""
+}",1
+59,en,personal_beliefs_and_experiences,cultural_value,"Xiaofeng, who is from China, and his friends usually don't go Dutch when eating out and instead have one of them pay the bill. One day, he brought Henry, his American friend, to a dinner party. After the meal, Henry naturally took out his credit card and prepared to split the bill. Xiaofeng smiled and refused.",Henry,F,F,D,A,"```json
+{
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""A""
+}
+```",0
+60,en,personal_beliefs_and_experiences,cultural_value,"Bill was learning how to use chopsticks from his Chinese friend, Xiao. After several attempts, Bill finally successfully picked up a handful of rice with his chopstick and after eating the rice, he put the chopsticks upright inside the rice bowl. Xiao immediately took the chopsticks out and put them on the chopsticks rest.",Bill,F,D,B,C,"{
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""C""
+}",0
+61,en,personal_beliefs_and_experiences,cultural_value,"Bill was learning how to use chopsticks from his Chinese friend, Xiao. After several attempts, Bill finally successfully picked up a handful of rice with his chopstick and after eating the rice, he put the chopsticks upright inside the rice bowl. Xiao immediately took the chopsticks out and put them on the chopsticks rest.",Xiao,A,A,A,A,"```json
+{
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""A""
+}
+```",1
+62,en,personal_beliefs_and_experiences,cultural_value,"Alexandra had a meeting with Chinese supervisor, Li. In this meeting, she straightforwardly pointed out the flaws in Li's presentation and told her the mistakes she had made.",Li,D,C,B,B,"{
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""B""
+}",0
+63,en,personal_beliefs_and_experiences,cultural_value,"Fatemeh, an Iranian student studying in the US, invited her classmate Janice over for lunch. As per Iranian tradition, Fatemeh immediately offered Janice slippers to wear inside the house, which Janice politely declined, saying she prefers her own shoes.",Fatemeh,D,D,A,A,"```json
+{
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""A""
+}
+```",1
+64,en,personal_beliefs_and_experiences,cultural_value,"Fatemeh, an Iranian student studying in the US, invited her classmate Janice over for lunch. As per Iranian tradition, Fatemeh immediately offered Janice slippers to wear inside the house, which Janice politely declined, saying she prefers her own shoes.",Janice,E,E,C,C,"{
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""C""
+}",1
+65,en,personal_beliefs_and_experiences,cultural_value,"During a business meeting in Saudi Arabia, American entrepreneur Marcus initiated a handshake with Saudi businesswoman Ayah. However, Ayah simply nodded her head instead and placed her hand over her heart.",Marcus,D,D,A,A,"{
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""A""
+}",1
+66,en,personal_beliefs_and_experiences,cultural_value,"During a business meeting in Saudi Arabia, American entrepreneur Marcus initiated a handshake with Saudi businesswoman Ayah. However, Ayah simply nodded her head instead and placed her hand over her heart.",Ayah,E,E,B,B,"{
+""answer_q1"": ""E"",
+""answer_q2"": ""B""
+}",1
+67,en,personal_beliefs_and_experiences,cultural_value,"On her visit to China from the US, Lucia was invited by her new Chinese coworker, Ling, to a dinner gathering with friends. When it was time to order, Ling ordered for the whole table and gave back the menu before Lucia could have a look. When the food was served, Lucia looked at the dishes and said ""I can take this one,"" before choosing one of the dishes to eat.",Lucia,C,C,A,C,"{
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""C""
+}",0
+68,en,personal_beliefs_and_experiences,cultural_value,"On her visit to China from the US, Lucia was invited by her new Chinese coworker, Ling, to a dinner gathering with friends. When it was time to order, Ling ordered for the whole table and gave back the menu before Lucia could have a look. When the food was served, Lucia looked at the dishes and said ""I can take this one,"" before choosing one of the dishes to eat.",Ling,E,D,B,B,"{
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""B""
+}",0
+69,en,personal_beliefs_and_experiences,cultural_value,"Due to higher pay, Lincoln moved from the US to Dubai in Ramadan. On his first day at work, He suggested a team meeting over lunch with his new coworker, Ali, to know each other better. However, Ali responded with a direct ""No"" without any further explanation.",Lincoln,F,C,A,A,"```json
+{
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""A""
+}
+```",0
+70,en,personal_beliefs_and_experiences,cultural_value,"Due to higher pay, Lincoln moved from the US to Dubai in Ramadan. On his first day at work, He suggested a team meeting over lunch with his new coworker, Ali, to know each other better. However, Ali responded with a direct ""No"" without any further explanation.",Ali,B,B,C,C,"{
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""C""
+}",1
+71,en,personal_beliefs_and_experiences,cultural_value,"During her visit to India, Sophia became close to Laila, her Indian Coworker, and was invited to attend her birthday party. As she wanted to stand out, she wore her favorite white dress. When Laila saw Sophia, she told her what her dress indicated.",Sophia,A,A,C,C,"```json
+{
+""answer_q1"": ""A"",
+""answer_q2"": ""C""
+}
+```",1
+72,en,personal_beliefs_and_experiences,cultural_value,"During her visit to India, Sophia became close to Laila, her Indian Coworker, and was invited to attend her birthday party. As she wanted to stand out, she wore her favorite white dress. When Laila saw Sophia, she gently went up to her and told her what her dress indicated.",Laila,E,B,C,C,"{
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""C""
+}",0
+73,en,personal_beliefs_and_experiences,sentimental_value,"Before passing away, Max's grandmother gave him a ring that had been passed down generations in their family. She told him that he may pass it down to his children one day. Yesterday, Max's friend, Jason, borrowed the ring to include it in his family values and heritage presentation. After the presentation, he couldn't find the ring, no matter how hard he looked. So, he offered Max to buy him a similar ring in return.",Jason,A,A,C,C,"```json
+{
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""C""
+}
+```",1
+74,en,personal_beliefs_and_experiences,sentimental_value,"Before passing away, Max's grandmother gave him a ring that had been passed down generations in their family. She told him that he may pass it down to his children one day. Yesterday, Max's friend, Jason, borrowed the ring to include it in his family values and heritage presentation. After the presentation, he couldn't find the ring, no matter how hard he looked. So, he offered Max to buy him a similar ring in return.",Max,F,F,B,B,"{
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""B""
+}",1
+75,en,personal_beliefs_and_experiences,sentimental_value,"I was going on a date last week and desperately needed a formal shirt. I asked George if I could borrow his. He lent me his favorite shirt, which he thought was irreplaceable since it was given to him by his mother. During the date, I got some cake on the shirt and couldn't wash it off. I looked it up, and it turns out I could buy the same shirt for a couple of bucks. So, I decided just to buy him a new shirt to replace it. I bet he won't mind.",I,F,F,C,C,"```json
+{
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""C""
+}
+```",1
+76,en,personal_beliefs_and_experiences,sentimental_value,"I was going on a date last week and desperately needed a formal shirt. I asked George if I could borrow his. He lent me his favorite shirt, which he thought was irreplaceable since it was given to him by his mother. During the date, I got some cake on the shirt and couldn't wash it off. I looked it up, and it turns out I could buy the same shirt for a couple of bucks. So, I decided just to buy him a new shirt to replace it. I bet he won't mind.",George,C,C,D,D,"{
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""D""
+}",1
+77,en,personal_beliefs_and_experiences,sentimental_value,"Yesterday, right before my exam, I realized I didn't bring any pens to take the exam. I asked my friend Kevin if I could borrow one of his. He gave me a pen and told me I could keep it after the exam since he had many. When I returned home after the exam, I realized I had lost Kevin's pen. I looked everywhere, but couldn't find it. When I met Kevin today, I asked him how much he paid for it so I could give him the money.",I,B,C,A,A,"```json
+{
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""A""
+}
+```",0
+78,en,personal_beliefs_and_experiences,sentimental_value,"Yesterday, right before my exam, I realized I didn't bring any pens to take the exam. I asked my friend Kevin if I could borrow one of his. He gave me a pen and told me I could keep it after the exam since he had many. When I returned home after the exam, I realized I had lost Kevin's pen. I looked everywhere, but couldn't find it. When I met Kevin today, I asked him how much he paid for it so I could give him the money.",Kevin,F,F,E,E,"{
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""E""
+}",1
+79,en,personal_beliefs_and_experiences,sentimental_value,"Hannah is a massive fan of the Backstreet Boys. She had a poster hanging on her room's wall and had it signed when she went to the fan meeting with them. One day, Hannah and her sister were studying together in her room. Accidentally, her sister ripped the poster. Thinking it was just a poster, her sister offered to buy a new one.",Hannah,E,E,E,E,"```json
+{
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""E""
+}
+```",1
+80,en,personal_beliefs_and_experiences,sentimental_value,"Hannah is a massive fan of the Backstreet Boys. She had a poster hanging on her room's wall and had it signed when she went to the fan meeting with them. One day, Hannah and her sister were studying together in her room. Accidentally, her sister ripped the poster. Thinking it was just a poster, her sister offered to buy a new one.",Hannah's sister,F,D,B,B,"{
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""B""
+}",0
+81,en,personal_beliefs_and_experiences,sentimental_value,"I come from a poor family. One day, after being accepted to the university, my family congratulated me and gifted me with a bag for the first time. 9 years later, my husband and I moved houses after getting married. While unpacking, he found a bag that was torn and dirty. My parents gave me that bag as a gift for getting accepted into my dream university. He wanted to throw it away and said I wouldn't need it since it's useless.",I,E,E,E,E,"{
+    ""answer_q1"": ""E"",
+    ""answer_q2"": ""E""
+}",1
+82,en,personal_beliefs_and_experiences,sentimental_value,"I come from a poor family. One day, after being accepted to the university, my family congratulated me and gifted me with a bag for the first time. 9 years later, my husband and I moved houses after getting married. While unpacking, he found a bag that was torn and dirty. My parents gave me that bag as a gift for getting accepted into my dream university. He wanted to throw it away and said I wouldn't need it since it's useless. How would I feel?",my husband,A,A,B,B,"{
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""B""
+}",1
+83,en,personal_beliefs_and_experiences,sentimental_value,"After 50 years of hard work, Mr. Jenkins, a beloved history teacher at their old high school, is retiring. To commemorate the occasion, all his past and present students decided to gather for a surprise party. They dug out all their history notes, letters, and even grades that Mr. Jenkins had given them over the years. They used these to create a colourful and informative mural, telling the story of his impact on their lives.",Mr Jenkins,F,F,D,D,"{
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""D""
+}",1
+84,en,personal_beliefs_and_experiences,sentimental_value,"After cleaning his attic, Josh stumbled upon an old wristwatch that his father used to wear when Josh was only a child. The watch was an ordinary device, and while it was scratched and worn, Josh decided not to throw it away.",Josh,A,A,A,A,"{
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""A""
+}",1
+85,en,personal_beliefs_and_experiences,sentimental_value,"It's been a long time since Nick visited the park where he spent his childhood days. So, he planned a visit and took his young son, Phil. On the way, they crossed the old tree where Nick used to play with his friends. He noticed that his son was looking at the engraved initials on the tree with his eyes wide open.",Nick,A,A,A,A,"{
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""A""
+}",1
+86,en,personal_beliefs_and_experiences,sentimental_value,"It's been a long time since Nick visited the park where he spent his childhood days. So, he planned a visit and took his young son, Phil. On the way, they crossed the old tree where Nick used to play with his friends. He noticed that his son was looking at the engraved initials on the tree with his eyes wide open.",Phil,D,F,B,B,"```json
+{
+""answer_q1"": ""F"",
+""answer_q2"": ""B""
+}
+```",0
+87,en,personal_beliefs_and_experiences,sentimental_value,"Alan accidentally left behind his son's favorite soft toy at a park. Instead of going to the mall to buy a new one, he hurried back to retrieve it, even though it was just a worn-out bunny toy.",Alan,C,C,B,B,"```json
+{
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""B""
+}
+```",1
+88,en,personal_beliefs_and_experiences,sentimental_value,"After her breakup, Helena did not want to be reminded of her ex. While cleaning up her room, she found pieces of a letter in the trash and asked her mom about it. Her mom told her that the letter was from her ex, and she decided to tear it and throw it out.",Helena,B,B,C,C,"```json
+{
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""C""
+}
+```",1
+89,en,personal_beliefs_and_experiences,persona,"Luna has always avoided seeing any hole patterns due to her trypophobia. She usually succeeds in avoiding patterns clustered with holes in them. One day, Luna and her family went to a restaurant for lunch. Once they placed the orders, the waitress served her drink with a straw in it.",Luna,A,A,C,C,"```json
+{
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""C""
+}
+```",1
+90,en,personal_beliefs_and_experiences,persona,"Ever since I was a child, I was so afraid of spiders and hated going to the zoo sections that included these little creatures. Today, I had a nice dinner with my best friends and watched the new Spiderman Movie.",I,A,A,B,B,"{
+    ""answer_q1"": ""A"",
+    ""answer_q2"": ""B""
+}",1
+91,en,personal_beliefs_and_experiences,persona,"I have had acrophobia since I was a young child. Today, at work, the elevator was out of order, and I had to take the stairs to reach my office. I considered it a small exercise since I haven't had much time to work out recently. My office is on the last floor of this tall building.",I,A,B,C,A,"{
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""A""
+}",0
+92,en,personal_beliefs_and_experiences,persona,"I have a hard time dealing with people and am very antisocial. I can easily get overwhelmed by talking to others. Tonight, after work, I spent a lonely night all by myself watching movies.",I,B,F,C,D,"{
+    ""answer_q1"": ""F"",
+    ""answer_q2"": ""D""
+}",0
+93,en,personal_beliefs_and_experiences,persona,"The last time Andrew went to Disneyland, he fractured his leg on the way to his favorite ride he was running up the steps carelessly. Today, after several requests from his girlfriend, they went to Disneyland and were waiting for the same ride.",Andrew,C,B,B,A,"{
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""A""
+}",0
+94,en,personal_beliefs_and_experiences,persona,"As Lin Lin was going back home one night, she came across a pervert who tried to harass her. Fortunately, she ran away just in time. She couldn't remember much about the guy's face, but she remembered that he had a big mole between his eyebrows. A week later, she met a male client with a large mole between his eyebrows at a company reception.",Lin Lin,D,D,C,C,"```json
+{
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""C""
+}
+```",1
+95,en,personal_beliefs_and_experiences,persona,"Ted has won the arm wrestling championship for seven years in a row. Ricky, who is new to the game, decides to give it a shot for fun and challenge Ted despite knowing that he will lose. Ricky lost.",Ted,C,C,D,D,"{
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""D""
+}",1
+96,en,personal_beliefs_and_experiences,persona,"Ted has won the arm wrestling championship for seven years in a row. Ricky, who is new to the game, decides to give it a shot for fun and challenge Ted despite knowing that he will lose. Ricky lost.",Ricky,C,C,C,C,"```json
+{
+    ""answer_q1"": ""C"",
+    ""answer_q2"": ""C""
+}
+```",1
+97,en,personal_beliefs_and_experiences,persona,"Angela has a phobia of bees, and she gets very nervous when there are bees flying around. Today, I gifted her a bottle of honey.",Angela,E,B,C,A,"{
+  ""answer_q1"": ""B"",
+  ""answer_q2"": ""A""
+}",0
+98,en,personal_beliefs_and_experiences,persona,"Molly has always been afraid of darkness due to her Nyctophobia. She effortlessly avoids all unlit places and activities to feel at ease. This evening, Molly and her classmates were assigned an astronomy project that required them to observe stars in the Sahara in the afternoon.",Molly,D,D,D,D,"```json
+{
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""D""
+}
+```",1
+99,en,personal_beliefs_and_experiences,persona,"Sophie has always been introverted and never enjoyed large parties or gatherings. She often feels overwhelmed by the noise and prefers quiet activities at home. Today, her best friend persuaded her to go to a salsa dance class with her. At that class, everyone was required to switch partners every five minutes in order to meet and dance with different people.",Sophie,B,B,B,B,"{
+    ""answer_q1"": ""B"",
+    ""answer_q2"": ""B""
+}",1
+100,en,personal_beliefs_and_experiences,persona,"Adam has claustrophobia and gets extremely uncomfortable in small or crowded spaces. Last night, his friend invited him to his spacious garden home for a barbeque dinner.",Adam,D,D,B,B,"{
+    ""answer_q1"": ""D"",
+    ""answer_q2"": ""B""
+}",1

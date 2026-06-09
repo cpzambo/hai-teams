@@ -29,15 +29,28 @@ def get_model_response(question):
                 model="Qwen/Qwen3.5-9B", 
                 messages=[{"role": "user", "content": prompt}],
                 temperature=0,
+<<<<<<< HEAD
                 max_tokens=12000,
+=======
+                max_tokens=12500,
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
                 stream=False
             )
             response = completion.choices[0].message.content.strip()
             if response != "":
                 return response
+<<<<<<< HEAD
         except Exception as e:
             print("Error:", e)
             return None
+=======
+            time.sleep(5)
+        except Exception as e:
+            print("Error:", e)
+            return None
+
+        return ""
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
     
 # get the model's answer
 def extract_final_answer(model_output):
@@ -88,6 +101,7 @@ def update_row(question, gold_answer, response, score, split):
         new_score = score_response(new_response, gold_answer, question)
         return new_response, new_score
     
+<<<<<<< HEAD
     return response, int(score)
 
 splits = ["boolean_expressions"
@@ -108,6 +122,12 @@ splits = ["boolean_expressions"
           "tracking_shuffled_objects_five_objects",
           "tracking_shuffled_objects_seven_objects",
           "tracking_shuffled_objects_three_objects",
+=======
+    time.sleep(1)
+    return response, int(score)
+
+splits = ["reasoning_about_colored_objects",
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
           "web_of_lies",
           "word_sorting"]
 
@@ -132,4 +152,8 @@ for split in splits:
 
 overall_df = pd.DataFrame(overall_results)
 overall_df.to_csv("qwen_overall_results.csv", index=False)
+<<<<<<< HEAD
 print("\nDone. qwen_overall_results.csv updated.")
+=======
+print("\nDone. qwen_overall_results.csv updated.")
+>>>>>>> 55766b89d64fb854b25cf0d756d095992b6e03b2
