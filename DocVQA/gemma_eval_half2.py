@@ -67,6 +67,8 @@ def get_model_response(question: str, image_path: str) -> str | None:
             print("API error:", e)
             return ""
         time.sleep(3)
+    
+    return ""
 
 
 def extract_final_answer(model_output: str) -> str:
